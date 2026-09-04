@@ -2,6 +2,14 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.3.0] · 2026-09-04
+
+### Dodato
+- Meta podaci za deljenje na društvenim mrežama: naslov, opis sa podacima o autorki i jelovniku, Open Graph i Twitter kartica
+- Slika za deljenje 1200×630 sa nagnutim karticama recepata (`assets/og-card.png`)
+- Favicon sa zelenim listom, providna pozadina, znak popunjava celu površinu (`assets/favicon.svg`, PNG od 32 px, Apple touch ikonica od 180 px)
+- Kanonski link i ime autorke u meta podacima
+
 ## [1.2.1] · 2026-09-04
 
 ### Promenjeno
