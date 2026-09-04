@@ -2,6 +2,11 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.7.1] · 2026-09-04
+
+### Uklonjeno
+- Natpisi „Prethodno" i „Sledeće" sa oznakom tastera na bočnim karticama; ostaje strelica u krugu na vrhu kartice
+
 ## [1.7.0] · 2026-09-04
 
 ### Dodato
