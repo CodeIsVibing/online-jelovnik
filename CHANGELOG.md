@@ -2,6 +2,16 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.6.0] · 2026-09-04
+
+### Dodato
+- Listanje kroz jela iz otvorenog popup-a, strelicama na dnu i tasterima levo i desno
+- Traka pokazuje naziv prethodnog i sledećeg jela i redni broj u nizu
+- Kad listanje pređe granicu strane, lista iza popup-a prelazi na tu stranu
+
+### Popravljeno
+- Popup više ne dobija plavi obrub kad primi fokus
+
 ## [1.5.0] · 2026-09-04
 
 ### Dodato

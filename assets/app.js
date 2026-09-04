@@ -46,6 +46,7 @@
   const PAGE_MIN  = 27;   // do ovog broja se sve prikazuje odjednom
 
   let RECIPES = [], INGREDIENTS = [], CATEGORIES = [];
+  let currentId = null;
   let ingById = new Map(), catById = new Map(), basicIds = new Set();
 
   /* ---------------- pomoćne ---------------- */
@@ -371,7 +372,50 @@
     return html ? html + "</ul>" : "";
   }
 
-  function openRecipe(id, push = true) {
+  // isti redosled koji se vidi u listi, pa listanje kroz popup prati ekran
+  function sequence() {
+    const list = filtered();
+    if (!state.pantry.size) return list.map(r => r.id);
+    const { ok, m1, m2, more, tips } = bucketize(list);
+    return [...ok, ...m1, ...m2, ...more, ...tips].map(e => e.r.id);
+  }
+
+  function renderSheetNav(id) {
+    const nav = $("#sheet-nav");
+    const seq = sequence();
+    const i = seq.indexOf(id);
+
+    // jelo otvoreno kroz „Vidi i" može da bude van trenutnog filtera
+    if (i < 0 || seq.length < 2) { nav.hidden = true; return; }
+
+    const title = x => RECIPES.find(r => r.id === x)?.title || "";
+    const prev = i > 0 ? seq[i - 1] : null;
+    const next = i < seq.length - 1 ? seq[i + 1] : null;
+
+    nav.hidden = false;
+    $("#nav-prev").textContent = prev ? title(prev) : "";
+    $("#nav-next").textContent = next ? title(next) : "";
+    $("#nav-pos").textContent = `${i + 1} od ${seq.length}`;
+    nav.querySelector('[data-step="-1"]').disabled = !prev;
+    nav.querySelector('[data-step="1"]').disabled = !next;
+  }
+
+  function stepRecipe(dir) {
+    if ($("#sheet").hidden) return;
+    const seq = sequence();
+    const i = seq.indexOf(currentId);
+    const j = i + dir;
+    if (i < 0 || j < 0 || j >= seq.length) return;
+
+    // lista iza popup-a prelazi na stranu na kojoj novo jelo stoji
+    if (seq.length > PAGE_MIN) {
+      const page = Math.floor(j / PAGE_SIZE) + 1;
+      if (page !== state.page) { state.page = page; renderResults(); }
+    }
+    openRecipe(seq[j], false, true);
+  }
+
+  function openRecipe(id, push = true, replace = false) {
     const r = RECIPES.find(x => x.id === id);
     if (!r) return;
     const cat = catById.get(r.category);
@@ -405,13 +449,24 @@
     document.body.style.overflow = "hidden";
     $(".sheet-scroll").scrollTop = 0;
     $(".sheet-panel").focus();
-    if (push) history.pushState({ recipe: id }, "", "#" + encodeURIComponent(id));
+
+    currentId = id;
+    renderSheetNav(id);
+
+    if (replace) {
+      // listanje menja adresu na mestu, da zatvaranje ostane jedan korak unazad
+      const st = history.state?.recipe ? { recipe: id } : history.state;
+      history.replaceState(st, "", "#" + encodeURIComponent(id));
+    } else if (push) {
+      history.pushState({ recipe: id }, "", "#" + encodeURIComponent(id));
+    }
   }
 
   function closeSheet(pop = true) {
     const sheet = $("#sheet");
     if (sheet.hidden) return;
     sheet.hidden = true;
+    currentId = null;
     document.body.style.overflow = "";
     if (pop && history.state?.recipe) history.back();
   }
@@ -497,12 +552,18 @@
 
     $("#sheet").addEventListener("click", e => {
       if (e.target.closest("[data-close]")) { closeSheet(); return; }
+      const step = e.target.closest("[data-step]");
+      if (step) { stepRecipe(Number(step.dataset.step)); return; }
       const b = e.target.closest("[data-id]");
       if (b) openRecipe(b.dataset.id);
     });
 
     document.addEventListener("keydown", e => {
-      if (e.key === "Escape") closeSheet();
+      if (e.key === "Escape") { closeSheet(); return; }
+      if ($("#sheet").hidden) return;
+      if (/^(INPUT|TEXTAREA|SELECT)$/.test(e.target.tagName)) return;
+      if (e.key === "ArrowLeft")  { e.preventDefault(); stepRecipe(-1); }
+      if (e.key === "ArrowRight") { e.preventDefault(); stepRecipe(1); }
     });
 
     window.addEventListener("popstate", () => {

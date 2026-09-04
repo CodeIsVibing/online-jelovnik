@@ -184,7 +184,20 @@
     <button class="sheet-close" type="button" data-close aria-label="Zatvori">
       <svg aria-hidden="true"><use href="#ic-close"/></svg>
     </button>
-    <div class="sheet-scroll" id="sheet-body"></div>
+    <div class="sheet-main">
+      <div class="sheet-scroll" id="sheet-body"></div>
+    </div>
+    <nav class="sheet-nav" id="sheet-nav" aria-label="Kretanje kroz jela" hidden>
+      <button class="sheet-nav-btn" type="button" data-step="-1" aria-label="Prethodno jelo">
+        <svg aria-hidden="true"><use href="#ic-chev"/></svg>
+        <span class="sheet-nav-txt"><small>Prethodno</small><b id="nav-prev"></b></span>
+      </button>
+      <span class="sheet-nav-pos" id="nav-pos" aria-live="polite"></span>
+      <button class="sheet-nav-btn is-next" type="button" data-step="1" aria-label="Sledeće jelo">
+        <span class="sheet-nav-txt"><small>Sledeće</small><b id="nav-next"></b></span>
+        <svg aria-hidden="true"><use href="#ic-chev"/></svg>
+      </button>
+    </nav>
   </article>
 </div>
 
@@ -194,7 +207,7 @@
     <p><a href="https://www.instagram.com/cancer.influencer/" target="_blank" rel="noopener noreferrer">Nastasja Nedimović</a></p>
     <p class="foot-sm">Iz kuvara „Imunomania". Sadržaj pripada autorki.</p>
   </div>
-  <p class="foot-note">Pregled servisa, verzija 1.5.0.</p>
+  <p class="foot-note">Pregled servisa, verzija 1.6.0.</p>
 </footer>
 
 <script src="assets/app.js"></script>
