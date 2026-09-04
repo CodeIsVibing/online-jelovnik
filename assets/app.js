@@ -385,19 +385,36 @@
     const seq = sequence();
     const i = seq.indexOf(id);
 
-    // jelo otvoreno kroz „Vidi i" može da bude van trenutnog filtera
-    if (i < 0 || seq.length < 2) { nav.hidden = true; return; }
+    const sides = [$(".sheet-side-prev"), $(".sheet-side-next")];
 
-    const title = x => RECIPES.find(r => r.id === x)?.title || "";
+    // jelo otvoreno kroz „Vidi i" može da bude van trenutnog filtera
+    if (i < 0 || seq.length < 2) {
+      nav.hidden = true;
+      sides.forEach(el => { el.hidden = true; });
+      return;
+    }
+
     const prev = i > 0 ? seq[i - 1] : null;
     const next = i < seq.length - 1 ? seq[i + 1] : null;
 
     nav.hidden = false;
-    $("#nav-prev").textContent = prev ? title(prev) : "";
-    $("#nav-next").textContent = next ? title(next) : "";
     $("#nav-pos").textContent = `${i + 1} od ${seq.length}`;
-    nav.querySelector('[data-step="-1"]').disabled = !prev;
-    nav.querySelector('[data-step="1"]').disabled = !next;
+
+    // ista dva suseda pune i traku na dnu i kartice sa strane
+    [["prev", prev], ["next", next]].forEach(([key, sid]) => {
+      const r = sid ? RECIPES.find(x => x.id === sid) : null;
+      const cat = r ? catById.get(r.category) : null;
+      const side = $(`.sheet-side-${key}`);
+
+      $(`#nav-${key}`).textContent = r ? r.title : "";
+      nav.querySelector(`[data-step="${key === "prev" ? -1 : 1}"]`).disabled = !r;
+
+      side.hidden = !r;
+      if (!r) return;
+      $(`#side-${key}`).textContent = r.title;
+      $(`#side-${key}-cat`).textContent = cat.title;
+      side.style.setProperty("--c", cat.color);
+    });
   }
 
   function stepRecipe(dir) {

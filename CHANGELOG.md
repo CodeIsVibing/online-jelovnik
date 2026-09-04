@@ -2,6 +2,15 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.7.0] · 2026-09-04
+
+### Dodato
+- Na ekranima od 1240 px naviše, sa obe strane popup-a stoji kartica suseda: poglavlje, naziv jela i oznaka tastera
+- Kartica se pomera ka popup-u pri prelazu mišem, u boji svog poglavlja
+
+### Promenjeno
+- Na tim ekranima traka na dnu popup-a zadržava samo redni broj, jer nazive preuzimaju bočne kartice
+
 ## [1.6.0] · 2026-09-04
 
 ### Dodato
