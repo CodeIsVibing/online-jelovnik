@@ -2,7 +2,14 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
-## [1.2.0] — 2026-09-04
+## [1.2.1] · 2026-09-04
+
+### Promenjeno
+- Legenda ikonica je prepakovana u pločice: ikonica, naziv i objašnjenje ispod njega, bez znaka „—"
+- Ulaz kartica traje jednu sekundu, sa razmakom od 55 ms između susednih kartica
+- Iz naslova stranice i zaglavlja fajlova uklonjen znak „—"
+
+## [1.2.0] · 2026-09-04
 
 ### Dodato
 - Legenda iznad filtera objašnjava šta znači svaka ikonica na karticama jela
@@ -15,7 +22,7 @@ Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [Sem
 - Sekcija „Jelovnik napravio" iz podnožja
 - Vidljiva traka za skrolovanje u popup-u recepta, skrolovanje i dalje radi
 
-## [1.1.0] — 2026-09-04
+## [1.1.0] · 2026-09-04
 
 Doterivanje mobilne verzije i jasnoće interfejsa.
 
@@ -33,7 +40,7 @@ Doterivanje mobilne verzije i jasnoće interfejsa.
 - Atribut `hidden` više ne gubi bitku sa `display` pravilima, pa se dugme za brisanje pretrage skriva kad je polje prazno
 - Skriveni checkbox u listi sastojaka ukotvljen je u svoju oznaku
 
-## [1.0.0] — 2026-09-04
+## [1.0.0] · 2026-09-04
 
 Prva verzija. Kompletan sadržaj kuvara „Imunomania" prebačen u pretraživ onlajn jelovnik.
 
@@ -48,7 +55,7 @@ Prva verzija. Kompletan sadržaj kuvara „Imunomania" prebačen u pretraživ on
 ### Sajt
 - Pretraga po naslovu, sastojcima, postupku i savetima, radi i bez dijakritike („sampinjoni" nalazi „šampinjoni")
 - Pregled po kategorijama i filter po oznakama
-- „Šta imam kod kuće": čekiranje sastojaka rangira jela u grupe — može odmah, fali jedan sastojak, fali dva, fali više
+- „Šta imam kod kuće": čekiranje sastojaka rangira jela u grupe: može odmah, fali jedan sastojak, fali dva, fali više
 - Izbor sastojaka se pamti u browseru
 - Rangirana lista najkorišćenijih sastojaka, klik otvara sva jela sa tim sastojkom
 - Detalj recepta sa deep linkom, unakrsne veze između povezanih recepata

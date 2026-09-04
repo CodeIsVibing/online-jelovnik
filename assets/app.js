@@ -1,4 +1,4 @@
-/* Imunomania — onlajn jelovnik */
+/* Imunomania · onlajn jelovnik */
 (() => {
   "use strict";
 
