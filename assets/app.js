@@ -134,13 +134,14 @@
       .join("");
   }
 
-  function card(entry) {
+  // i dolazi iz Array.map i pravi stepenasti ulaz kartica; kapiran da duga lista ne čeka
+  function card(entry, i = 0) {
     const r = entry.r ?? entry;
     const cat = catById.get(r.category);
     const t = timeLabel(r);
     const miss = entry.miss || [];
     return `
-      <button class="card" data-id="${esc(r.id)}" style="--c:${esc(cat.color)}" type="button">
+      <button class="card" data-id="${esc(r.id)}" style="--c:${esc(cat.color)};--i:${Math.min(i, 14)}" type="button">
         <span class="cat">${esc(cat.title)}</span>
         <h3>${esc(r.title)}</h3>
         <span class="meta">
@@ -340,7 +341,7 @@
     const sheet = $("#sheet");
     sheet.hidden = false;
     document.body.style.overflow = "hidden";
-    $(".sheet-panel").scrollTop = 0;
+    $(".sheet-scroll").scrollTop = 0;
     $(".sheet-panel").focus();
     if (push) history.pushState({ recipe: id }, "", "#" + encodeURIComponent(id));
   }

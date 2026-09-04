@@ -2,6 +2,24 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.1.0] — 2026-09-04
+
+Doterivanje mobilne verzije i jasnoće interfejsa.
+
+### Dodato
+- Podnožje sa podacima o autorki recepata i o tome ko je napravio jelovnik
+- Kartice ulaze stepenasto pri svakoj promeni pretrage ili filtera
+- Fade na dnu popup-a nagoveštava da tekst ide dalje
+
+### Promenjeno
+- Popup recepta na telefonu više ne lepi za ivice, ima razmak od 12 px sa svih strana i poštuje safe area
+- Dugme za zatvaranje popup-a ostaje na mestu dok se sadržaj skroluje, i veće je za prst
+- „Šta imam kod kuće" sada ima zeleno dugme Otvori/Zatvori sa strelicom, obojen okvir i hover, pa se vidi da je panel klikabilan
+
+### Popravljeno
+- Atribut `hidden` više ne gubi bitku sa `display` pravilima, pa se dugme za brisanje pretrage skriva kad je polje prazno
+- Skriveni checkbox u listi sastojaka ukotvljen je u svoju oznaku
+
 ## [1.0.0] — 2026-09-04
 
 Prva verzija. Kompletan sadržaj kuvara „Imunomania" prebačen u pretraživ onlajn jelovnik.

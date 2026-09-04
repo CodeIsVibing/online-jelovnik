@@ -44,6 +44,9 @@
   <symbol id="ic-close" viewBox="0 0 24 24">
     <path d="M5 5l14 14M19 5 5 19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
   </symbol>
+  <symbol id="ic-chev" viewBox="0 0 24 24">
+    <path d="m6 9.5 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
   <symbol id="ic-basket" viewBox="0 0 24 24">
     <path d="M3.5 8.5h17l-1.8 10.2a2 2 0 0 1-2 1.6H7.3a2 2 0 0 1-2-1.6z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>
     <path d="M8.4 8.5 11 3.4M15.6 8.5 13 3.4M9.4 12.4v4M14.6 12.4v4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
@@ -87,6 +90,10 @@
       <span class="pantry-title">Šta imam kod kuće</span>
       <span class="pantry-count" id="pantry-count" hidden></span>
       <span class="pantry-hint">Čekiraj sastojke i jela se sama poređaju</span>
+      <span class="pantry-cta">
+        <span class="on-closed">Otvori</span><span class="on-open">Zatvori</span>
+        <svg class="pantry-chev" aria-hidden="true"><use href="#ic-chev"/></svg>
+      </span>
     </summary>
     <div class="pantry-body">
       <p class="pantry-note">So, biber, voda, ulje i led se podrazumevaju, pa ih ne treba čekirati.</p>
@@ -118,16 +125,27 @@
 <div class="sheet" id="sheet" hidden>
   <div class="sheet-backdrop" data-close></div>
   <article class="sheet-panel" role="dialog" aria-modal="true" aria-labelledby="sheet-title" tabindex="-1">
-    <button class="sheet-close icon-btn" type="button" data-close aria-label="Zatvori">
+    <button class="sheet-close" type="button" data-close aria-label="Zatvori">
       <svg aria-hidden="true"><use href="#ic-close"/></svg>
     </button>
-    <div id="sheet-body"></div>
+    <div class="sheet-scroll" id="sheet-body"></div>
   </article>
 </div>
 
 <footer class="foot">
-  <p>Recepti: <strong>Nastasja Nedimović</strong>, iz kuvara „Imunomania".</p>
-  <p class="foot-sm">Pregled servisa. Sadržaj pripada autorki.</p>
+  <div class="foot-grid">
+    <div class="foot-col">
+      <h2>Recepti</h2>
+      <p><strong>Nastasja Nedimović</strong></p>
+      <p class="foot-sm">Iz kuvara „Imunomania". Sadržaj pripada autorki.</p>
+    </div>
+    <div class="foot-col">
+      <h2>Jelovnik napravio</h2>
+      <p><a href="https://github.com/CodeIsVibing" rel="noopener">CodeIsVibing</a></p>
+      <p class="foot-sm">Razvoj i priprema podataka iz štampanog izdanja.</p>
+    </div>
+  </div>
+  <p class="foot-note">Pregled servisa, verzija 1.1.0.</p>
 </footer>
 
 <script src="assets/app.js"></script>
