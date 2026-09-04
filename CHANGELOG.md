@@ -2,6 +2,11 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.3.1] · 2026-09-04
+
+### Dodato
+- `og:image:secure_url` i `link rel="image_src"`, koje traže stariji čitači linkova u Viberu i Skypeu
+
 ## [1.3.0] · 2026-09-04
 
 ### Dodato
