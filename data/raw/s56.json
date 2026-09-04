@@ -1,0 +1,38 @@
+[
+  {
+    "id": "indi-cokoladica",
+    "title": "Indi čokoladica",
+    "category": "slatko",
+    "source": { "scan": 56, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena"],
+    "notes": ["bez mlečnih proizvoda, brašna i ulja."],
+    "ingredients": [
+      { "raw": "50 gr sirovih indijskih oraha", "qty": 50, "unit": "gr", "ref": "indijski-orah" },
+      { "raw": "60 gr istopljenog kakao putera", "qty": 60, "unit": "gr", "ref": "kakao-puter" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "prstohvat burbon vanile u prahu ili kašičica ekstrakta od vanile", "qty": null, "unit": "prstohvat", "ref": "vanila" },
+      { "raw": "prstohvat himalajske soli", "qty": null, "unit": "prstohvat", "ref": "so" },
+      { "raw": "sirovi bademi za čokoladicu", "qty": null, "unit": null, "ref": "badem" }
+    ],
+    "method": "Potopite indijske orahe u vruću vodu minimum 30 minuta (što duže, to bolje, može i preko noći). Procedite ga i izblendajte sa ostalim sastojcima u multipraktiku do fine kremaste strukture. Smesu izlijte u posudu obloženu pek papirom, utisnite bademe i ubacite u zamrzivač da se stegne na sat vremena.",
+    "tips": ["Možete je seći na kockice, šnite ili izlomiti da bude nepravilnog oblika."]
+  },
+  {
+    "id": "kinoa-u-kokosovom-mleku",
+    "title": "Kinoa u kokosovom mleku",
+    "category": "slatko",
+    "source": { "scan": 56, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "200 gr kinoe (šolja od 300 ml)", "qty": 200, "unit": "gr", "ref": "kinoa" },
+      { "raw": "oko 800 ml kokosovog mleka bez aditiva i šećera", "qty": 800, "unit": "ml", "ref": "biljno-mleko" },
+      { "raw": "2 supene kašike meda", "qty": 2, "unit": "supena kašika", "ref": "med" },
+      { "raw": "cimet po ukusu", "qty": null, "unit": null, "ref": "cimet" }
+    ],
+    "method": "Kinou potopite u hladnu vodu na 10 minuta i uključite rernu da se greje na 160 stepeni. Kinou dobro operite i procedite. U posudu za pečenje sipajte kokosovo mleko, dodajte kinou i cimet, promešajte i poklopite. Pecite oko 15 minuta, dok kinoa ne omekša. Kada se kinoa prohladi, dodajte med i promešajte.",
+    "tips": ["Ukoliko vam je kinoa upila previše mleka, slobodno dodajte naknadno mleka i promešajte, za nekoliko minuta će se sjediniti sa kinoom."]
+  }
+]

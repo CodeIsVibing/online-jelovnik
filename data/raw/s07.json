@@ -1,0 +1,45 @@
+[
+  {
+    "id": "pita-sa-tikvicama",
+    "title": "Pita sa tikvicama",
+    "category": "dorucak-vecera",
+    "source": { "scan": 7, "page": "L" },
+    "timeMinutes": 40,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 srednja tikvica (narendana i neoceđena)", "qty": 1, "unit": "komad", "ref": "tikvica" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja" },
+      { "raw": "200 gr urde", "qty": 200, "unit": "gr", "ref": "urda" },
+      { "raw": "100 gr kukuruznog brašna", "qty": 100, "unit": "gr", "ref": "kukuruzno-brasno" },
+      { "raw": "2 supene kašike maslinovog ulja", "qty": 2, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "pola kašičice himalajske soli (probajte da li je urda slana, ako nije, dodajte još polovinu kašičice)", "qty": 0.5, "unit": "kašičica", "ref": "so" },
+      { "raw": "pola kašičice bibera", "qty": 0.5, "unit": "kašičica", "ref": "biber" },
+      { "raw": "semenke po želji (lan, susam, suncokret, bundevino seme...)", "qty": null, "unit": null, "ref": "semenke", "optional": true }
+    ],
+    "method": "Jaja umutiti viljuškom, dodati ostale sastojke i promešati kašikom. Izliti u kalup obložen pek papirom, posuti semenkama i lagano ih utisnuti prstima. Peći na 180 stepeni oko 30 minuta.",
+    "tips": ["Da bi se pita ove količine sastojaka dobro ispekla, koristite standardan kalup za hleb otprilike sledećih dimenzija: 10 cm širine, 5 cm dubine i 25 cm dužine."]
+  },
+  {
+    "id": "proteinska-slana-kasa",
+    "title": "Proteinska slana kaša",
+    "category": "dorucak-vecera",
+    "source": { "scan": 7, "page": "R" },
+    "timeMinutes": 7,
+    "tags": ["bez-glutena"],
+    "notes": ["bez brašna i ulja."],
+    "ingredients": [
+      { "raw": "5 supenih kašika ovsenih pahuljica", "qty": 5, "unit": "supena kašika", "ref": "ovsene-pahuljice" },
+      { "raw": "1 jaje", "qty": 1, "unit": "komad", "ref": "jaja" },
+      { "raw": "origano, beli luk u prahu", "qty": null, "unit": null, "ref": "origano" },
+      { "raw": "origano, beli luk u prahu", "qty": null, "unit": null, "ref": "beli-luk" },
+      { "raw": "pola konzerve tunjevine (u sopstvenom soku)", "qty": 0.5, "unit": "konzerva", "ref": "tunjevina" },
+      { "raw": "1 supena kašika susama", "qty": 1, "unit": "supena kašika", "ref": "susam" },
+      { "raw": "1 supena kašika lana", "qty": 1, "unit": "supena kašika", "ref": "lanene-semenke" },
+      { "raw": "oko 50 ml vode", "qty": 50, "unit": "ml", "ref": "voda" },
+      { "raw": "2,3 supene kašike urde", "qty": null, "unit": "supena kašika", "ref": "urda" }
+    ],
+    "method": "U šerpu sipajte vodu i zagrejte do ključanja, dodajte ovsene pahuljice i jaje, pa smanjite vatru. Uz mešanje dodajte preostale sastojke. Ukoliko je potrebno, dodajte još vode. Sklonite sa šporeta, servirajte sa urdom i pospite semenkama lana.",
+    "tips": []
+  }
+]

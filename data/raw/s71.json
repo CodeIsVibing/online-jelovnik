@@ -1,0 +1,78 @@
+[
+  {
+    "id": "caj-protiv-kaslja",
+    "title": "Čaj protiv kašlja",
+    "category": "saveti-sirupi",
+    "source": { "scan": 71, "page": "L" },
+    "timeMinutes": 30,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 litar vode", "qty": 1000, "unit": "ml", "ref": "voda" },
+      { "raw": "2 jabuke", "qty": 2, "unit": "komad", "ref": "jabuka" },
+      { "raw": "2 crna luka sa korom (može i ljubičasti)", "qty": 2, "unit": "glavica", "ref": "crni-luk" }
+    ],
+    "method": "Na 1 litar vode kuvati 2 jabuke i 2 crna luka sa korom (može i ljubičasti). Kuvati dok ne ukuva na pola litre (oko 30 minuta), izgnječiti pa procediti. Piti do poboljšanja.",
+    "tips": []
+  },
+  {
+    "id": "sirup-za-izbacivanje-slajma-med-i-limun",
+    "title": "Sirup za izbacivanje šlajma",
+    "subtitle": "sa medom i limunom",
+    "category": "saveti-sirupi",
+    "source": { "scan": 71, "page": "L" },
+    "timeMinutes": 5,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "2 supene kašike maslinovog ulja", "qty": 2, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "2 supene kašike limunovog soka", "qty": 2, "unit": "supena kašika", "ref": "limun" },
+      { "raw": "2 supene kašike vode", "qty": 2, "unit": "supena kašika", "ref": "voda" }
+    ],
+    "method": "Piti ujutru i uveče, prethodno podgrejati na mlako.",
+    "tips": []
+  },
+  {
+    "id": "imunomania-sirup",
+    "title": "Imunomania sirup",
+    "category": "saveti-sirupi",
+    "source": { "scan": 71, "page": "R" },
+    "timeMinutes": null,
+    "timeNote": "1 sat potapanja + 24h u frižideru",
+    "tags": [],
+    "notes": ["Potrebno je da svi sastojci budu domaći, netretirani ili organski."],
+    "ingredients": [
+      { "raw": "1 kg cvekle", "qty": 1000, "unit": "gr", "ref": "cvekla" },
+      { "raw": "1 kg šargarepe", "qty": 1000, "unit": "gr", "ref": "sargarepa" },
+      { "raw": "1 kg limuna", "qty": 1000, "unit": "gr", "ref": "limun" },
+      { "raw": "1 kg kiselih jabuka", "qty": 1000, "unit": "gr", "ref": "jabuka" },
+      { "raw": "tegla sirovog meda", "qty": 1, "unit": "tegla", "ref": "med" },
+      { "raw": "soda bikarbona za potapanje", "qty": null, "unit": null, "ref": "soda-bikarbona" }
+    ],
+    "method": "Potopiti sve sa ljuskom u vodu sa sodom bikarbonom na 1 sat. Procediti i dobro oprati. Izrendati sve sa ljuskom i ostaviti u frižideru 24h. Procediti (najbolje u gazi) i pomešati sa teglom sirovog meda. Držati u frižideru, uzimati po 1 supenu kašiku na prazan stomak, a deca po 1 kašičicu.",
+    "tips": []
+  },
+  {
+    "id": "sirup-za-izbacivanje-slajma-zalfija",
+    "title": "Sirup za izbacivanje šlajma",
+    "subtitle": "sa žalfijom i lovorom",
+    "category": "saveti-sirupi",
+    "source": { "scan": 71, "page": "R" },
+    "timeMinutes": 10,
+    "tags": [],
+    "notes": [
+      "Deca do 3 godine 3x dnevno po 1 kašičicu.",
+      "Deca 3 - 9 godina 3x dnevno po 1 i po kašičicu.",
+      "Deca iznad 9 godina i odrasli 3x dnevno po 1 - 2 supene kašike."
+    ],
+    "ingredients": [
+      { "raw": "250 gr kokosovog šećera", "qty": 250, "unit": "gr", "ref": "kokosov-secer" },
+      { "raw": "250 ml vode", "qty": 250, "unit": "ml", "ref": "voda" },
+      { "raw": "3 kašičice žalfije", "qty": 3, "unit": "kašičica", "ref": "zalfija" },
+      { "raw": "3 izmrvljena lista lovora", "qty": 3, "unit": "list", "ref": "lovorov-list" }
+    ],
+    "method": "Propržiti 250 gr kokosovog šećera, pa sipati 250 ml vode, dodati 3 kašičice žalfije i 3 izmrvljena lista lovora. Kada provri, kuvati još 3 minuta i ostaviti da se ohladi. Procediti i čuvati u staklenoj boci, na hladnom i tamnom mestu.",
+    "tips": []
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kus-kus-paprike",
+    "title": "Kus-kus paprike",
+    "category": "rucak",
+    "source": { "scan": 25, "page": "L" },
+    "timeMinutes": 75,
+    "timeNote": "1 sat i 15 minuta",
+    "tags": ["ljuto", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda i brašna."],
+    "ingredients": [
+      { "raw": "3 veće crvene ili žute paprike babure", "qty": 3, "unit": "komad", "ref": "paprika" },
+      { "raw": "60 gr kus-kusa", "qty": 60, "unit": "gr", "ref": "kus-kus" },
+      { "raw": "90 ml vode", "qty": 90, "unit": "ml", "ref": "voda" },
+      { "raw": "2 šake pasulja", "qty": 2, "unit": "šaka", "ref": "pasulj" },
+      { "raw": "2 supene kašike sirovog heljdinog zrna", "qty": 2, "unit": "supena kašika", "ref": "heljda" },
+      { "raw": "himalajska so, biber i mlevena ljuta paprika", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so, biber i mlevena ljuta paprika", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "himalajska so, biber i mlevena ljuta paprika", "qty": null, "unit": null, "ref": "ljuta-paprika" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje" },
+      { "raw": "četvrtina tikvice", "qty": 0.25, "unit": "komad", "ref": "tikvica" },
+      { "raw": "2 čena belog luka", "qty": 2, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "pola glavice crnog luka", "qty": 0.5, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "100 ml paradajz soka", "qty": 100, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "1 supena kašika origana", "qty": 1, "unit": "supena kašika", "ref": "origano" },
+      { "raw": "sok od limuna za polivanje", "qty": null, "unit": null, "ref": "limun" }
+    ],
+    "method": "Noć pre pripreme obroka potopite pasulj i heljdu u zasebne činije sa hladnom vodom. Ujutru ih operite i procedite, a zatim stavite da se kuvaju. Heljdu kuvajte u odnosu 1:3 sa vodom, dok ne nabubri, oko 8 minuta, a pasulj u malo vode na jakoj vatri dok ne omekša (nemojte ga raskuvati jer će se peći u rerni oko 30 minuta). 90 ml vode sipati u manju šerpu, sa nekoliko kapi maslinovog ulja i prstohvatom soli i ostaviti da proključa. Skloniti sa šporeta i kus-kus u činiji preliti sa vodom, dobro promešati, poklopiti i ostaviti sa strane. Uključite rernu na 200 stepeni. Iz paprika ukloniti semenkice i peteljku, preseći na pola i staviti u posudu za pečenje premazanu maslinovim uljem. Na sitno iseckajte tikvicu, crni i beli luk i dinstajte nekoliko minuta, dok ne omekšaju. Dodajte kus-kus, začine po ukusu i paradajz sok i lagano promešajte. Na kraju dodajte dobro proceđenu heljdu i pasulj i promešajte. Napunite polovine paprika smesom, poklopite i pecite oko 30 minuta dok paprike ne omekšaju, zatim sklonite poklopac i zapecite još nekoliko minuta dok gornji sloj smese ne postane hrskav.",
+    "tips": []
+  },
+  {
+    "id": "pasta-sa-leblebijama",
+    "title": "Pasta sa leblebijama",
+    "category": "rucak",
+    "source": { "scan": 25, "page": "R" },
+    "timeMinutes": 60,
+    "tags": ["bez-glutena", "ljuto", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda, brašna i ulja."],
+    "ingredients": [
+      { "raw": "150 gr suve pirinčane testenine", "qty": 150, "unit": "gr", "ref": "testenina" },
+      { "raw": "250 ml paradajz soka bez šećera", "qty": 250, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "250 gr leblebija", "qty": 250, "unit": "gr", "ref": "leblebije" },
+      { "raw": "oko 200 ml akvafabe (tečnost u kojoj se kuvala leblebija)", "qty": 200, "unit": "ml", "ref": "akvafaba" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "mlevena ljuta paprika po ukusu", "qty": null, "unit": null, "ref": "ljuta-paprika" }
+    ],
+    "method": "Leblebije potopite u hladnu vodu noć pre pripreme obroka. Ujutru je operite i procedite. Kuvajte je dok ne omekša, oko 40 minuta. Dobro je procedite i sačuvajte tečnost u kojoj se kuvala. Pirinčanu testeninu potopite u hladnu vodu na 10 minuta, a za to vreme iseckajte crni i beli luk. U malo akvafabe dinstajte luk dok ne omekša, dodajte leblebije, začine, proceđenu testeninu, paradajz sok i akvafabu. Smanjite vatru, poklopite i neka se krčka još 5 do 10 minuta dok testenina ne omekša i upije tečnost. Ukoliko je potrebno, u međuvremenu dodajte još akvafabe.",
+    "tips": ["Pirinčana testenina upija mnogo više tečnosti nego druge vrste testenina, pa ukoliko ne koristite nju, pazite da ne preterate sa tečnošću."]
+  }
+]

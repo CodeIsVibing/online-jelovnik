@@ -1,0 +1,45 @@
+[
+  {
+    "id": "kukuruzne-pahuljice-sa-jogurtom-i-vocem",
+    "title": "Kukuruzne pahuljice sa jogurtom i voćem",
+    "category": "dorucak-vecera",
+    "source": { "scan": 16, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena"],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "kukuruzne pahuljice", "qty": null, "unit": null, "ref": "kukuruzne-pahuljice" },
+      { "raw": "jogurt", "qty": null, "unit": null, "ref": "jogurt" },
+      { "raw": "suncokret", "qty": null, "unit": null, "ref": "suncokret" },
+      { "raw": "bademi", "qty": null, "unit": null, "ref": "badem" },
+      { "raw": "sveže ili suvo voće", "qty": null, "unit": null, "ref": "voce", "optional": true }
+    ],
+    "method": "Idealna kompletna užina za poneti kada smo u žurbi. Kukuruzne pahuljice sadrže dosta vlakana i ugljenih hidrata, a u kombinaciji sa jogurtom, suncokretom i bademima dobijamo na proteinima i zdravim mastima. Ukoliko dodamo i sveže ili suvo voće, užinu smo dopunili sa vitaminima i mineralima.",
+    "tips": [
+      "Obratite pažnju pri kupovini kukuruznih pahuljica jer je u mnogima dodat šećer. Pročitajte sastav na poleđini ambalaže.",
+      "Umesto kukuruznih pahuljica možete koristiti i heljdine, pirinčane ili prosene. Prirodno ne sadrže gluten."
+    ]
+  },
+  {
+    "id": "banana-sa-puterom-od-suncokreta-i-kikirikija",
+    "title": "Banana sa puterom od suncokreta i puterom od kikirikija",
+    "category": "dorucak-vecera",
+    "source": { "scan": 16, "page": "R" },
+    "timeMinutes": 3,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "seeAlso": ["domaci-kikiriki-puter"],
+    "ingredients": [
+      { "raw": "banana", "qty": null, "unit": null, "ref": "banana" },
+      { "raw": "puter od suncokreta", "qty": null, "unit": null, "ref": "puter-od-suncokreta" },
+      { "raw": "puter od kikirikija", "qty": null, "unit": null, "ref": "kikiriki-puter" },
+      { "raw": "sirovi kakao prah", "qty": null, "unit": null, "ref": "kakao" }
+    ],
+    "method": "Bananu namažite tankim slojem putera i pospite sirovim kakao prahom.",
+    "tips": [
+      "Ovo je idealan doručak pred fizičku aktivnost jer kombinacija ugljenih hidrata i zdravih masti daje veliku količinu energije, a u isto vreme vas dugo čini sitim. Ukoliko želite sami da napravite puter od kikirikija, recept potražite u odeljku namazi/umaci.",
+      "Puter od suncokreta sadrži nezasićene masne kiseline 6 i 9, vitamin E, gvožđe, mangan, magnezijum, fosfor i bakar, kao i veliku količinu proteina.",
+      "Puter od kikirikija sadrži vitamine E, B1, B2, B3, B5, B6, B9 i minerale kalijum, cink, selen, kalcijum, kao i folnu kiselinu. Bogat je proteinima, a ima nizak glikemijski indeks."
+    ]
+  }
+]

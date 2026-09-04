@@ -1,0 +1,44 @@
+[
+  {
+    "id": "banana-hleb",
+    "title": "Banana hleb",
+    "category": "slatko",
+    "source": { "scan": 62, "page": "L" },
+    "timeMinutes": 70,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, šećera, brašna, ulja i jaja."],
+    "ingredients": [
+      { "raw": "150 ml biljnog mleka bez šećera (može i jogurt)", "qty": 150, "unit": "ml", "ref": "biljno-mleko" },
+      { "raw": "350 gr ovsenih pahuljica (ili ražane, speltine, pšenične...)", "qty": 350, "unit": "gr", "ref": "ovsene-pahuljice" },
+      { "raw": "4 zrele banane", "qty": 4, "unit": "komad", "ref": "banana" },
+      { "raw": "1 kašičica cejlonskog cimeta", "qty": 1, "unit": "kašičica", "ref": "cimet" },
+      { "raw": "1 supena kašika sode bikarbone bez aluminijuma", "qty": 1, "unit": "supena kašika", "ref": "soda-bikarbona" },
+      { "raw": "1 šaka suvog grožđa", "qty": 1, "unit": "šaka", "ref": "suvo-grozdje" },
+      { "raw": "1 šaka krupno seckanog lešnika ili badema", "qty": 1, "unit": "šaka", "ref": "lesnik" }
+    ],
+    "method": "Izgnječite banane viljuškom (slobodno ostavite i malo krupnije komadiće), dodajte cimet i mleko i promešajte. Pahuljice ustitnite u multipraktiku na malo krupnije od brašna, dodajte sodu bikarbonu i promešajte kašikom. Pomešajte dve smese, dodajte suvo grožđe i lešnike i sve dobro promešajte. Izlijte smesu u kalupu za hleb (oko 10 cm širine, 25 cm dužine i 5 cm dubine) obložen pek papirom. Smesa bi trebalo da bude gusta. Pecite na oko 120 - 130 stepeni oko sat vremena.",
+    "tips": ["Radi lakšeg oblikovanja, pek papir možete pokvasiti pre nego što obložite kalup za pečenje."]
+  },
+  {
+    "id": "coko-koko-kuglice",
+    "title": "Čoko-koko kuglice",
+    "category": "slatko",
+    "source": { "scan": 62, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, šećera i brašna.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "100 gr pečenih lešnika", "qty": 100, "unit": "gr", "ref": "lesnik" },
+      { "raw": "50 gr sirovih badema", "qty": 50, "unit": "gr", "ref": "badem" },
+      { "raw": "100 gr kokosa", "qty": 100, "unit": "gr", "ref": "kokos" },
+      { "raw": "50 g sirovog suncokreta", "qty": 50, "unit": "gr", "ref": "suncokret" },
+      { "raw": "1 supena kašika sirovog kakaa", "qty": 1, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "12 otkoštenih svežih urmi", "qty": 12, "unit": "komad", "ref": "urme" },
+      { "raw": "2 supene kašike kokosovog ulja", "qty": 2, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "2 zrele banane", "qty": 2, "unit": "komad", "ref": "banana" },
+      { "raw": "kokos za valjanje kuglica", "qty": null, "unit": null, "ref": "kokos" }
+    ],
+    "method": "U multipraktiku na sitno sameljite sve sastojke sem urmi, banana i kokosovog ulja. Zatim dodajte i njih i blendajte sa pauzama, skidajući smesu sa zidova multipraktika, dok smesa ne postane ujednačena i lepljiva. Oblikujte ih u kuglice i uvaljajte u kokos. Čuvajte u frižideru.",
+    "tips": ["Da biste dobili kuglice iste veličine, možete ih vaditi kašikom za sladoled, a zatim oblikovati u kuglice."]
+  }
+]

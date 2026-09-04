@@ -1,0 +1,161 @@
+[
+  {
+    "id": "hrskavi-omlet-iz-rerne-sa-sampinjonima",
+    "title": "Hrskavi omlet iz rerne sa šampinjonima",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 3,
+      "page": "L"
+    },
+    "timeMinutes": 25,
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 jaja",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "100 gr šampinjona",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "sampinjoni"
+      },
+      {
+        "raw": "četvrtina glavice crnog luka",
+        "qty": 0.25,
+        "unit": "glavica",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "kašičica lanenih semenki",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "kašičica sirovog susama",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "susam"
+      },
+      {
+        "raw": "kašičica sirovog suncokreta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "1 supena kašika prosenih pahuljica",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "prosene-pahuljice"
+      },
+      {
+        "raw": "so i biber po ukusu",
+        "qty": null,
+        "unit": null,
+        "ref": "so"
+      },
+      {
+        "raw": "so i biber po ukusu",
+        "qty": null,
+        "unit": null,
+        "ref": "biber"
+      },
+      {
+        "raw": "ulje za dinstanje",
+        "qty": null,
+        "unit": null,
+        "ref": "ulje"
+      }
+    ],
+    "method": "Oprati i iseckati šampinjone i luk na kolutove i dinstati ih dok ne omekšaju, zatim ih preneti u posudu za pečenje. Umutiti jaja viljuškom i preliti luk i šampinjone. Posuti ravnomerno prosene pahuljice i semenke. Peći u zagrejanoj rerni na 200 stepeni oko 15 minuta, dok se ne uhvati zlatna korica.",
+    "tips": []
+  },
+  {
+    "id": "slana-krem-kasa-sa-sampinjonima",
+    "title": "Slana krem kaša sa šampinjonima",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 3,
+      "page": "R"
+    },
+    "timeMinutes": 15,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "bez mlečnih proizvoda, brašna i ulja."
+    ],
+    "ingredients": [
+      {
+        "raw": "5 supenih kašika ovsenih pahuljica",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "1 supena kašika sirovih bundevinih semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "1 supena kašika sirovog suncokreta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "1 supena kašika sirovog susama",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "susam"
+      },
+      {
+        "raw": "100 gr šampinjona",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "sampinjoni"
+      },
+      {
+        "raw": "prstohvat bibera",
+        "qty": null,
+        "unit": "prstohvat",
+        "ref": "biber"
+      },
+      {
+        "raw": "himalajske soli i bosiljka po ukusu",
+        "qty": null,
+        "unit": null,
+        "ref": "so"
+      },
+      {
+        "raw": "himalajske soli i bosiljka po ukusu",
+        "qty": null,
+        "unit": null,
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "4 supene kašike pelata ili kečapa bez šećera",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "pelat"
+      },
+      {
+        "raw": "oko 50 ml vode (zavisi od gustine koja vam se dopada)",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "U multipraktiku usitnite ovsene pahuljice, bundevine semenke, suncokret i susam, a zatim dodajte i šampinjone. Vodu zagrejte do ključanja, dodajte smesu i mešajte, a ringlu smanjite na nižu temperaturu. Začinite pa dodajte pelat i još jednom dobro promešajte dok kaša ne postane kompaktna. Ukoliko je pregusta, dodajte još vode.",
+    "tips": []
+  }
+]

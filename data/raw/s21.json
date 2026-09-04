@@ -1,0 +1,50 @@
+[
+  {
+    "id": "duga-iz-rerne",
+    "title": "Duga iz rerne",
+    "category": "rucak",
+    "source": { "scan": 21, "page": "L" },
+    "timeMinutes": 60,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i brašna."],
+    "ingredients": [
+      { "raw": "2 paradajza", "qty": 2, "unit": "komad", "ref": "paradajz" },
+      { "raw": "3 paprike (zelena, crvena, žuta)", "qty": 3, "unit": "komad", "ref": "paprika" },
+      { "raw": "2 krompira", "qty": 2, "unit": "komad", "ref": "krompir" },
+      { "raw": "1 tikvica", "qty": 1, "unit": "komad", "ref": "tikvica" },
+      { "raw": "200 gr šampinjona", "qty": 200, "unit": "gr", "ref": "sampinjoni" },
+      { "raw": "2 luka (crni, ljubičasti)", "qty": 2, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "4 čena belog luka", "qty": 4, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "500 ml paradajz soka bez šećera", "qty": 500, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "1 supena kašika origana", "qty": 1, "unit": "supena kašika", "ref": "origano" },
+      { "raw": "1 supena kašika majčine dušice", "qty": 1, "unit": "supena kašika", "ref": "majcina-dusica" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje" }
+    ],
+    "method": "Uključite rernu na 200 stepeni, na dno od okruglog pleha prečnika oko 30 cm sipajte 150 ml paradajz soka (od onih 500 ml) i usitnjeni beli luk. Tanko isecite svo povrće. Ređajte ih u posudu kao sa slike, tj. da stoje uspravno i u krug dok se ne popuni ceo pleh. Bitno je da bude tesno poslagano da ne bi palo. Prelijte povrće ostatkom paradajz soka, pospite maslinovim uljem i začinite. Posudu poklopite i pecite oko 40 minuta ukoliko ste tanko isekli povrće.",
+    "tips": []
+  },
+  {
+    "id": "file-pastrmke-sa-krompirom-u-ljusci",
+    "title": "File pastrmke sa krompirom u ljusci",
+    "category": "rucak",
+    "source": { "scan": 21, "page": "R" },
+    "timeMinutes": 75,
+    "timeNote": "1 sat i 15 minuta",
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "krompir", "qty": null, "unit": null, "ref": "krompir" },
+      { "raw": "file pastrmke", "qty": null, "unit": null, "ref": "pastrmka" },
+      { "raw": "limun", "qty": null, "unit": null, "ref": "limun" },
+      { "raw": "beli luk u prahu", "qty": null, "unit": null, "ref": "beli-luk" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "biber", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "bosiljak", "qty": null, "unit": null, "ref": "bosiljak" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje" }
+    ],
+    "method": "Krompir potopite u vodu sa sodom bikarbonom (1 supena kašika na 1 litar vode) na 15 minuta da se otkloni bar deo pesticida sa ljuske. Uključite rernu na 220 stepeni. Dobro ga operite, na više mesta ga probodite viljuškom, premažite uljem i posolite. Pecite oko 50-60 minuta dok kora ne postane hrskava, a viljuška prolazi lako kroz krompir. Povremeno ga okretati i uliti po malo vode na dno da se ne bi zalepila kora. Voda će ispariti skroz. File pastrmke premažite uljem, začinite po ukusu i 10, 15 minuta pred kraj pečenja krompira dodajte ga u tepsiju između ili na krompir. Kada se uhvati korica, riba je gotova.",
+    "tips": []
+  }
+]

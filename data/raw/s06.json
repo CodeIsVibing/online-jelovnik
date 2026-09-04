@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kasa-sa-kruskama-i-kokosom",
+    "title": "Kaša sa kruškama i kokosom",
+    "category": "dorucak-vecera",
+    "source": { "scan": 6, "page": "L" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "5 supenih kašika ovsenih pahuljica", "qty": 5, "unit": "supena kašika", "ref": "ovsene-pahuljice" },
+      { "raw": "2 oljuštene zrele kruške", "qty": 2, "unit": "komad", "ref": "kruska" },
+      { "raw": "1 supena kašika sirovog susama", "qty": 1, "unit": "supena kašika", "ref": "susam" },
+      { "raw": "1 supena kašika sirovog suncokreta", "qty": 1, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "2 supene kašike kokosa", "qty": 2, "unit": "supena kašika", "ref": "kokos" },
+      { "raw": "4 otkoštenih svežih urmi", "qty": 4, "unit": "komad", "ref": "urme" },
+      { "raw": "oko 100 ml vode (zavisi od gustine kaše koju volite)", "qty": 100, "unit": "ml", "ref": "voda" }
+    ],
+    "method": "Ovsene pahuljice i vodu sipajte u šerpu i promešajte, neka se krčka na laganoj vatri dok pripremate ostale sastojke. Sve sastojke sem krušaka usitnite u multipraktiku. Oljuštite i isecite kruške na kriške. Dodajte ih u multipraktik i izblendajte dok ne postane kašasto. Čim ovsene pahuljice puste svoj beli „sok\", dodajte kašastu smesu i po potrebi još vode, i uz mešanje kuvajte dok se kaša ne sjedini i ne upije vodu koju ste dodali.",
+    "tips": ["Ukoliko želite posebno kremastu kašu, možete koristiti i fino mlevene ovsene pahuljice."]
+  },
+  {
+    "id": "americke-palacinke",
+    "title": "Američke palačinke",
+    "category": "dorucak-vecera",
+    "source": { "scan": 6, "page": "R" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez brašna, šećera i mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "5 zrelih banana", "qty": 5, "unit": "komad", "ref": "banana" },
+      { "raw": "250 gr ovsenih pahuljica (ili speltinih, ražanih, ječmenih...)", "qty": 250, "unit": "gr", "ref": "ovsene-pahuljice" },
+      { "raw": "oko 100 ml biljnog mleka bez šećera (pirinčano, kokosovo, bademovo...)", "qty": 100, "unit": "ml", "ref": "biljno-mleko" },
+      { "raw": "ulje za pečenje palačinki", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Banane, pahuljice i deo mleka blendati u multipraktiku oko 30 sekundi. Smesa treba da bude dosta gusta, ako je pregusta, dodajte još mleka. Količina mleka zavisi od veličina banana koje koristimo. Uz krupnije banane ide manje mleka, uz manje banane više mleka. Peći na srednjoj temperaturi. Uliti smesu u nauljeni tiganj, otprilike veličine šake kako biste je lakše okretali. Peći oko 30 sekundi, zatim je prevrnuti. Držati u frižideru, mogu se jesti i sutradan. Može se poslužiti sa sladoledom od šljiva, prelivom od kikiriki putera i meda.",
+    "tips": [
+      "Sladoled od šljiva: smrznute šljive iseckati i izblendati sa malo mleka da se pokrene blender.",
+      "Umesto biljnog mleka možete koristiti i jogurt. Smesa će tada biti gušća, dodajte više jogurta."
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pesto-od-spanaca",
+    "title": "Pesto od spanaća",
+    "category": "namazi-umaci",
+    "source": { "scan": 36, "page": "L" },
+    "timeMinutes": 10,
+    "tags": [],
+    "notes": ["bez aditiva i šećera."],
+    "ingredients": [
+      { "raw": "100 gr sirovog spanaća", "qty": 100, "unit": "gr", "ref": "spanac" },
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "2 supene kašike ekstra devičanskog maslinovog ulja", "qty": 2, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "šaka sirovih badema", "qty": 1, "unit": "šaka", "ref": "badem" },
+      { "raw": "30 gr parmezana", "qty": 30, "unit": "gr", "ref": "parmezan" },
+      { "raw": "so i biber po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "so i biber po ukusu", "qty": null, "unit": null, "ref": "biber" }
+    ],
+    "method": "Sve sastojke izblendati u multipraktiku dok smesa ne postane ujednačena.",
+    "tips": [
+      "Pesto možete koristiti kao namaz, umak ili kao dodatak salatama, testeninama, sendvičima.",
+      "Umesto badema možete koristiti pinjole, suncokret ili orahe, dok spanać može da zameni svež bosiljak ili rukola."
+    ]
+  },
+  {
+    "id": "domaci-majonez",
+    "title": "Domaći majonez",
+    "category": "namazi-umaci",
+    "source": { "scan": 36, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, jaja i šećera."],
+    "ingredients": [
+      { "raw": "3 supene kašike akvafabe (voda u kojoj se kuvala leblebija ili iz konzerve)", "qty": 3, "unit": "supena kašika", "ref": "akvafaba" },
+      { "raw": "2 kašičice dijon senfa", "qty": 2, "unit": "kašičica", "ref": "senf" },
+      { "raw": "2 supene kašike jabukovog sirćeta", "qty": 2, "unit": "supena kašika", "ref": "jabukovo-sirce" },
+      { "raw": "250 ml suncokretovog hladno ceđenog ulja", "qty": 250, "unit": "ml", "ref": "suncokretovo-ulje" },
+      { "raw": "3/4 kašičice himalajske soli", "qty": 0.75, "unit": "kašičica", "ref": "so" },
+      { "raw": "1 supena kašika maslinovog ulja", "qty": 1, "unit": "supena kašika", "ref": "maslinovo-ulje" }
+    ],
+    "method": "Sve sastojke izblendati štapnim blenderom dok se sastojci ne sjedine i smesa ne zgusne.",
+    "tips": []
+  }
+]

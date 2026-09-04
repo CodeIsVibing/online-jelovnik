@@ -1,0 +1,34 @@
+[
+  {
+    "id": "zdravo-posudje",
+    "title": "Zdravo posuđe",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 82,
+      "page": "L"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Čak i najzdravija hrana pripremljena u toksičnom posuđu vrlo lako postaje nezdrava. Najzdraviji materijali posuđa su prirodni materijali poput stakla, keramike, gline, porcelana, metala...\n\nOdličan izbor je i:\n\n1. EMAJLIRANO POSUĐE: ako se ošteti, ne koristiti ga više.\n\n2. POSUĐE OD NERĐAJUĆEG ČELIKA: oprez za alergične na nikl.\n\n3. POSUĐE OD LIVENOG GVOŽĐA: oprez za ljude sa viškom gvožđa u sebi jer može doći do ispuštanja određene količine u hranu. Ne kuvati kiselu hranu u njemu.\n\nKada kupujete posuđe, obratite pažnju da budu bez:\nPFOA - perfluoroktanska kiselina\nPTFE - politetrafluoroetilen (teflon)\nPFOS - perfluoroktan sulfonska kiselina\n\nNe kupovati teflonsko i drugo posuđe sa nelepljivim premazima i aluminijumsko posuđe.",
+    "tips": []
+  },
+  {
+    "id": "kada-je-hrana-prestala-da-me-kontrolise",
+    "title": "Kada je hrana prestala da me kontroliše?",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 82,
+      "page": "R"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "1. Kada sam shvatila da neću pasti u nesvest ako ne pojedem nešto, a gladna sam.\n\n2. Kada sam shvatila da ta glad nije glas stomaka, nego moje glave.\n\n3. Kada sam shvatila da ta glad nije glad, već žeđ.\n\n4. Kada sam shvatila da mi je hrana dostupna 24/7.\n\n5. Kada sam shvatila da jedem i više nego što je dovoljno mom organizmu, a i prečesto.\n\n6. Kada sam shvatila da se hrana zove hrana jer hrani naše telo.\n\n7. Kada sam shvatila da nije poenta napuniti stomak, već nahraniti ćelije.\n\n8. Kada sam shvatila da manje hrane znači VIŠE energije.\n\n9. Kada sam shvatila da je GLAD LEK.\n\nI na kraju sam shvatila da ja kontrolišem hranu, a ne ona mene.",
+    "tips": []
+  }
+]

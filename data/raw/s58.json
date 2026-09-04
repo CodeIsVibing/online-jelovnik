@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bakin-kolac",
+    "title": "Bakin kolač",
+    "category": "slatko",
+    "source": { "scan": 58, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "equipment": ["aparat za bakine kolače ili vafle", "silikonska četkica za podmazivanje aparata"],
+    "ingredients": [
+      { "raw": "400 gr speltinog mekog brašna", "qty": 400, "unit": "gr", "ref": "speltino-brasno", "group": "Suvi sastojci" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Suvi sastojci" },
+      { "raw": "pola kašičice cejlonskog cimeta", "qty": 0.5, "unit": "kašičica", "ref": "cimet", "group": "Suvi sastojci" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja", "group": "Mokri sastojci" },
+      { "raw": "500 ml biljnog mleka bez šećera (ukoliko koristite jogurt, dodajte još 100 ml vode)", "qty": 500, "unit": "ml", "ref": "biljno-mleko", "group": "Mokri sastojci" },
+      { "raw": "5 supenih kašika ulja (kokosovo ili maslinovo)", "qty": 5, "unit": "supena kašika", "ref": "kokosovo-ulje", "group": "Mokri sastojci" },
+      { "raw": "10 otkoštenih svežih urmi", "qty": 10, "unit": "komad", "ref": "urme", "group": "Mokri sastojci" }
+    ],
+    "method": "U jednu činiju sjediniti suve sastojke i promešati kašikom. Mokre sastojke izblendati u multipraktiku dok se urme ne usitne, zatim postepeno dodavati i smesu suvih sastojaka i blendati dok smesa ne postane glatka. Smesa treba da bude gusta. Silikonskom četkicom dobro podmazati aparat, uliti smesu na sredinu površine aparata, ravnomerno rasporediti i zaklopiti. Kada aparat da znak da je kolač pečen, izvadite ga i ponovite postupak za sledeći, sve dok se smesa ne potroši.",
+    "tips": ["Ukoliko želite mekane bakine kolače, poklopite ih kada se ispeku."]
+  },
+  {
+    "id": "pita-sa-visnjama-od-speltinih-kora",
+    "title": "Pita sa višnjama od speltinih kora",
+    "category": "slatko",
+    "source": { "scan": 58, "page": "R" },
+    "timeMinutes": 40,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "400 gr smrznutih višanja (može i sveže)", "qty": 400, "unit": "gr", "ref": "visnja" },
+      { "raw": "4 lista speltinih kora za pitu bez aditiva", "qty": 4, "unit": "list", "ref": "speltine-kore" },
+      { "raw": "2 supene kašike palente", "qty": 2, "unit": "supena kašika", "ref": "palenta" },
+      { "raw": "20 svežih otkoštenih urmi", "qty": 20, "unit": "komad", "ref": "urme" },
+      { "raw": "maslinovo ili kokosovo ulje i voda za premazivanje kora", "qty": null, "unit": null, "ref": "maslinovo-ulje" }
+    ],
+    "method": "Dve kore staviti jednu na drugu i gornju premazati mešavinom pola pola maslinovog ulja i vode četkicom za mazanje. Ravnomerno rasporediti 200 gr višanja na gornju koru, 10 iseckanih urmi, posuti 1 supenom kašikom palente i urolati. Dobije se ukupno 2 rolne (po dve kore). Svaku rolnu premazati mešavinom vode i ulja i izbockati viljuškom. Preneti rolnu na tepsiju obloženu pek papirom. Peći oko 30 minuta na 200 stepeni. Ispečene pite prekriti pokvašenom i isceđenom čistom krpom i ostaviti da se prohladi.",
+    "tips": []
+  }
+]

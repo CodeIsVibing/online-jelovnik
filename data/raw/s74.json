@@ -1,0 +1,58 @@
+[
+  {
+    "id": "crvena-limunada",
+    "title": "Crvena limunada",
+    "category": "saveti-sirupi",
+    "source": { "scan": 74, "page": "L" },
+    "timeMinutes": 15,
+    "tags": [],
+    "notes": ["Osvežavajući i lekoviti letnji napitak. Čine ga ohlađeni čaj od cveta hibiskusa i sok od limuna."],
+    "ingredients": [
+      { "raw": "kašičica osušenog cveta hibiskusa", "qty": 1, "unit": "kašičica", "ref": "hibiskus" },
+      { "raw": "200 ml ključale vode", "qty": 200, "unit": "ml", "ref": "voda" },
+      { "raw": "pola limuna na 200 ml čaja", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "soda bikarbona za pranje limuna", "qty": null, "unit": null, "ref": "soda-bikarbona" }
+    ],
+    "method": "Čaj se priprema tako što kašičicu osušenog cveta hibiskusa prelijete sa 200 ml ključale vode i ostavite poklopljenog 10 minuta, zatim ga procedite i ostavite da se ohladi dovoljno da može da se odloži u frižider. Kada se potpuno ohladi, iscedite pola limuna na 200 ml čaja. Limun dobro operite (najbolje je da ga držite u vodi sa sodom bikarbonom bez aluminijuma 15ak minuta) i isecite na kriške pa ubacite u vašu crvenu limunadu. Možete pripremiti 2,3 litre i držati u frižideru.",
+    "tips": ["Benefiti crvene limunade: smanjuje holesterol, smanjuje krvni pritisak, pomaže kod gripe i prehlade, podiže raspoloženje, pomaže u borbi sa viškom kilograma, čisti jetru, potpomaže probavu, podmlađuje kožu, zbog količine antioksidanasa pomaže u borbi protiv raka, velika količina C vitamina pomaže u dizanju imuniteta."]
+  },
+  {
+    "id": "hrana-bogata-magnezijumom",
+    "title": "Hrana bogata magnezijumom",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 74, "page": "L" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Magnezijum stabilizuje krvni pritisak i rad srca, jača kosti i smanjuje upalu u organizmu. Trudite se da ga unosite u što više obroka.\n\nHrana bogata magnezijumom: kakao, brazilski orah, susam, spanać, bosiljak, seme lubenice, brokoli, seme suncokreta, badem, seme lana, nana, vlašac, bamija, mirođija, bundevino seme, pinjoli...",
+    "tips": []
+  },
+  {
+    "id": "hrana-bogata-jodom",
+    "title": "Hrana bogata jodom",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 74, "page": "R" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Jod je važan za rad štitne žlezde, mozak, kožu, želudac, gušteraču... Poboljšava imunitet, poseduje antikancerogena svojstva, kao i antibakterijske, antiparazitske, antigljivične i antivirusne sposobnosti. Čisti organizam od toksina, posebno podržava limfni sistem.\n\nZNAKOVI MANJKA JODA: osećaj tromosti, debljanje, smanjena kognitivna funkcija i budnost, lomljivi nokti, suva koža, hladne ruke i stopala, zatvor, oticanje vrata, opadanje kose, hroničan umor i malaksalost.\n\nNEDOSTATAK JODA može dovesti do teškog oblika hipotireoze, razvoja srčanih oboljenja, depresije, oštećenja perifernih delova nervnog sistema i odsustva ovulacije.\n\nPREVIŠE JODA: ni u čemu ne treba preterivati, pa tako ni uzimati veštačke dodatke joda (ukoliko se niste konsultovati sa lekarom), dovoljan unos će biti putem hrane, tj. balansirane ishrane.\n\nHrana bogata jodom: brusnice, šljive, žumance, krompir, ananas, morska so, alge, orasi, pasulj, banane, maline, morski plodovi, šargarepa, spanać, paradajz, rotkva, grašak, pečurke, jagode, kupus, luk, zelena salata...",
+    "tips": []
+  },
+  {
+    "id": "hrana-bogata-cinkom",
+    "title": "Hrana bogata cinkom",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 74, "page": "R" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Cink se bori protiv infekcija, pomaže u stvaranju novih ćelija u organizmu, učestvuje u pravilnom radu kardiovaskularnog sistema, uspostavlja nivo hormona.\n\nSIMPTOMI MANJKA su istanjena vlas kose, suva koža, ekcemi, bubuljice, blago otupela čula i oslabljen imunitet. Odličan je u kombinaciji sa C vitaminom, magnezijumom ili selenom.\n\nHrana bogata cinkom: pasulj, leblebije, sočivo, tofu, orah, indijski orah, čia seme, konopljino seme, laneno seme, bundevino seme, šitake pečurke, šampinjoni, grašak, spanać, avokado, bademi, suncokret, jaja, kinoa...",
+    "tips": []
+  }
+]

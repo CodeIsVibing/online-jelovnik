@@ -1,0 +1,55 @@
+[
+  {
+    "id": "supa-od-supljih-kostiju",
+    "title": "Supa od šupljih kostiju",
+    "category": "supe-corbe",
+    "source": { "scan": 34, "page": "L" },
+    "timeMinutes": 480,
+    "timeNote": "8 - 10 sati",
+    "tags": ["bez-glutena"],
+    "notes": ["bez ulja."],
+    "ingredients": [
+      { "raw": "2 glavice crnog luka", "qty": 2, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "5 većih cvetova brokolija", "qty": 5, "unit": "cvet", "ref": "brokoli" },
+      { "raw": "3 krompira", "qty": 3, "unit": "komad", "ref": "krompir" },
+      { "raw": "4 šargarepe", "qty": 4, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 sveža paprika", "qty": 1, "unit": "komad", "ref": "paprika" },
+      { "raw": "svežanj peršunovog lista", "qty": 1, "unit": "svežanj", "ref": "persun" },
+      { "raw": "1 paškanat ili koren peršuna", "qty": 1, "unit": "komad", "ref": "paskanat" },
+      { "raw": "2-3 juneće ili goveđe kosti", "qty": null, "unit": "komad", "ref": "kosti" },
+      { "raw": "3 lovorova lista", "qty": 3, "unit": "list", "ref": "lovorov-list" },
+      { "raw": "himalajska so i biber po želji", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so i biber po želji", "qty": null, "unit": null, "ref": "biber" }
+    ],
+    "method": "U veliku šerpu od 5 litara sipajte vodu i ubacite kosti koje ste prethodno oprali. Jednu glavicu luka iseckajte na kockice, a drugu ostavite celu. Šargarepu iseckajte na kolutiće, krompir na četvrtine, papriku i paškanat očistite i ostavite ih cele. Svo povrće, lišće peršuna i lovor ubacite u šerpu i začinite po želji. Kuvajte poklopljeno minimum 8 sati na tihoj vatri, ukoliko voda jako ispari, dodajte još malo. Kada se skuva, probajte još jednom da li je začinjena po vašem ukusu.",
+    "tips": [
+      "Krupnije povrće i ostatak supe možete sačuvati, izblendati štapnim mikserom i od njega napraviti krem čorbu ili sos za pastu.",
+      "Supu možete i zamrznuti u manjim posudicama, ukoliko vam je ostalo previše. Uvek ih možete iskoristiti u kuvanju ostalih jela, poput pirinča, pasti, čorbi..."
+    ]
+  },
+  {
+    "id": "potaz-od-sampinjona",
+    "title": "Potaž od šampinjona",
+    "category": "supe-corbe",
+    "source": { "scan": 34, "page": "R" },
+    "timeMinutes": 45,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i ulja."],
+    "ingredients": [
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "1 sveža paprika", "qty": 1, "unit": "komad", "ref": "paprika" },
+      { "raw": "1 šargarepa", "qty": 1, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 krompir", "qty": 1, "unit": "komad", "ref": "krompir" },
+      { "raw": "4 čena belog luka", "qty": 4, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 supena kašika suvog začina", "qty": 1, "unit": "supena kašika", "ref": "suvi-zacin" },
+      { "raw": "po ukusu himalajska so i biber", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "po ukusu himalajska so i biber", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "800 ml vode", "qty": 800, "unit": "ml", "ref": "voda" },
+      { "raw": "150 gr sirovih indijskih oraha", "qty": 150, "unit": "gr", "ref": "indijski-orah" },
+      { "raw": "400 gr šampinjona", "qty": 400, "unit": "gr", "ref": "sampinjoni" },
+      { "raw": "180 ml vode", "qty": 180, "unit": "ml", "ref": "voda" }
+    ],
+    "method": "Potopiti indijske orahe u vruću vodu i ostaviti sa strane. Crni luk, papriku, šargarepu, krompir i beli luk začiniti i kuvati poklopljeno u 800 ml vode. U drugoj šerpi u malo vode dinstati šampinjone dok ne puste vodu i ne omekšaju. Kada se povrće skuva, nakon 20ak minuta, dodati šampinjone i štapnim blenderom izblendati dok ne postane kremasto. Procediti indijske orahe i izblendati ih u blenderu sa 180 ml vode do fine strukture. Smesu dodati u šerpu, promešati i ostaviti da se krčka još nekoliko minuta.",
+    "tips": ["Uz potaž od šampinjona odlično se slažu bundevine semenke."]
+  }
+]

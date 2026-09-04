@@ -1,0 +1,40 @@
+[
+  {
+    "id": "vegeterijanski-sendvic",
+    "title": "Vegeterijanski sendvič",
+    "category": "dorucak-vecera",
+    "source": { "scan": 10, "page": "L" },
+    "timeMinutes": 5,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "kuvane leblebije (iz konzerve ili tegle)", "qty": null, "unit": null, "ref": "leblebije" },
+      { "raw": "sveže povrće po želji", "qty": null, "unit": null, "ref": "sveze-povrce", "optional": true },
+      { "raw": "neki od domaćih namaza (majonez, namaz od pasulja, graška, suncokreta...)", "qty": null, "unit": null, "ref": "domaci-namaz", "optional": true }
+    ],
+    "method": "Sastojke složiti u hleb po želji.",
+    "tips": ["Ovakva vrsta domaćeg sendviča je odličan odabir za početak dana. Izbacite iz upotrebe mesne prerađevine jer su pune aditiva koji pospešuju upalne procese u organizmu."]
+  },
+  {
+    "id": "pita-sa-sirom-od-speltinih-kora",
+    "title": "Pita sa sirom od speltinih kora",
+    "category": "dorucak-vecera",
+    "source": { "scan": 10, "page": "R" },
+    "timeMinutes": 40,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "500 gr urde", "qty": 500, "unit": "gr", "ref": "urda", "group": "Mokri sastojci" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja", "group": "Mokri sastojci" },
+      { "raw": "100 ml maslinovog ulja", "qty": 100, "unit": "ml", "ref": "maslinovo-ulje", "group": "Mokri sastojci" },
+      { "raw": "200 ml jogurta", "qty": 200, "unit": "ml", "ref": "jogurt", "group": "Mokri sastojci" },
+      { "raw": "1 kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Suvi sastojci" },
+      { "raw": "2 supene kašike kukuruznog brašna", "qty": 2, "unit": "supena kašika", "ref": "kukuruzno-brasno", "group": "Suvi sastojci" },
+      { "raw": "1 kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so", "group": "Suvi sastojci" },
+      { "raw": "8 listova speltinih kora za pitu bez aditiva", "qty": 8, "unit": "list", "ref": "speltine-kore" },
+      { "raw": "ulje i voda za premazivanje kora", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Umutiti jaja viljuškom, dodati ostale mokre sastojke i dobro promešati. U drugoj činiji pomešati suve sastojke, zatim sjediniti sve sastojke i još jednom dobro promešati. Dve kore staviti jednu na drugu i gornju premazati mešavinom pola pola maslinovog ulja i vode četkicom za mazanje. Ravnomerno rasporediti oko 5 punih supenih kašika smese na gornju koru i urolati. Dobije se ukupno 4 rolne (po dve kore). Svaku rolnu premazati mešavinom vode i ulja i posuti semenkama po želji. Preneti rolnu na tepsiju obloženu pek papirom. Peći oko 30 minuta na 200 stepeni. Ispečene pite prekriti pokvašenom i isceđenom čistom krpom i ostaviti da se prohladi.",
+    "tips": []
+  }
+]

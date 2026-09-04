@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rafaelo-kuglice",
+    "title": "Rafaelo kuglice",
+    "category": "slatko",
+    "source": { "scan": 59, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena"],
+    "notes": ["bez mlečnih proizvoda, brašna i šećera."],
+    "ingredients": [
+      { "raw": "150 gr sirovih indijskih oraha", "qty": 150, "unit": "gr", "ref": "indijski-orah" },
+      { "raw": "100 gr kokosovog brašna", "qty": 100, "unit": "gr", "ref": "kokosovo-brasno" },
+      { "raw": "2 supene kašike soka od limuna", "qty": 2, "unit": "supena kašika", "ref": "limun" },
+      { "raw": "3 supene kašike meda", "qty": 3, "unit": "supena kašika", "ref": "med" },
+      { "raw": "3 supene kašike otopljenog kokosovog ulja", "qty": 3, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "pečeni lešnik za unutrašnjost kuglica", "qty": null, "unit": null, "ref": "lesnik" },
+      { "raw": "kokosovo brašno za valjanje kuglica", "qty": null, "unit": null, "ref": "kokosovo-brasno" }
+    ],
+    "method": "Pre pripreme potopiti indijske orahe u vruću vodu oko 30 min. Procediti ih i izblendati sa kokosovim uljem i sokom od limuna do kremaste teksture. Dodati kokosovo brašno i med pa ponovo izblendati dok se sastojci ne sjedine. Smesu staviti u zamrzivač na 10 minuta da se stegne. Vaditi kašikom za sladoled da biste formirali iste veličine kuglice. U središte ubacite lešnik, a zatim ih uvaljajte u kokosovo brašno.",
+    "tips": []
+  },
+  {
+    "id": "sladoled",
+    "title": "Sladoled",
+    "category": "slatko",
+    "source": { "scan": 59, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena"],
+    "notes": ["bez šećera.", "Dva varijeteta: voćni i čokoladni."],
+    "ingredients": [
+      { "raw": "200 gr smrznutih banana", "qty": 200, "unit": "gr", "ref": "banana", "group": "Voćni sladoled" },
+      { "raw": "200 gr smrznutog voća", "qty": 200, "unit": "gr", "ref": "voce", "group": "Voćni sladoled" },
+      { "raw": "kašičica arome vanile", "qty": 1, "unit": "kašičica", "ref": "vanila", "group": "Voćni sladoled" },
+      { "raw": "100 ml grčkog jogurta (može i običan)", "qty": 100, "unit": "ml", "ref": "jogurt", "group": "Voćni sladoled" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med", "group": "Voćni sladoled" },
+      { "raw": "sok od pola limuna", "qty": 0.5, "unit": "komad", "ref": "limun", "group": "Voćni sladoled" },
+      { "raw": "300 gr smrznutih iseckanih banana", "qty": 300, "unit": "gr", "ref": "banana", "group": "Čokoladni sladoled" },
+      { "raw": "kašičica arome vanile ili ruma", "qty": 1, "unit": "kašičica", "ref": "ekstrakt", "group": "Čokoladni sladoled" },
+      { "raw": "100 ml grčkog jogurta (može i običan)", "qty": 100, "unit": "ml", "ref": "jogurt", "group": "Čokoladni sladoled" },
+      { "raw": "1 supena kašika sirovog kakao praha", "qty": 1, "unit": "supena kašika", "ref": "kakao", "group": "Čokoladni sladoled" },
+      { "raw": "2 supene kašike meda", "qty": 2, "unit": "supena kašika", "ref": "med", "group": "Čokoladni sladoled" }
+    ],
+    "method": "Sve sastojke izblendati u multipraktiku, pa izliti u modle ili konzumirati odmah. Za gušći sladoled koristite grčki jogurt. Možete koristiti razno smrznuto voće. Ukoliko koristite sveže voće, vreme zamrzavanja sladoleda trajaće duže.",
+    "tips": ["Kada vadite sladoled iz modle, stavite je pod vruću vodu desetak sekundi da bi se sladoled odvojio i lakše izvukao."]
+  }
+]

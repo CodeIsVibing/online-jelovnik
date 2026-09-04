@@ -1,0 +1,43 @@
+[
+  {
+    "id": "vocni-kolac",
+    "title": "Voćni kolač",
+    "category": "slatko",
+    "source": { "scan": 55, "page": "L" },
+    "timeMinutes": 45,
+    "tags": ["bez-glutena"],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "100 gr kukuruznog brašna", "qty": 100, "unit": "gr", "ref": "kukuruzno-brasno" },
+      { "raw": "100 ml jogurta", "qty": 100, "unit": "ml", "ref": "jogurt" },
+      { "raw": "2 zrele banane", "qty": 2, "unit": "komad", "ref": "banana" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja" },
+      { "raw": "2 supene kašike kokosovog ulja (može i maslinovo)", "qty": 2, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "200 gr voća (može i sveže i smrznuto)", "qty": 200, "unit": "gr", "ref": "voce" }
+    ],
+    "method": "Banane izgnječiti viljuškom da ostanu i komadići. Sjediniti sa ostalim sastojcima. Izliti u kalup obložen pek papirom dimenzija oko 25 cm dužine, 5 cm dubine i 10 cm širine. Peći na oko 150 stepeni 30-35 minuta dok ne porumeni. Spolja će biti hrskav, a iznutra mekan i sočan jer će voće pustiti sok.",
+    "tips": ["Od smrznutog voća možete koristiti iseckane šljive, kupine, višnje, maline, jagode... Višnje možete kombinovati sa kakaom (2 supene kašike). Sveže rendane jabuke odlično idu sa 1 kašičicom cejlonskog cimeta."]
+  },
+  {
+    "id": "zelene-palacinke",
+    "title": "Zelene palačinke",
+    "category": "slatko",
+    "source": { "scan": 55, "page": "R" },
+    "timeMinutes": 30,
+    "tags": [],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "400 gr speltinog mekog brašna", "qty": 400, "unit": "gr", "ref": "speltino-brasno" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja" },
+      { "raw": "150 ml biljnog mleka (može i jogurt, ali onda dodajte više vode kako bi palačinke bile tanje)", "qty": 150, "unit": "ml", "ref": "biljno-mleko" },
+      { "raw": "50 ml maslinovog ili kokosovog ulja", "qty": 50, "unit": "ml", "ref": "maslinovo-ulje" },
+      { "raw": "550 ml vode", "qty": 550, "unit": "ml", "ref": "voda" },
+      { "raw": "2 kašičice spiruline u prahu", "qty": 2, "unit": "kašičica", "ref": "spirulina" }
+    ],
+    "method": "Sve sastojke umutiti mikserom (ili u blenderu), smesa treba da bude dosta retka. Uključiti ringlu na visoku temperaturu da se tiganj ugreje, a zatim smanjiti na srednju i peći sa obe strane.",
+    "tips": [
+      "Spirulina je plavo-zelena alga koja sadrži vitamine A, C, B1, B2, B3, B5, B6, B7, B9, B12, antioksidanse, proteine, gvožđe, kalcijum, cink, fosfor, selen, magnezijum, omega 3 i 6 masne kiseline, stoga pomaže kod: podizanja imunog sistema, pospešuje rad digestivnog trakta, smanjenja apetita, podmlađivanja organizma, detoksikacije organizma, ubrzanja metabolizma, sniženja krvnog pritiska, poboljšanja krvne slike, poboljšanja kocentracije, povećanja fizičke izdržljivosti.",
+      "Pri kupovini spiruline gledajte da bude organska, iz razloga što bez provere najčešće bude prisutno različitih toksina. Takođe, kao i svu hranu, koliko god ona bila zdrava, konzumirajte umereno, bez preterivanja."
+    ]
+  }
+]

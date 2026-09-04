@@ -1,0 +1,46 @@
+[
+  {
+    "id": "beskvasni-hleb-sa-suncokretom",
+    "title": "Beskvasni hleb sa suncokretom",
+    "category": "hleb-peciva",
+    "source": { "scan": 44, "page": "L" },
+    "timeMinutes": 70,
+    "timeNote": "70 minuta + minimum 120 minuta fermentacije",
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, belog brašna, jaja, šećera i kvasca."],
+    "ingredients": [
+      { "raw": "500 gr brašna (mešati po ukusu)", "qty": 500, "unit": "gr", "ref": "brasno" },
+      { "raw": "500 ml mlake vode", "qty": 500, "unit": "ml", "ref": "voda" },
+      { "raw": "1 ravna supena kašika sode bikarbone bez aluminijuma", "qty": 1, "unit": "supena kašika", "ref": "soda-bikarbona" },
+      { "raw": "4 supene kašike suncokreta", "qty": 4, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "2 supene kašike maslinovog ulja", "qty": 2, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so" },
+      { "raw": "susam i lan za posipanje", "qty": null, "unit": null, "ref": "susam", "optional": true },
+      { "raw": "susam i lan za posipanje", "qty": null, "unit": null, "ref": "lanene-semenke", "optional": true }
+    ],
+    "method": "Sve sastojke sem sode bikarbone promešati kašikom, poklopiti i ostaviti na sobnoj temperaturi da se fermentiše minimum 2 sata, a ukoliko imate vremena, može ostati i 8 sati kako bi bio mekši i rupičastiji. Dodajte sodu bikarbonu, još jednom dobro promešajte, izlijte smesu u okrugli pleh obložen pek papirom, pospite semenkama i poklopite. Staviti u hladnu rernu i peći 1 sat na 200 stepeni. Ukoliko želite hrskaviju koricu, otklopite i pecite još nekoliko minuta.",
+    "tips": ["Seme suncokreta će promeniti boju u zelenu kada se ohladi. To je posledica reakcije hlorofila iz semena sa sodom bikarbonom."]
+  },
+  {
+    "id": "beskvasni-i-bezglutenski-hleb",
+    "title": "Beskvasni i bezglutenski hleb",
+    "category": "hleb-peciva",
+    "source": { "scan": 44, "page": "R" },
+    "timeMinutes": 40,
+    "tags": ["bez-glutena"],
+    "notes": ["bez mlečnih proizvoda, brašna, ulja i kvasca."],
+    "ingredients": [
+      { "raw": "4 jaja", "qty": 4, "unit": "komad", "ref": "jaja" },
+      { "raw": "100 ml vode", "qty": 100, "unit": "ml", "ref": "voda" },
+      { "raw": "90 gr sirovih badema (mogu i orasi ili indijski orasi)", "qty": 90, "unit": "gr", "ref": "badem" },
+      { "raw": "90 gr sirovih bundevinih semenki", "qty": 90, "unit": "gr", "ref": "bundevine-semenke" },
+      { "raw": "90 gr sirovog susama", "qty": 90, "unit": "gr", "ref": "susam" },
+      { "raw": "90 gr sirovog suncokreta", "qty": 90, "unit": "gr", "ref": "suncokret" },
+      { "raw": "90 gr lanenih semenki", "qty": 90, "unit": "gr", "ref": "lanene-semenke" },
+      { "raw": "pola kašičice himalajske soli", "qty": 0.5, "unit": "kašičica", "ref": "so" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona" }
+    ],
+    "method": "Uključite rernu na 180 stepeni. Umutite jaja viljuškom, dodajte so, sodu bikarbonu i vodu. Ostale sastojke usitnite u multipraktiku u brašno i dodajte je u prvu smesu, a zatim dobro promešajte. Izlijte u kalup za hleb koji ste prethodno obložili pek papirom i pecite oko 30 minuta.",
+    "tips": ["Hleb je malo tvrđi, kao da je tostiran, ali se ne raspada. Izuzetno je kompaktan pa ga možete seći na veoma tanke kriške."]
+  }
+]

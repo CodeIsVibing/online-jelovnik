@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sejk-green",
+    "title": "Green",
+    "category": "sejkovi",
+    "source": { "scan": 69, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "sok od pola limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "1 greni smit jabuka", "qty": 1, "unit": "komad", "ref": "jabuka" },
+      { "raw": "šaka celerovog lista", "qty": 1, "unit": "šaka", "ref": "celer" },
+      { "raw": "5 listova blitve", "qty": 5, "unit": "list", "ref": "blitva" },
+      { "raw": "vode do željene gustine", "qty": null, "unit": null, "ref": "voda" }
+    ],
+    "method": "Iscediti sok od limuna, oljuštiti jabuku i spojiti sa ostalim sastojcima. Blendati do kremaste strukture.",
+    "tips": []
+  },
+  {
+    "id": "sejk-imunomania-bomb",
+    "title": "Imunomania bomb",
+    "category": "sejkovi",
+    "source": { "scan": 69, "page": "L" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "polovina grejpa", "qty": 0.5, "unit": "komad", "ref": "grejpfrut" },
+      { "raw": "polovina limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "šaka smrznutih kupina", "qty": 1, "unit": "šaka", "ref": "kupina" },
+      { "raw": "1 supena kašika semena koprive", "qty": 1, "unit": "supena kašika", "ref": "kopriva" },
+      { "raw": "kockica svežeg đumbira", "qty": 1, "unit": "kockica", "ref": "djumbir" },
+      { "raw": "4 kockice sveže kelerabe", "qty": 4, "unit": "kockica", "ref": "keleraba" },
+      { "raw": "1 supena kašika konopljinog proteina", "qty": 1, "unit": "supena kašika", "ref": "protein-prah" },
+      { "raw": "mala vezica svežeg peršuna", "qty": 1, "unit": "vezica", "ref": "persun" },
+      { "raw": "četvrtina manje sveže cvekle", "qty": 0.25, "unit": "komad", "ref": "cvekla" },
+      { "raw": "1 supena kašika sirovih bundevinih semenki", "qty": 1, "unit": "supena kašika", "ref": "bundevine-semenke" },
+      { "raw": "1 supena kašika semenki lana", "qty": 1, "unit": "supena kašika", "ref": "lanene-semenke" },
+      { "raw": "vode do željene gustine", "qty": null, "unit": null, "ref": "voda" }
+    ],
+    "method": "Oljuštiti grejp, limun, đumbir, kelerabu i cveklu. Spojiti sa ostalim sastojcima i blendati do kremaste strukture, dodati vodu do željene gustine.",
+    "tips": ["Đumbir, kelerabu i cveklu možete oljuštiti, iseckati na kockice i zamrznuti sirove."]
+  }
+]

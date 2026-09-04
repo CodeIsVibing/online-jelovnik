@@ -1,0 +1,46 @@
+[
+  {
+    "id": "americka-pita",
+    "title": "Američka pita",
+    "category": "slatko",
+    "source": { "scan": 50, "page": "L" },
+    "timeMinutes": 45,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i ulja."],
+    "ingredients": [
+      { "raw": "250 gr svežeg ili smrznutog bobičastog voća", "qty": 250, "unit": "gr", "ref": "bobicasto-voce", "group": "Punjenje" },
+      { "raw": "5 supenih kašika čia semenki", "qty": 5, "unit": "supena kašika", "ref": "cia-semenke", "group": "Punjenje" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med", "group": "Punjenje" },
+      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "cimet", "optional": true, "group": "Punjenje" },
+      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "djumbir", "optional": true, "group": "Punjenje" },
+      { "raw": "ekstrakt po želji (rum, vanila...) - opciono", "qty": null, "unit": null, "ref": "ekstrakt", "optional": true, "group": "Punjenje" },
+      { "raw": "200 gr speltinog mekog brašna", "qty": 200, "unit": "gr", "ref": "speltino-brasno", "group": "Testo" },
+      { "raw": "100 ml tople vode", "qty": 100, "unit": "ml", "ref": "voda", "group": "Testo" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Testo" },
+      { "raw": "prstohvat himalajske soli", "qty": null, "unit": "prstohvat", "ref": "so", "group": "Testo" },
+      { "raw": "3 supene kašike maslinovog ulja", "qty": 3, "unit": "supena kašika", "ref": "maslinovo-ulje", "group": "Testo" },
+      { "raw": "2,3 kapi ulja za podmazivanje tiganja", "qty": null, "unit": null, "ref": "ulje", "group": "Testo" }
+    ],
+    "method": "Punjenje: ispasirajte voće viljuškom, a ukoliko koristite smrznute bobice prethodno ih odmrznite na sobnoj temperaturi. Dodajte med, začine ili ekstrakte po želji i čia semenke, dobro promešajte dok se sve semenke ne natope voćem. Premestite u frižider dok pripremate testo.\n\nTesto: pomešajte sve sastojke i umesite glatko i nelepljivo testo. Oblikujte jufku i podelite na dva dela i jednu polovinu razvucite tanko, na malo veće od veličine posude za pečenje (prečnika 20 cm), zatim i drugu.\n\nPosudu za pečenje obložite pek papirom, pa na dno smestite jednu polovinu testa tako da obloži i ivice posude. Ulijte punjenje, a drugu polovinu testa izrežite na trakice širine oko 1 cm. Slažite jedan red trakica vodoravno i spojite prstima sa testom koji je obložio ivice posude, pa drugi red uspravno koji ćete takođe spojiti sa testom koji je obložio ivice posude. Pecite na 180 stepeni dok testo ne porumeni, oko 20 minuta.",
+    "tips": []
+  },
+  {
+    "id": "bonzita",
+    "title": "Bonžita",
+    "category": "slatko",
+    "source": { "scan": 50, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i šećera."],
+    "ingredients": [
+      { "raw": "250 gr kikiriki putera bez šećera", "qty": 250, "unit": "gr", "ref": "kikiriki-puter" },
+      { "raw": "100 gr meda", "qty": 100, "unit": "gr", "ref": "med" },
+      { "raw": "70 gr ovsenih pahuljica", "qty": 70, "unit": "gr", "ref": "ovsene-pahuljice" },
+      { "raw": "150 gr orašastih plodova (mix po želji - lešnici, bademi, pistaći, orasi, indisjki orasi...)", "qty": 150, "unit": "gr", "ref": "orasasti-plodovi" },
+      { "raw": "50 gr suvog grožđa", "qty": 50, "unit": "gr", "ref": "suvo-grozdje" },
+      { "raw": "2 supene kašike kokosovog ulja", "qty": 2, "unit": "supena kašika", "ref": "kokosovo-ulje" }
+    ],
+    "method": "U jednu šerpicu sipati med, kokosovo ulje i kikiriki puter i na laganoj vatri mešati dok se ulje i med ne rastope i dobro sjedine sa kikiriki puterom. Za to koristite špatulu silikonsku, da biste mogli skinuti sve sa zidova šerpe. Mix orašastih plodova na krupnije komadiće iseckajte nožem ili ispulsirajte nekoliko puta na najjaču brzinu u multipraktiku. U činiji ih pomešajte sa preostalim sastojcima i promešajte. Spojite smesu iz šerpe i smesu iz činije, još jednom dobro promešajte i izručite u činiju otprilike dimenzija 20x20 cm ili 20x30 cm obloženu pek papirom. Špatulom rasporedite ravnomerno i utisnite dlanovima da se smesa dobro nabije i poveže. Smestite činiju na 20, 30 minuta u zamrzivač da se stegne pa isecite na željenu veličinu.",
+    "tips": ["Bonžitu čuvajte u frižideru da bi ostala stegnuta."]
+  }
+]

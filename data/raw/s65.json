@@ -1,0 +1,19 @@
+[
+  {
+    "id": "kakao-kocke",
+    "title": "Kakao kocke",
+    "category": "slatko",
+    "source": { "scan": 65, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna, šećera i jaja."],
+    "ingredients": [
+      { "raw": "4 supene kašike sirovog kakao praha", "qty": 4, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "4 supene kašike meda", "qty": 4, "unit": "supena kašika", "ref": "med" },
+      { "raw": "5 supenih kašika orašastog putera (badem, kikiriki, lešnik...)", "qty": 5, "unit": "supena kašika", "ref": "bademov-puter" },
+      { "raw": "4 supenih kašika otopljenog kokosovog ulja", "qty": 4, "unit": "supena kašika", "ref": "kokosovo-ulje" }
+    ],
+    "method": "Sve sastojke izblendajte u multipraktiku dok smesa ne postane ujednačena. Izlijte smesu u posudu obloženu pek papirom i smestite u zamrzivač da se stegne (oko 20-30 minuta, u zavisnosti koje je debljine). Isecite na željeni oblik i poslužite. Čuvajte u frižideru.",
+    "tips": []
+  }
+]

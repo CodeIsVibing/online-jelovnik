@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cokolada",
+    "title": "Čokolada",
+    "category": "slatko",
+    "source": { "scan": 61, "page": "L" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "100 gr istopljenog kakao putera", "qty": 100, "unit": "gr", "ref": "kakao-puter" },
+      { "raw": "50 gr istopljenog kokosovog ulja", "qty": 50, "unit": "gr", "ref": "kokosovo-ulje" },
+      { "raw": "2 - 3 supene kašike meda", "qty": null, "unit": "supena kašika", "ref": "med" },
+      { "raw": "2 supene kašike sirovog kakao praha", "qty": 2, "unit": "supena kašika", "ref": "kakao" }
+    ],
+    "method": "Kakao puter istopite na pari tako što ćete u jednu šerpicu sipati vode i ugrejati na šporetu, pa preko staviti vatrostalnu činiju sa puterom. Tome pridružite i kokosovo ulje i med, a zatim kakao. Smesu dobro promešajte dok se sastojci ne sjedine. Možete koristiti silikonske kalupe raznih oblika, ili smesu izliti u jednu posudu sa višim ivicama koju ćete obložiti pek papirom. Ukoliko želite deblju čokoladu, koristite manju posudu, a za tanju čokoladu vam je potrebna veća posuda. Čokoladu možete obogatiti lešnicima, indijskim orasima, bademima, orasima, kokosom, ekspandiranom rižom, suvim grožđem, smrznutim malinama, borovnicama...",
+    "tips": []
+  },
+  {
+    "id": "kolac-sa-makom",
+    "title": "Kolač sa makom",
+    "category": "slatko",
+    "source": { "scan": 61, "page": "R" },
+    "timeMinutes": 45,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna, šećera i jaja.", "Pre pripreme kolača potopiti indijske orahe u vruću vodu."],
+    "ingredients": [
+      { "raw": "100 gr ovsenih pahuljica", "qty": 100, "unit": "gr", "ref": "ovsene-pahuljice", "group": "Testo" },
+      { "raw": "100 gr mlevenog lana", "qty": 100, "unit": "gr", "ref": "lanene-semenke", "group": "Testo" },
+      { "raw": "70 gr kokosovog proteina", "qty": 70, "unit": "gr", "ref": "protein-prah", "group": "Testo" },
+      { "raw": "10 svežih otkoštenih urmi", "qty": 10, "unit": "komad", "ref": "urme", "group": "Testo" },
+      { "raw": "200 ml soka od narandže", "qty": 200, "unit": "ml", "ref": "narandza", "group": "Testo" },
+      { "raw": "1 supena kašika kokosovog ulja", "qty": 1, "unit": "supena kašika", "ref": "kokosovo-ulje", "group": "Testo" },
+      { "raw": "100 gr sirovih indijskih oraha", "qty": 100, "unit": "gr", "ref": "indijski-orah", "group": "Punjenje" },
+      { "raw": "250 gr mlevenog maka", "qty": 250, "unit": "gr", "ref": "mak", "group": "Punjenje" },
+      { "raw": "100 gr suvog grožđa", "qty": 100, "unit": "gr", "ref": "suvo-grozdje", "group": "Punjenje" },
+      { "raw": "4 supene kašike meda", "qty": 4, "unit": "supena kašika", "ref": "med", "group": "Punjenje" },
+      { "raw": "150 ml soka od narandže", "qty": 150, "unit": "ml", "ref": "narandza", "group": "Punjenje" },
+      { "raw": "prstohvat burbon vanile u prahu ili kašičica vanila ekstrakta", "qty": null, "unit": "prstohvat", "ref": "vanila", "group": "Punjenje" }
+    ],
+    "method": "Sve sastojke izblendati u multipraktiku. Smesa ne sme biti mnogo lepljiva, ukoliko jeste, dodajte još malo kokosovog proteina. Napravite jufku od testa, podelite na tri dela. Deo testa prebaciti na pek papir, preko staviti još jedan papir i razvući testo tanko na oko 25x25 cm. Isti postupak radite i sa preostala dva dela. Izrežite seckom za picu ili nožem lep oblik kvadrata sva tri testa. Sklonite ga sa strane. Punjenje se priprema takođe u multipraktiku. Indijske orahe dobro procedite i blendajte ih dok se svi sastojci ne sjedine. Podelite punjenje na dva dela. Preko jednog testa premažite jedan deo punjenja, zatim stavite drugi deo testa, opet punjenje i na kraju još jedan deo testa. Pecite na oko 140 stepeni oko 15 minuta. Testo bi trebalo da bude i dalje mekano i lako za sečenje. Pospite kolač prosejanim kokosovim proteinom, pa isecite na željeni oblik.",
+    "tips": []
+  }
+]

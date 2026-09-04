@@ -1,0 +1,188 @@
+[
+  {
+    "id": "banana-lesnik-keksici",
+    "title": "Banana-lešnik keksići",
+    "category": "slatko",
+    "source": {
+      "scan": 64,
+      "page": "L"
+    },
+    "timeMinutes": 15,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "bez mlečnih proizvoda, brašna, ulja i šećera."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 zrele banane",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "100 gr ovsenih pahuljica",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "50 gr krupno seckanih pečenih lešnika",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "lesnik"
+      }
+    ],
+    "method": "Banane izgnječiti viljuškom, dodati ovsene pahuljice i iseckane lešnike. Sve dobro promešati. Ostaviti u frižideru 5 minuta da se stegne. Uključiti rernu na 160 stepeni. Obložiti tepsiju pek papirom, kašikom vaditi smesu i oblikovati u oblik keksa. Peći oko 15 minuta dok kekići ne porumene.",
+    "tips": []
+  },
+  {
+    "id": "sirova-torta-od-jagoda-i-kupina",
+    "title": "Sirova torta od jagoda i kupina",
+    "category": "slatko",
+    "source": {
+      "scan": 64,
+      "page": "R",
+      "continuedOn": {
+        "scan": 65,
+        "page": "L"
+      }
+    },
+    "timeMinutes": 30,
+    "timeNote": "30 minuta + vreme stezanja fila u zamrzivaču",
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [
+      "bez mlečnih proizvoda, brašna, šećera i jaja."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 gr sirovih badema",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "badem",
+        "group": "Kora"
+      },
+      {
+        "raw": "100 gr sirovog suncokreta",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "suncokret",
+        "group": "Kora"
+      },
+      {
+        "raw": "2 supene kašike sirovog kakao praha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao",
+        "group": "Kora"
+      },
+      {
+        "raw": "15 otkoštenih svežih urmi",
+        "qty": 15,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Kora"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "qty": null,
+        "unit": "prstohvat",
+        "ref": "so",
+        "group": "Kora"
+      },
+      {
+        "raw": "2 supene kašike istopljenog kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Kora"
+      },
+      {
+        "raw": "500 gr sirovih indijskih oraha",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "indijski-orah",
+        "group": "Fil baza"
+      },
+      {
+        "raw": "200 ml nezaslađenog biljnog mleka (bademovo, kokosovo...)",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "biljno-mleko",
+        "group": "Fil baza"
+      },
+      {
+        "raw": "prstohvat burbon vanile u prahu ili kašičica ekstrakta od vanile",
+        "qty": null,
+        "unit": "prstohvat",
+        "ref": "vanila",
+        "group": "Fil baza"
+      },
+      {
+        "raw": "2 supene kašike meda",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Fil baza"
+      },
+      {
+        "raw": "1 supena kašika istopljenog kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Fil baza"
+      },
+      {
+        "raw": "prstohvat soli",
+        "qty": null,
+        "unit": "prstohvat",
+        "ref": "so",
+        "group": "Fil baza"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun",
+        "group": "Fil baza"
+      },
+      {
+        "raw": "150 gr smrznutih jagoda",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "jagoda",
+        "group": "Fil 2"
+      },
+      {
+        "raw": "sok od pola limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun",
+        "group": "Fil 2"
+      },
+      {
+        "raw": "150 gr kupina",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "kupina",
+        "group": "Fil 3"
+      },
+      {
+        "raw": "sok od pola limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun",
+        "group": "Fil 3"
+      }
+    ],
+    "method": "*Indijske orahe potopite u vruću vodu na početku pripreme torte i sklonite u stranu.\n\nKora: u multipraktiku izblendajte bademe, suncokret, kakao i so na što sitnije. Dodajte urme i ulje dok smesa ne postane ujednačena i lepljiva. Istresite smesu u kalup za tortu sa odvajajućim dnom koje ste obložili pek papirom (možete koristiti mali, a visoki kalup ili veći, a niži kalup), a zatim prstima dobro utisnite na dno. Sklonite u zamrzivač da se stegne dok pripremate fil.\n\nFil baza: sve sastojke izblendajte dok smesa ne postane glatka. Fil podelite na tri dela.\n\nFil 1 čini fil baza bez izmena. Izlijte ga preko kore, poravnajte i vratite u zamrzivač da se stegne.\n\nFil 2: u ovaj fil dodajete jagode i sok od limuna. Blendajte dok smesa ne postane glatka. Fil će biti roze boje. Izlijte ga preko fila 1, poravnajte i vratite u zamrzivač da se stegne.\n\nFil 3: u ovaj fil dodajete kupine i sok od limuna. Blendajte dok smesa ne postane glatka. Fil će biti ljubičaste boje. Izlijte ga preko fila 2, poravnajte i vratite u zamrzivač da se stegne.",
+    "tips": [
+      "Tortu izvadite iz zamrzivača 10 - 15 minuta pre posluživanja.",
+      "Po želji tortu ukrasite svežim voćem, kokosom, seckanim bademima, jestivim cvećem, domaćom čokoladom..."
+    ]
+  }
+]

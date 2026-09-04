@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pica-sa-podlogom-od-karfiola",
+    "title": "Pica sa podlogom od karfiola",
+    "category": "rucak",
+    "source": { "scan": 27, "page": "L" },
+    "timeMinutes": 45,
+    "tags": ["bez-glutena"],
+    "notes": ["bez brašna, ulja i šećera."],
+    "ingredients": [
+      { "raw": "veća glavica karfiola", "qty": 1, "unit": "glavica", "ref": "karfiol" },
+      { "raw": "1 jaje", "qty": 1, "unit": "komad", "ref": "jaja" },
+      { "raw": "30 gr kačkavalja ili mocarele", "qty": 30, "unit": "gr", "ref": "kackavalj" },
+      { "raw": "1 supena kašika origana", "qty": 1, "unit": "supena kašika", "ref": "origano" },
+      { "raw": "prstohvat himalajske soli i bibera", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "prstohvat himalajske soli i bibera", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "pelat ili kečap bez šećera i nadev po želji", "qty": null, "unit": null, "ref": "pelat", "optional": true },
+      { "raw": "pelat ili kečap bez šećera i nadev po želji", "qty": null, "unit": null, "ref": "nadev", "optional": true }
+    ],
+    "method": "Karfiol operite i isecite na komade, prespite u multipraktik i izblendajte na sitno. Ubacite usitnjeni karfiol u litar ključale vode i neka se kuva 3,4 minuta. Procedite što više u cediljki i ostavite da se hladi i još malo procedi. Kada se smesa prohladi, jednu činiju obložite čistom krpom i u nju prespite karfiol. Polako zavrćite krpu u krug na vrhu kako bi se iscedila voda koja je preostala u karfiolu. Uključite rernu na 200 stepeni. Kada ste dobro iscedili vodu (karfiol će ličiti na sir), u tu smesu dodajte jaje, sir, origano, so i biber. Izmešajte dobro dok se sve lepo ne sjedini. Obložite pleh pek papirom (dimenzija oko 20x30 cm) i oblikujte testo od smese, debljine oko pola cm. Peći oko 20 minuta, dok testo ne porumeni. Premažite ga pelatom ili kečapom bez šećera i stavite nadev po želji (tunjevinu, kukuruz, papriku, sir...). Vratite picu u rernu i zapecite još nekoliko minuta dok se sir ne istopi.",
+    "tips": []
+  },
+  {
+    "id": "pekarski-krompir-sa-kinoa-pljeskavicama",
+    "title": "Pekarski krompir sa kinoa pljeskavicama",
+    "category": "rucak",
+    "source": { "scan": 27, "page": "R" },
+    "timeMinutes": 60,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i jaja.", "Kinou potopiti u hladnu vodu pre pripreme obroka."],
+    "ingredients": [
+      { "raw": "1 kg krompira", "qty": 1000, "unit": "gr", "ref": "krompir", "group": "Pekarski krompir" },
+      { "raw": "sok od limuna", "qty": null, "unit": null, "ref": "limun", "group": "Pekarski krompir" },
+      { "raw": "1 supena kašika mlevene paprike", "qty": 1, "unit": "supena kašika", "ref": "mlevena-paprika", "group": "Pekarski krompir" },
+      { "raw": "3 supene kašike kukuruznog griza", "qty": 3, "unit": "supena kašika", "ref": "kukuruzni-griz", "group": "Pekarski krompir" },
+      { "raw": "kašičica belog luka u prahu", "qty": 1, "unit": "kašičica", "ref": "beli-luk", "group": "Pekarski krompir" },
+      { "raw": "kašičica origana", "qty": 1, "unit": "kašičica", "ref": "origano", "group": "Pekarski krompir" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so", "group": "Pekarski krompir" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje", "group": "Pekarski krompir" },
+      { "raw": "250 gr kuvane leblebije (iz konzerve ili tegle)", "qty": 250, "unit": "gr", "ref": "leblebije", "group": "Kinoa pljeskavice" },
+      { "raw": "100 gr kinoe", "qty": 100, "unit": "gr", "ref": "kinoa", "group": "Kinoa pljeskavice" },
+      { "raw": "1 sveža crvena paprika", "qty": 1, "unit": "komad", "ref": "paprika", "group": "Kinoa pljeskavice" },
+      { "raw": "šaka svežeg peršuna", "qty": 1, "unit": "šaka", "ref": "persun", "group": "Kinoa pljeskavice" },
+      { "raw": "2 supene kašike kukuruznog brašna", "qty": 2, "unit": "supena kašika", "ref": "kukuruzno-brasno", "group": "Kinoa pljeskavice" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk", "group": "Kinoa pljeskavice" },
+      { "raw": "2 čena belog luka", "qty": 2, "unit": "čen", "ref": "beli-luk", "group": "Kinoa pljeskavice" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "biber", "group": "Kinoa pljeskavice" }
+    ],
+    "method": "Pekarski krompir: krompir oljuštite, i kuvajte ga sa sokom od limuna u ključaloj vodi oko 10 minuta. Rernu uključiti na 200 stepeni. Procediti ga i preručiti u veliku činiju. Ostale sastojke pospite preko krompira i sve dobro promešajte. Na pleh obložen pek papirom preručite začinjeni krompir, ravnomerno ga rasporedite i poprskajte maslinovim uljem. Peći oko 40 minuta, povremeno promešati da se dobro zapeče svaki krompir.\n\nKinoa pljeskavice: kinou procediti i dobro oprati, zatim kuvati u vodi razmere 1:2 dok ne omekša. Procediti i skloniti sa strane. Dok se kinoa kuva, izdinstajte seckani luk i seckanu papriku dok ne omekša pa skloniti sa strane. Leblebiju, začine i peršun izblendati dok smesa ne postane glatka. Spojiti kinou, blendanu smesu i dinstanim povrćem, dobro promešati da se svi sastojci sjedine. Praviti željeni oblik (može i ćufte) i peći u rerni na plehu obloženom pek papirom na 180 stepeni dok ne porumene.",
+    "tips": []
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "id": "granola-hrskavi-musli",
+    "title": "Granola (hrskavi musli)",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 5,
+      "page": "L"
+    },
+    "timeMinutes": 25,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "bez mlečnih proizvoda i šećera."
+    ],
+    "ingredients": [
+      {
+        "raw": "200 gr ovsenih pahuljica (ili ražanih, speltinih, ječmenih, pšeničnih...)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "20 gr grubo iseckanih sirovih lešnika",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "lesnik"
+      },
+      {
+        "raw": "20 gr grubo iseckanih sirovih badema",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "1 šaka suvog grožđa (ili iseckanih suvih šljiva)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "suvo-grozdje"
+      },
+      {
+        "raw": "2 supene kašike sirovih bundevinih semenki",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "2 supene kašike sirovog suncokreta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "2 supene kašike lanenog semena",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "2 supene kašike sirovog susama",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "susam"
+      },
+      {
+        "raw": "2 supene kašike čia semenki",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "cia-semenke"
+      },
+      {
+        "raw": "4 supene kašike meda",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika cejlonskog cimeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 supena kašika kokosa (ili sirovog kakao praha)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      }
+    ],
+    "method": "U veću posudu sipati sve sastojke sem meda, cimeta i kokosa. Dobro promešati. Prebaciti smesu u tepsiju obloženu pek papirom i rasporediti jednako. Zatim prošarati medom. Peći na 150 stepeni, 20 minuta, a na svakih 5 minuta promešati kašikom. Kada se ispeče, izvaditi iz rerne i posuti ravnomerno cimetom i kokosom i ostaviti da se ohladi. Na kraju još jednom promešati i prebaciti u staklenu teglu. Čuvati na tamnom i suvom mestu.",
+    "tips": [
+      "Izbegavajte kandirano voće jer sadrži šećer, zaslađivače i konzervanse.",
+      "Suva brusnica i višnje sadrže dodati šećer.",
+      "Služiti uz jogurt, biljna mleka, prirodan sok ili vodu, kao i uz dodatke svežeg voća."
+    ]
+  },
+  {
+    "id": "kajgana-sa-tikvicama-i-prazilukom",
+    "title": "Kajgana sa tikvicama i prazilukom",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 5,
+      "page": "R"
+    },
+    "timeMinutes": 10,
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "pola manje sveže tikvice",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "5,6 kolutića praziluka",
+        "qty": null,
+        "unit": "kolutić",
+        "ref": "praziluk"
+      },
+      {
+        "raw": "supena kašika iseckanog neslanog blanširanog kikirikija",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kikiriki"
+      },
+      {
+        "raw": "pola sveže crvene paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "3 čeri paradajza",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "ceri-paradajz"
+      },
+      {
+        "raw": "šaka sveže rukole",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "rukola"
+      },
+      {
+        "raw": "himalajska so",
+        "qty": null,
+        "unit": null,
+        "ref": "so"
+      },
+      {
+        "raw": "limunov sok",
+        "qty": null,
+        "unit": null,
+        "ref": "limun"
+      },
+      {
+        "raw": "ulje za pripremu kajgane",
+        "qty": null,
+        "unit": null,
+        "ref": "ulje"
+      }
+    ],
+    "method": "Umutiti jaja viljuškom, dodati so po želji, izrendati tikvicu i iseckati praziluk na kolutiće. Nauljiti tiganj i dinstati kratko praziluk i tikvicu. Zatim dodati jaja i peći još nekoliko minuta. Kajganu posuti seckanim kikirikijem i poslužiti uz što raznovrsniju svežu salatu koju ćete začiniti po želji i preliti limunovim sokom.",
+    "tips": []
+  }
+]

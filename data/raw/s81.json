@@ -1,0 +1,34 @@
+[
+  {
+    "id": "dodati-seceri-u-proizvodima",
+    "title": "Dodati šećeri u proizvodima",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 81,
+      "page": "L"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Zašto se dodaje šećer u razne proizvode, kako slatke, tako i slane? Zato što, pored ostalog, daje bolji ukus, izaziva zavisnost i povećava apetit.\n\nI kada na proizvodima piše „integralno\", „zdravo\", „fitness\", „wellness\", „sport\", „posno\", ne znači da nemaju dodate šećere i ostale veštačke zaslađivače. Takođe, to što kupujemo u prodavnicama zdrave hrane, ne mora se podrazumevati da je proizvod potpuno zdrav i bezbedan.\n\nNutritivna tablica pokazuje količinu ukupnih šećera koje sadrži proizvod. Pod sastavom možemo videti koji su to dodati šećeri i zaslađivači.\n\nMogu se pronaći pod nazivima kao što su šećer, ječmeni slad, smeđi šećer, šećer od šećerne trske, kukuruzni šećer, visoko-fruktozni sirup, fruktoza, dekstroza, glukozno-fruktozni sirup, glukozni sirup, maltoza, maltodekstrin...\n\nPrimer kupovnih proizvoda koji sadrže dodate, najčešće skrivene šećere su pite, peciva, hleb, kečap, majonez, senf, soja sos, sos za roštilj, određena biljna mleka, Plazma, Bonžita, čips, štapići, paštete, kobasice, salame, pečenice, slanine, supe iz kesice i kocki, sok od paradajza, kandirano i konzervirano voće i povrće, kaše, musli, sladoledi, voćni jogurti, određeni kikiriki puteri, vode sa aromom, ledeni čajevi, gusti i bistri sokovi, energetska pića, povrće iz tegli poput cvekle i krastavaca i mnogi drugi.\n\nZato je veoma bitno da čitate sastav na proizvodima koje kupujete, i da naučite svoje buduće generacije.",
+    "tips": []
+  },
+  {
+    "id": "gluten",
+    "title": "Gluten",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 81,
+      "page": "R"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Gluten je protein koji se nalazi u određenim žitaricama koje su tradicionalno najzastupljenije u ishrani: pšenica, ječam, raž... Sve češća i veća konzumacija proizvoda koji sadrže gluten, dovelo je do stvaranja intolerancije organizma na ovaj protein kod mnogih ljudi.\n\nSimptomi osetljivosti na gluten:\n1. Nadutost\n2. Zatvor ili dijareja\n3. Bol u stomaku\n4. Glavobolje\n5. Osećaj umora\n6. Kožni problemi\n7. Depresija\n8. Neobjašnjivi gubitak telesne mase\n9. Anemija\n10. Anksioznost\n11. Dodatni autoimuni poremećaji\n12. Bol u mišićima i zglobovima\n13. Loša koncentracija i gubitak fokusa\n14. Zadržavanje tečnosti u organizmu\n\nIshrana bez glutena donosi:\n1. Brže izlečenje zapaljenjskih procesa\n2. Brže korigovanje telesne težine\n3. Oporavak rada štitne žlezde\n4. Umanjenje tegoba autoimunih bolesti\n5. Prevenciju pojave kancera\n\nNeke od bezglutenskih namirnica koje mogu zameniti žitarice: leblebija, tef, kinoa, pirinač, ovas, tapioka, heljda, kukuruz, amarant...\n\nOvas ne sadrži gluten, ALI gotovo svaki proizvod od ovsa sadrži tragove glutena jer se tradicionalno gaji pored pšenice, i obrađuje, skladišti i čisti na istim pogonima. Zato, ukoliko ste alergični ili želite da ga izbacite obratite pažnju da kupujete ovas i njegove proizvode deklarisane kao BEZ GLUTENA.",
+    "tips": []
+  }
+]

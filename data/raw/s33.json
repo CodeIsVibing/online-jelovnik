@@ -1,0 +1,46 @@
+[
+  {
+    "id": "paradajz-corba-sa-prosom",
+    "title": "Paradajz čorba sa prosom",
+    "category": "supe-corbe",
+    "source": { "scan": 33, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "ljuto", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez brašna, šećera i ulja."],
+    "ingredients": [
+      { "raw": "500 ml vode", "qty": 500, "unit": "ml", "ref": "voda" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "pola kašičice bibera", "qty": 0.5, "unit": "kašičica", "ref": "biber" },
+      { "raw": "2 supene kašike prosa", "qty": 2, "unit": "supena kašika", "ref": "proso" },
+      { "raw": "1 litar paradajz soka bez šećera", "qty": 1000, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "1 lovorov list", "qty": 1, "unit": "list", "ref": "lovorov-list" },
+      { "raw": "2 čena belog luka", "qty": 2, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so" }
+    ],
+    "method": "Proso potopite u hladnu vodu noć pre pripreme čorbe. Ujutru ga operite i procedite. Stavite vodu da proključa, iseckajte luk na sitne kockice i šargarepu na tanje kolutiće i kuvajte ih na jakoj vatri 15 minuta. Dodajte sok od paradajza, sitno iseckan beli luk, začine i proso. Kuvati dok se ne skuva proso, na blagoj vatri uz povremeno mešanje da se proso ne bi zalepilo za dno šerpe.",
+    "tips": ["Na ambalaži paradajz soka, pod sastavom proizvoda, pogledajte da li sadrži dodat šećer."]
+  },
+  {
+    "id": "krem-corba-od-povrca",
+    "title": "Krem čorba od povrća",
+    "category": "supe-corbe",
+    "source": { "scan": 33, "page": "R" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i ulja."],
+    "ingredients": [
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 paškanat ili koren peršuna (paškanat je slađi)", "qty": 1, "unit": "komad", "ref": "paskanat" },
+      { "raw": "šaka svežeg peršunovog lista", "qty": 1, "unit": "šaka", "ref": "persun" },
+      { "raw": "2 krompira", "qty": 2, "unit": "komad", "ref": "krompir" },
+      { "raw": "oko 800 ml vode", "qty": 800, "unit": "ml", "ref": "voda" },
+      { "raw": "himalajska so i biber po želji", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so i biber po želji", "qty": null, "unit": null, "ref": "biber" }
+    ],
+    "method": "Sve sastojke iseckajte na krupnije komade. U malo vode dinstajte crni luk dok ne omekša, začinite, a zatim dodajte ostatak vode i preostalo povrće. Kuvajte dok povrće ne omekša, oko 20 minuta. Sklonite sa vatre i štapnim mikserom izblendajte povrće. Ukoliko je čorba pregusta i pomalo grudvasta, dodajte još malo vode i izblendajte ponovo dok ne dobijete kremastu čorbu.",
+    "tips": ["Ova čorba vam uvek može biti baza za razne vrste čorbi. U nju možete dodati povrće poput brokolija, karfiola, celera, bundeve..."]
+  }
+]

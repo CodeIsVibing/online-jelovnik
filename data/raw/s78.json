@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ulja-i-masti-za-przenje-i-pecenje",
+    "title": "Ulja i masti za prženje i pečenje",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 78,
+      "page": "L"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "1. KOKOSOVO ULJE: za prženje je izuzetno stabilno, najzdravije je nerafinisano koje ostavlja blag ukus i miris kokosa.\n\n2. MASLINOVO ULJE: veoma zdravo ulje za prženje koje može izdržati visoke temperature bez oksidacije. Najzdravije je ekstra devičansko maslinovo ulje.\n\n3. GHEE MASLAC: gi je prečišćeni puter koji je dugotrajnim kuvanjem na blagoj vatri oslobođen vode, mlečnih proteina i šećera. Zadržava svoj prirodni ukus.\n\n4. PUTER: puter nije najbolji izbor za duboko prženje, bolji je za dinstanje na nižim temperaturama. Ako se previše zagreje, može se zapaliti i izgoreti.\n\n5. SVINJSKA DOMAĆA MAST: ima visoku tačku dimljenja pa prilikom pečenja i prženja ne oksidira i ne proizvodi štetne slobodne radikale. Industrijska svinjska mast se veoma često izbeljuje i dodaju joj se transmasti i time produžava rok trajanja. Najbolje je izabrati domaću mast, po mogućstvu od mangulice. Svinjska mast prilikom pečenja ostavlja blag šmek.\n\nMožete koristiti još i susamovo i lešnikovo ulje, ili ulje od avokada koje je kod nas dosta teško pronaći.",
+    "tips": []
+  },
+  {
+    "id": "kisele-i-alkalne-namirnice",
+    "title": "Kisele i alkalne (bazne) namirnice",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 78,
+      "page": "R"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Dokazano je da maligne ćelije, virusi i bakterije opstaju u kiseloj sredini, dok u baznoj (alkalnoj) ne mogu preživeti. Ovo je okvirna lista namirnica, od alkalnih do kiselih: ono što najčešće treba konzumirati, zatim namirnice koje treba izbegavati i potpuno izbaciti. Ni u čemu ne treba preterivati, uvek se treba truditi naći neki balans. Ni slučajno se ne treba opterećivati ovim, već koristiti kao neki opšti vodič, jer istovremeno i loše emocije kao što su osećaj griže savesti, krivice, tuge, besa i očaja mogu dovesti do kiseljenja organizma.\n\nPH 10 (alkalno): spanać, brokoli, prokelj, kupus, šargarepa, krastavac, crni luk, kelj, karfiol, artičoka, limeta, limun, rotkvica, celer, klice raznog bilja.\n\nPH 9: avokado, zelena salata, tikvica, cvekla, paradajz, peršun, korijander, grašak, patlidžan, beli luk, boranija, batat, borovnica, grožđe, kivi, dinja, smokva, urma, mango...\n\nPH 8: jabuka, badem, grejp, kukuruz, pečurke, masline, breskva, ananas, jagoda, banane, višnje, kajsija, paprika, integralni pirinač, kinoa...\n\nPH 7 (neutral): bundevino seme, maslinovo ulje, susam, sirovo kozije mleko, kokos, suncokret, praziluk, seme komorača...\n\nPH 6: jaja, riba, šljiva, kakao, većina žitarica, ovas, narandža, orasi, maline, lubenica, stevija, agava, lešnici, brazilski orah, spelta, sočivo...\n\nPH 5: med, krompir, beli pirinač, indijski orah, pirinčane galete, kafa, pistaći, kikiriki, pšenica...\n\nPH 4: ćuretina, piletina, kokice, alkohol, sir, pecivo, šećer, čokolada, testenina...\n\nPH 3: svinjetina, teletina, govedina, jagnjetina, zaslađeni sokovi, veštački zaslađivači, energetska pića, cigarete, procesuirana hrana, hrana iz konzerve...",
+    "tips": []
+  }
+]

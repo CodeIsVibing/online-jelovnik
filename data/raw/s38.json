@@ -1,0 +1,40 @@
+[
+  {
+    "id": "namaz-od-sirovog-graska",
+    "title": "Namaz od sirovog graška",
+    "category": "namazi-umaci",
+    "source": { "scan": 38, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "450 gr smrznutog graška", "qty": 450, "unit": "gr", "ref": "grasak" },
+      { "raw": "2 supene kašike tahinija (susamova pasta)", "qty": 2, "unit": "supena kašika", "ref": "tahini" },
+      { "raw": "50 ml maslinovog ulja", "qty": 50, "unit": "ml", "ref": "maslinovo-ulje" },
+      { "raw": "sok od polovine limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "4, 5 čenova belog luka", "qty": null, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so" },
+      { "raw": "pola kašičice bibera", "qty": 0.5, "unit": "kašičica", "ref": "biber" }
+    ],
+    "method": "Ostaviti grašak da se odledi na sobnoj temperaturi. Sve sastojke izblendati u multipraktiku sa pauzama da biste skinuli smesu sa zidova činije multipraktika. Kada smesa postane glatka i ujednačena, namaz je gotov.",
+    "tips": ["Namaz možete koristiti i za obogaćivanje drugih jela kao što su paste ili obrok salate."]
+  },
+  {
+    "id": "namaz-od-suncokreta",
+    "title": "Namaz od suncokreta",
+    "category": "namazi-umaci",
+    "source": { "scan": 38, "page": "R" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i ulja."],
+    "ingredients": [
+      { "raw": "300 gr pečenog suncokreta", "qty": 300, "unit": "gr", "ref": "suncokret" },
+      { "raw": "200 ml vode", "qty": 200, "unit": "ml", "ref": "voda" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "sok od jednog limuna", "qty": 1, "unit": "komad", "ref": "limun" },
+      { "raw": "1 supena kašika belog luka u prahu", "qty": 1, "unit": "supena kašika", "ref": "beli-luk" }
+    ],
+    "method": "Blendati sve sastojke do željene teksture. Ako želite ređi namaz, dodajte još malo vode, samo pripazite da se ne izgubi ukus začina.",
+    "tips": []
+  }
+]

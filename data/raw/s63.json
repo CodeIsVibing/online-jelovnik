@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ledene-jogurt-plocice",
+    "title": "Ledene jogurt pločice",
+    "category": "slatko",
+    "source": { "scan": 63, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena"],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "400 gr grčkog jogurta", "qty": 400, "unit": "gr", "ref": "jogurt" },
+      { "raw": "150 gr smrznutog ili svežeg voća", "qty": 150, "unit": "gr", "ref": "voce" },
+      { "raw": "2 supene kašike meda", "qty": 2, "unit": "supena kašika", "ref": "med" },
+      { "raw": "2 supene kašike kokosa", "qty": 2, "unit": "supena kašika", "ref": "kokos" },
+      { "raw": "prstohvat burbon vanile u prahu (može i kašičica vanila ekstrakta)", "qty": null, "unit": "prstohvat", "ref": "vanila" }
+    ],
+    "method": "U činiji pomešajte grčki jogurt, med i vanilu. Obložite posudu pek papirom, ulijte smesu i poređajte voće odgore, zatim pospite kokosom. Staviti u zamrzivač na sat vremena da se stegne, pa poslužite.",
+    "tips": []
+  },
+  {
+    "id": "bezglutenske-palacinke",
+    "title": "Bezglutenske palačinke",
+    "category": "slatko",
+    "source": { "scan": 63, "page": "R" },
+    "timeMinutes": 20,
+    "tags": ["bez-glutena"],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "400 gr kukuruznog brašna", "qty": 400, "unit": "gr", "ref": "kukuruzno-brasno" },
+      { "raw": "500 ml jogurta", "qty": 500, "unit": "ml", "ref": "jogurt" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja" },
+      { "raw": "4 supenih kašika maslinovog ulja", "qty": 4, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "kokosovo ulje za podmazivanje tiganja", "qty": null, "unit": null, "ref": "kokosovo-ulje" }
+    ],
+    "method": "Sve sastojke umutiti mikserom ili u multipraktiku/blenderu. Zagrejati tiganj na najjačoj vatri, zatim smanjiti za par podeoka, podmazati ga nauljenom četkicom. Izliti smesu u tiganj, peći 2 minuta pa je okrenuti i peći još 30ak sekundi. Palačinke poklopiti da bi bile mekše i savitljivije.",
+    "tips": []
+  }
+]

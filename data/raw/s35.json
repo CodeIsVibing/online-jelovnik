@@ -1,0 +1,24 @@
+[
+  {
+    "id": "zelena-krem-corba",
+    "title": "Zelena krem čorba",
+    "category": "supe-corbe",
+    "source": { "scan": 35, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i ulja."],
+    "ingredients": [
+      { "raw": "2 krompira", "qty": 2, "unit": "komad", "ref": "krompir" },
+      { "raw": "100 gr svežeg spanaća", "qty": 100, "unit": "gr", "ref": "spanac" },
+      { "raw": "pola manje kelerabe", "qty": 0.5, "unit": "komad", "ref": "keleraba" },
+      { "raw": "4 čena belog luka", "qty": 4, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 sveža zelena paprika", "qty": 1, "unit": "komad", "ref": "paprika" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "oko 500 ml vode", "qty": 500, "unit": "ml", "ref": "voda" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "biber" }
+    ],
+    "method": "Sve sastojke iseckajte na krupnije komade, sem spanaća. U malo vode dinstajte papriku dok ne omekša, zatim dodajte ostatak vode, krompir, kelerabu, crni luk i začine. 5 minuta pre nego što se skuvaju krompir i keleraba dodajte beli luk i spanać. Sklonite sa vatre i štapnim mikserom izblendajte povrće. Ukoliko je čorba pregusta i pomalo grudvasta, dodajte još malo vode i izblendajte ponovo dok ne dobijete kremastu čorbu.",
+    "tips": ["Za dodatno kremastu čorbu, stavite više krompira."]
+  }
+]

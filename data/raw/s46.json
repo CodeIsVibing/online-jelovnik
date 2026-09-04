@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tortilje-bez-mesenja",
+    "title": "Tortilje bez mešenja",
+    "category": "hleb-peciva",
+    "source": { "scan": 46, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, kvasca i šećera."],
+    "ingredients": [
+      { "raw": "300 gr speltinog mekog brašna", "qty": 300, "unit": "gr", "ref": "speltino-brasno" },
+      { "raw": "3 supene kašike maslinovog ulja", "qty": 3, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "prstohvat soli", "qty": null, "unit": "prstohvat", "ref": "so" },
+      { "raw": "oko 600 ml vode", "qty": 600, "unit": "ml", "ref": "voda" },
+      { "raw": "2,3 kapi ulja za premazivanje tiganja", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Sve sastojke umutiti mikserom ili izblendati u multipraktiku do fine strukture a zatim uliti smesu u tiganj i peći sa obe strane kao palačinke.",
+    "tips": [
+      "Kako bi tortilje bile savitljivije, poklapajte ih čim ih ispečete.",
+      "Za zelenu verziju tortilje ubacite šaku sirovog spanaća u smesu i dobro izblendajte. Ukus spanaća se ne oseti."
+    ]
+  },
+  {
+    "id": "palenta-nacosi",
+    "title": "Palenta naćosi",
+    "category": "hleb-peciva",
+    "source": { "scan": 46, "page": "R" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "200 gr palente", "qty": 200, "unit": "gr", "ref": "palenta" },
+      { "raw": "1 do 1 i po kašičice himalajske soli", "qty": null, "unit": "kašičica", "ref": "so" },
+      { "raw": "300 ml vruće vode", "qty": 300, "unit": "ml", "ref": "voda" },
+      { "raw": "40 ml maslinovog ulja", "qty": 40, "unit": "ml", "ref": "maslinovo-ulje" },
+      { "raw": "2 supene kašike sirovog suncokreta", "qty": 2, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "2 supene kašike sirovog susama", "qty": 2, "unit": "supena kašika", "ref": "susam" },
+      { "raw": "2 supene kašike lanenih semenki", "qty": 2, "unit": "supena kašika", "ref": "lanene-semenke" },
+      { "raw": "2 supene kašike bundevinih semenki", "qty": 2, "unit": "supena kašika", "ref": "bundevine-semenke" },
+      { "raw": "kašičica origana", "qty": 1, "unit": "kašičica", "ref": "origano" },
+      { "raw": "kašičica belog luka u prahu", "qty": 1, "unit": "kašičica", "ref": "beli-luk" },
+      { "raw": "prstohvat bibera", "qty": null, "unit": "prstohvat", "ref": "biber" }
+    ],
+    "method": "Sve sastojke sjediniti i dobro promešati. Tepsiju pokvasiti sa par kapljica vode i preko staviti pek papir. Smesu ravnomerno rasporediti kašikom po sredini a zatim staviti još jedan pek papir preko i dlanovima rasporediti smesu do ivica tepsija i izravnati. Skloniti gornji pek papir i peći na 220 stepeni dok se ivice odvoje i naćosi porumene. Oko 15 do 20 minuta.",
+    "tips": ["Ukoliko želite mekše i deblje naćose, celu smesu ispecite odjednom, a podelite u dva dela smesu i istanjite što više i pecite u dve ture za hrskavije i tanje."]
+  }
+]

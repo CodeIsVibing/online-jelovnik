@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kikiriki-kolac",
+    "title": "Kikiriki kolač",
+    "category": "slatko",
+    "source": { "scan": 57, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna, jaja, šećera i ulja."],
+    "ingredients": [
+      { "raw": "100 gr neslanog blanširanog kikirikija", "qty": 100, "unit": "gr", "ref": "kikiriki" },
+      { "raw": "100 gr putera od kikirikija bez šećera i aditiva", "qty": 100, "unit": "gr", "ref": "kikiriki-puter" },
+      { "raw": "2 supene kašike sirovog kakao praha", "qty": 2, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "3 zrele banane", "qty": 3, "unit": "komad", "ref": "banana" },
+      { "raw": "4,5 jagoda", "qty": null, "unit": "komad", "ref": "jagoda" }
+    ],
+    "method": "Kikiriki usitniti u multipraktiku, dodati preostale sastojke i blendati dok smesa ne postane kompaktna. Iseckati jagode na kolutiće, dodati u smesu i promešati kašikom. Izliti u kalup za hleb (oko 10 cm širina, 5 cm dubine i 25 cm dužine) obložen pek papirom i peći na 180 stepeni oko 20 minuta. Iseći kada se prohladi.",
+    "tips": ["Poslužiti sa prelivom od jagoda (izblendati jagode u blenderu)."]
+  },
+  {
+    "id": "karamel-kockice",
+    "title": "Karamel kockice",
+    "category": "slatko",
+    "source": { "scan": 57, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i šećera."],
+    "ingredients": [
+      { "raw": "350 gr putera od kikirikija bez šećera", "qty": 350, "unit": "gr", "ref": "kikiriki-puter" },
+      { "raw": "10-12 svežih otkoštenih urmi", "qty": null, "unit": "komad", "ref": "urme" },
+      { "raw": "5 supenih kašika kokosovog ulja", "qty": 5, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "ukoliko kikiriki puter nema soli, dodajte prstohvat", "qty": null, "unit": "prstohvat", "ref": "so", "optional": true }
+    ],
+    "method": "U multipraktiku izblendati urme sa kokosovim uljem, zatim dodati kikiriki puter i još jednom izblendati. Izliti u posudu obloženu pek papirom i smestiti u zamrzivač da se stegne. Iseći na željeni oblik i držati u zamrzivaču. Pre posluživanja kockice izvaditi na nekoliko minuta da se krenu topiti lagano, pa su spremne za jelo.",
+    "tips": []
+  }
+]

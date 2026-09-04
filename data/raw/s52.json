@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gnezda-sa-bademom",
+    "title": "Gnezda sa bademom",
+    "category": "slatko",
+    "source": { "scan": 52, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, šećera i brašna.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "180 gr sirovih indijskih oraha", "qty": 180, "unit": "gr", "ref": "indijski-orah" },
+      { "raw": "50 gr sirovog suncokreta", "qty": 50, "unit": "gr", "ref": "suncokret" },
+      { "raw": "80 gr kokosovog proteina", "qty": 80, "unit": "gr", "ref": "protein-prah" },
+      { "raw": "50 gr kokosa", "qty": 50, "unit": "gr", "ref": "kokos" },
+      { "raw": "2 supene kašike kokosovog ulja", "qty": 2, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "2 zrele banane", "qty": 2, "unit": "komad", "ref": "banana" },
+      { "raw": "sirovi bademi za sredinu gnezda", "qty": null, "unit": null, "ref": "badem" }
+    ],
+    "method": "Potopite indijske orahe na 20 minuta u vruću vodu. Iscedite i prespite u multipraktik. Dodajte ostale sastojke i blendajte dok smesa ne postane ujednačena i lepljiva. Oblikujte kuglice, a zatim blago spljoštite i utisnite badem u sredinu.",
+    "tips": []
+  },
+  {
+    "id": "cokoladni-puding",
+    "title": "Čokoladni puding",
+    "category": "slatko",
+    "source": { "scan": 52, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "2 zrele banane", "qty": 2, "unit": "komad", "ref": "banana" },
+      { "raw": "1 zreo avokado", "qty": 1, "unit": "komad", "ref": "avokado" },
+      { "raw": "2 supene kašike sirovog kakao praha", "qty": 2, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" }
+    ],
+    "method": "Sve sastojke izblendati u blenderu ili multipraktiku dok smesa ne postane glatka.",
+    "tips": [
+      "Za lepši užitak, banane i avokado prethodno ohladite u frižideru.",
+      "Avokado sadrži magnezijum, mangan, bakar, cink, gvožđe, fosfor, kalijum, vitamine B1, B2 i B3. Deluje antiseptički, antivirusno i antibakterijski."
+    ]
+  }
+]

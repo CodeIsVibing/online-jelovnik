@@ -1,0 +1,41 @@
+[
+  {
+    "id": "karamel-krem",
+    "title": "Karamel krem",
+    "category": "namazi-umaci",
+    "source": { "scan": 41, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, ulja i šećera."],
+    "ingredients": [
+      { "raw": "30 svežih otkoštenih urmi", "qty": 30, "unit": "komad", "ref": "urme" },
+      { "raw": "prstohvat burbon vanile u prahu ili par kapi ekstrakta od vanile", "qty": null, "unit": "prstohvat", "ref": "vanila" },
+      { "raw": "prstohvat himalajske soli", "qty": null, "unit": "prstohvat", "ref": "so" },
+      { "raw": "voda u kojoj su bile potopljene urme", "qty": null, "unit": null, "ref": "voda" }
+    ],
+    "method": "Potopiti urme u vruću vodu na 15 minuta dok kožica ne počne da se odvaja. Procediti ih i sačuvati vodu u kojoj su bile potopljene. Skinuti kožicu sa urmi, zatim izblendati sve sastojke, a vodu koju ste sačuvali dolivajte do željene gustine krema.",
+    "tips": [
+      "Ova mera urmi je za manju teglicu, po želji možete menjati količinu.",
+      "Krem možete koristiti kao namaz, zaslađivač za kolače, torte, smutije, sladolede i druge deserte."
+    ]
+  },
+  {
+    "id": "nugat-namaz",
+    "title": "Nugat namaz",
+    "category": "namazi-umaci",
+    "source": { "scan": 41, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, šećera i ulja.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "100 gr pečenih lešnika", "qty": 100, "unit": "gr", "ref": "lesnik" },
+      { "raw": "24 otkoštenih svežih urmi", "qty": 24, "unit": "komad", "ref": "urme" },
+      { "raw": "3 supene kašike sirovog kakao praha", "qty": 3, "unit": "supena kašika", "ref": "kakao" }
+    ],
+    "method": "Urme potopiti u vruću vodu na 30 minuta i ostaviti sa strane. Za to vreme u multipraktik ubaciti lešnike i kakao i blendati do fine strukture. Procediti urme i sačuvati vodu u kojoj su bile potopljene. Urme dodati u multipraktik, blendati i postepeno dodavati vodu koju ste sačuvali do željene gustine namaza. Čuvati u frižideru.",
+    "tips": [
+      "Ovaj namaz možete mazati na plačinke, galete ili stavljati u torte, kolače i smutije.",
+      "Lešnik sadrži vitamin E, B1, B6, folnu kiselinu, mangan, magnezijum, fosfor, cink i gvožđe. Nije samo ukusan, već veoma zdrav, trudite se da ga uvrstite u svakodnevnu ishranu. Dnevno uzmite šaku lešnika."
+    ]
+  }
+]

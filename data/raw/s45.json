@@ -1,0 +1,40 @@
+[
+  {
+    "id": "lepinjice",
+    "title": "Lepinjice",
+    "category": "hleb-peciva",
+    "source": { "scan": 45, "page": "L" },
+    "timeMinutes": 30,
+    "tags": [],
+    "notes": ["bez ulja, jaja, kvasca i šećera."],
+    "ingredients": [
+      { "raw": "300 gr speltinog mekog brašna", "qty": 300, "unit": "gr", "ref": "speltino-brasno" },
+      { "raw": "oko 250 gr grčkog jogurta", "qty": 250, "unit": "gr", "ref": "jogurt" },
+      { "raw": "kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so" },
+      { "raw": "1 supena kašika sode bikarbone", "qty": 1, "unit": "supena kašika", "ref": "soda-bikarbona" },
+      { "raw": "topla voda za premazivanje", "qty": null, "unit": null, "ref": "voda" },
+      { "raw": "semenke po želji (susam, lan, čia, suncokret...)", "qty": null, "unit": null, "ref": "semenke", "optional": true }
+    ],
+    "method": "Umesiti testo od sastojaka, ukoliko se lepi, dodajte još brašna. Uključite rernu na 180 stepeni. Dok se rerna greje, razvucite testo na debljinu oko 1 cm i čašom ili činijom odgovarajuće veličine izdubite testo. Prenesite lepinjice na pleh obložen pek papirom, premažite toplom vodom i pospite semenkama po želji. Pecite oko 15 minuta, dok ne porumene.",
+    "tips": []
+  },
+  {
+    "id": "tortilja",
+    "title": "Tortilja",
+    "category": "hleb-peciva",
+    "source": { "scan": 45, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, kvasca i šećera.", "Sastojci za dve tortilje."],
+    "ingredients": [
+      { "raw": "200 gr speltinog mekog brašna", "qty": 200, "unit": "gr", "ref": "speltino-brasno" },
+      { "raw": "100 ml tople vode", "qty": 100, "unit": "ml", "ref": "voda" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona" },
+      { "raw": "himalajske soli na vrh kašičice", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "3 supene kašike maslinovog ulja", "qty": 3, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "2,3 kapi ulja za podmazivanje tiganja", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Pomešajte sve sastojke i umesite glatko i nelepljivo testo. Oblikujte jufku i podelite na dva dela i jednu polovinu razvucite tanko, na veličinu tiganja, zatim i drugu. Pecite jednu stranu na srednjoj temperaturi 2 minuta, pa okrenite na drugu stranu na kratko. Ponovite postupak i sa drugim testom.",
+    "tips": []
+  }
+]

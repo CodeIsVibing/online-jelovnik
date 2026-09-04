@@ -1,0 +1,48 @@
+[
+  {
+    "id": "kasa-sa-jabukama-i-cimetom",
+    "title": "Kaša sa jabukama i cimetom",
+    "category": "dorucak-vecera",
+    "source": { "scan": 8, "page": "L" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "5 supenih kašika ovsenih pahuljica", "qty": 5, "unit": "supena kašika", "ref": "ovsene-pahuljice" },
+      { "raw": "2 oljuštene jabuke (što slađe)", "qty": 2, "unit": "komad", "ref": "jabuka" },
+      { "raw": "1 supena kašika čija semenki", "qty": 1, "unit": "supena kašika", "ref": "cia-semenke" },
+      { "raw": "1 supena kašika sirovog suncokreta", "qty": 1, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "2 supene kašike sirovog badema", "qty": 2, "unit": "supena kašika", "ref": "badem" },
+      { "raw": "1 kašičica cejlonskog cimeta", "qty": 1, "unit": "kašičica", "ref": "cimet" },
+      { "raw": "4 otkoštenih svežih urmi", "qty": 4, "unit": "komad", "ref": "urme" },
+      { "raw": "oko 100 ml vode (zavisi od gustine kaše koju volite)", "qty": 100, "unit": "ml", "ref": "voda" }
+    ],
+    "method": "Ovsene pahuljice i vodu sipajte u šerpu i promešajte, neka se krčka na laganoj vatri dok pripremate ostale sastojke. Sve sastojke sem jabuka usitnite u multipraktiku. Oljuštite i isecite jabuke na kriške. Dodajte ih u multipraktik i izblendajte dok ne postane kašasto. Čim ovsene pahuljice puste svoj beli „sok\", dodajte kašastu smesu i po potrebi još vode, i uz mešanje kuvajte dok se kaša ne sjedini i ne upije vodu koju ste dodali.",
+    "tips": [
+      "Ukoliko želite posebno kremastu kašu, možete usitniti i ovsene pahuljice u multipraktiku sa ostalim sastojcima.",
+      "Umesto urmi, možete dodati med. Njega dodajte kada se kaša malo prohladi jer gubi lekovita svojstva pri visokim temperaturama."
+    ]
+  },
+  {
+    "id": "omlet-palacinke-sa-spanacem",
+    "title": "Omlet palačinke sa spanaćem",
+    "category": "dorucak-vecera",
+    "source": { "scan": 8, "page": "R" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "3 jajeta", "qty": 3, "unit": "komad", "ref": "jaja" },
+      { "raw": "šaka svežeg baby ili običnog spanaća", "qty": 1, "unit": "šaka", "ref": "spanac" },
+      { "raw": "pola sveže paprike", "qty": 0.5, "unit": "komad", "ref": "paprika" },
+      { "raw": "4 čeri paradajza", "qty": 4, "unit": "komad", "ref": "ceri-paradajz" },
+      { "raw": "šaka sveže rukole", "qty": 1, "unit": "šaka", "ref": "rukola" },
+      { "raw": "pola kašičice sirovog susama", "qty": 0.5, "unit": "kašičica", "ref": "susam" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "limunov sok", "qty": null, "unit": null, "ref": "limun" },
+      { "raw": "ulje za pripremu omleta", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Jaja, spanać i so po ukusu izblendajte u blenderu dok ne postane glatka smesa. Tiganj premažite uljem, i podesite srednju toplotu ringle. Ulijte smesu u tiganj, pecite jednu stranu, a zatim okrenite i pecite drugu stranu, omlet urolajte kao palačinku i pospite susamom. Služite je sa svežom salatom prelivenom limunovim sokom i začinite po ukusu.",
+    "tips": ["Ukoliko nemate ili ne volite navedeno sveže povrće, zamenite ga sa omiljenim, neka bude bar 3 vrste, po mogućstvu različitih boja kako biste uneli što više različitih minerala i vitamina."]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lazanje-sa-socivom",
+    "title": "Lazanje sa sočivom",
+    "category": "rucak",
+    "source": { "scan": 31, "page": "L" },
+    "timeMinutes": 60,
+    "tags": ["bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda i jaja.", "Potopite indijske orahe u vruću vodu pre pripreme obroka."],
+    "seeAlso": ["tortilja"],
+    "ingredients": [
+      { "raw": "200 gr zelenog sočiva", "qty": 200, "unit": "gr", "ref": "socivo", "group": "Crveni sos" },
+      { "raw": "700 ml paradajz soka (bez šećera)", "qty": 700, "unit": "ml", "ref": "paradajz-sok", "group": "Crveni sos" },
+      { "raw": "1 crni luk", "qty": 1, "unit": "glavica", "ref": "crni-luk", "group": "Crveni sos" },
+      { "raw": "4 čena belog luka", "qty": 4, "unit": "čen", "ref": "beli-luk", "group": "Crveni sos" },
+      { "raw": "1 veća tikvica", "qty": 1, "unit": "komad", "ref": "tikvica", "group": "Crveni sos" },
+      { "raw": "1 mladi luk", "qty": 1, "unit": "komad", "ref": "mladi-luk", "group": "Crveni sos" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so", "group": "Crveni sos" },
+      { "raw": "maslinovo ulje za dinstanje", "qty": null, "unit": null, "ref": "maslinovo-ulje", "group": "Crveni sos" },
+      { "raw": "kašičica origana", "qty": 1, "unit": "kašičica", "ref": "origano", "group": "Crveni sos" },
+      { "raw": "200 gr sirovih indijskih oraha", "qty": 200, "unit": "gr", "ref": "indijski-orah", "group": "Beli sos" },
+      { "raw": "sok od limuna", "qty": null, "unit": null, "ref": "limun", "group": "Beli sos" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so", "group": "Beli sos" },
+      { "raw": "kašičica belog luka u prahu", "qty": 1, "unit": "kašičica", "ref": "beli-luk", "group": "Beli sos" },
+      { "raw": "200 ml vode", "qty": 200, "unit": "ml", "ref": "voda", "group": "Beli sos" },
+      { "raw": "tortilje bez mešenja (zelene)", "qty": null, "unit": null, "ref": "tortilja", "group": "Kore" },
+      { "raw": "1 paradajz i mocarela ili parmezan za poslednji sloj lazanja", "qty": 1, "unit": "komad", "ref": "paradajz", "group": "Kore" },
+      { "raw": "1 paradajz i mocarela ili parmezan za poslednji sloj lazanja", "qty": null, "unit": null, "ref": "kackavalj", "group": "Kore", "optional": true }
+    ],
+    "method": "Crveni sos: sočivo potopiti u hladnu vodu noć pre pripreme obroka. Ujutru ga procediti i dobro oprati, zatim kuvati u vodi oko 30 minuta. Crni, beli i mladi luk iseckati, tikvicu izrendati i dinstati na malo ulja pa dodati proceđeno sočivo i paradajz sok. Začiniti po ukusu i ostaviti da se krčka na tihoj vatri dok pripremate beli sos.\n\nBeli sos: procediti indijske orahe i izblendati sa ostalim sastojcima dok ne dobijete glatku teksturu.\n\nUključite rernu na 180 stepeni. Poređajte kore, zatim crveni, pa beli sos. Ređajte na ovaj način dok ne potrošite sastojke tako da poslednji red bude kora. Na kraju dodajte tanko sečene kriške paradajza, stavite u rernu na 15 minuta, izvadite i dodajte rendanu mocarelu ili parmezan. Vratite lazanje u rernu na kratko da se sir istopi i zapeče ukoliko volite.",
+    "tips": ["Kore: korišćene su tortilje bez mešenja (zelene) čiji recept možete pronaći u delu pod nazivom „Hleb/peciva/grickalice\"."]
+  },
+  {
+    "id": "proso-sa-pecurkama",
+    "title": "Proso sa pečurkama",
+    "category": "rucak",
+    "source": { "scan": 31, "page": "R" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i brašna."],
+    "ingredients": [
+      { "raw": "100 gr šampinjona", "qty": 100, "unit": "gr", "ref": "sampinjoni" },
+      { "raw": "150 gr prosa", "qty": 150, "unit": "gr", "ref": "proso" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "suvi začin", "qty": null, "unit": null, "ref": "suvi-zacin" },
+      { "raw": "biber", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "ulje za dinstanje", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Potopiti proso u hladnu vodu na 15 minuta. Dobro ga oprati i procediti. Kuvati ga u posoljenoj vodi u odnosu 1:3 (npr. šolja prosa u tri šolje vode) oko 15 minuta, dok ne omekša. Za to vreme iseckajte luk na kockice, pečurke na kolutiće, začinite po želji i dinstajte na malo ulja dok ne omekšaju, taman dok se proso ne skuva. Proso dobro iscedite i dodajte u tiganj sa pečurkama. Promešajte još jednom dok se sve lepo ne sjedini.",
+    "tips": []
+  }
+]

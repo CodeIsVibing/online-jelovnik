@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sejk-spicy-orange",
+    "title": "Spicy orange",
+    "category": "sejkovi",
+    "source": { "scan": 68, "page": "L" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "4 šargarepe", "qty": 4, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "300 ml vode", "qty": 300, "unit": "ml", "ref": "voda" },
+      { "raw": "1 smrznuta banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "1 mango", "qty": 1, "unit": "komad", "ref": "mango" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "četvrtina kašičice kurkume", "qty": 0.25, "unit": "kašičica", "ref": "kurkuma" },
+      { "raw": "sok od 1 narandže", "qty": 1, "unit": "komad", "ref": "narandza" },
+      { "raw": "sok od pola limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "koristite led ukoliko ne stavljate smrznutu bananu za lepšu strukturu", "qty": null, "unit": null, "ref": "led", "optional": true }
+    ],
+    "method": "Šargarepe oljuštiti i dobro izblendati sa vodom. Procediti i sačuvati sok. Iscediti sok od limuna i narandže i dodati u sok od šargarepe. Pridružiti ostale sastojke, a zatim sve izblendati do glatke strukture.",
+    "tips": []
+  },
+  {
+    "id": "sejk-breakfast",
+    "title": "Breakfast",
+    "category": "sejkovi",
+    "source": { "scan": 68, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "3 supene kašike ovsenih pahuljica", "qty": 3, "unit": "supena kašika", "ref": "ovsene-pahuljice" },
+      { "raw": "pola kašičice cejlonskog cimeta", "qty": 0.5, "unit": "kašičica", "ref": "cimet" },
+      { "raw": "1 smrznuta banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "1 supena kašika orašastog putera (kikiriki, badem, lešnik...)", "qty": 1, "unit": "supena kašika", "ref": "bademov-puter" },
+      { "raw": "100 ml biljnog mleka po želji (nezaslađeno)", "qty": 100, "unit": "ml", "ref": "biljno-mleko" },
+      { "raw": "prstohvat himalajske soli", "qty": null, "unit": "prstohvat", "ref": "so" },
+      { "raw": "vode do željene gustine", "qty": null, "unit": null, "ref": "voda" },
+      { "raw": "koristite led ukoliko ne stavljate smrznutu bananu za lepšu strukturu", "qty": null, "unit": null, "ref": "led", "optional": true }
+    ],
+    "method": "Prvo izblendajte ovsene pahuljice, cimet i so, a zatim dodajte ostale sastojke, i blendajte do kremaste strukture.",
+    "tips": []
+  },
+  {
+    "id": "sejk-pink",
+    "title": "Pink",
+    "category": "sejkovi",
+    "source": { "scan": 68, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "100 gr svežih ili smrznutih jagoda", "qty": 100, "unit": "gr", "ref": "jagoda" },
+      { "raw": "1 manja sveža ili smrznuta sirova tikvica", "qty": 1, "unit": "komad", "ref": "tikvica" },
+      { "raw": "sok od pola limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "biljnog mleka, grčkog jogurta ili vode do željene gustine", "qty": null, "unit": null, "ref": "biljno-mleko" }
+    ],
+    "method": "Oljuštiti tikvicu, iscediti limun, spojiti sa ostalim sastojcima i blendati do kremaste teksture.",
+    "tips": []
+  },
+  {
+    "id": "sejk-pina-colada",
+    "title": "Pina colada",
+    "category": "sejkovi",
+    "source": { "scan": 68, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "šaka seckanog ananasa", "qty": 1, "unit": "šaka", "ref": "ananas" },
+      { "raw": "150 ml kokosovog mleka bez šećera", "qty": 150, "unit": "ml", "ref": "biljno-mleko" },
+      { "raw": "2 supene kašike kokosa", "qty": 2, "unit": "supena kašika", "ref": "kokos" },
+      { "raw": "led do željene gustine (može i voda)", "qty": null, "unit": null, "ref": "led" },
+      { "raw": "po želji prstohvat burbon vanile u prahu ili kašičica ekstrakta od vanile", "qty": null, "unit": "prstohvat", "ref": "vanila", "optional": true }
+    ],
+    "method": "Sve sastojke blendati do glatke strukture.",
+    "tips": []
+  }
+]

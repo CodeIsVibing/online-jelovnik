@@ -1,0 +1,44 @@
+[
+  {
+    "id": "lesnik-mini-torta",
+    "title": "Lešnik mini torta",
+    "category": "slatko",
+    "source": { "scan": 53, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i šećera.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "100 gr pečenih lešnika", "qty": 100, "unit": "gr", "ref": "lesnik" },
+      { "raw": "100 gr sirovih suncokreta", "qty": 100, "unit": "gr", "ref": "suncokret" },
+      { "raw": "2 supene kašike kakaa", "qty": 2, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "5 otkoštenih svežih urmi", "qty": 5, "unit": "komad", "ref": "urme" },
+      { "raw": "prstohvat himalajske soli", "qty": null, "unit": "prstohvat", "ref": "so" },
+      { "raw": "2 supene kašike istopljenog kokosovog ulja", "qty": 2, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "4 supene kašike meda", "qty": 4, "unit": "supena kašika", "ref": "med" },
+      { "raw": "kašičica ekstrakta ruma", "qty": 1, "unit": "kašičica", "ref": "ekstrakt" },
+      { "raw": "grubo iseckanih pečenih lešnika za posipanje", "qty": null, "unit": null, "ref": "lesnik" }
+    ],
+    "method": "U multipraktiku usitniti lešnike i suncokret, kakao i so. Dodati urme pa još jednom izblendati, a zatim med, kokosovo ulje i rum pa blendati dok se sastojci ne ujednače, a smesa postane pomalo lepljiva. Obložite pek papirom dno koje se odvaja u kalupu za tortu prečnika oko 10 cm i izručiti smesu. Prstima utiskivati smesu na dno, izravnati je, pa posuti lešnicima i lagano ih utisnuti u tortu. Tortu stavite u zamrzivač da se stegne oko 30 minuta, isecite i poslužite.",
+    "tips": []
+  },
+  {
+    "id": "nanina-pita-sa-jabukama",
+    "title": "Nanina pita sa jabukama",
+    "category": "slatko",
+    "source": { "scan": 53, "page": "R" },
+    "timeMinutes": 45,
+    "tags": [],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "1 kg slatkih jabuka", "qty": 1000, "unit": "gr", "ref": "jabuka" },
+      { "raw": "600 gr speltinog mekog brašna", "qty": 600, "unit": "gr", "ref": "speltino-brasno" },
+      { "raw": "300 ml vruće vode", "qty": 300, "unit": "ml", "ref": "voda" },
+      { "raw": "prstohvat himalajske soli", "qty": null, "unit": "prstohvat", "ref": "so" },
+      { "raw": "3 pune kašike domaće svinjske masti (hladne, u čvrstom stanju)", "qty": 3, "unit": "supena kašika", "ref": "svinjska-mast" },
+      { "raw": "12 otkoštenih svežih urmi", "qty": 12, "unit": "komad", "ref": "urme" },
+      { "raw": "cejlonski cimet za posipanje", "qty": null, "unit": null, "ref": "cimet" }
+    ],
+    "method": "Brašno, vodu, so i mast izmešajte i umesite testo koje se ne lepi (po potrebi dodajte brašna) i ostavite sa strane. Jabuke oljuštite i iseckajte na šnite debljine oko 1 cm. Testo podelite na 2 jednaka dela. Jedan deo razvijte na veličinu tepsije i prebacite u nju. Prstima gurati testo do ivice tepsije. Posložite jabuke ravnomerno po testu, a preko raspodelite iscepkane urme. Razvijte drugi deo testa, prebacite preko jabuka i prstima gurajte testo do ivica tepsije i spojite dobro sa donjim testom da ne bi iscureo sok od jabuka. Viljuškom izbockajte gornje testo na više mesta i pospite cimetom. Peći na 200 stepeni dok se ivice pite ne odvoje od tepsije i dok pita ne porumeni.",
+    "tips": ["Umesto jabuka možete ubaciti i šljive ili višnje. Ukoliko volite jači ukus cimeta, pre pečenja pospite i preko jabuka."]
+  }
+]

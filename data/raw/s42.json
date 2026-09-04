@@ -1,0 +1,39 @@
+[
+  {
+    "id": "pekmez-od-sljiva",
+    "title": "Pekmez od šljiva",
+    "category": "namazi-umaci",
+    "source": { "scan": 42, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "1 kg smrznutih ili svežih šljiva", "qty": 1000, "unit": "gr", "ref": "sljiva" },
+      { "raw": "15 svežih otkoštenih urmi", "qty": 15, "unit": "komad", "ref": "urme" }
+    ],
+    "method": "U posudu za pečenje ravnomerno rasporediti šljive i urme i poklopiti. Peći na 200 stepeni oko 20 minuta, dok šljive ne omekšaju i ne puste sok. Dobro procediti i sačuvati sok. Kada se prohladi, izblendati u multipraktiku dok pekmez ne postane kompaktan. Ukoliko je potrebno razrediti pekmez, dodajte malo soka koji ste sačuvali. Čuvati u frižideru i pojesti u roku od 3 dana.",
+    "tips": [
+      "Na ovaj način možete napraviti i pekmez od kajsija, malina, jagoda, borovnica, kupina. Samo prilagodite vreme pečenja za sitnije voće.",
+      "Po želji možete dodati i cimet."
+    ]
+  },
+  {
+    "id": "sirovi-dzem",
+    "title": "Sirovi džem",
+    "category": "namazi-umaci",
+    "source": { "scan": 42, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "250 gr svežeg ili smrznutog bobičastog voća", "qty": 250, "unit": "gr", "ref": "bobicasto-voce" },
+      { "raw": "5 supenih kašika čia semenki", "qty": 5, "unit": "supena kašika", "ref": "cia-semenke" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "cimet", "optional": true },
+      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "djumbir", "optional": true },
+      { "raw": "ekstrakt po želji (rum, vanila...) - opciono", "qty": null, "unit": null, "ref": "ekstrakt", "optional": true }
+    ],
+    "method": "Ispasirajte voće viljuškom, a ukoliko koristite smrznute bobice prethodno ih odmrznite na sobnoj temperaturi. Dodajte med, začine ili ekstrakte po želji i čia semenke, dobro promešajte dok se sve semenke ne natope voćem. Prespite u teglu i stavite u frižider na 30 minuta, pre služenja još jednom promešajte.",
+    "tips": ["Ovaj džem možete koristiti kao premaz, fil u tortama, pitama i kolačima ili kao dodatak šejkovima."]
+  }
+]

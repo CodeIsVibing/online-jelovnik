@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cake-za-ukusniji-sejk",
+    "title": "Cake za ukusniji šejk",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 70, "page": "L" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Redosled ubacivanja sastojaka:\n1. Tečnost\n2. Zeleno lisnato povrće\n- izblendati -\n3. Mekano voće i povrće\n4. Zaleđeno voće i povrće\nPrvo se blenda na manju brzinu (da bi se dobro izblendalo), a zatim na veću brzinu.\n\nKako „popraviti\" šejk?\n\nPreviše GUST: postepeno dodavati manje količine vode, ceđenog soka ili biljnog mleka i blendati na max brzini 10-20 sekundi. Svež krastavac je pun vode i nutrijenata i zato je odlična alternativa tečnostima.\n\nPreviše REDAK: dodati smrznuto voće (npr. banane), puter od orašastih plodova, grčki jogurt, ovsene pahuljice ili kuvanu kinou. Blendati na max brzini 20-30 sekundi.\n\nPreviše GORAK: dodati ananas, narandžu, banane, jagode, vanilu ili kakao. Blendati na max brzini 10-20 sekundi. Baby lisnato povrće ima blaži ukus.\n\nPreviše „BRAŠNAST\": ukoliko ste dodali previše proteina u prahu, potrebno je dodati još voća. Ako je još uvek „brašnast\", dodajte pomalo i ostalih sastojaka. Blendati na max brzini 10-20 sekundi.\n\nPreviše SLADAK: potrebno je dodati neki od citrusnih sokova - limun, limetu, grejp... Blendati na max brzini 10-20 sekundi.\n\nPremalo SLADAK: dodati med, urme, javorov sirup ili steviju. Blendati na max brzini 10-20 sekundi. Slatke sastojke oprezno dodavati postepeno, malo po malo. Lubenica je odličan slatki dodatak.\n\nNedovoljno KREMAST: dodati avokado, grčki jogurt ili smrznute banane. Blendati na max brzini 10-20 sekundi. Za smrznuto voće je potrebno imati jak blender. Smrznuto voće daje kremastu strukturu bolje nego sveže koje je ponekad vodenasto.",
+    "tips": []
+  },
+  {
+    "id": "yerba-mate-caj",
+    "title": "Yerba mate čaj",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 70, "page": "R" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Tradicionalno se pije u Južnoj Americi, i to iz posudica izrađenih od tikve iz posebne metalne slamčice. Ima ukus poput zelenog čaja, meni lično lepši, ne toliko gorak. Sadrži vitamine A, B1, B2, B3 i B5, C, E i minerale kao što su kalcijum, gvožđe, magnezijum, mangan, fosfor, kalijum, selen, natrijum, sumpor i cink. Sadrži i druge korisne fitonutrijente kao što su tanini, minerali u tragovima, hlorofil, flavonoidi i 15 aminokiselina.\n\n1. POVEĆAVA ENERGIJU: pruža stanje budnosti slično kao kod kafe, bez neželjenih efekata kafe.\n\n2. POBOLJŠAVA FIZIČKE PERFORMANSE: koristno je za osobe koje pate od mentalnog ili fizičkog umora ili od sindroma hroničnog umora.\n\n3. POVEĆAVA MENTALNE FUNKCIJE: poboljšava pamćenje, raspoloženje i budnost.\n\n4. POBOLJŠAVA IMUNI SISTEM: veoma je bogat jedinjenjima koji se zovu saponini (prirodni emulgatori koji jačaju imuni sistem i imaju antioksidativna i antiinflamatorna svojstva).\n\n5. POBOLJŠAVA PROBAVU: leči konstipaciju, dijareju i probavne smetnje. Deluje protiv Ešerihije koli. Uništava crevne parazite. Takođe, je koristan i za prevenciju i lečenje infekcija urinarnog trakta i kamenca mokraćne bešike i bubrega.\n\n6. JAČA I POVEĆAVA GUSTINU KOSTIJU.\n\n7. POBOLJŠAVA ZDRAVLJE SRCA: koristan je za srčana oboljenja uključujući srčanu insuficijenciju, nepravilan rad srca i nizak krvni pritisak. Teobromin u čaju opušta krvne sudove omogćavajći bolji protok krvi.\n\n8. POMAŽE U UNIŠTAVANJU MALIGNIH ĆELIJA: sadrži nekoliko poznatih antikancerogenih jedinjenja kao što su saponini, ursolna kiselina, rutin, tanin, hlorogenska kiselina i hlorofil.",
+    "tips": []
+  }
+]

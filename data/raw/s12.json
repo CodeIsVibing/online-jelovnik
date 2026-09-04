@@ -1,0 +1,47 @@
+[
+  {
+    "id": "overnight-nutella-ovsena-kasa",
+    "title": "Overnight „Nutella\" ovsena kaša",
+    "category": "dorucak-vecera",
+    "source": { "scan": 12, "page": "L" },
+    "timeMinutes": 7,
+    "tags": ["bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["priprema kaše veče pre, bez kuvanja.", "bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "5 supenih kašika ovsenih pahuljica", "qty": 5, "unit": "supena kašika", "ref": "ovsene-pahuljice" },
+      { "raw": "oko 200 ml vode (zavisi od gustine kaše koja vam se dopada)", "qty": 200, "unit": "ml", "ref": "voda" },
+      { "raw": "1 supena kašika čija semenki", "qty": 1, "unit": "supena kašika", "ref": "cia-semenke" },
+      { "raw": "1 supena kašika sirovog suncokreta", "qty": 1, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "2 supene kašike pečenih lešnika", "qty": 2, "unit": "supena kašika", "ref": "lesnik" },
+      { "raw": "1 supena kašika sirovog susama", "qty": 1, "unit": "supena kašika", "ref": "susam" },
+      { "raw": "1 supena kašika sirovog kakao praha", "qty": 1, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "4 otkoštene sveže urme (po ukusu dodati još)", "qty": 4, "unit": "komad", "ref": "urme" }
+    ],
+    "method": "Ovsene pahuljice potopiti u vodu u velikoj tegli da odstoje dok pripremate ostatak. U multipraktiku usitniti sve ostale sastojke i tu smesu sipati u teglu i sve dobro promešati. Ostaviti u frižideru preko noći.",
+    "tips": [
+      "Unapred možete napraviti porcije za nekoliko dana.",
+      "Po želji, kao toping možete dodati seckanu bananu, lešnike, kokos..."
+    ]
+  },
+  {
+    "id": "gvakamole-tost-sa-jajima",
+    "title": "Gvakamole tost sa jajima",
+    "category": "dorucak-vecera",
+    "source": { "scan": 12, "page": "R" },
+    "timeMinutes": 15,
+    "tags": [],
+    "notes": [],
+    "seeAlso": ["gvakamole", "hleb"],
+    "ingredients": [
+      { "raw": "hleb", "qty": null, "unit": null, "ref": "hleb" },
+      { "raw": "jaja", "qty": null, "unit": null, "ref": "jaja" },
+      { "raw": "gvakamole", "qty": null, "unit": null, "ref": "gvakamole" },
+      { "raw": "origano", "qty": null, "unit": null, "ref": "origano" }
+    ],
+    "method": "Obariti jaja 10 minuta u ključaloj vodi. Iseći na kriške. Istostirati hleb, namazati gvakamole, dodati jaja i začiniti origanom.",
+    "tips": [
+      "Recept za gvakamole možete pronaći u odeljku namazi/umaci.",
+      "Recept za hleb možete pronaći u odeljku hleb."
+    ]
+  }
+]

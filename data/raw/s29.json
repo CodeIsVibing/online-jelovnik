@@ -1,0 +1,52 @@
+[
+  {
+    "id": "maskirana-salata",
+    "title": "Maskirana salata",
+    "category": "rucak",
+    "source": { "scan": 29, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, jaja i ulja."],
+    "ingredients": [
+      { "raw": "4 lista kelja srednje veličine", "qty": 4, "unit": "list", "ref": "kelj", "group": "Salata" },
+      { "raw": "3 brokoli cveta srednje veličine", "qty": 3, "unit": "cvet", "ref": "brokoli", "group": "Salata" },
+      { "raw": "1 crvena paprika", "qty": 1, "unit": "komad", "ref": "paprika", "group": "Salata" },
+      { "raw": "1 žuta paprika", "qty": 1, "unit": "komad", "ref": "paprika", "group": "Salata" },
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa", "group": "Salata" },
+      { "raw": "2 mlada luka", "qty": 2, "unit": "komad", "ref": "mladi-luk", "group": "Salata" },
+      { "raw": "šaka baby spanaća", "qty": 1, "unit": "šaka", "ref": "spanac", "group": "Salata" },
+      { "raw": "150 gr sirovih indijskih oraha", "qty": 150, "unit": "gr", "ref": "indijski-orah", "group": "Preliv" },
+      { "raw": "mala tikvica", "qty": 1, "unit": "komad", "ref": "tikvica", "group": "Preliv" },
+      { "raw": "sok od 1 limuna", "qty": 1, "unit": "komad", "ref": "limun", "group": "Preliv" },
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk", "group": "Preliv" },
+      { "raw": "1 mala glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk", "group": "Preliv" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so", "group": "Preliv" },
+      { "raw": "pola kašičice kurkume", "qty": 0.5, "unit": "kašičica", "ref": "kurkuma", "group": "Preliv" },
+      { "raw": "voda do željene gustine", "qty": null, "unit": null, "ref": "voda", "group": "Preliv" }
+    ],
+    "method": "Potopite indijske orahe dok pripremate ostale sastojke.\n\nSalata: sa listova kelja uklonite glavnu „žilu\", a ostatak usitnite u multipraktiku. Brokoli takođe usitnite u multipraktiku. Paprike iseckajte na sitne kockice, a šargarepe izrendajte. Mladi luk iseckajte na kolutiće. Te sastojke pomešajte i dodajte baby spanać.\n\nPreliv: indijske orahe procedite, prespite u blender i dodajte preostale sastojke. Vodu dodajte postepeno, do željene gustine preliva.\n\nSalatu preliti i dobro promešati dok se svi sastojci ne sjedine.",
+    "tips": []
+  },
+  {
+    "id": "pasta-u-sosu-od-povrca",
+    "title": "Pasta u sosu od povrća",
+    "category": "rucak",
+    "source": { "scan": 29, "page": "R" },
+    "timeMinutes": 30,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i jaja."],
+    "ingredients": [
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 paškanat ili koren peršuna (paškanat je slađi)", "qty": 1, "unit": "komad", "ref": "paskanat" },
+      { "raw": "šaka svežeg peršunovog lista", "qty": 1, "unit": "šaka", "ref": "persun" },
+      { "raw": "2 krompira", "qty": 2, "unit": "komad", "ref": "krompir" },
+      { "raw": "himalajska so i biber po želji", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so i biber po želji", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "testenina po želji (od leblebije, pirinčana, integralna...)", "qty": null, "unit": null, "ref": "testenina" }
+    ],
+    "method": "Sve sastojke iseckajte na krupnije komade. U malo vode dinstajte crni luk dok ne omekša, začinite, a zatim dodajte i preostalo povrće. Prelijte vodom, da ogrezne i poklopite. Kuvajte dok povrće ne omekša, oko 20 minuta. Dok se povrće kuva, u drugoj šerpi u ključaloj vodi kuvajte testeninu po uputstvu. Šerpu sa povrćem sklonite sa vatre i procedite, sačuvajte vodu u kojoj se kuvalo. Štapnim mikserom izblendajte povrće dok ne dobijete kremastu teksturu. Ukoliko je sos pregust, po malo dodajte vodu koju ste sačuvali do željene gustine. Kada je testenina omekšala, procedite je. Pomešajte sos i testeninu, začinite po potrebi još.",
+    "tips": ["Ovaj sos vam uvek može biti baza za razne vrste soseva. U njega možete dodati povrće poput brokolija, karfiola, celera, bundeve, paprike..."]
+  }
+]

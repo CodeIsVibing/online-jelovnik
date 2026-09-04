@@ -1,0 +1,160 @@
+[
+  {
+    "id": "proteinska-heljdokasa",
+    "title": "Proteinska heljdokaša",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 2,
+      "page": "L"
+    },
+    "timeMinutes": 10,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "bez mlečnih proizvoda i šećera."
+    ],
+    "ingredients": [
+      {
+        "raw": "5 supenih kašika sirovog heljdinog zrna",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "heljda"
+      },
+      {
+        "raw": "2 supene kašike neslanog blanširanog kikirikija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kikiriki"
+      },
+      {
+        "raw": "1 supena kašika sirovog suncokreta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "1 supena kašika sirove golice (bundevino seme)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "1 supena kašika čia semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "cia-semenke"
+      },
+      {
+        "raw": "1 supena kašika lanenih semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "1 puna supena kašika sirovog kakao praha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "4-5 otkoštenih svežih urmi",
+        "qty": null,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "50-100 ml vode",
+        "qty": null,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Heljdu potopite u hladnu vodu noć pre pripreme kaše. Ujutru je operite i procedite. Kuvajte je oko 5 minuta u malo vode i dobro procedite. Sve sastojke sem heljde i vode izblendajte u multipraktiku. U kuvanu heljdu dodajte izblendanu smesu i vode do željene gustine uz mešanje na laganoj vatri, dok se kaša u potpunosti ne sjedini i ne upije vodu koju ste dodali.",
+    "tips": [
+      "Za dodatno kremastu kašu možete izblendati i skuvanu heljdu sa ostalim sastojcima.",
+      "Servirajte uz dodatak seckanog kikirikija ili kašičicu nekog od orašastih putera bez šećera i aditiva."
+    ]
+  },
+  {
+    "id": "mafini-sa-sirom-i-spanacem",
+    "title": "Mafini sa sirom i spanaćem",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 2,
+      "page": "R"
+    },
+    "timeMinutes": 30,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so",
+        "group": "Suvi sastojci"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone bez aluminijuma",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona",
+        "group": "Suvi sastojci"
+      },
+      {
+        "raw": "6 supenih kašika speltinog mekog brašna",
+        "qty": 6,
+        "unit": "supena kašika",
+        "ref": "speltino-brasno",
+        "group": "Suvi sastojci"
+      },
+      {
+        "raw": "7 supenih kašika kukuruznog brašna",
+        "qty": 7,
+        "unit": "supena kašika",
+        "ref": "kukuruzno-brasno",
+        "group": "Suvi sastojci"
+      },
+      {
+        "raw": "šaka baby spanaća",
+        "qty": null,
+        "unit": "šaka",
+        "ref": "spanac",
+        "group": "Suvi sastojci"
+      },
+      {
+        "raw": "3 jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Mokri sastojci"
+      },
+      {
+        "raw": "300 ml jogurta",
+        "qty": 300,
+        "unit": "ml",
+        "ref": "jogurt",
+        "group": "Mokri sastojci"
+      },
+      {
+        "raw": "100 ml maslinovog ulja",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "maslinovo-ulje",
+        "group": "Mokri sastojci"
+      },
+      {
+        "raw": "250 gr izdrobljenog mladog sira",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "mladi-sir",
+        "group": "Mokri sastojci"
+      }
+    ],
+    "method": "Umutiti jaja viljuškom, dodati ostale mokre sastojke i promešati. U drugoj činiji pomešati suve sastojke, a zatim sjediniti sa mokrim sastojcima i još jednom sve dobro promešati. Sipati u modle za mafine do pola i posuti semenkama po želji. Peći oko 20 minuta na 200 stepeni.",
+    "tips": []
+  }
+]

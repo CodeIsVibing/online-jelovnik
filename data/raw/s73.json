@@ -1,0 +1,47 @@
+[
+  {
+    "id": "prirodni-antibiotici",
+    "title": "Prirodni antibiotici",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 73, "page": "L" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Beli luk, đumbir, ren, crni luk, ulje od origana, kurkuma, ehinacea, sirovi med, majčina dušica, karanfilić...",
+    "tips": []
+  },
+  {
+    "id": "cajna-mesavina-za-imunitet",
+    "title": "Čajna mešavina za imunitet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 73, "page": "L" },
+    "timeMinutes": 30,
+    "tags": [],
+    "notes": ["Ova čajna mešavina deluje na viruse i bakterije, snižava temperaturu, pomaže kod upale pluća i jača imunitet."],
+    "ingredients": [
+      { "raw": "50 gr matičnjaka", "qty": 50, "unit": "gr", "ref": "maticnjak" },
+      { "raw": "50 gr sladića", "qty": 50, "unit": "gr", "ref": "sladic" },
+      { "raw": "50 gr majčine dušice", "qty": 50, "unit": "gr", "ref": "majcina-dusica" },
+      { "raw": "50 gr zove", "qty": 50, "unit": "gr", "ref": "zova" },
+      { "raw": "50 gr korena omana", "qty": 50, "unit": "gr", "ref": "oman" },
+      { "raw": "250 ml ključale vode po porciji", "qty": 250, "unit": "ml", "ref": "voda" }
+    ],
+    "method": "Sve biljke pomešati. Supenu kašiku mešavine preliti sa 250 ml ključale vode, promešati i poklopiti. Ostaviti da odstoji 15 - 30 minuta, a zatim procediti i popiti dok je toplo. Pije se 3 do 4 puta na dan.",
+    "tips": []
+  },
+  {
+    "id": "konstipacija",
+    "title": "Konstipacija",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 73, "page": "R" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Konstipacija se odnosi na promenu pokretljivosti creva.\n\nSaveti koji mogu doprineti rešavanju ovog problema su:\n- uz svaki obrok uzmite 3 supene kašike semena lana uz malo vode;\n- svako jutro pre ili uz doručak pojedite suvu šljivu ili smokvu koju ste prethodno veče potopili u hladnu vodu, a ujutru malo ugrejte;\n- čaj od korena vodopije (cikorije) na prazan stomak;\n- svako jutro na prazan stomak popijte čašu vode sobne temperature;\n- u ishranu uvedite redovno konzumiranje svežeg voća, povrća, žitarica i semenki;\n- iz ishrane izbacite industrijski šećer;\n- svakodnevno se krećite po svežem vazduhu.\n\nRecept za rolat od suvih smokava: oprati 500 gr suvih smokava i izblendati u multipraktiku. Umesiti sa 5 gr praha lista sene. Oblikovati u rolat, umotati u providnu foliju i čuvati u frižideru. Ujutru na prazan stomak uzeti komad veličine lešnika (deca trećinu) sve dok se ne uspostavi normalno varenje.",
+    "tips": []
+  }
+]

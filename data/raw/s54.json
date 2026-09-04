@@ -1,0 +1,36 @@
+[
+  {
+    "id": "pecene-jabuke-sa-orasima-i-sladoledom-od-banane",
+    "title": "Pečene jabuke sa orasima i sladoledom od banane",
+    "category": "slatko",
+    "source": { "scan": 54, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "slatke jabuke", "qty": null, "unit": null, "ref": "jabuka" },
+      { "raw": "mleveni orasi", "qty": null, "unit": null, "ref": "orah" },
+      { "raw": "smrznute banane", "qty": null, "unit": null, "ref": "banana" },
+      { "raw": "cimet", "qty": null, "unit": null, "ref": "cimet" }
+    ],
+    "method": "Jabuke oljuštiti, izvaditi peteljku, koštice i tvrdi deo oko njih. Preseći ih na pola, a od svake polovine, spolju stranu iseći malo da ne bude okrugla, nego ravna pa da se ne bi ljuljala. U polovinu jabuke, na mestu gde ste izvadili koštice stavite 1 do 2 kašičice mlevenih oraha i posuti cimetom. Peći poklopljeno na 180 stepeni dok jabuke ne omekšaju, oko 15-20 minuta (zavisi od veličine jabuke). U multipraktiku izblendati smrznute banane dok ne dostignu teksturu sladoleda. Vaditi kašikom za sladoled i poslužiti uz tople jabuke.",
+    "tips": []
+  },
+  {
+    "id": "sirovi-brauni",
+    "title": "Sirovi brauni",
+    "category": "slatko",
+    "source": { "scan": 54, "page": "R" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i šećera.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "150 gr sirovih badema", "qty": 150, "unit": "gr", "ref": "badem" },
+      { "raw": "25 - 30 svežih otkoštenih urmi", "qty": null, "unit": "komad", "ref": "urme" },
+      { "raw": "50 gr sirovog kakao praha", "qty": 50, "unit": "gr", "ref": "kakao" },
+      { "raw": "1 supena kašika kokosovog ulja", "qty": 1, "unit": "supena kašika", "ref": "kokosovo-ulje" }
+    ],
+    "method": "Usitniti badem u multipraktiku, dodati ostale sastojke i blendati dok smesa ne postane kompaktna. Utisnuti u kalup obložen pek papirom. Odložiti u zamrzivač na 15 minuta da se stegne, a zatim iseći na željene šnite. Čuvati u frižideru.",
+    "tips": []
+  }
+]

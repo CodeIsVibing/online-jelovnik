@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sta-je-sirovi-med",
+    "title": "Šta je sirovi med?",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 77,
+      "page": "L"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Sirovi med je med koji je prirodan, neprocesuiran, nepasterizovan i nefiltriran. Onako kako ga pčele proizvedu, bez ikakve obrade. Sirovi med sadrži i ostatke pčelinjeg voska, polena i propolisa. To je med koji se direktno iz saća cedi u tegle bez ikakve naknadne obrade, prečišćavanja i mešanja, uz vrhunske higijenske uslove. Sadrži aminokiseline, minerale, vitamine, enzime i polifenole koji imaju ulogu antioksidanasa. Ima antimikrobno, antiinflamatorno i antikancerogeno delovanje. Komercijalni med podleže procesu ultrafiltracije i pasterizacije kojim se ujedno i otklanjaju vitamini, enzimi i fitonutrijenti.",
+    "tips": []
+  },
+  {
+    "id": "zasto-cejlonski-cimet",
+    "title": "Zašto cejlonski cimet?",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 77,
+      "page": "L"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Pravi izvorni cimet je sa Šri Lanke. Cejlonski cimet ima svetliju boju i blaži ukus. Sadrži mangan, kalcijum, gvožđe, cink i vitamine B2, B6, C i K, kao i antioksidanse i fenole koji su zaduženi za poboljšanje i očuvanje imuniteta. Kod nas najčešće možemo pronaći kineski cimet koji sadrži kumarin, hemijsko jedinjenje koje oštećuje jetru i bubrege.",
+    "tips": []
+  },
+  {
+    "id": "sta-je-sirovi-kakao",
+    "title": "Šta je sirovi kakao?",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 77,
+      "page": "L"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Sirovi kakao prah se pravi od negrejanog kako zrna, pri čemu je temperatura procesa proizvodnje ispod 42 stepena C kako bi se sačuvali svi enzimi i minerali koji su veoma bitni za sirovu hranu. Ovakav kakao ima mnogo izražajniji ukus i miris od običnog kakaa. Izvor je antioksidanasa i bogat je magnezijumom, sumporom i gvožđem.",
+    "tips": []
+  },
+  {
+    "id": "zasto-himalajska-so",
+    "title": "Zašto himalajska so?",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 77,
+      "page": "R"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Ova so je iz podnožja Himalaja, odakle se ručno eksploatiše iz rudnika u planinskim pećinama i skladišti po najvišim svetskim standardima. Njena kristalna struktura akumulisala je u sebi ogromnu količinu čiste izvorne energije. Ova ružičasta so, osim natrijum hlorida, sadrži i 84 mikroelementa koji su neophodni za redovno funkcionisanje organizma. Nastala na zemlji pre više od 250 miliona godina postepenim isparavanjem prvobitnog mora usled snažnog dejstva sunčevih toplotnih zraka. Zahvaljujući tome, u njoj se akumulisala ogromna količina životodavne energije sunca. Industrijska kuhinjska so je veoma osiromašena mineralima u toku proizvodnje.",
+    "tips": []
+  },
+  {
+    "id": "ulja-za-salate",
+    "title": "Ulja za salate",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 77,
+      "page": "R"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Hladno ceđena nerafinisana ulja su najbolja opcija za salate: laneno, konopljino, kokosovo, bundevino, maslinovo, susamovo, suncokretovo i ulje iz semena grožđa...",
+    "tips": []
+  }
+]

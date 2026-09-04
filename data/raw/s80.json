@@ -1,0 +1,34 @@
+[
+  {
+    "id": "hrana-za-bolji-san",
+    "title": "Hrana za bolji san",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 80,
+      "page": "L"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Večera bi trebala biti oko 3h pre spavanja. Namirnice koje pospešuju kvalitetan san su:\n\n1. BANANE: iako se smatra hranom koja pojačava energiju, banane su bogate magnezijumom koji opušta mišiće, a sadrže i serotonin i melatonin koji podstiču san.\n\n2. BADEMI: sjajan izvor zdravih masti, a triptofan i magnezijum pomažu prirodnom smanjenju funkcionisanja mišića i živaca, a istovremeno održavaju ritam srca.\n\n3. SIROVI MED: stimuliše oslobađanje melatonina u mozgu i isključivanje oreksina koji nas drži na oprezu i na taj način nam pomaže da se umirimo i uspavamo.\n\n4. OVAS I OVSENE PAHULJICE: ovas je bogat vitaminima, mineralima i aminokiselinama koji promovišu lučenje melatonina koji izaziva spavanje.\n\n5. ČAJ OD KAMILICE: sadrži flavone (antioksidansi) koji smanjuju upalu koja često dovodi do hroničnih bolesti, poput raka i srčanih bolesti. Pojačava imuni sistem, smanjuje anksioznost i depresiju i poboljšava zdravlje kože. Sadrži i apigenin, antioksidans koji se veže za određene receptore u našem mozgu koji pospešuju pospanost i smanjuju nesanicu.\n\n6. KIVI: zbog velike količine vlakana i karotenoidnih antioksidanasa pomaže digestivnom traktu, smanjuje upale i nivo holesterola. Sadrži serotonin, pomaže u regulisanju našeg ciklusa spavanja.\n\n7. RIBA: losos, tunjevina, pastrmka i skuša. Poseduje izuzetan sadržaj vitamina D i bogata zdravim omega-3 masnim kiselinama, posebno EPA i DHA, a obe su poznate po smanjenju upale, zaštiti od srčanih bolesti i pospešivanju zdravlja mozga. A kombinacija omega-3 masnih kiselina i vitamina D u masnoj ribi može potencijalno poboljšati kvalitet spavanja, jer povećavaju proizvodnju serotonina.\n\n8. ORASI: sadrže preko 19 vitamina i minerala i obiluju vlaknima. Posebno su bogati magnezijumom, fosforom, bakrom i manganom. Poseduju veliku količinu hormona melatonina koji reguliše san.",
+    "tips": []
+  },
+  {
+    "id": "domace-ili-organsko",
+    "title": "Domaće ili organsko?",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 80,
+      "page": "R"
+    },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Organska proizvodnja se obavlja na najprirodniji mogući način. Za zaštitu se koriste ekološki preparati. Zemljište se obogaćuje đubrivom i svaki segment u proizvodnji mora biti sertifikovan. Ako je reč o namirnicama koje se uzgajaju na našem podneblju, i imate mogućnost da kupite kod proverenog domaćeg uzgajivača, odlučite se za domaće, radije nego za namirnice koje dolaze sa drugog kraja sveta a deklarisane su kao organske.\n\nNamirnice koje se najviše tretiraju pesticidima i poželjno je da su organskog porekla su jabuke, celer, jagode, breskve, nektarine, grožđe, borovnice, spanać, zelena salata i kelj.\n\nUkoliko ste u mogućnosti, takođe su poželjne da budu organske i namirnice kao što su boranija, paprika, krastavci, karfiol, maline, šljive, pomorandže i mandarine.\n\nDalje su tu luk, kukuruz šećerac, pasulj, patlidžan, kupus, pečurke, ananas, kivi, grejpfrut.\n\nKupujte voće i povrće u sezoni kad god je to moguće.",
+    "tips": []
+  }
+]

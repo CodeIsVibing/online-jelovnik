@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sarma-sa-sojinim-ljuspicama",
+    "title": "Sarma sa sojinim ljuspicama",
+    "category": "rucak",
+    "source": { "scan": 32, "page": "L" },
+    "timeMinutes": 90,
+    "tags": ["bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda, brašna i ulja."],
+    "ingredients": [
+      { "raw": "200 gr sojinih ljuspica", "qty": 200, "unit": "gr", "ref": "sojine-ljuspice" },
+      { "raw": "5 glavica crnog luka", "qty": 5, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "100 gr pirinča", "qty": 100, "unit": "gr", "ref": "pirinac" },
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 krompir", "qty": 1, "unit": "komad", "ref": "krompir" },
+      { "raw": "10 listova kiselog kupusa", "qty": 10, "unit": "list", "ref": "kiseli-kupus" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje" }
+    ],
+    "method": "Sojine ljuspice potopiti u vodu, a u drugu činiju pirinač, noć pre pripreme obroka. Luk, šargarepu i krompir oljuštiti i izblendati u multipraktiku. Dinstati na malo ulja a zatim dodati proceđen pirinač i sojine ljuspice. Začiniti po ukusu. Smesu stavljati na listove kupusa tako da sa strane ostane malo praznog kupusa. Postoji više različitih uvijanja sarmi. Ja radim na sledeći način: urolam list kupusa sa smesom kao palačinku, držim je u jednoj šaci a palcem druge ruke gurnem donju stranu kupusa ka unutra, a zatim i gornju. Tada oba kraja kupusa budu uvučeni unutra. Poređati sarme tesno, jednu pored druge u pleh za pečenje da se ne bi raspale. Sipati malo vode na dno i peći poklopljeno oko sat vremena dok kupus ne omekša na oko 150 stepeni. Dolivati vode ako ispari. Zapeći sarmu na kratko po želji.",
+    "tips": []
+  }
+]

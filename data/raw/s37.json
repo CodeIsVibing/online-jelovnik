@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gvakamole",
+    "title": "Gvakamole",
+    "category": "namazi-umaci",
+    "source": { "scan": 37, "page": "L" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "1 zreli avokado", "qty": 1, "unit": "komad", "ref": "avokado" },
+      { "raw": "pola kašičice himalajske soli", "qty": 0.5, "unit": "kašičica", "ref": "so" },
+      { "raw": "1 čen belog luka", "qty": 1, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 manji zreo paradajz", "qty": 1, "unit": "komad", "ref": "paradajz" },
+      { "raw": "1 supena kašika seckanog ljubičastog luka (može i crni)", "qty": 1, "unit": "supena kašika", "ref": "ljubicasti-luk" },
+      { "raw": "sok od pola manjeg limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "1 supena kašika extra devičanskog maslinovog ulja", "qty": 1, "unit": "supena kašika", "ref": "maslinovo-ulje" }
+    ],
+    "method": "Viljuškom ispasirati avokado, ljubičasti luk, beli luk i paradajz iseći na sitne kockice i ubaciti u ispasirani avokado. Dodati ostale sastojke i dobro promešati.",
+    "tips": ["U gvakamole možete dodati i biber, čili u prahu ili mlevenu tucanu papriku kako biste dobili pravi meksički pikantni umak."]
+  },
+  {
+    "id": "namaz-od-pasulja",
+    "title": "Namaz od pasulja",
+    "category": "namazi-umaci",
+    "source": { "scan": 37, "page": "R" },
+    "timeMinutes": 60,
+    "tags": ["bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "500 gr belog pasulja", "qty": 500, "unit": "gr", "ref": "pasulj" },
+      { "raw": "sok od pola limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "4 supene kašike maslinovog ulja", "qty": 4, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "2 čena belog luka", "qty": 2, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "kašičica slatke ili ljute mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "mlevena-paprika" },
+      { "raw": "himalajske soli po ukusu", "qty": null, "unit": null, "ref": "so" }
+    ],
+    "method": "Pasulj potopite u hladnu vodu noć pre pripreme obroka. Ujutru ga operite i procedite. Kuvajte ga dok ne omekša, oko 50 minuta. Dobro ga procedite i kada se malo prohladi, prespite ga u multipraktik, dodajte ostale sastojke i blendajte dok smesa ne postane glatka i kremasta. Čuvajte ga u frižideru.",
+    "tips": []
+  }
+]

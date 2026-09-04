@@ -1,0 +1,27 @@
+[
+  {
+    "id": "brzi-beskvasni-hleb-sa-semenkama",
+    "title": "Brzi beskvasni hleb sa semenkama",
+    "category": "hleb-peciva",
+    "source": { "scan": 43, "page": "R" },
+    "timeMinutes": 35,
+    "tags": [],
+    "notes": ["bez kvasca, šećera, jaja i belog brašna."],
+    "ingredients": [
+      { "raw": "150 gr speltinog mekog brašna (ili brašna po želji)", "qty": 150, "unit": "gr", "ref": "speltino-brasno", "group": "Suvi sastojci" },
+      { "raw": "50 gr kukuruznog brašna", "qty": 50, "unit": "gr", "ref": "kukuruzno-brasno", "group": "Suvi sastojci" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Suvi sastojci" },
+      { "raw": "kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so", "group": "Suvi sastojci" },
+      { "raw": "po 1 supena kašika susama, lana, ovsenih pahuljica, suncokreta i bundevinih semenki", "qty": 1, "unit": "supena kašika", "ref": "susam", "group": "Suvi sastojci" },
+      { "raw": "po 1 supena kašika susama, lana, ovsenih pahuljica, suncokreta i bundevinih semenki", "qty": 1, "unit": "supena kašika", "ref": "lanene-semenke", "group": "Suvi sastojci" },
+      { "raw": "po 1 supena kašika susama, lana, ovsenih pahuljica, suncokreta i bundevinih semenki", "qty": 1, "unit": "supena kašika", "ref": "ovsene-pahuljice", "group": "Suvi sastojci" },
+      { "raw": "po 1 supena kašika susama, lana, ovsenih pahuljica, suncokreta i bundevinih semenki", "qty": 1, "unit": "supena kašika", "ref": "suncokret", "group": "Suvi sastojci" },
+      { "raw": "po 1 supena kašika susama, lana, ovsenih pahuljica, suncokreta i bundevinih semenki", "qty": 1, "unit": "supena kašika", "ref": "bundevine-semenke", "group": "Suvi sastojci" },
+      { "raw": "još semenki za posipanje", "qty": null, "unit": null, "ref": "semenke", "optional": true, "group": "Suvi sastojci" },
+      { "raw": "200 ml jogurta", "qty": 200, "unit": "ml", "ref": "jogurt", "group": "Mokri sastojci" },
+      { "raw": "3 supene kašike maslinovog ulja", "qty": 3, "unit": "supena kašika", "ref": "maslinovo-ulje", "group": "Mokri sastojci" }
+    ],
+    "method": "U jednu činiju sipati suve sastojke i promešati, u drugu činiju sipati mokre sastojke i promešati. Sastaviti obe smese, promešati dobro i uliti u kalup obložen pek papirom dimenzija oko 10 cm širine, 5 cm dubine i 25 cm dužine. Peći na 180 stepeni oko 30 minuta.",
+    "tips": ["Znaćete da je pečeno ukoliko zabodete čačkalicu i izvadite je, na sebi neće imati zalepljeno testo."]
+  }
+]

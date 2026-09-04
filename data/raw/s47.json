@@ -1,0 +1,45 @@
+[
+  {
+    "id": "pikant-trouglici",
+    "title": "Pikant trouglići",
+    "category": "hleb-peciva",
+    "source": { "scan": 47, "page": "L" },
+    "timeMinutes": 25,
+    "tags": ["ljuto", "bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "100 gr kukuruznog brašna", "qty": 100, "unit": "gr", "ref": "kukuruzno-brasno" },
+      { "raw": "2 supene kašike sirovih bundevinih semenki", "qty": 2, "unit": "supena kašika", "ref": "bundevine-semenke" },
+      { "raw": "2 supene kašike čia semenki", "qty": 2, "unit": "supena kašika", "ref": "cia-semenke" },
+      { "raw": "2 supene kašike sirovog suncokreta", "qty": 2, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "pola do kašičice ljute mlevene paprike (po ukusu)", "qty": null, "unit": "kašičica", "ref": "ljuta-paprika" },
+      { "raw": "pola kašičice kurkume", "qty": 0.5, "unit": "kašičica", "ref": "kurkuma" },
+      { "raw": "3 supene kašike maslinovog ulja", "qty": 3, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "oko 100 ml vode", "qty": 100, "unit": "ml", "ref": "voda" },
+      { "raw": "himalajska so za posipanje", "qty": null, "unit": null, "ref": "so" }
+    ],
+    "method": "Sve sastojke pomešati. Smesa treba da bude kompaktna, ukoliko se mrvi, dodajte još malo vode. Rasporediti smesu na sredinu pek papira, preko staviti još jedan pek papir pa rastanjiti oklagijom. Posuti sa još malo himalajske soli i iseći testo cik cak tako da dobijete trouglliće. Peći na 180 stepeni oko 15 minuta. Pripazite jer je testo tanko, da se ne presuši previše.",
+    "tips": []
+  },
+  {
+    "id": "lanene-plocice",
+    "title": "Lanene pločice",
+    "category": "hleb-peciva",
+    "source": { "scan": 47, "page": "R" },
+    "timeMinutes": 30,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "100 gr speltinog mekog brašna", "qty": 100, "unit": "gr", "ref": "speltino-brasno" },
+      { "raw": "100 gr ječmenog brašna", "qty": 100, "unit": "gr", "ref": "jecmeno-brasno" },
+      { "raw": "oko 100 ml mlake vode", "qty": 100, "unit": "ml", "ref": "voda" },
+      { "raw": "4 - 5 supenih kašika semenki lana", "qty": null, "unit": "supena kašika", "ref": "lanene-semenke" },
+      { "raw": "5 supenih kašika maslinovog ulja", "qty": 5, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona" },
+      { "raw": "još malo soli i ulja za posipanje", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Pomešati sve sastojke i umesiti testo. Rastanjiti testo na pek papiru na debljinu oko pola cm. Preneti tako na papiru na pleh za pečenje i premazati testo maslinovim uljem a zatim još jednom posoliti. Pre pečenja iseći na željeni oblik. Peći na 160 stepeni dok pločice ne porumene.",
+    "tips": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "protecinke",
+    "title": "Protečinke",
+    "category": "dorucak-vecera",
+    "source": { "scan": 13, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena"],
+    "notes": ["bez mlečnih proizvoda, brašna i šećera."],
+    "ingredients": [
+      { "raw": "2 zrele banane", "qty": 2, "unit": "komad", "ref": "banana" },
+      { "raw": "2 cela jajeta", "qty": 2, "unit": "komad", "ref": "jaja" },
+      { "raw": "2 belanca", "qty": 2, "unit": "komad", "ref": "jaja" },
+      { "raw": "30 gr ovsenih pahuljica", "qty": 30, "unit": "gr", "ref": "ovsene-pahuljice" },
+      { "raw": "60 gr kokosovog proteina (može i konopljin, bundevin...)", "qty": 60, "unit": "gr", "ref": "protein-prah" },
+      { "raw": "2 supene kašike sirovog kakao praha", "qty": 2, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "kašičica cejlonskog cimeta", "qty": 1, "unit": "kašičica", "ref": "cimet" },
+      { "raw": "oko 100 ml vode", "qty": 100, "unit": "ml", "ref": "voda" },
+      { "raw": "kokosovo ulje za pečenje", "qty": null, "unit": null, "ref": "kokosovo-ulje" }
+    ],
+    "method": "U multipraktiku usitnite ovsene pahuljice, protein, kakao i cimet. Dodajte banane, jaja, belanca i postepeno dodajte po malo vode. Smesa treba da bude glatka i gusta. Pecite palačinke na nižoj temperaturi na tiganju prethodno premazanim kokosovim uljem oko 3 minuta jednu, pa minut do dva drugu stranu.",
+    "tips": ["Ove palačinke su idealne nakon treninga, možete ih jesti same, ili sa orašastim puterima, kokosom, bademima, svežim voćem, nugat namazom ili pekmezom bez šećera."]
+  },
+  {
+    "id": "kajgana-sa-brokolijem",
+    "title": "Kajgana sa brokolijem",
+    "category": "dorucak-vecera",
+    "source": { "scan": 13, "page": "R" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "3 jajeta", "qty": 3, "unit": "komad", "ref": "jaja" },
+      { "raw": "50 gr svežeg brokolija", "qty": 50, "unit": "gr", "ref": "brokoli" },
+      { "raw": "15 gr praziluka", "qty": 15, "unit": "gr", "ref": "praziluk" },
+      { "raw": "sveže povrće", "qty": null, "unit": null, "ref": "sveze-povrce", "optional": true },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "semenke ili seckani orašasti plodovi", "qty": null, "unit": null, "ref": "semenke", "optional": true },
+      { "raw": "ulje za podmazivanje tiganja", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Jaja umutiti viljuškom i posoliti po ukusu. Iseckati praziluk na kolutiće, a brokoli izblendati u multipraktiku (po želji na sitnije ili krupnije komadiće), dodati u umućena jaja i promešati kašikom. Dinstati praziluk kratko na nauljenom tiganju, dodati jaja sa brokolijem i peći nekoliko minuta. Posuti jaja semenkama i poslužiti sa svežim povrćem.",
+    "tips": ["Što sitnije izblendate brokoli, manje će se osećati njegov ukus."]
+  }
+]

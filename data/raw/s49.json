@@ -1,0 +1,24 @@
+[
+  {
+    "id": "kuglice-sa-pekmezom",
+    "title": "Kuglice sa pekmezom",
+    "category": "slatko",
+    "source": { "scan": 49, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, šećera i brašna.", "sirovo i posno."],
+    "seeAlso": ["pekmez-od-sljiva"],
+    "ingredients": [
+      { "raw": "15 otkoštenih svežih urmi", "qty": 15, "unit": "komad", "ref": "urme" },
+      { "raw": "1 supena kašika semenki lana", "qty": 1, "unit": "supena kašika", "ref": "lanene-semenke" },
+      { "raw": "2 supene kašike pekmeza bez šećera (videti recept pod „Namazi/umaci\")", "qty": 2, "unit": "supena kašika", "ref": "pekmez" },
+      { "raw": "100 gr sirovog suncokreta", "qty": 100, "unit": "gr", "ref": "suncokret" },
+      { "raw": "1 supena kašika sirovog kakao praha", "qty": 1, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "100 gr kokosa", "qty": 100, "unit": "gr", "ref": "kokos" },
+      { "raw": "1 supena kašika kokosovog ulja", "qty": 1, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "10 badema", "qty": 10, "unit": "komad", "ref": "badem" }
+    ],
+    "method": "Usitniti bademe, kokos, suncokret, laneno seme i kakao u multipraktiku. Dodati preostale sastojke i blendati dok smesa ne postane ujednačena i lepljiva. Oblikujte ih u kuglice.",
+    "tips": ["Da biste dobili kuglice iste veličine, od smese možete oblikovati štrudlu koju ćete iseći na jednaku parčad i od njih oblikovati kuglice."]
+  }
+]

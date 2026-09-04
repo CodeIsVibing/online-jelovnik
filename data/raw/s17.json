@@ -1,0 +1,26 @@
+[
+  {
+    "id": "grasak",
+    "title": "Grašak",
+    "category": "rucak",
+    "source": { "scan": 17, "page": "R" },
+    "timeMinutes": 60,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez brašna."],
+    "ingredients": [
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "4 čena belog luka", "qty": 4, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "450 gr smrznutog graška", "qty": 450, "unit": "gr", "ref": "grasak" },
+      { "raw": "250 ml soka od paradajza bez šećera", "qty": 250, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "kašičica ulja", "qty": 1, "unit": "kašičica", "ref": "ulje" },
+      { "raw": "biber", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "mlevena paprika", "qty": null, "unit": null, "ref": "mlevena-paprika" },
+      { "raw": "sušena mirođija", "qty": null, "unit": null, "ref": "mirodjija" },
+      { "raw": "sušeni vlašac", "qty": null, "unit": null, "ref": "vlasac" }
+    ],
+    "method": "Šargarepu iseckati na tanke kolutiće, crni luk na sitne kockice i dinstati ih 10 minuta na ulju na srednjoj vatri, a po potrebi dodati vode. Zatim dodati smrznuti grašak, paradajz sok i suve začine po ukusu. Ostaviti da se krčka još 30 minuta. Dodajte sitno iseckani beli luk i kuvajte još 15ak minuta. Poslužite sa svežim povrćem.",
+    "tips": ["Po želji, u toku kuvanja možete dodati kocku slanine, suvo meso ili kobasicu radi šmeka, a posle je sklonite."]
+  }
+]

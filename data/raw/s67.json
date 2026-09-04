@@ -1,0 +1,84 @@
+[
+  {
+    "id": "sejk-snickers",
+    "title": "Snickers",
+    "category": "sejkovi",
+    "source": { "scan": 67, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "2 sveže otkoštene urme", "qty": 2, "unit": "komad", "ref": "urme" },
+      { "raw": "1 supena kašika sirovog kakao praha", "qty": 1, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "1 supena kašika kikiriki putera bez šećera", "qty": 1, "unit": "supena kašika", "ref": "kikiriki-puter" },
+      { "raw": "1 smrznuta banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "100 ml biljnog mleka (nezaslađenog)", "qty": 100, "unit": "ml", "ref": "biljno-mleko" },
+      { "raw": "vode do željene gustine", "qty": null, "unit": null, "ref": "voda" },
+      { "raw": "zamena za smrznutu bananu može biti sveža banana + led", "qty": null, "unit": null, "ref": "led", "optional": true }
+    ],
+    "method": "Sve sastojke izblendati do kremaste teksture.",
+    "tips": []
+  },
+  {
+    "id": "sejk-tropical",
+    "title": "Tropical",
+    "category": "sejkovi",
+    "source": { "scan": 67, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 smrznuta banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "šaka smrznutog ananasa", "qty": 1, "unit": "šaka", "ref": "ananas" },
+      { "raw": "šaka svežeg manga (ili breskve)", "qty": 1, "unit": "šaka", "ref": "mango" },
+      { "raw": "1 supena kašika kokosa", "qty": 1, "unit": "supena kašika", "ref": "kokos" },
+      { "raw": "sok od narandže ili pola limete", "qty": null, "unit": null, "ref": "narandza" },
+      { "raw": "sok od narandže ili pola limete", "qty": null, "unit": null, "ref": "limeta", "optional": true },
+      { "raw": "ukoliko je potrebno dodati vodu ili led do željene gustine", "qty": null, "unit": null, "ref": "voda" }
+    ],
+    "method": "Sve sastojke izblendati do kremaste teksture.",
+    "tips": []
+  },
+  {
+    "id": "sejk-protein",
+    "title": "Protein",
+    "category": "sejkovi",
+    "source": { "scan": 67, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 smrznuta sveža tikvica", "qty": 1, "unit": "komad", "ref": "tikvica" },
+      { "raw": "1 supena kašika sirovog suncokreta", "qty": 1, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "1 supena kašika sirovih bundevinih semenki", "qty": 1, "unit": "supena kašika", "ref": "bundevine-semenke" },
+      { "raw": "3 supene kašike kokosovog proteina (ili konopljin, protein graška, bundeve...)", "qty": 3, "unit": "supena kašika", "ref": "protein-prah" },
+      { "raw": "dodati led ili vodu do željene gustine", "qty": null, "unit": null, "ref": "voda" },
+      { "raw": "po želji dodati sirovi kakao prah", "qty": null, "unit": null, "ref": "kakao", "optional": true }
+    ],
+    "method": "Izblendati sve sastojke do glatke strukture.",
+    "tips": []
+  },
+  {
+    "id": "sejk-fresh",
+    "title": "Fresh",
+    "category": "sejkovi",
+    "source": { "scan": 67, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "mala vezica sveže mirođije", "qty": 1, "unit": "vezica", "ref": "mirodjija" },
+      { "raw": "šaka spanaća", "qty": 1, "unit": "šaka", "ref": "spanac" },
+      { "raw": "četvrtina avokada", "qty": 0.25, "unit": "komad", "ref": "avokado" },
+      { "raw": "5 kolutova svežeg krastavca", "qty": 5, "unit": "kolut", "ref": "krastavac" },
+      { "raw": "1 narandža (ili grejpfrut)", "qty": 1, "unit": "komad", "ref": "narandza" },
+      { "raw": "sok od jednog limuna", "qty": 1, "unit": "komad", "ref": "limun" },
+      { "raw": "list svežeg kupusa (ili kelja)", "qty": 1, "unit": "list", "ref": "kupus" },
+      { "raw": "1 supena kašika sirovog susama", "qty": 1, "unit": "supena kašika", "ref": "susam" },
+      { "raw": "vode do željene gustine", "qty": null, "unit": null, "ref": "voda" },
+      { "raw": "po želji dodati pola kašičice spiruline u prahu", "qty": 0.5, "unit": "kašičica", "ref": "spirulina", "optional": true }
+    ],
+    "method": "Oljuštiti avokado, krastavac i narandžu. Spojiti sa ostalim sastojcima i blendati do glatke strukture.",
+    "tips": []
+  }
+]

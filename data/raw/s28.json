@@ -1,0 +1,55 @@
+[
+  {
+    "id": "pohovane-tikvice-sa-varivom-od-sargarepe",
+    "title": "Pohovane tikvice sa varivom od šargarepe",
+    "category": "rucak",
+    "source": { "scan": 28, "page": "L" },
+    "timeMinutes": 45,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "sveže tikvice", "qty": null, "unit": null, "ref": "tikvica", "group": "Pohovane tikvice" },
+      { "raw": "domaća prezla", "qty": null, "unit": null, "ref": "prezla", "group": "Pohovane tikvice" },
+      { "raw": "kukuruzno brašno", "qty": null, "unit": null, "ref": "kukuruzno-brasno", "group": "Pohovane tikvice" },
+      { "raw": "jaja", "qty": null, "unit": null, "ref": "jaja", "group": "Pohovane tikvice" },
+      { "raw": "himalajska so i biber", "qty": null, "unit": null, "ref": "so", "group": "Pohovane tikvice" },
+      { "raw": "himalajska so i biber", "qty": null, "unit": null, "ref": "biber", "group": "Pohovane tikvice" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje", "group": "Pohovane tikvice" },
+      { "raw": "500 gr šargarepe", "qty": 500, "unit": "gr", "ref": "sargarepa", "group": "Varivo od šargarepe" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk", "group": "Varivo od šargarepe" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje", "group": "Varivo od šargarepe" },
+      { "raw": "supena kašika tapioke ili brašna", "qty": 1, "unit": "supena kašika", "ref": "tapioka", "group": "Varivo od šargarepe" },
+      { "raw": "himalajska so i biber po ukusu", "qty": null, "unit": null, "ref": "so", "group": "Varivo od šargarepe" },
+      { "raw": "voda", "qty": null, "unit": null, "ref": "voda", "group": "Varivo od šargarepe" }
+    ],
+    "method": "Pohovane tikvice: tikvice oljuštiti, iseći oba kraja, preseći po dužini na pola, zatim polovine takođe po dužini na pola. U jedan tanjir sipati brašno, u drugi umutiti jaja viljuškom, a u treći sipati prezlu. Jaja začinite. Tikvice uvaljajte u brašno, zatim u jaja pa na kraju u prezlu. Stavite ih na pleh obložen pek papirom i prelijte sa malo maslinovog ulja. Pecite na 180 stepeni dok ne porumene i ako viljuška lako prolazi kroz tikvicu.\n\nVarivo od šargarepe: šargarepu oljuštiti, oprati i iseckati na tanke kolutiće. Luk iseckati na kockice i dinstati 5 minuta a zatim dodati šargarepu, preliti vodom i ostaviti da se krčka na srednjoj temperaturi. U posebnoj činijici razmutiti tapioku i začine u malo hladne vode i preliti preko šargarepe. Kada šargarepa omekša, gotovo je. Ukoliko vam je previše gusto, dodajte vode, a ukoliko je previše retko, ponovite postupak razmućivanja tapioke u drugoj činijici a zatim dodajte u varivo. Sačekajte dok se ne dostigne željena gustina. Na kraju još jednom probajte jelo i dodajte još začina ukoliko fali.",
+    "tips": []
+  },
+  {
+    "id": "povrce-iz-rerne",
+    "title": "Povrće iz rerne",
+    "category": "rucak",
+    "source": { "scan": 28, "page": "R" },
+    "timeMinutes": 60,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "pola praziluka", "qty": 0.5, "unit": "komad", "ref": "praziluk" },
+      { "raw": "100 gr smrznutog kukuruza", "qty": 100, "unit": "gr", "ref": "kukuruz-secerac" },
+      { "raw": "1 sveža paprika", "qty": 1, "unit": "komad", "ref": "paprika" },
+      { "raw": "5 čenova belog luka", "qty": 5, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "2 veće šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 kg krompira", "qty": 1000, "unit": "gr", "ref": "krompir" },
+      { "raw": "po 1 kašičica himalajske soli, origana, bosiljka i mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "so" },
+      { "raw": "po 1 kašičica himalajske soli, origana, bosiljka i mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "origano" },
+      { "raw": "po 1 kašičica himalajske soli, origana, bosiljka i mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "bosiljak" },
+      { "raw": "po 1 kašičica himalajske soli, origana, bosiljka i mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "mlevena-paprika" },
+      { "raw": "prstohvat bibera", "qty": null, "unit": "prstohvat", "ref": "biber" },
+      { "raw": "1 supena kašika maslinovog ulja", "qty": 1, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "oko 800 ml vode", "qty": 800, "unit": "ml", "ref": "voda" },
+      { "raw": "2 supene kašike gustina", "qty": 2, "unit": "supena kašika", "ref": "gustin" }
+    ],
+    "method": "Praziluk, šargarepu i papriku iseckajte na kolutiće, a krompir na manje kocke. Beli luk oljuštite i ostavite u komadu. U pleh stavite svo povrće, pospite gustinom, začinite, prelijte uljem i rukama dobro promešajte. Prelijte vodom i još jednom promešajte povrće. Poklopite pleh i pecite na 200 stepeni dok krompir ne omekša, a voda ne ispari, oko 45 minuta. Povrće servirajte i prelijte finim saftom iz pleha.",
+    "tips": []
+  }
+]

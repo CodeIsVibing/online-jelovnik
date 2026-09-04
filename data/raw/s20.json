@@ -1,0 +1,44 @@
+[
+  {
+    "id": "brokoli-pljeskavice-sa-pire-krompirom",
+    "title": "Brokoli pljeskavice sa pire krompirom",
+    "category": "rucak",
+    "source": { "scan": 20, "page": "L" },
+    "timeMinutes": 40,
+    "tags": ["bez-glutena"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "250 grama svežeg brokolija", "qty": 250, "unit": "gr", "ref": "brokoli", "group": "Pljeskavice" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja", "group": "Pljeskavice" },
+      { "raw": "70 gr integralnog brašna po želji", "qty": 70, "unit": "gr", "ref": "integralno-brasno", "group": "Pljeskavice" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Pljeskavice" },
+      { "raw": "2 kašičice himalajske soli", "qty": 2, "unit": "kašičica", "ref": "so", "group": "Pljeskavice" },
+      { "raw": "pola kašičice bibera", "qty": 0.5, "unit": "kašičica", "ref": "biber", "group": "Pljeskavice" },
+      { "raw": "ulje za pečenje", "qty": null, "unit": null, "ref": "ulje", "group": "Pljeskavice" },
+      { "raw": "krompir", "qty": null, "unit": null, "ref": "krompir", "group": "Pire krompir" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so", "group": "Pire krompir" }
+    ],
+    "method": "Pljeskavice: u multipraktiku usitniti brokoli. Presuti u činiju i dodati ostale sastojke, zatim dobro promešati. Oblikovati u pljeskavice i peći na malo ulja u tiganju po nekoliko minuta sa obe strane. Spolja će biti hrskave, a iznutra mekane.\n\nPire krompir: krompir kuvati u vodi, kada viljuška lagano prolazi kroz njega, gotov je. Procedite ga i ostavite da se malo prohladi. Prespite ga u multipraktik, po ukusu posolite i izblendajte do fine kremaste strukture. Osetićete pravi ukus krompira, a nakon konzumacije nećete biti naduti.",
+    "tips": ["Pljeskavice možete peći i u rerni, očekujte da će biti malo suvlje."]
+  },
+  {
+    "id": "corbasti-amarant-sa-kukuruzom",
+    "title": "Čorbasti amarant sa kukuruzom",
+    "category": "rucak",
+    "source": { "scan": 20, "page": "R" },
+    "timeMinutes": 30,
+    "tags": ["ljuto", "bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda i brašna."],
+    "ingredients": [
+      { "raw": "100 gr amaranta", "qty": 100, "unit": "gr", "ref": "amarant" },
+      { "raw": "200 ml paradajz soka", "qty": 200, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "mlevena ljuta paprika po ukusu", "qty": null, "unit": null, "ref": "ljuta-paprika" },
+      { "raw": "2 šake kukuruza šećerca", "qty": 2, "unit": "šaka", "ref": "kukuruz-secerac" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "maslinovo ulje za dinstanje", "qty": null, "unit": null, "ref": "maslinovo-ulje" }
+    ],
+    "method": "Amarant potopite u hladnu vodu noć pre pripreme obroka. Ujutru ga dobro operite i procedite. Kuvajte ga u oko 200 ml vode dok ne omekša (20ak minuta), a zatim procedite. Luk isecajte na kockice i dinstajte u maloj šerpici na malo ulja dok ne omekša. Dodajte kukuruz i začine, a zatim amarant i paradajz sok. Ostavite još malo da se krčka na laganoj vatri.",
+    "tips": []
+  }
+]

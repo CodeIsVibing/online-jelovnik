@@ -1,0 +1,69 @@
+[
+  {
+    "id": "hrana-bogata-kalcijumom",
+    "title": "Hrana bogata kalcijumom",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 75, "page": "L" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Radi bolje apsorpcije kalcijuma potrebno je da se redovno izlažemo sunčevoj svetlosti. Pušenje, prekomerna konzumacija kafe i soli može negativno uticati na apsorpciju kalcijuma.\n\nHrana bogata kalcijumom: avokado, narandža, suve smokve, brazilski orah, bademi, susam (posebno crni), čia semenke, bundevine semenke, mak, losos, sardine, pasulj, kelj, crni luk, celer, artičoka, brokoli, keleraba, boranija, prokelj, kupus...\n\nSvakodnevno konzumiranje jedne supene kašike susama pomaže u podizanju nivoa kalcijuma u našem organizmu. Potrebno ga je veoma dobro sažvakati i razložiti u ustima, a zatim progutati.",
+    "tips": []
+  },
+  {
+    "id": "hrana-bogata-selenom",
+    "title": "Hrana bogata selenom",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 75, "page": "L" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Selen deluje kao antioksidans, pomaže u odbrani protiv raka, ojačava imunitet, poboljšava protok krvi, smanjuje rizik od srčanih oboljenja, reguliše funkciju štitne žlezde, poboljšava plodnost, smanjuje simptome astme...\n\nHrana bogata selenom: spanać, tuna, jaja, seme suncokreta, brazilski orah, čia semenke, pasulj, kokos, prokelj, tofu sir, ovsene pahuljice, morski plodovi, beli luk, pečurke...",
+    "tips": []
+  },
+  {
+    "id": "hrana-bogata-gvozdjem",
+    "title": "Hrana bogata gvožđem",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 75, "page": "L" },
+    "timeMinutes": null,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "C vitamin pospešuje apsorpciju gvožđa, dok mlečni proizvodi smanjuju njegovu apsorpciju.\n\nHrana bogata gvožđem: soja, pasulj, leblebija, sočivo, grašak, spanać, kupus, kelj, prokelj, brokoli, cvekla, susam, suncokret, lan, čia, bundevine i konopljine semenke, spelta, ovas, kakao, spirulina, suvo grožđe, suve kajsije, kikiriki, bademi, pistaći, orah, indijski orah, majčina dušica, kopriva, urme, banana, nar, avokado...",
+    "tips": []
+  },
+  {
+    "id": "muckanje-ulja-u-ustima",
+    "title": "Mućkanje ulja u ustima",
+    "subtitle": "jutarnje rutine",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 75, "page": "R" },
+    "timeMinutes": 20,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Ova metoda služi za izbacivanje toksina iz našeg organizma. Za vreme trajanja mućkanja ulja u ustima sva krv protekne kroz pljuvačne žlezde i izbaci otrove. Koriste se hladna ceđena ulja, najčešće suncokretovo ili susamovo. Možete koristiti i nerafinisano kokosovo ili maslinovo ulje. Vreme trajanja mućkanja je 15-20 minuta na prazan stomak ujutru. Količina ulja je 1 supena kašika. Nakon mućkanja, ulje se NE SME progutati. Ulje će postati retko i beličaste boje. Ispljunite ga, zatim isperite usta toplom vodom i operite zube. Preventivno, za imunitet mućkajte 1 dnevno, ukoliko imate neko oboljenje, mućkajte 3 puta na dan, pre jela.\n\nUčinkovito je protiv: glavobolje, zubobolje, paradentoze, nesanice, astme, ekcema, artritisa, hroničnog umora, bolesti krvi. Ova metoda pomaže i u izbeljivanju zuba.",
+    "tips": []
+  },
+  {
+    "id": "alkalizacija-organizma",
+    "title": "Alkalizacija organizma",
+    "subtitle": "jutarnje rutine",
+    "type": "savet",
+    "category": "saveti-sirupi",
+    "source": { "scan": 75, "page": "R" },
+    "timeMinutes": 2,
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "method": "Ovaj napitak pije se ujutru na prazan stomak. Vodu sipajte do pola u visoku čašu. Dodajte kašičicu sode bikarbone bez aluminijuma i sok od pola limuna. Napitak će peniti, kada prestane, promešajte i popijte.",
+    "tips": []
+  }
+]

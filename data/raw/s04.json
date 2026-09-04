@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pita-sa-sampinjonima-od-speltinih-kora",
+    "title": "Pita sa šampinjonima od speltinih kora",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 4,
+      "page": "L"
+    },
+    "timeMinutes": 45,
+    "tags": [
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "800 gr šampinjona",
+        "qty": 800,
+        "unit": "gr",
+        "ref": "sampinjoni"
+      },
+      {
+        "raw": "1 glavica crnog luka",
+        "qty": 1,
+        "unit": "glavica",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 kašičica suvog začina",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "4 lista speltinih kora za pitu",
+        "qty": 4,
+        "unit": "list",
+        "ref": "speltine-kore"
+      },
+      {
+        "raw": "ulje za premazivanje kora i dinstanje šampinjona",
+        "qty": null,
+        "unit": null,
+        "ref": "ulje"
+      }
+    ],
+    "method": "Luk iseckati na sitne kockice, dinstati u nauljenom tiganju i začiniti. Oprati i iseckati šampinjone na krupnije kolutove i dodati u tiganj. Kada pečurke puste vodu, i skoro sva tečnost ispari, skloniti sa vatre. Dve kore staviti jednu na drugu i gornju premazati mešavinom pola pola maslinovog ulja i vode četkicom za mazanje. Ravnomerno rasporediti polovinu pečuraka na gornju koru i urolati. Dobije se ukupno 2 rolne (po dve kore). Svaku rolnu premazati mešavinom vode i ulja i posuti semenkama po želji. Preneti rolnu na tepsiju obloženu pek papirom. Peći oko 30 minuta na 200 stepeni. Ispečene pite prekriti pokvašenom i isceđenom čistom krpom i ostaviti da se prohladi.",
+    "tips": []
+  },
+  {
+    "id": "palenta-sa-urdom",
+    "title": "Palenta sa urdom",
+    "subtitle": "sveži sir od surutke",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 4,
+      "page": "R"
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "oko 50 gr palente",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "palenta"
+      },
+      {
+        "raw": "1 puna supena kašika urde",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "urda"
+      },
+      {
+        "raw": "oko 300 ml vode",
+        "qty": 300,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "himalajska so",
+        "qty": null,
+        "unit": null,
+        "ref": "so"
+      }
+    ],
+    "method": "Vodu zagrejte do ključanja, zatim stišajte vatru i dodajte palentu i kuvajte je 2 minuta uz konstantno mešanje. Sklonite sa ringle, sipajte u činiju, dodajte urdu i dobro promešajte dok se sastojci ne sjedine. So dodajte po ukusu.",
+    "tips": [
+      "Palenta se kuva u vodi u odnosu 1:4, tj. 4 puta više je potrebno vode u odnosu na količinu palente. Ukoliko volite gušću palentu, smanjite količinu vode.",
+      "Urdu možete pronaći u mlekarama, na merenje, kao i u marketima upakovanu u čašama kao za kiselo mleko ili jogurt. Urda je nemasni sir, sa visokim sadržajem proteina jer se dobija iz surutke. Koristan je za zdravlje kostiju, nervnog sistema kao i za održavanje nivoa hemoglobina u krvi. Odlična je za osobe koje paze na unos kalorija."
+    ]
+  }
+]

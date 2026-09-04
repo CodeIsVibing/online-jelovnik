@@ -1,0 +1,43 @@
+[
+  {
+    "id": "tuna-pate",
+    "title": "Tuna pate",
+    "category": "namazi-umaci",
+    "source": { "scan": 39, "page": "L" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "2 konzerve tune (komadi u sopstvenom soku, neto 116gr)", "qty": 2, "unit": "konzerva", "ref": "tunjevina" },
+      { "raw": "1 puna supena kašika urde (mladi sir od surutke)", "qty": 1, "unit": "supena kašika", "ref": "urda" },
+      { "raw": "2 supene kašike ekstra devičanskog maslinovog ulja", "qty": 2, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "1 kuvano jaje", "qty": 1, "unit": "komad", "ref": "jaja" },
+      { "raw": "1 kuvano belance", "qty": 1, "unit": "komad", "ref": "jaja" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so" }
+    ],
+    "method": "Kuvati jaja 10 minuta u ključaloj vodi i prohladiti ih pod mlazom vode. Sve sastojke izblendati dok pašteta ne postane glatka.",
+    "tips": []
+  },
+  {
+    "id": "humus",
+    "title": "Humus",
+    "category": "namazi-umaci",
+    "source": { "scan": 39, "page": "R" },
+    "timeMinutes": null,
+    "tags": ["vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "500 gr leblebija", "qty": 500, "unit": "gr", "ref": "leblebije" },
+      { "raw": "sok od četvrtine limuna", "qty": 0.25, "unit": "komad", "ref": "limun" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "2 čena belog luka", "qty": 2, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "30 ml ekstra devičanskog maslinovog ulja", "qty": 30, "unit": "ml", "ref": "maslinovo-ulje" },
+      { "raw": "2 supene kašike tahinija (namaz od susama)", "qty": 2, "unit": "supena kašika", "ref": "tahini" }
+    ],
+    "method": "Leblebije potopite u hladnu vodu noć pre pripreme humusa. Ujutru je operite i procedite. Kuvajte je dok ne omekša, oko 40 minuta. Dobro je procedite i sačekajte da se prohladi. Zatim sve sastojke izblendajte u multipraktiku dok ne postane kompaktna i kremasta. Pravite manje pauze u blendanju i špatulom skidajte smesu sa zidova multipraktika. Po ukusu dodajte so.",
+    "tips": [
+      "Ukoliko vam je smesa previše gusta, postepeno dodajte vodu u kojoj ste kuvali leblebije, do željene gustine.",
+      "U humus možete dodati razne dodatke kao što su mlevena paprika (slatka ili ljuta), kikiriki, susam, origano, bosiljak, beli luk u prahu..."
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "pica-iz-tiganja",
+    "title": "Pica iz tiganja",
+    "category": "rucak",
+    "source": { "scan": 23, "page": "L" },
+    "timeMinutes": 20,
+    "tags": [],
+    "notes": ["Sastojci za dve pice."],
+    "ingredients": [
+      { "raw": "200 gr speltinog mekog brašna", "qty": 200, "unit": "gr", "ref": "speltino-brasno" },
+      { "raw": "100 ml tople vode", "qty": 100, "unit": "ml", "ref": "voda" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona" },
+      { "raw": "himalajske soli na vrh kašičice", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "3 supene kašike maslinovog ulja", "qty": 3, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "pelat", "qty": null, "unit": null, "ref": "pelat" },
+      { "raw": "origano", "qty": null, "unit": null, "ref": "origano" },
+      { "raw": "ostali nadevi po želji", "qty": null, "unit": null, "ref": "nadev", "optional": true },
+      { "raw": "2,3 kapi ulja za podmazivanje tiganja", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Pomešajte sve sastojke i umesite glatko i nelepljivo testo. Oblikujte jufku i ostavite sa strane dok pripremate nadev za picu. Sve što će vam biti potrebno za nadev, spremite pored šporeta. Jufku podelite na dva dela i jednu polovinu razvucite tanko, na veličinu tiganja, zatim i drugu. Pecite jednu stranu na srednjoj temperaturi, zatim okrenuti na drugu stranu, smanjiti temperaturu i premazati pelatom testo, staviti nadev i poklopiti tiganj na 2,3 min dok se sir ne istopi. Ponovite postupak i sa drugim testom.",
+    "tips": ["U momentu stavljanja nadeva na picu morate biti brzi da vam testo ne izgori."]
+  },
+  {
+    "id": "musaka-sa-sojinim-ljuspicama",
+    "title": "Musaka sa sojinim ljuspicama",
+    "category": "rucak",
+    "source": { "scan": 23, "page": "R" },
+    "timeMinutes": 45,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "50 gr sojinih ljuspica (potopiti u vodu 15 minuta ranije)", "qty": 50, "unit": "gr", "ref": "sojine-ljuspice" },
+      { "raw": "1 kg - 1.2 kg krompira (zavisi od veličine tepsije)", "qty": 1000, "unit": "gr", "ref": "krompir" },
+      { "raw": "kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so" },
+      { "raw": "kašičica origana", "qty": 1, "unit": "kašičica", "ref": "origano" },
+      { "raw": "2 čena belog luka", "qty": 2, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "kašičica mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "mlevena-paprika" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "500 ml paradajz soka bez šećera", "qty": 500, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "250 ml vode", "qty": 250, "unit": "ml", "ref": "voda" },
+      { "raw": "2 pune supene kašike urde", "qty": 2, "unit": "supena kašika", "ref": "urda" },
+      { "raw": "2 jajeta", "qty": 2, "unit": "komad", "ref": "jaja" },
+      { "raw": "ulje za dinstanje", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Crni luk iseći na kockice i dinstati na malo ulja, sojine ljuspice oprati i iscediti, zatim dodati u tiganj sa lukom. Začiniti, i ostaviti da se dinsta dok pripremate krompir. Krompir oprati, oljuštiti i iseći na tanke kriške, poslagati na dno tepsije i posoliti. Presuti dinstane sojine ljuspice ravnomerno preko krompira, dodati seckani beli luk, a zatim još jedan red krompira i posoliti ga. Dosuti vodu i paradajz sok, poklopiti tepsiju i peći oko 30 minuta na 200 stepeni, tj. dok kroz krompir lagano ne prođe viljuška. Kada se skuva krompir, izvaditi iz rerne, umutiti jaja i urdu dok se ne dobije kompaktna smesa i preliti krompir. Peći otklopljeno na najjačoj vatri još oko 5 minuta, dok se preliv ne zapeče.",
+    "tips": ["Sojine ljuspice imaju određeni šmek i zato je potrebno dobro ih začiniti. Kada završite dinstanje, obavezno probajte i ukoliko vam ova količina začina nije dovoljna, slobodno dodajte još pre stavljanja u rernu."]
+  }
+]

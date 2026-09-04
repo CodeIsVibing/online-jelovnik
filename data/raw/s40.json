@@ -1,0 +1,32 @@
+[
+  {
+    "id": "domaci-kikiriki-puter",
+    "title": "Domaći kikiriki puter",
+    "category": "namazi-umaci",
+    "source": { "scan": 40, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez ulja i šećera."],
+    "ingredients": [
+      { "raw": "300 gr neslanog blanširanog kikirikija", "qty": 300, "unit": "gr", "ref": "kikiriki" },
+      { "raw": "prstohvat himalajske soli", "qty": null, "unit": "prstohvat", "ref": "so" }
+    ],
+    "method": "U multipraktiku blendati kikiriki u pauzama kada ćete skinuti podignutu smesu sa zidova činije. Dodajte so i blendajte dok smesa ne dostigne teksturu putera.",
+    "tips": []
+  },
+  {
+    "id": "brzi-cokoladni-preliv",
+    "title": "Brzi čokoladni preliv",
+    "category": "namazi-umaci",
+    "source": { "scan": 40, "page": "R" },
+    "timeMinutes": 3,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, ulja i šećera."],
+    "ingredients": [
+      { "raw": "2 zrele banane", "qty": 2, "unit": "komad", "ref": "banana" },
+      { "raw": "2 pune kašičice sirovog kakao praha", "qty": 2, "unit": "kašičica", "ref": "kakao" }
+    ],
+    "method": "Sastojke izblendajte dok se ne sjedine.",
+    "tips": ["Ako ste veliki sladokusci možete dodati i malo meda."]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "burito",
+    "title": "Burito",
+    "category": "rucak",
+    "source": { "scan": 19, "page": "L" },
+    "timeMinutes": 20,
+    "tags": ["vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda."],
+    "seeAlso": ["tortilja"],
+    "ingredients": [
+      { "raw": "namaz od sirovog graška", "qty": null, "unit": null, "ref": "namaz-od-graska", "group": "Punjenje" },
+      { "raw": "kečap bez šećera", "qty": null, "unit": null, "ref": "kecap", "group": "Punjenje" },
+      { "raw": "rendana šargarepa", "qty": null, "unit": null, "ref": "sargarepa", "group": "Punjenje" },
+      { "raw": "cherry paradajz", "qty": null, "unit": null, "ref": "ceri-paradajz", "group": "Punjenje" },
+      { "raw": "seckana paprika", "qty": null, "unit": null, "ref": "paprika", "group": "Punjenje" },
+      { "raw": "kukuruz šećerac", "qty": null, "unit": null, "ref": "kukuruz-secerac", "group": "Punjenje" },
+      { "raw": "pirinač", "qty": null, "unit": null, "ref": "pirinac", "group": "Punjenje" },
+      { "raw": "pasulj", "qty": null, "unit": null, "ref": "pasulj", "group": "Punjenje" },
+      { "raw": "tortilja", "qty": null, "unit": null, "ref": "tortilja", "group": "Tortilja" }
+    ],
+    "method": "Burito je idealan obrok za poneti. Sastojke birate sami, a ovde imate jednu od mnogo kombinacija.\n\nPostupak motanja burita: na tortilju stavite nadev po želji, zatim uhvatite tortilju sa obe strane koje ćete preklopiti ka sredini tortilje (ne mnogo). Od dole krenite da valjate tortilju ka gore, pazeći da bude čvrsto umotana. Oni delovi sa strane koje ste preklopili ka sredini tortilje trebali bi ostati uvučeni tako da nadev ne ispada iz burita. Ovo je samo jedan od načina motanja burita.",
+    "tips": ["Recept za tortilje možete pronaći u delu pod nazivom „Hleb/peciva/grickalice\": tortilja, tortilja bez mešenja obična i zelena."]
+  },
+  {
+    "id": "slatki-kupus",
+    "title": "Slatki kupus",
+    "category": "rucak",
+    "source": { "scan": 19, "page": "R" },
+    "timeMinutes": 45,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez brašna i ulja."],
+    "ingredients": [
+      { "raw": "1 srednja glavica svežeg kupusa", "qty": 1, "unit": "glavica", "ref": "kupus" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "2 čena belog luka", "qty": 2, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 krompir", "qty": 1, "unit": "komad", "ref": "krompir" },
+      { "raw": "2, 3 lovorova lista", "qty": null, "unit": "list", "ref": "lovorov-list" },
+      { "raw": "250 ml soka od paradajza bez šećera", "qty": 250, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "himalajska so, biber i suvi začin po želji", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so, biber i suvi začin po želji", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "himalajska so, biber i suvi začin po želji", "qty": null, "unit": null, "ref": "suvi-zacin" },
+      { "raw": "voda (količina zavisi od veličine kupusa)", "qty": null, "unit": null, "ref": "voda" }
+    ],
+    "method": "Kupus iseckajte na trakice, crni luk, beli luk i krompir na kockice, a šargarepu na kolutiće. U malo vode dinstajte 5 minuta crni luk, šargarepu, krompir i začinite. Dodajte kupus i poklopite, kada pusti vodu i omekša, prelijte vodom i ostavite da se krčka još pola sata. Dodajte beli luk i paradajz sok i ostaviti da se kuva još 5-10 minuta.",
+    "tips": ["Ukoliko volite ljuto, ovaj čorbasti kupus ide odlično uz mlevenu ili tucanu ljutu papriku."]
+  }
+]

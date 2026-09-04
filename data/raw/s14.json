@@ -1,0 +1,57 @@
+[
+  {
+    "id": "vocna-ovsena-kasa",
+    "title": "Voćna ovsena kaša",
+    "category": "dorucak-vecera",
+    "source": { "scan": 14, "page": "L" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i šećera."],
+    "ingredients": [
+      { "raw": "5 supenih kašika ovsenih pahuljica", "qty": 5, "unit": "supena kašika", "ref": "ovsene-pahuljice" },
+      { "raw": "1 supena kašika sirovog suncokreta", "qty": 1, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "1 supena kašika mlevenog lana", "qty": 1, "unit": "supena kašika", "ref": "lanene-semenke" },
+      { "raw": "1 supena kašika sirovog oraha", "qty": 1, "unit": "supena kašika", "ref": "orah" },
+      { "raw": "1 supena kašika sirovog susama", "qty": 1, "unit": "supena kašika", "ref": "susam" },
+      { "raw": "1 supena kašika kokosa", "qty": 1, "unit": "supena kašika", "ref": "kokos" },
+      { "raw": "4 otkoštenih svežih urmi", "qty": 4, "unit": "komad", "ref": "urme" },
+      { "raw": "oko 100 gr smrznutog bobičastog voća (jagode, ribizle, maline, kupine, borovnice...)", "qty": 100, "unit": "gr", "ref": "bobicasto-voce" },
+      { "raw": "oko 100 ml vode (zavisi od željene gustine kaše)", "qty": 100, "unit": "ml", "ref": "voda" }
+    ],
+    "method": "Smrznuto voće, ovsene pahuljice i vodu sipajte u šerpu i promešajte, neka se krčka na laganoj vatri dok pripremate ostale sastojke. Preostale sastojke usitnite u multipraktiku. Čim ovsene pahuljice puste svoj beli „sok\", dodajte usitnjenu smesu i po potrebi još vode, i uz mešanje kuvajte dok se kaša ne sjedini i ne upije vodu koju ste dodali.",
+    "tips": ["Ukoliko želite posebno kremastu kašu, možete usitniti i ovsene pahuljice u multipraktiku sa ostalim sastojcima. Takođe, ako ne volite krupno bobičasto voće, i njega možete izblendati štapnim mikserom dok se topi u šerpi sa vodom, pre dodavanja usitnjenih sastojaka."]
+  },
+  {
+    "id": "jaja-mafini",
+    "title": "Jaja mafini",
+    "category": "dorucak-vecera",
+    "source": { "scan": 14, "page": "R" },
+    "timeMinutes": 10,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "equipment": ["silikonske modle za mafine", "silikonska četkica za podmazivanje modli"],
+    "ingredients": [
+      { "raw": "jaja", "qty": null, "unit": null, "ref": "jaja" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "ulje za podmazivanje modli", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Četkicom podmazati modle za mafine, uliti po jedno jaje i posoliti po ukusu. Peći na 200 stepeni oko 10 minuta, u zavisnosti kakva jaja volite (prvi put kada pečete, pripazite na dužinu pečenja).",
+    "tips": []
+  },
+  {
+    "id": "posirana-jaja",
+    "title": "Poširana jaja",
+    "category": "dorucak-vecera",
+    "source": { "scan": 14, "page": "R" },
+    "timeMinutes": 3,
+    "tags": ["bez-glutena"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "jaja", "qty": null, "unit": null, "ref": "jaja" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "voda", "qty": null, "unit": null, "ref": "voda" }
+    ],
+    "method": "Potrebnu količinu jaja izvadite iz ljuske pažljivo da se ne raspadne žumance u činiju. Vodu zagrejte do ključanja, zatim je promešajte i smanjite vatru da nestanu balončići. Polako iz činijice sa male udaljenosti sipajte jedno po jedno jaje u mirnu nekipuću vodu. Kuvajte tačno 3 minuta. Izvadite, procedite višak vode i posolite.",
+    "tips": []
+  }
+]

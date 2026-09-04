@@ -1,0 +1,38 @@
+[
+  {
+    "id": "kukuruzne-galete-sa-humusom-i-svezim-povrcem",
+    "title": "Kukuruzne galete sa humusom i svežim povrćem",
+    "category": "dorucak-vecera",
+    "source": { "scan": 15, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda."],
+    "seeAlso": ["humus"],
+    "ingredients": [
+      { "raw": "kukuruzne galete", "qty": null, "unit": null, "ref": "kukuruzne-galete" },
+      { "raw": "humus", "qty": null, "unit": null, "ref": "humus" },
+      { "raw": "sveže povrće po želji", "qty": null, "unit": null, "ref": "sveze-povrce", "optional": true }
+    ],
+    "method": "Galete premazati humusom i složiti sveže povrće po želji.",
+    "tips": ["Ideja za brzi doručak ili laganu večeru. Biram kukuruzne organske galete jer su tanje, hrskavije i ukusnije od pirinčanih."]
+  },
+  {
+    "id": "moce-iz-rerne",
+    "title": "Moče iz rerne",
+    "subtitle": "prženice ili pofezne",
+    "category": "dorucak-vecera",
+    "source": { "scan": 15, "page": "R" },
+    "timeMinutes": 15,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "jaja", "qty": null, "unit": null, "ref": "jaja" },
+      { "raw": "hleb", "qty": null, "unit": null, "ref": "hleb" },
+      { "raw": "so po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "beli luk u prahu", "qty": null, "unit": null, "ref": "beli-luk" },
+      { "raw": "ulje za premazivanje", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Jaja umutite viljuškom, hleb isecite na tanje kriške. Umočite hleb u jaja dok ih ne upije dobro sa obe strane. Iscedite višak jaja sa hleba i prebacite moče na tepsiju obloženu pek papirom. Premažite uljem pomoću silikonske četkice gornji deo svakog parčeta, zatim ga posolite i začinite belim lukom u prahu i po želji ostalim začinima. Peći na 200 stepeni, dok se ne uhvati zlatna korica.",
+    "tips": []
+  }
+]

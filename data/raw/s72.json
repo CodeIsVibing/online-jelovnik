@@ -1,0 +1,74 @@
+[
+  {
+    "id": "imunomania-eliksir",
+    "title": "Imunomania eliksir",
+    "category": "saveti-sirupi",
+    "source": { "scan": 72, "page": "L" },
+    "timeMinutes": 15,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "2 limuna", "qty": 2, "unit": "komad", "ref": "limun" },
+      { "raw": "200 gr sirovog meda", "qty": 200, "unit": "gr", "ref": "med" },
+      { "raw": "200 gr suvog grožđa", "qty": 200, "unit": "gr", "ref": "suvo-grozdje" },
+      { "raw": "150 gr sirovog suncokreta", "qty": 150, "unit": "gr", "ref": "suncokret" },
+      { "raw": "50 gr sirovih bundevinih semenki", "qty": 50, "unit": "gr", "ref": "bundevine-semenke" },
+      { "raw": "200 ml soka od šargarepe", "qty": 200, "unit": "ml", "ref": "sargarepa" },
+      { "raw": "200 ml matičnog soka od aronije ili cvekle", "qty": 200, "unit": "ml", "ref": "aronija" }
+    ],
+    "method": "Oljuštiti limun, izvaditi semenke. U multipraktiku izblendati limun, suvo grožđe, suncokret i bundevine semenke. Tu smesu pomešati sa medom i sokovima. Dobije se oko 1 kg smese. Čuvati u frižideru i uzimati 3 puta dnevno po 1 kašičicu pre jela.",
+    "tips": []
+  },
+  {
+    "id": "krem-protiv-anemije",
+    "title": "Krem protiv anemije",
+    "category": "saveti-sirupi",
+    "source": { "scan": 72, "page": "L" },
+    "timeMinutes": 5,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "2 supene kašike sirovog kakao praha", "qty": 2, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "3 supene kašike sirovog meda", "qty": 3, "unit": "supena kašika", "ref": "med" },
+      { "raw": "3 supene kašike tahinija (namaz od susama)", "qty": 3, "unit": "supena kašika", "ref": "tahini" },
+      { "raw": "2 supene kašike sirovog susama", "qty": 2, "unit": "supena kašika", "ref": "susam" }
+    ],
+    "method": "Sve sastojke dobro umešati kašikom, spakovati u staklenu teglicu i držati u frižideru. Uzimati 3 puta dnevno po 1 supenu kašiku. Uz ovaj krem bilo bi poželjno konzumirati namirnicu sa vitaminom C, poput limunade, radi bolje apsorpcije gvožđa.",
+    "tips": []
+  },
+  {
+    "id": "med-sa-limunom-i-djumbirom",
+    "title": "Med sa limunom i đumbirom",
+    "category": "saveti-sirupi",
+    "source": { "scan": 72, "page": "R" },
+    "timeMinutes": 5,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 oljušteni svež koren đumbira", "qty": 1, "unit": "koren", "ref": "djumbir" },
+      { "raw": "1 oljušteni limun", "qty": 1, "unit": "komad", "ref": "limun" },
+      { "raw": "pola tegle meda", "qty": 0.5, "unit": "tegla", "ref": "med" }
+    ],
+    "method": "Izblendati 1 oljušteni svež koren đumbira sa jednim oljuštenim limunom u multipraktiku i dodati u pola tegle meda, zatim dobro promešati. Uzimajte po 1 do 2 kašičice dnevno.",
+    "tips": []
+  },
+  {
+    "id": "laneno-ulje-i-mladi-sir-dr-budwig",
+    "title": "Laneno ulje i mladi sir (Dr. Budwig)",
+    "category": "saveti-sirupi",
+    "source": { "scan": 72, "page": "R" },
+    "timeMinutes": 5,
+    "tags": [],
+    "notes": [
+      "Smesa se UVEK pravi SVEŽA i mora se pojesti u roku od 15 do 20 minuta zbog mlevenog lana.",
+      "Pre ovog obroka popijte šolju biljnog toplog čaja. Topli napitak omogućava da samleveno laneno seme nabuja pravilno."
+    ],
+    "ingredients": [
+      { "raw": "3 supene kašike hladno ceđenog lanenog ulja", "qty": 3, "unit": "supena kašika", "ref": "laneno-ulje" },
+      { "raw": "6 supenih kašika nemasnog sira", "qty": 6, "unit": "supena kašika", "ref": "mladi-sir" },
+      { "raw": "2 supene kašike sveže mlevenog lanenog semena", "qty": 2, "unit": "supena kašika", "ref": "lanene-semenke" }
+    ],
+    "method": "Dr. Budwig je imala preko 90% uspeha sa protokolom kod mnogih oblika kancera tokom 50 godina. Mnoga istraživanja u poslednjih 10 godina podržavaju njen protokol. Promena ishrane, sokovi, izloženost suncu i opuštanje je ono za šta se dr. Budwig zalaže. Protokol se, pored ostalih stvari, bazira na kombinaciji mladog nemasnog (kravljeg ili kozijeg) sira i lanenog ulja. Plan je pomogao ljudima i kod ostalih bolesti.\n\nMiksajte štapnim blenderom oko 1 minut dok se smesa ne sjedini. U to dodajte 2 supene kašike sveže mlevenog lanenog semena (u mlinu za kafu npr.).\n\nOva smesa je odlična i za kardiovaskularni sistem, probavni sistem, kožu, stabilizaciju nivoa šećera u krvi, a takođe ubrzava metabolizam. Laneno ulje čuvati u frižideru. Konzumirati bar oko 4 puta nedeljno, a oboleli od kancera svako jutro.",
+    "tips": ["Dodaci ovoj smesi mogu biti: orasi, bademi, brazilski orah, indijski orasi, lešnici (ne kikiriki); bobičasto voće (sveže ili smrznuto); 1 do 2 kašike sok od limuna, borovnice ili crnog grožđa; ostalo sveže voće; med."]
+  }
+]

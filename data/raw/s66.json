@@ -1,0 +1,39 @@
+[
+  {
+    "id": "sejk-mint",
+    "title": "Mint",
+    "category": "sejkovi",
+    "source": { "scan": 66, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "šaka sveže nane (oko 15 gr)", "qty": 15, "unit": "gr", "ref": "nana" },
+      { "raw": "puna šaka svežeg spanaća", "qty": 1, "unit": "šaka", "ref": "spanac" },
+      { "raw": "sok od jednog grejpfruta", "qty": 1, "unit": "komad", "ref": "grejpfrut" },
+      { "raw": "sok od jedne narandže", "qty": 1, "unit": "komad", "ref": "narandza" },
+      { "raw": "sok od jednog limuna", "qty": 1, "unit": "komad", "ref": "limun" }
+    ],
+    "method": "Ubaciti zeleniš u blender, iscediti sok od citrusa i dodati u blender. Miksati oko minut sa pauzom.",
+    "tips": []
+  },
+  {
+    "id": "sejk-berries",
+    "title": "Berries",
+    "category": "sejkovi",
+    "source": { "scan": 66, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "100 gr smrznutog bobičastog voća", "qty": 100, "unit": "gr", "ref": "bobicasto-voce" },
+      { "raw": "šaka spanaća", "qty": 1, "unit": "šaka", "ref": "spanac" },
+      { "raw": "1 smrznuta banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "sok od pola limuna", "qty": 0.5, "unit": "komad", "ref": "limun" },
+      { "raw": "voda do željene gustine", "qty": null, "unit": null, "ref": "voda" },
+      { "raw": "ukoliko banana nije smrznuta, možete koristiti led umesto vode", "qty": null, "unit": null, "ref": "led", "optional": true }
+    ],
+    "method": "Sve sastojke izblendati u blenderu do kremaste teksture.",
+    "tips": []
+  }
+]

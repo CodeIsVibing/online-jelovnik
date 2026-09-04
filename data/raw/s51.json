@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cia-puding",
+    "title": "Čia puding",
+    "category": "slatko",
+    "source": { "scan": 51, "page": "L" },
+    "timeMinutes": 20,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez šećera.", "Dva varijeteta: čokoladni i voćni."],
+    "ingredients": [
+      { "raw": "2 supene kašike čia semenki", "qty": 2, "unit": "supena kašika", "ref": "cia-semenke", "group": "Baza pudinga" },
+      { "raw": "100 ml biljnog mleka (može i jogurt)", "qty": 100, "unit": "ml", "ref": "biljno-mleko", "group": "Baza pudinga" },
+      { "raw": "kašičica sirovog kakao praha (može i rogač)", "qty": 1, "unit": "kašičica", "ref": "kakao", "group": "Dodaci: čokoladni" },
+      { "raw": "1 zrela banana", "qty": 1, "unit": "komad", "ref": "banana", "group": "Dodaci: čokoladni" },
+      { "raw": "4 supene kašike bobičastog voća (maline, kupine, jagode, borovnice - može i smrznuto)", "qty": 4, "unit": "supena kašika", "ref": "bobicasto-voce", "group": "Dodaci: voćni" },
+      { "raw": "1 supena kašika bademovog putera (može i kikiriki puter)", "qty": 1, "unit": "supena kašika", "ref": "bademov-puter", "group": "Dodaci: voćni" }
+    ],
+    "method": "Promešati dobro semenke sa mlekom i ostaviti na 15 minuta u frižider da semenke upiju tečnost i nabubre. Kada odstoje, promešajte još jednom i dodajte svoje dodatke. Još jednom promešajte i po želji dodajte toping poput kokosa, badema, oraha, lešnika, svežeg voća...",
+    "tips": []
+  },
+  {
+    "id": "gumene-bombone",
+    "title": "Gumene bombone",
+    "category": "slatko",
+    "source": { "scan": 51, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena"],
+    "notes": ["bez šećera."],
+    "ingredients": [
+      { "raw": "250 ml ceđenog soka (2 narandže i 1 limun)", "qty": 250, "unit": "ml", "ref": "narandza" },
+      { "raw": "250 ml ceđenog soka (2 narandže i 1 limun)", "qty": null, "unit": null, "ref": "limun" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "3 supene kašike goveđeg želatina", "qty": 3, "unit": "supena kašika", "ref": "zelatin" }
+    ],
+    "method": "U šerpi na srednjoj temperaturi ugrejte sok, zatim dodajte med i želatin uz mešanje. Kada se želatin otopi i smesa sjedini, uliti u silikonske kalupe. Smestite kalupe u frižider na minimum 1 sat pre vađenja iz kalupa i posluženja.",
+    "tips": []
+  }
+]

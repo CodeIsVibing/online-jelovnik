@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ledene-bombone",
+    "title": "Ledene bombone",
+    "category": "slatko",
+    "source": { "scan": 60, "page": "L" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena"],
+    "notes": ["bez šećera."],
+    "seeAlso": ["sladoled"],
+    "ingredients": [
+      { "raw": "ostatak smese od sladoleda", "qty": null, "unit": null, "ref": "sladoled" }
+    ],
+    "method": "Ledene bombone su sjajna ideja ukoliko vam je preostalo sladoleda kada ste ga pravili. Sve što je potrebno je da ostatak smese izlijete u silikonski kalup i smestite ga u zamrzivač. Pravo su zdravo osveženje u letnjim danima. Na ovaj način, podstaći ćete decu da jedu više kvalitetnih sastojaka, bilo to voće ili kakao.",
+    "tips": []
+  },
+  {
+    "id": "after-snow",
+    "title": "After snow",
+    "category": "slatko",
+    "source": { "scan": 60, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, brašna i šećera.", "sirovo i posno."],
+    "ingredients": [
+      { "raw": "1 supena kašika kokosovog ulja", "qty": 1, "unit": "supena kašika", "ref": "kokosovo-ulje" },
+      { "raw": "1 zrela banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "2 supene kašike čia semenki", "qty": 2, "unit": "supena kašika", "ref": "cia-semenke" },
+      { "raw": "2 supene kašike sirovog susama", "qty": 2, "unit": "supena kašika", "ref": "susam" },
+      { "raw": "2 supene kašike sirovog kakao praha", "qty": 2, "unit": "supena kašika", "ref": "kakao" },
+      { "raw": "4 supene kašike sirovog suncokreta", "qty": 4, "unit": "supena kašika", "ref": "suncokret" },
+      { "raw": "4 supene kašike oraha", "qty": 4, "unit": "supena kašika", "ref": "orah" },
+      { "raw": "4 supene kašike kokosa", "qty": 4, "unit": "supena kašika", "ref": "kokos" },
+      { "raw": "8 supenih kašika ovsenih pahuljica", "qty": 8, "unit": "supena kašika", "ref": "ovsene-pahuljice" },
+      { "raw": "18 otkoštenih svežih urmi", "qty": 18, "unit": "komad", "ref": "urme" }
+    ],
+    "method": "Čia semenke, susam, kakao, orah, suncokret, kokos, ovsene pahuljice, i kokosovo ulje usitniti u multipraktiku. Zatim dodati bananu i urme dok se ne napravi ujednačena i lepljiva smesa. Možete ih vaditi kašikom za sladoled ili oblikovati u štrudlu pa seći na šnite.",
+    "tips": []
+  }
+]

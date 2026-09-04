@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mediteranske-projice",
+    "title": "Mediteranske projice",
+    "category": "dorucak-vecera",
+    "source": { "scan": 9, "page": "L" },
+    "timeMinutes": 30,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "3 jajeta", "qty": 3, "unit": "komad", "ref": "jaja", "group": "Mokri sastojci" },
+      { "raw": "200 ml jogurta", "qty": 200, "unit": "ml", "ref": "jogurt", "group": "Mokri sastojci" },
+      { "raw": "50 ml maslinovog ulja", "qty": 50, "unit": "ml", "ref": "maslinovo-ulje", "group": "Mokri sastojci" },
+      { "raw": "15 iseckanih maslina", "qty": 15, "unit": "komad", "ref": "masline", "group": "Mokri sastojci" },
+      { "raw": "100 gr svežeg mladog nemasnog sira", "qty": 100, "unit": "gr", "ref": "mladi-sir", "group": "Mokri sastojci" },
+      { "raw": "1 kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so", "group": "Suvi sastojci" },
+      { "raw": "1 kašičica sode bikarbone", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Suvi sastojci" },
+      { "raw": "6 supenih kašika speltinog mekog brašna", "qty": 6, "unit": "supena kašika", "ref": "speltino-brasno", "group": "Suvi sastojci" },
+      { "raw": "7 supenih kašika kukuruznog brašna", "qty": 7, "unit": "supena kašika", "ref": "kukuruzno-brasno", "group": "Suvi sastojci" },
+      { "raw": "1 supena kašika origana", "qty": 1, "unit": "supena kašika", "ref": "origano", "group": "Suvi sastojci" },
+      { "raw": "1 supena kašika belog luka u prahu", "qty": 1, "unit": "supena kašika", "ref": "beli-luk", "group": "Suvi sastojci" },
+      { "raw": "semenke po želji za posipanje", "qty": null, "unit": null, "ref": "semenke", "optional": true }
+    ],
+    "method": "Umutiti jaja viljuškom, sjediniti sve mokre sastojke i promešati. U drugoj činiji pomešati suve sastojke i promešati. Sjediniti mokre i suve sastojke i još jednom dobro promešati. Izliti smesu u kalupe za mafine do pola i posuti semenkama. Peći na 200 stepeni oko 20 minuta. Projice budu spolja hrskave, iznutra mekane.",
+    "tips": ["Kada kupujete beli luk u granulama ili prahu, posebno obratite pažnju na poreklo belog luka. Najčešće to bude beli luk iz Kine koji sadrži veliku koncentraciju teških metala i drugih toksičnih jedinjenja opasnih po zdravlje. Luk iz Kine pre transporta bude tretiran hlorom ne bi li se sprečilo kvarenje. Ovaj luk ostaje bez svojih lekovitih svojstava."]
+  },
+  {
+    "id": "sumska-palenta",
+    "title": "Šumska palenta",
+    "category": "dorucak-vecera",
+    "source": { "scan": 9, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda, šećera i ulja."],
+    "ingredients": [
+      { "raw": "150 gr smrznutog šumskog voća", "qty": 150, "unit": "gr", "ref": "sumsko-voce" },
+      { "raw": "70 gr palente", "qty": 70, "unit": "gr", "ref": "palenta" },
+      { "raw": "400 ml vode", "qty": 400, "unit": "ml", "ref": "voda" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" }
+    ],
+    "method": "U vodu ubacite smrznuto voće da se topi dok se voda zagreva. Štapnim mikserom izmiksajte voće i kada voda krene da ključa, ubacite palentu i kuvajte 3 minuta uz mešanje. Kada se palenta malo prohladi, dodajte med i još jednom promešajte. Toping stavljajte po želji i ukusu (sveže, suvo ili koštunjavo voće, semenke, kokos...)",
+    "tips": []
+  }
+]

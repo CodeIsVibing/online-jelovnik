@@ -1,0 +1,49 @@
+[
+  {
+    "id": "sataras-sa-bukovacama",
+    "title": "Sataraš sa bukovačama",
+    "category": "rucak",
+    "source": { "scan": 26, "page": "L" },
+    "timeMinutes": 25,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i brašna."],
+    "ingredients": [
+      { "raw": "1 crvena paprika", "qty": 1, "unit": "komad", "ref": "paprika" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "5 komada čeri paradajza (može i 1 običan paradajz)", "qty": 5, "unit": "komad", "ref": "ceri-paradajz" },
+      { "raw": "300 gr bukovače", "qty": 300, "unit": "gr", "ref": "bukovaca" },
+      { "raw": "100-150 ml paradajz soka bez šećera", "qty": null, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "himalajska so, biber i mlevena paprika po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so, biber i mlevena paprika po ukusu", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "himalajska so, biber i mlevena paprika po ukusu", "qty": null, "unit": null, "ref": "mlevena-paprika" },
+      { "raw": "ulje za dinstanje", "qty": null, "unit": null, "ref": "ulje" }
+    ],
+    "method": "Papriku, crni luk, paradajz i bukovače iseckajte na kockice, dinstajte dok ne omekša, začinite i dodajte paradajz sok. Kada se zgusne sos, jelo je gotovo. Odlično se kombinuje uz svež bosiljak.",
+    "tips": ["Bukovače sadrže veoma malu količinu masti, korisna je za jačanje imuniteta i snižavanje holesterola. Takođe sadrži i obilje minerala, vitamina i proteina. Preporuka je da se što manje termički obrađuje, a konzumira bar jednom nedeljno."]
+  },
+  {
+    "id": "sirove-spagete-od-tikvica-sa-pestom",
+    "title": "Sirove špagete od tikvica sa pestom",
+    "category": "rucak",
+    "source": { "scan": 26, "page": "R" },
+    "timeMinutes": 10,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "100 gr sirovog spanaća", "qty": 100, "unit": "gr", "ref": "spanac" },
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "2 supene kašike ekstra devičanskog maslinovog ulja", "qty": 2, "unit": "supena kašika", "ref": "maslinovo-ulje" },
+      { "raw": "šaka sirovih badema", "qty": 1, "unit": "šaka", "ref": "badem" },
+      { "raw": "30 gr parmezana", "qty": 30, "unit": "gr", "ref": "parmezan" },
+      { "raw": "so i biber po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "so i biber po ukusu", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "sveža tikvica", "qty": null, "unit": null, "ref": "tikvica" },
+      { "raw": "laneno seme za posipanje", "qty": null, "unit": null, "ref": "lanene-semenke" }
+    ],
+    "method": "Sve sastojke sem tikvice i lanenog semena izblendati u multipraktiku dok smesa ne postane ujednačena. Tikvicu oljuštiti ljuštilicom sa ravnim sečivom, a zatim ljuštilicom sa sečivom sa zupcima napraviti špagete. Pesto i špagete od tikvica sjedinite, dobro promešajte i pospite lanenim semenkama.",
+    "tips": [
+      "Ukoliko želite toplo jelo, u tiganju premazanim uljem kratko dinstajte špagete od tikvica i zatim dodajte pesto i promešajte.",
+      "Ostatak tikvice koji niste mogli izrendati možete izblendati i dodati u špagete kao dodatan preliv."
+    ]
+  }
+]

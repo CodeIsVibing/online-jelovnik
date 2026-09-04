@@ -1,0 +1,49 @@
+[
+  {
+    "id": "oslic-sa-rizom-iz-rerne",
+    "title": "Oslić sa rižom iz rerne",
+    "category": "rucak",
+    "source": { "scan": 30, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena"],
+    "notes": ["bez mlečnih proizvoda i brašna."],
+    "ingredients": [
+      { "raw": "oslić (može i smrznuti)", "qty": null, "unit": null, "ref": "oslic" },
+      { "raw": "pirinač", "qty": null, "unit": null, "ref": "pirinac" },
+      { "raw": "bujon od povrća ili šupljih kostiju (3 puta više nego pirinča)", "qty": null, "unit": null, "ref": "bujon" },
+      { "raw": "limun", "qty": null, "unit": null, "ref": "limun" },
+      { "raw": "himalajska so, biber i beli luk u prahu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "himalajska so, biber i beli luk u prahu", "qty": null, "unit": null, "ref": "biber" },
+      { "raw": "himalajska so, biber i beli luk u prahu", "qty": null, "unit": null, "ref": "beli-luk" },
+      { "raw": "laneno seme za posipanje", "qty": null, "unit": null, "ref": "lanene-semenke" }
+    ],
+    "method": "Pirinač možete potopiti noć pre pripreme obroka ili bar 30 minuta u hladnu vodu a zatim ga dobro operite i procedite. U posudu za pečenje ulijte 3 puta više bujona od količine pirinča, dodajte pirinač i poklopite. Pecite na 180 stepeni oko 15 minuta. Oslić dobro posolite, začinite biberom i belim lukom u prahu, a zatim ga staviti preko pirinča i peći još 5 do 10 minuta u otklopljenoj posudi dok ne dobije zlatnu koricu.",
+    "tips": ["Ne propustite da ribu prelijete izvrsnim prelivom kako bi ukus bio upotpunjen: pomešajte 2 supene kašike limunovog soka, 40 ml ekstra devičanskog maslinovog ulja, 2 čena sitno seckanog belog luka, par listića usitnjenog svežeg peršuna i jači prstohvat soli."]
+  },
+  {
+    "id": "zapeceni-pasulj-iz-rerne",
+    "title": "Zapečeni pasulj iz rerne",
+    "category": "rucak",
+    "source": { "scan": 30, "page": "R" },
+    "timeMinutes": 75,
+    "timeNote": "1 sat i 15 minuta",
+    "tags": ["bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez brašna i ulja."],
+    "ingredients": [
+      { "raw": "500 gr pasulja (tetovac)", "qty": 500, "unit": "gr", "ref": "pasulj" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "2 šargarepe", "qty": 2, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "2 krompira", "qty": 2, "unit": "komad", "ref": "krompir" },
+      { "raw": "250 ml paradajz soka", "qty": 250, "unit": "ml", "ref": "paradajz-sok" },
+      { "raw": "pola kašičice mlevene paprike", "qty": 0.5, "unit": "kašičica", "ref": "mlevena-paprika" },
+      { "raw": "prstohvat bibera i kurkume", "qty": null, "unit": "prstohvat", "ref": "biber" },
+      { "raw": "prstohvat bibera i kurkume", "qty": null, "unit": "prstohvat", "ref": "kurkuma" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "3,4 lovorova lista", "qty": null, "unit": "list", "ref": "lovorov-list" },
+      { "raw": "četvrtina kašičice sode bikarbone bez aluminijuma", "qty": 0.25, "unit": "kašičica", "ref": "soda-bikarbona" }
+    ],
+    "method": "Pasulj potopiti u hladnu vodu i ostaviti da prenoći. Ujutru ga dobro oprati i procediti. Kuvati ga 30 minuta. Za to vreme iseckajte crni luk, šargarepu i krompir i dinstajte u malo vode. Pasulj procediti i presuti u šerpu sa povrćem, dodati vode da ogrezne i seckani beli luk, začiniti i ostaviti otklopljeno da se krčka još 15 minuta, da bi dobar deo vode ispario. Dodajte paradajz sok i kuvati još oko 10 minuta. Kada je krompir skuvan, presuti ga u posudu za pečenje i peći na 200 stepeni dok tečnost ne ispari i uhvati se korica.",
+    "tips": ["Ukoliko volite šmek suvog mesa, dodajte parče kako bi obogatio miris i ukus pasulja. Posle ga možete izvaditi."]
+  }
+]

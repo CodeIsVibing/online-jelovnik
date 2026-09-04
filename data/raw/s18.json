@@ -1,0 +1,60 @@
+[
+  {
+    "id": "bean-burger",
+    "title": "Bean burger",
+    "category": "rucak",
+    "source": { "scan": 18, "page": "L" },
+    "timeMinutes": 40,
+    "timeNote": "40 minuta + 30 min stezanja u frižideru",
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez ulja, jaja, kvasca i šećera."],
+    "seeAlso": ["lepinjice"],
+    "ingredients": [
+      { "raw": "100 gr ovsenih pahuljica", "qty": 100, "unit": "gr", "ref": "ovsene-pahuljice" },
+      { "raw": "50 gr krupno seckanih oraha", "qty": 50, "unit": "gr", "ref": "orah" },
+      { "raw": "pola seckanog ljubičastog luka", "qty": 0.5, "unit": "glavica", "ref": "ljubicasti-luk" },
+      { "raw": "50 gr šampinjona", "qty": 50, "unit": "gr", "ref": "sampinjoni" },
+      { "raw": "600 gr kuvanog pasulja (može i od ostatka ručka po receptu zapečeni pasulj iz rerne ili iz konzerve)", "qty": 600, "unit": "gr", "ref": "pasulj" },
+      { "raw": "2 supene kašike tahinija (susam pasta)", "qty": 2, "unit": "supena kašika", "ref": "tahini" },
+      { "raw": "četvrtina kašičice kurkume", "qty": 0.25, "unit": "kašičica", "ref": "kurkuma" },
+      { "raw": "1 supena kašika lanenog semena", "qty": 1, "unit": "supena kašika", "ref": "lanene-semenke" },
+      { "raw": "1 supena kašika seckanog svežeg peršuna", "qty": 1, "unit": "supena kašika", "ref": "persun" },
+      { "raw": "kašičica belog luka u prahu", "qty": 1, "unit": "kašičica", "ref": "beli-luk" },
+      { "raw": "1 supena kašika mlevene paprike", "qty": 1, "unit": "supena kašika", "ref": "mlevena-paprika" }
+    ],
+    "method": "U multipraktiku usitnite ovsene pahuljice i orahe. Dodati luk, pečurke, pasulj, tahini i lan, pa opet blendati. Zatim dodati ostale sastojke i blendati dok smesa ne postane ujednačena. Uzmite mali deo smese prstima i proverite da li se može formirati oblik. Ukoliko je smesa previše vlažna, dodajte po malo ovsenih pahuljica, a ako se raspada i previše je suva, dodajte postepeno po kašiku vode. Podelite smesu na jednake delove i formirajte pljeskavice debljine oko 1,5 cm, pa odložiti u frižider da se stegnu. Peći u zagrejanoj rerni na 190 stepeni oko 30 minuta, na pola vremena okrenite pljeskavicu.",
+    "tips": ["Recept za lepinjice možete pronaći u delu recepata pod nazivom „Hleb/peciva/grickalice\"."]
+  },
+  {
+    "id": "buda-cinija",
+    "title": "Buda činija",
+    "category": "rucak",
+    "source": { "scan": 18, "page": "R" },
+    "timeMinutes": 15,
+    "tags": ["bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda.", "Sirove leblebije potopiti u vodu 24h pre pripreme."],
+    "ingredients": [
+      { "raw": "200 gr sirove leblebije", "qty": 200, "unit": "gr", "ref": "leblebije", "group": "Falafeli" },
+      { "raw": "polovina crnog luka", "qty": 0.5, "unit": "glavica", "ref": "crni-luk", "group": "Falafeli" },
+      { "raw": "15 gr svežeg peršuna", "qty": 15, "unit": "gr", "ref": "persun", "group": "Falafeli" },
+      { "raw": "10 gr svežeg korijandera", "qty": 10, "unit": "gr", "ref": "korijander", "group": "Falafeli" },
+      { "raw": "kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so", "group": "Falafeli" },
+      { "raw": "4 čena belog luka", "qty": 4, "unit": "čen", "ref": "beli-luk", "group": "Falafeli" },
+      { "raw": "2 kašičice kumina (indijski kim)", "qty": 2, "unit": "kašičica", "ref": "kumin", "group": "Falafeli" },
+      { "raw": "kašičica mlevenog korijandera", "qty": 1, "unit": "kašičica", "ref": "korijander", "group": "Falafeli" },
+      { "raw": "kašičica sode bikarbone bez aluminijuma", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Falafeli" },
+      { "raw": "4 supene kašike brašna od leblebije", "qty": 4, "unit": "supena kašika", "ref": "brasno-od-leblebije", "group": "Falafeli" },
+      { "raw": "šaka baby spanaća", "qty": 1, "unit": "šaka", "ref": "spanac", "group": "Povrće po želji" },
+      { "raw": "četvrtina rendane sirove cvekle", "qty": 0.25, "unit": "komad", "ref": "cvekla", "group": "Povrće po želji" },
+      { "raw": "šaka kukuruza šećerca", "qty": 1, "unit": "šaka", "ref": "kukuruz-secerac", "group": "Povrće po želji" },
+      { "raw": "3 cherry paradajza", "qty": 3, "unit": "komad", "ref": "ceri-paradajz", "group": "Povrće po želji" },
+      { "raw": "pola seckane šargarepe", "qty": 0.5, "unit": "komad", "ref": "sargarepa", "group": "Povrće po želji" },
+      { "raw": "četvrtina praziluka", "qty": 0.25, "unit": "komad", "ref": "praziluk", "group": "Povrće po želji" },
+      { "raw": "limun za preliv", "qty": null, "unit": null, "ref": "limun", "group": "Povrće po želji" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so", "group": "Povrće po želji" },
+      { "raw": "50 gr prosa", "qty": 50, "unit": "gr", "ref": "proso", "group": "Proso" }
+    ],
+    "method": "Falafeli: leblebije procediti i izblendati u multipraktiku (ne na skroz sitno) sa svim sastojcima sem brašna od leblebije i sode bikarbone. U drugu činiju presuti smesu i dodati brašno i sodu bikarbonu. Promešati još jednom, a zatim oblikovati kuglice, pa skloniti u frižider na 30 minuta da smesa odmori. Peći u rerni u obloženom plehu na 200 stepeni oko 25 minuta dok ne porumene, na polovini vremena ih okrenite. Drugi način pečenja je u tiganju na malo ulja oko 5, 6 minuta, takođe dok ne dobiju zlatnu boju. Biće manje suve nego iz rerne.\n\nProso: potopiti proso u hladnu vodu na 15 minuta. Dobro ga oprati i procediti. Kuvati ga u posoljenoj vodi u odnosu 1:3 (npr. šolja prosa u tri šolje vode) oko 15 minuta, dok ne omekša. Posoliti po ukusu.\n\nU činiji pomešati sve sastojke, preliti sokom od limuna i začiniti po ukusu.",
+    "tips": []
+  }
+]

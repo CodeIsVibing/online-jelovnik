@@ -1,0 +1,57 @@
+[
+  {
+    "id": "salata-od-boranije-sa-pljeskavicama-od-tikvica",
+    "title": "Salata od boranije i šargarepe u belom luku sa pljeskavicama od tikvica",
+    "category": "rucak",
+    "source": { "scan": 24, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "sok od pola limuna", "qty": 0.5, "unit": "komad", "ref": "limun", "group": "Salata" },
+      { "raw": "prstohvat bibera", "qty": null, "unit": "prstohvat", "ref": "biber", "group": "Salata" },
+      { "raw": "200 gr boranije", "qty": 200, "unit": "gr", "ref": "boranija", "group": "Salata" },
+      { "raw": "kašičica ekstra devičanskog maslinovog ulja", "qty": 1, "unit": "kašičica", "ref": "maslinovo-ulje", "group": "Salata" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so", "group": "Salata" },
+      { "raw": "3 čena belog luka", "qty": 3, "unit": "čen", "ref": "beli-luk", "group": "Salata" },
+      { "raw": "kašičica belog luka u prahu", "qty": 1, "unit": "kašičica", "ref": "beli-luk", "group": "Salata" },
+      { "raw": "1 šargarepa", "qty": 1, "unit": "komad", "ref": "sargarepa", "group": "Salata" },
+      { "raw": "2 tikvice", "qty": 2, "unit": "komad", "ref": "tikvica", "group": "Pljeskavice" },
+      { "raw": "1 jaje", "qty": 1, "unit": "komad", "ref": "jaja", "group": "Pljeskavice" },
+      { "raw": "3 supene kašike kukuruznog brašna", "qty": 3, "unit": "supena kašika", "ref": "kukuruzno-brasno", "group": "Pljeskavice" },
+      { "raw": "2 supene kašike čia semenki", "qty": 2, "unit": "supena kašika", "ref": "cia-semenke", "group": "Pljeskavice" },
+      { "raw": "kašičica sode bikarbone", "qty": 1, "unit": "kašičica", "ref": "soda-bikarbona", "group": "Pljeskavice" },
+      { "raw": "8 supenih kašika soka od limuna", "qty": 8, "unit": "supena kašika", "ref": "limun", "group": "Pljeskavice" },
+      { "raw": "2 supene kašike sirovih bundevinih semenki", "qty": 2, "unit": "supena kašika", "ref": "bundevine-semenke", "group": "Pljeskavice" },
+      { "raw": "na vrh kašičice kurkume i bibera", "qty": null, "unit": null, "ref": "kurkuma", "group": "Pljeskavice" },
+      { "raw": "na vrh kašičice kurkume i bibera", "qty": null, "unit": null, "ref": "biber", "group": "Pljeskavice" },
+      { "raw": "ravna kašičica himalajske soli", "qty": 1, "unit": "kašičica", "ref": "so", "group": "Pljeskavice" }
+    ],
+    "method": "Salata: obariti boraniju u vodi dok ne omekša, dobro procediti i ohladiti. Šargarepu oljuštiti i ljuštilicom seći na tanke listove. Sve sastojke sjediniti i još jednom dobro promešati.\n\nPljeskavice: čia semenke potopiti u sok od limuna, dobro promešati i ostaviti sa strane da nabubre. Tikvice oljuštiti i izrendati pa skloniti sa strane u cediljku da puste vodu. Uključite rernu na 200 stepeni. Umutite jaje viljuškom, dodajte brašno, sodu bikarbonu, bundevine semenke i začine pa promešajte. Izrendane tikvice dobro iscedite, dodajte u smesu, kao i čia semenke. Sve još jednom promešajte, oblikujte pljeskavice i stavljati na pleh obložen pek papirom. Peći dok ne porumene, oko 20 minuta.",
+    "tips": ["Salata ima intenzivniji ukus kada se posluži ohlađena."]
+  },
+  {
+    "id": "socivo",
+    "title": "Sočivo",
+    "category": "rucak",
+    "source": { "scan": 24, "page": "R" },
+    "timeMinutes": 45,
+    "tags": ["bez-glutena", "vegetarijansko", "priprema-vece-ranije"],
+    "notes": ["bez brašna i ulja."],
+    "ingredients": [
+      { "raw": "500 gr zelenog sočiva", "qty": 500, "unit": "gr", "ref": "socivo" },
+      { "raw": "4 belog luka", "qty": 4, "unit": "čen", "ref": "beli-luk" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "3 šargarepe", "qty": 3, "unit": "komad", "ref": "sargarepa" },
+      { "raw": "1 krompir", "qty": 1, "unit": "komad", "ref": "krompir" },
+      { "raw": "po 1 kašičica mlevene paprike, himalajske soli, suvog začina", "qty": 1, "unit": "kašičica", "ref": "mlevena-paprika" },
+      { "raw": "po 1 kašičica mlevene paprike, himalajske soli, suvog začina", "qty": 1, "unit": "kašičica", "ref": "so" },
+      { "raw": "po 1 kašičica mlevene paprike, himalajske soli, suvog začina", "qty": 1, "unit": "kašičica", "ref": "suvi-zacin" },
+      { "raw": "prstohvat bibera", "qty": null, "unit": "prstohvat", "ref": "biber" },
+      { "raw": "oko 750 ml vode", "qty": 750, "unit": "ml", "ref": "voda" },
+      { "raw": "200 ml soka od paradajza", "qty": 200, "unit": "ml", "ref": "paradajz-sok" }
+    ],
+    "method": "Sočivo potopite u hladnu vodu noć pre pripreme obroka. Ujutru ga operite i procedite. Iseckajte crni luk i krompir na kockice, a šargarepu na kolutiće. Dinstajte ih u malo vode 5 minuta, dodajte začine, sočivo i prelijte preostalom vodom. Poklopite i ostavite da se krčka na srednjoj temperaturi oko 30 minuta. Pred kraj dodajte iseckani beli luk i paradajz sok. Kuvajte još 5-10 minuta.",
+    "tips": ["Ukoliko volite šmek, na početku kuvanja možete ubaciti komadić slanine ili suvog mesa."]
+  }
+]

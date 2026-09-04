@@ -1,0 +1,48 @@
+[
+  {
+    "id": "heljda-sa-povrcem-i-tunjevinom",
+    "title": "Heljda sa povrćem i tunjevinom",
+    "category": "rucak",
+    "source": { "scan": 22, "page": "L" },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "priprema-vece-ranije"],
+    "notes": ["bez mlečnih proizvoda."],
+    "ingredients": [
+      { "raw": "50 grama smrznutog graška", "qty": 50, "unit": "gr", "ref": "grasak" },
+      { "raw": "50 grama smrznutog kukuruza", "qty": 50, "unit": "gr", "ref": "kukuruz-secerac" },
+      { "raw": "50 grama sveže paprike", "qty": 50, "unit": "gr", "ref": "paprika" },
+      { "raw": "100 gr heljdinog sirovog zrna", "qty": 100, "unit": "gr", "ref": "heljda" },
+      { "raw": "konzerva tune (komadi)", "qty": 1, "unit": "konzerva", "ref": "tunjevina" },
+      { "raw": "pola kašičice ulja za dinstanje", "qty": 0.5, "unit": "kašičica", "ref": "ulje" },
+      { "raw": "supena kašika soka od limuna", "qty": 1, "unit": "supena kašika", "ref": "limun" },
+      { "raw": "kašičica sirovog susama za posipanje", "qty": 1, "unit": "kašičica", "ref": "susam" },
+      { "raw": "začini po ukusu: so, mlevena paprika, sušeni bosiljak, beli luk u prahu", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "začini po ukusu: so, mlevena paprika, sušeni bosiljak, beli luk u prahu", "qty": null, "unit": null, "ref": "mlevena-paprika" },
+      { "raw": "začini po ukusu: so, mlevena paprika, sušeni bosiljak, beli luk u prahu", "qty": null, "unit": null, "ref": "bosiljak" },
+      { "raw": "začini po ukusu: so, mlevena paprika, sušeni bosiljak, beli luk u prahu", "qty": null, "unit": null, "ref": "beli-luk" }
+    ],
+    "method": "Heljdu potopite u hladnu vodu noć pre pripreme salate. Ujutru je operite i procedite. Kuvajte je oko 10 minuta u malo vode i dobro procedite. Kukuruz i grašak kuvajte u malo vode oko 15 minuta na jakoj vatri. Procedite ih, iseckajte papriku na kockice i sve zajedno preručite u dublji tiganj premazan uljem, dodajte začine po ukusu i dinstajte dok paprika ne omekša. Pred kraj dodajte skuvanu heljdu i tunjevinu i promešajte da se ukusi sjedine. Prespite u činiju, prelijte sokom od limuna i promešajte. Pospite susamom i poslužite sa svežim povrćem.",
+    "tips": ["Tunjevinu kupujte u sopstvenom soku."]
+  },
+  {
+    "id": "kinoa-sa-tofuom",
+    "title": "Kinoa sa tofuom",
+    "category": "rucak",
+    "source": { "scan": 22, "page": "R" },
+    "timeMinutes": 40,
+    "tags": ["ljuto", "bez-glutena", "vegetarijansko"],
+    "notes": ["bez mlečnih proizvoda i brašna."],
+    "ingredients": [
+      { "raw": "100 gr kinoe", "qty": 100, "unit": "gr", "ref": "kinoa" },
+      { "raw": "1 glavica crnog luka", "qty": 1, "unit": "glavica", "ref": "crni-luk" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje" },
+      { "raw": "šaka svežeg sremuša", "qty": 1, "unit": "šaka", "ref": "sremus" },
+      { "raw": "1 paradajz", "qty": 1, "unit": "komad", "ref": "paradajz" },
+      { "raw": "200 gr tofu sira", "qty": 200, "unit": "gr", "ref": "tofu" },
+      { "raw": "ljuta mlevena paprika", "qty": null, "unit": null, "ref": "ljuta-paprika" },
+      { "raw": "himalajska so po ukusu", "qty": null, "unit": null, "ref": "so" }
+    ],
+    "method": "Kinou potopite u hladnu vodu na 10 minuta a zatim je dobro isperite. Kuvajte je u odnosu 1:2 sa vodom, oko 15 minuta, procedite i odložite na stranu. Tofu iseckajte na manje kockice pa je propržite u nauljenom tiganju dok ne lagano ne porumene. Dodajte iseckani luk, dinstajte dok ne omekša a zatim dodajte paradajz iseckan na kockice, začine po ukusu i iseckan sremuš. Nakon 5 minuta dodajte kinou, promešajte da se dobro sjedini, isključite ringlu i ostavite još malo da se krčka.",
+    "tips": []
+  }
+]

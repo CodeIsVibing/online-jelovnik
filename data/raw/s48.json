@@ -1,0 +1,36 @@
+[
+  {
+    "id": "domaca-prezla",
+    "title": "Domaća prezla",
+    "category": "hleb-peciva",
+    "source": { "scan": 48, "page": "L" },
+    "timeMinutes": 20,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      { "raw": "stari hleb", "qty": null, "unit": null, "ref": "hleb" }
+    ],
+    "method": "Iscepkati hleb na komade i staviti u tepsiju obloženu pek papirom. Peći na 120 stepeni oko 15 minuta dok se hleb u potpunosti ne osuši. Ohladiti hleb, a zatim ga usitniti u multipraktiku na željenu veličinu prezle. Čuvajte je u tegli na suvom i tamnom mestu.",
+    "tips": []
+  },
+  {
+    "id": "domace-kokice",
+    "title": "Domaće kokice",
+    "category": "hleb-peciva",
+    "source": { "scan": 48, "page": "R" },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "kukuruz kokičar", "qty": null, "unit": null, "ref": "kukuruz-kokicar" },
+      { "raw": "maslinovo ulje", "qty": null, "unit": null, "ref": "maslinovo-ulje" },
+      { "raw": "himalajska so", "qty": null, "unit": null, "ref": "so" },
+      { "raw": "kašičica ljute mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "ljuta-paprika", "optional": true, "group": "Pikantna mešavina začina za kokice" },
+      { "raw": "kašičica slatke mlevene paprike", "qty": 1, "unit": "kašičica", "ref": "mlevena-paprika", "optional": true, "group": "Pikantna mešavina začina za kokice" },
+      { "raw": "kašičica kumina", "qty": 1, "unit": "kašičica", "ref": "kumin", "optional": true, "group": "Pikantna mešavina začina za kokice" },
+      { "raw": "pola kašičice himalajske soli", "qty": 0.5, "unit": "kašičica", "ref": "so", "optional": true, "group": "Pikantna mešavina začina za kokice" }
+    ],
+    "method": "Ringlu uključiti na najveću temperaturu. U šerpu sipati ulja toliko da pokrije dno, a zatim dodati kukuruz takođe da pokrije dno. Poklopite i čekajte prvi zvuk kokanja. Kada krene kokanje, ringlu isključite a kada kokice prekinu da se kokaju izručite u činiju i posolite.",
+    "tips": []
+  }
+]
