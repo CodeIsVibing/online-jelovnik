@@ -2,6 +2,13 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.5.0] · 2026-09-04
+
+### Dodato
+- Paginacija: kad rezultat ima više od 27 kartica, deli se na strane po 15
+- Strane rade i kad je ostava uključena, brojanje ide kroz sve grupe, a naslov grupe se ponavlja na strani na kojoj se ta grupa nastavlja
+- Svaka promena pretrage, kategorije, oznake ili ostave vraća prikaz na prvu stranu
+
 ## [1.4.0] · 2026-09-04
 
 ### Dodato

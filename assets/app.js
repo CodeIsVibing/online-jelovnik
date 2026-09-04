@@ -39,7 +39,11 @@
     pantry: new Set(loadPantry()),
     showAllIngredients: false,
     ingQuery: "",
+    page: 1,
   };
+
+  const PAGE_SIZE = 15;   // koliko kartica staje na jednu stranu
+  const PAGE_MIN  = 27;   // do ovog broja se sve prikazuje odjednom
 
   let RECIPES = [], INGREDIENTS = [], CATEGORIES = [];
   let ingById = new Map(), catById = new Map(), basicIds = new Set();
@@ -152,6 +156,36 @@
       </button>`;
   }
 
+  // strane se broje kroz ceo rezultat, i onda kad je podeljen u grupe po ostavi
+  function pager(total) {
+    const pages = Math.ceil(total / PAGE_SIZE);
+    if (pages < 2) return "";
+    const cur = state.page;
+    const shown = [...new Set([1, pages, cur - 1, cur, cur + 1])]
+      .filter(n => n >= 1 && n <= pages).sort((a, b) => a - b);
+
+    let nums = "", prev = 0;
+    for (const n of shown) {
+      if (n - prev > 1) nums += `<span class="pager-gap" aria-hidden="true">…</span>`;
+      nums += `<button class="pager-n${n === cur ? " is-on" : ""}" type="button" data-page="${n}"` +
+              `${n === cur ? ' aria-current="page"' : ""}>${n}</button>`;
+      prev = n;
+    }
+
+    const arrow = (to, cls, label, off) =>
+      `<button class="pager-arrow ${cls}" type="button" data-page="${to}"${off ? " disabled" : ""} aria-label="${label}">
+        <svg aria-hidden="true"><use href="#ic-chev"/></svg>
+      </button>`;
+
+    return `
+      <nav class="pager" aria-label="Strane rezultata">
+        ${arrow(cur - 1, "pager-prev", "Prethodna strana", cur === 1)}
+        <div class="pager-nums">${nums}</div>
+        ${arrow(cur + 1, "pager-next", "Sledeća strana", cur === pages)}
+        <span class="pager-info">Strana ${cur} od ${pages}</span>
+      </nav>`;
+  }
+
   function renderResults() {
     const list = filtered();
     const box = $("#results");
@@ -163,9 +197,16 @@
       return;
     }
 
+    const paged = list.length > PAGE_MIN;
+    const pages = paged ? Math.ceil(list.length / PAGE_SIZE) : 1;
+    state.page = Math.min(Math.max(state.page, 1), pages);
+    const from = paged ? (state.page - 1) * PAGE_SIZE : 0;
+    const to   = paged ? from + PAGE_SIZE : list.length;
+    const foot = paged ? pager(list.length) : "";
+
     if (!state.pantry.size) {
       countEl.textContent = countLabel(list);
-      box.innerHTML = `<div class="grid">${list.map(card).join("")}</div>`;
+      box.innerHTML = `<div class="grid">${list.slice(from, to).map(card).join("")}</div>` + foot;
       return;
     }
 
@@ -174,20 +215,41 @@
       ? `${ok.length} ${plural(ok.length, "jelo", "jela", "jela")} možeš da napraviš odmah`
       : "Nijedno jelo se ne može napraviti samo od čekiranih sastojaka";
 
-    const section = (items, cls, title) => items.length ? `
+    // grupe se nižu redom, pa se isečak strane seče preko njihovih granica
+    let passed = 0;
+    const section = (items, cls, title) => {
+      const start = passed;
+      passed += items.length;
+      if (!items.length) return "";
+      const a = Math.max(from, start), b = Math.min(to, passed);
+      if (a >= b) return "";
+      return `
       <section class="bucket">
         <div class="bucket-head ${cls}">
           <h2>${title}</h2><span class="n">${items.length}</span>
         </div>
-        <div class="grid">${items.map(card).join("")}</div>
-      </section>` : "";
+        <div class="grid">${items.slice(a - start, b - start).map(card).join("")}</div>
+      </section>`;
+    };
 
     box.innerHTML =
       section(ok,   "ok",    "Možeš odmah") +
       section(m1,   "miss1", "Fali ti jedan sastojak") +
       section(m2,   "miss2", "Fali ti dva sastojka") +
       section(more, "",      "Fali ti više sastojaka") +
-      section(tips, "",      "Saveti iz knjige");
+      section(tips, "",      "Saveti iz knjige") +
+      foot;
+  }
+
+  // svaka promena filtera vraća na prvu stranu
+  function refresh() { state.page = 1; renderResults(); }
+
+  function goToPage(n) {
+    if (!n || n === state.page) return;
+    state.page = n;
+    renderResults();
+    const y = $("#count").getBoundingClientRect().top + window.scrollY - 76;
+    window.scrollTo({ top: Math.max(y, 0), behavior: "smooth" });
   }
 
   // 29 zapisa u knjizi su tekstualni saveti, ne jela, pa se broje odvojeno
@@ -371,28 +433,28 @@
     q.addEventListener("input", () => {
       state.q = q.value;
       $("#q-clear").hidden = !q.value;
-      renderResults();
+      refresh();
     });
     $("#q-clear").addEventListener("click", () => {
       q.value = ""; state.q = ""; $("#q-clear").hidden = true;
-      q.focus(); renderResults();
+      q.focus(); refresh();
     });
 
     $("#cats").addEventListener("click", e => {
       const b = e.target.closest("[data-cat]");
       if (!b) return;
       state.cat = b.dataset.cat || null;
-      renderChips(); renderResults();
+      renderChips(); refresh();
     });
 
     $("#tags").addEventListener("click", e => {
       const clear = e.target.closest("[data-clear-ing]");
-      if (clear) { state.ing = null; renderChips(); renderResults(); return; }
+      if (clear) { state.ing = null; renderChips(); refresh(); return; }
       const b = e.target.closest("[data-tag]");
       if (!b) return;
       const id = b.dataset.tag;
       state.tags.has(id) ? state.tags.delete(id) : state.tags.add(id);
-      renderChips(); renderResults();
+      renderChips(); refresh();
     });
 
     $("#pantry-list").addEventListener("change", e => {
@@ -402,11 +464,11 @@
       savePantry();
       $("#pantry-count").hidden = !state.pantry.size;
       $("#pantry-count").textContent = state.pantry.size;
-      renderResults();
+      refresh();
     });
 
     $("#pantry-reset").addEventListener("click", () => {
-      state.pantry.clear(); savePantry(); renderPantry(); renderResults();
+      state.pantry.clear(); savePantry(); renderPantry(); refresh();
     });
 
     $("#pantry-more").addEventListener("click", () => {
@@ -418,6 +480,8 @@
     iq.addEventListener("input", () => { state.ingQuery = iq.value; renderPantry(); });
 
     $("#results").addEventListener("click", e => {
+      const p = e.target.closest("[data-page]");
+      if (p) { goToPage(Number(p.dataset.page)); return; }
       const b = e.target.closest(".card");
       if (b) openRecipe(b.dataset.id);
     });
@@ -428,7 +492,7 @@
       state.ing = b.dataset.ing;
       state.cat = null;
       setView("jela");
-      renderChips(); renderResults();
+      renderChips(); refresh();
     });
 
     $("#sheet").addEventListener("click", e => {

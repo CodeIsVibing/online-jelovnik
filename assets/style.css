@@ -702,6 +702,65 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
   .grid { grid-template-columns: 1fr; }
 }
 
+/* ---------- Paginacija ---------- */
+
+.pager {
+  display: flex; align-items: center; justify-content: center;
+  flex-wrap: wrap; gap: 8px;
+  margin: 26px 0 8px;
+  padding-top: 20px;
+  border-top: 1px dashed var(--paper-edge);
+  animation: cardIn .6s cubic-bezier(.16,.84,.34,1) backwards;
+  animation-delay: .18s;
+}
+.pager-nums { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; justify-content: center; }
+
+.pager-n, .pager-arrow {
+  min-width: 38px; height: 38px;
+  display: inline-flex; align-items: center; justify-content: center;
+  padding: 0 10px;
+  background: var(--paper-2);
+  border: 1px solid var(--paper-edge);
+  border-radius: 11px;
+  font: inherit; font-size: 14px; font-weight: 600;
+  color: var(--ink-2);
+  cursor: pointer;
+  transition: transform .22s cubic-bezier(.34,1.4,.5,1), background .2s ease, border-color .2s ease, color .2s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+.pager-n:hover:not(.is-on), .pager-arrow:hover:not([disabled]) {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--accent) 50%, var(--paper-edge));
+  color: var(--accent);
+}
+.pager-n:focus-visible, .pager-arrow:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.pager-n.is-on {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  cursor: default;
+}
+
+.pager-arrow svg { font-size: 20px; }
+.pager-prev svg { transform: rotate(90deg); }
+.pager-next svg { transform: rotate(-90deg); }
+.pager-arrow[disabled] { opacity: .38; cursor: default; }
+
+.pager-gap { color: var(--ink-3); padding: 0 2px; }
+
+.pager-info {
+  width: 100%;
+  text-align: center;
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+
+@media (max-width: 460px) {
+  .pager-n, .pager-arrow { min-width: 34px; height: 34px; padding: 0 8px; font-size: 13px; }
+  .pager { gap: 6px; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }
