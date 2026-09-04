@@ -2,6 +2,19 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.2.0] — 2026-09-04
+
+### Dodato
+- Legenda iznad filtera objašnjava šta znači svaka ikonica na karticama jela
+
+### Promenjeno
+- Ulaz kartica je usporen i ublažen, sa dužim razmakom između njih
+- Ime autorke u podnožju vodi na njen Instagram, otvara se u novom tabu
+
+### Uklonjeno
+- Sekcija „Jelovnik napravio" iz podnožja
+- Vidljiva traka za skrolovanje u popup-u recepta, skrolovanje i dalje radi
+
 ## [1.1.0] — 2026-09-04
 
 Doterivanje mobilne verzije i jasnoće interfejsa.

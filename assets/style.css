@@ -185,6 +185,35 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 .chips-tags .chip { font-size: 13px; padding: 6px 12px; }
 .chips-tags .chip svg { font-size: 16px; }
 
+/* ---------- Legenda ikonica ---------- */
+
+.legend {
+  margin: 4px 0 14px;
+  padding: 14px 18px;
+  background: var(--paper-2);
+  border: 1px dashed var(--paper-edge);
+  border-radius: var(--radius-s);
+}
+.legend h2 {
+  margin: 0 0 10px;
+  font-size: 11px; font-weight: 700;
+  letter-spacing: .14em; text-transform: uppercase;
+  color: var(--ink-3);
+}
+.legend ul {
+  margin: 0; padding: 0; list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 7px 22px;
+}
+.legend li {
+  display: flex; align-items: center; gap: 9px;
+  font-size: 13.5px;
+  color: var(--ink-3);
+}
+.legend li svg { font-size: 19px; color: var(--accent); flex: none; }
+.legend li b { color: var(--ink-2); font-weight: 700; }
+
 /* ---------- Ostava ---------- */
 
 .pantry {
@@ -328,14 +357,14 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
   color: inherit;
   box-shadow: var(--shadow);
   transition: transform .12s ease, box-shadow .12s ease;
-  /* kratak stepenasti ulaz pri svakoj promeni filtera */
-  animation: cardIn .3s cubic-bezier(.2,.7,.3,1) backwards;
-  animation-delay: calc(var(--i, 0) * 22ms);
+  /* nežan stepenasti ulaz pri svakoj promeni filtera */
+  animation: cardIn .66s cubic-bezier(.16,.84,.34,1) backwards;
+  animation-delay: calc(var(--i, 0) * 42ms);
 }
-@keyframes cardIn { from { opacity: 0; transform: translateY(12px) scale(.98); } }
+@keyframes cardIn { from { opacity: 0; transform: translateY(8px); } }
 
-.bucket { animation: bucketIn .32s cubic-bezier(.2,.7,.3,1) backwards; }
-@keyframes bucketIn { from { opacity: 0; transform: translateY(8px); } }
+.bucket { animation: bucketIn .7s cubic-bezier(.16,.84,.34,1) backwards; }
+@keyframes bucketIn { from { opacity: 0; transform: translateY(5px); } }
 
 .card:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); }
 .card:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
@@ -427,7 +456,11 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
   overscroll-behavior: contain;
   -webkit-overflow-scrolling: touch;
   padding: 26px 20px 40px;
+  /* traka se sakriva, skrolovanje ostaje */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
+.sheet-scroll::-webkit-scrollbar { width: 0; height: 0; display: none; }
 
 @media (min-width: 760px) {
   .sheet-panel {
@@ -549,13 +582,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
   color: var(--ink-2);
   font-size: 14px;
 }
-.foot-grid {
-  max-width: 1080px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-  gap: 26px 40px;
-}
+.foot-col { max-width: 1080px; margin: 0 auto; }
 .foot-col h2 {
   margin: 0 0 8px;
   font-size: 11px; font-weight: 700;
