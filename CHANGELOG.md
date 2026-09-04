@@ -2,6 +2,13 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.4.0] · 2026-09-04
+
+### Dodato
+- Pločice u legendi ulaze jedna za drugom, sa blagim odskokom
+- Svaka ikonica u legendi ima svoj pokret: klas se ljulja, list niče, mesec lebdi, papričica poskoči, sat se okrene do dvanaest
+- Prelaz mišem podiže pločicu i ponavlja pokret ikonice
+
 ## [1.3.1] · 2026-09-04
 
 ### Dodato

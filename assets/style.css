@@ -208,6 +208,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 }
 
 /* svaka ikonica dobija svoju plocicu, naziv iznad opisa */
+/* svaka ikonica dobija svoju plocicu, naziv iznad opisa */
 .legend li {
   display: grid;
   grid-template-columns: 30px 1fr;
@@ -218,12 +219,32 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
   background: var(--paper);
   border: 1px solid var(--paper-edge);
   border-radius: 12px;
+  transition: transform .28s cubic-bezier(.34,1.4,.5,1), box-shadow .28s ease, border-color .28s ease;
+  animation: tileIn .7s cubic-bezier(.2,1.3,.4,1) backwards;
+  animation-delay: calc(var(--d, 0) * 1ms);
 }
+.legend li:nth-child(1) { --d: 60; }
+.legend li:nth-child(2) { --d: 150; }
+.legend li:nth-child(3) { --d: 240; }
+.legend li:nth-child(4) { --d: 330; }
+.legend li:nth-child(5) { --d: 420; }
+
+.legend li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(29, 27, 23, .1);
+  border-color: color-mix(in srgb, var(--accent) 45%, var(--paper-edge));
+}
+
+@keyframes tileIn {
+  from { opacity: 0; transform: translateY(14px) scale(.94); }
+}
+
 .legend li svg {
   grid-area: ico;
   font-size: 22px;
   color: var(--accent);
   align-self: center;
+  transition: transform .35s cubic-bezier(.34,1.5,.5,1);
 }
 .legend li b {
   grid-area: name;
@@ -237,6 +258,46 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
   line-height: 1.4;
   color: var(--ink-3);
 }
+
+/* svaka ikonica se pri ulasku pomeri onako kako joj znacenje odgovara */
+.legend li[data-ic="gluten"] svg { animation: icWobble .85s ease calc(var(--d, 0) * 1ms + .35s) backwards; }
+.legend li[data-ic="veg"]    svg { animation: icSprout .8s cubic-bezier(.3,1.6,.5,1) calc(var(--d, 0) * 1ms + .35s) backwards; }
+.legend li[data-ic="moon"]   svg { animation: icFloat  1.1s ease calc(var(--d, 0) * 1ms + .35s) backwards; }
+.legend li[data-ic="chili"]  svg { animation: icFlick  .8s cubic-bezier(.3,1.5,.5,1) calc(var(--d, 0) * 1ms + .35s) backwards; }
+.legend li[data-ic="clock"]  svg { animation: icTick   1.2s cubic-bezier(.5,0,.2,1) calc(var(--d, 0) * 1ms + .35s) backwards; }
+
+@keyframes icWobble {
+  0%, 100% { transform: rotate(0); }
+  22% { transform: rotate(-13deg); }
+  46% { transform: rotate(10deg); }
+  72% { transform: rotate(-5deg); }
+}
+@keyframes icSprout {
+  0%   { transform: scale(.3) rotate(-22deg); opacity: 0; }
+  60%  { transform: scale(1.22) rotate(6deg); opacity: 1; }
+  100% { transform: scale(1) rotate(0); }
+}
+@keyframes icFloat {
+  0%   { transform: translateY(9px) rotate(-18deg); opacity: 0; }
+  55%  { transform: translateY(-4px) rotate(6deg); opacity: 1; }
+  100% { transform: translateY(0) rotate(0); }
+}
+@keyframes icFlick {
+  0%   { transform: rotate(26deg) scale(.7); opacity: 0; }
+  55%  { transform: rotate(-14deg) scale(1.18); opacity: 1; }
+  100% { transform: rotate(0) scale(1); }
+}
+@keyframes icTick {
+  0%   { transform: rotate(-90deg) scale(.75); opacity: 0; }
+  100% { transform: rotate(0) scale(1); opacity: 1; }
+}
+
+/* na hover se ista sala ponavlja, ovaj put kroz transition */
+.legend li[data-ic="gluten"]:hover svg { transform: rotate(-11deg) scale(1.14); }
+.legend li[data-ic="veg"]:hover    svg { transform: rotate(7deg) scale(1.18); }
+.legend li[data-ic="moon"]:hover   svg { transform: translateY(-4px) rotate(-12deg) scale(1.1); }
+.legend li[data-ic="chili"]:hover  svg { transform: rotate(-15deg) scale(1.16); }
+.legend li[data-ic="clock"]:hover  svg { transform: rotate(38deg) scale(1.12); }
 
 /* ---------- Ostava ---------- */
 
