@@ -2,6 +2,15 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.9.0] · 2026-09-26
+
+### Promenjeno
+- Glineni skin prerađen po predlošku: hladna plavo-siva podloga, bele napuhane površine i ćilibarski akcenat
+- Senke dobile hladan ton i beli odsjaj gore levo; ćilibarske ispune nose sopstveni topli odsjaj
+- Oblici zaobljeniji: pilule do kraja zaobljene, kartice 26 px, popup 34 px
+- Ikonice u legendi i u ostavi dobile ćilibarski medaljon
+- Polje za pretragu je udubljeno, kao utisnuto u podlogu
+
 ## [1.8.1] · 2026-09-26
 
 ### Promenjeno

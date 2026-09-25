@@ -1,29 +1,34 @@
-/* Imunomania · glineni skin: meke napuhane površine, sve pod [data-skin="clay"] */
+/* Imunomania · glineni skin: napuhane površine, hladna podloga i ćilibarski akcenat */
 
 [data-skin="clay"] {
-  --paper:      #f6f4fc;
+  --paper:      #e7ebf4;
   --paper-2:    #ffffff;
-  --paper-edge: #efecf9;
-  --ink:        #514c6b;
-  --ink-2:      #5f5980;
-  --ink-3:      #6e6889;
+  --paper-edge: #dbe4f3;
+  --ink:        #0e1630;
+  --ink-2:      #2f3956;
+  --ink-3:      #566080;
 
-  /* pastelni akcenat se koristi kao ispuna, tekst na njemu ostaje taman */
-  --accent:     #c9c0ee;
-  /* tamnija nijansa iste boje za ikonice i linije, da ostanu čitljive */
-  --accent-2:   #8b7fc8;
+  /* ćilibar je ispuna, tekst na njemu ostaje tamnoplav */
+  --accent:     #f2ad35;
+  --accent-hi:  #f8c45f;
+  --accent-lo:  #eda229;
+  /* hladna pilula za sporedne površine */
+  --cool:       #dbe4f3;
 
-  --radius:   28px;
-  --radius-s: 22px;
+  --radius:   30px;
+  --radius-s: 26px;
 
-  /* nežna glina: jedva vidljiva senka i mek unutrašnji sjaj */
+  /* glina: svetlo gore levo, hladna senka dole desno */
   --shadow:
-    3px 4px 10px rgba(120, 110, 165, .09),
-    -3px -3px 8px rgba(255, 255, 255, .8),
-    inset 1px 1px 2px rgba(255, 255, 255, .85),
-    inset -2px -3px 6px rgba(120, 110, 165, .05);
-  /* bez belog oreola, samo tiha senka ispod */
-  --shadow-lg: 0 16px 40px rgba(120, 110, 165, .16);
+    5px 7px 16px rgba(23, 38, 79, .10),
+    -4px -4px 12px rgba(255, 255, 255, .9),
+    inset 1px 1px 2px rgba(255, 255, 255, .9),
+    inset -2px -4px 8px rgba(23, 38, 79, .05);
+  --shadow-lg: 0 28px 64px rgba(23, 38, 79, .16);
+  /* ćilibarske ispune nose svoj topli odsjaj */
+  --shadow-amber:
+    0 8px 20px rgba(237, 162, 41, .42),
+    inset 0 1px 0 rgba(255, 255, 255, .55);
 
   --font-hand: "Poppins", "Montserrat", sans-serif;
   --font-body: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -38,67 +43,78 @@
 [data-skin="clay"] .sheet-side-title,
 [data-skin="clay"] .masthead h1 {
   font-weight: 700;
-  letter-spacing: -.02em;
+  letter-spacing: -.025em;
 }
 [data-skin="clay"] .card h3 { font-size: 19px; line-height: 1.25; }
-[data-skin="clay"] .sheet h2 { font-size: 30px; line-height: 1.2; }
+[data-skin="clay"] .sheet h2 { font-size: 30px; line-height: 1.15; }
 [data-skin="clay"] .pantry-title { font-size: 19px; }
 [data-skin="clay"] .sheet-side-title { font-size: 17px; line-height: 1.3; }
-[data-skin="clay"] .masthead h1 { font-size: clamp(38px, 8vw, 68px); }
+[data-skin="clay"] .masthead h1 { font-size: clamp(38px, 8vw, 70px); }
 [data-skin="clay"] .r-h { font-size: 17px; text-decoration: none; }
 
 /* ---------- Zaglavlje ---------- */
 
 [data-skin="clay"] .masthead {
-  background: linear-gradient(160deg, #fdfbff 0%, #f0ecfa 52%, #eaf3f7 100%);
+  background: linear-gradient(165deg, #f4f7fc 0%, #e2e8f3 100%);
   border-bottom: 0;
 }
 [data-skin="clay"] .arcs {
   background: repeating-radial-gradient(
     circle at center,
-    #ded5f5 0 22px, #fbeef3 22px 44px, #dcecf2 44px 66px, transparent 66px 88px);
+    #c3d3ea 0 22px, #eef2f9 22px 44px, #f6d8a4 44px 66px, transparent 66px 88px);
   opacity: .55;
 }
 
-/* ---------- Trake i dugmad ---------- */
+/* ---------- Trake, pilule i dugmad ---------- */
 
 [data-skin="clay"] .tabs {
-  background: color-mix(in srgb, var(--paper) 86%, transparent);
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
   border-bottom: 0;
 }
-[data-skin="clay"] .tab {
-  border-radius: 999px;
-  font-weight: 600;
-}
+[data-skin="clay"] .tab { border-radius: 999px; font-weight: 600; }
+[data-skin="clay"] .tab:hover { background: var(--cool); }
+
+/* ćilibarske ispune: primarno dugme, aktivna strana, čekiran sastojak */
 [data-skin="clay"] .tab.is-active,
 [data-skin="clay"] .pantry-cta,
 [data-skin="clay"] .pantry-count,
 [data-skin="clay"] .pager-n.is-on,
 [data-skin="clay"] .ing:has(:checked) {
-  background: var(--accent);
+  background: linear-gradient(160deg, var(--accent-hi) 0%, var(--accent-lo) 100%);
   color: var(--ink);
-  box-shadow: var(--shadow);
+  font-weight: 700;
+  box-shadow: var(--shadow-amber);
 }
 [data-skin="clay"] .ing:has(:checked) .n { color: var(--ink-2); }
 
-/* boje poglavlja se razblažuju u pastel, ostaju prepoznatljive */
-[data-skin="clay"] .chip .dot { background: color-mix(in srgb, var(--c, var(--accent-2)) 45%, #fff); }
-[data-skin="clay"] .chip.is-on,
-[data-skin="clay"] .chip.is-on.light-bg {
-  background: color-mix(in srgb, var(--c, var(--accent)) 30%, #fff);
-  color: var(--ink);
+/* bele pilule sa napuhanom senkom */
+[data-skin="clay"] .chip:not(.is-on),
+[data-skin="clay"] .ing:not(:has(:checked)),
+[data-skin="clay"] .btn-ghost,
+[data-skin="clay"] .pager-n:not(.is-on),
+[data-skin="clay"] .pager-arrow,
+[data-skin="clay"] .sheet-nav-btn {
+  background: var(--paper-2);
+  box-shadow: var(--shadow);
 }
-[data-skin="clay"] .chip.is-on .n,
-[data-skin="clay"] .chip.is-on.light-bg .n { color: var(--ink-2); }
-[data-skin="clay"] .chip.is-on .dot,
-[data-skin="clay"] .chip.is-on.light-bg .dot {
-  background: color-mix(in srgb, var(--c, var(--accent-2)) 52%, #fff);
-}
-[data-skin="clay"] .card .cat,
-[data-skin="clay"] .r-cat,
-[data-skin="clay"] .sheet-side-cat { color: color-mix(in srgb, var(--c, var(--ink-3)) 28%, var(--ink)); }
-[data-skin="clay"] .r-cat .dot { background: color-mix(in srgb, var(--c) 45%, #fff); }
+[data-skin="clay"] .btn-ghost { background: var(--cool); box-shadow: var(--shadow); }
+[data-skin="clay"] .pager-n,
+[data-skin="clay"] .pager-arrow { border-radius: 999px; }
+[data-skin="clay"] .sheet-nav-btn { border-radius: 999px; }
 
+[data-skin="clay"] .searchbar {
+  background: #eef1f8;
+  box-shadow:
+    inset 3px 4px 8px rgba(23, 38, 79, .07),
+    inset -2px -2px 6px rgba(255, 255, 255, .9);
+}
+[data-skin="clay"] .searchbar:focus-within {
+  box-shadow:
+    inset 3px 4px 8px rgba(23, 38, 79, .07),
+    0 0 0 3px rgba(242, 173, 53, .45);
+}
+
+/* sve hairline ivice nestaju, oblik nose senke */
 [data-skin="clay"] .searchbar,
 [data-skin="clay"] .chip,
 [data-skin="clay"] .ing,
@@ -111,6 +127,7 @@
 [data-skin="clay"] .legend li,
 [data-skin="clay"] .card,
 [data-skin="clay"] .pantry,
+[data-skin="clay"] .pantry-body,
 [data-skin="clay"] .sheet-panel,
 [data-skin="clay"] .sheet-side,
 [data-skin="clay"] .empty,
@@ -119,40 +136,48 @@
   border-color: transparent;
 }
 
-[data-skin="clay"] .chip:not(.is-on),
-[data-skin="clay"] .ing:not(:has(:checked)),
-[data-skin="clay"] .btn-ghost,
-[data-skin="clay"] .pager-n:not(.is-on),
-[data-skin="clay"] .pager-arrow,
-[data-skin="clay"] .sheet-nav-btn {
-  background: var(--paper-2);
+/* ---------- Boje poglavlja ---------- */
+
+[data-skin="clay"] .chip .dot { background: color-mix(in srgb, var(--c, var(--ink-3)) 62%, #fff); }
+[data-skin="clay"] .chip.is-on,
+[data-skin="clay"] .chip.is-on.light-bg {
+  background: color-mix(in srgb, var(--c, var(--accent)) 26%, #fff);
+  color: var(--ink);
   box-shadow: var(--shadow);
 }
-[data-skin="clay"] .chip.is-on,
-[data-skin="clay"] .ing:has(:checked),
-[data-skin="clay"] .pager-n.is-on {
-  box-shadow:
-    inset 3px 3px 8px rgba(0, 0, 0, .18),
-    inset -2px -2px 6px rgba(255, 255, 255, .25);
+[data-skin="clay"] .chip.is-on .n,
+[data-skin="clay"] .chip.is-on.light-bg .n { color: var(--ink-2); }
+
+/* „Sve" nema boju poglavlja, pa nosi ćilibar kao primarno dugme */
+[data-skin="clay"] .chip.is-on[data-cat=""] {
+  background: linear-gradient(160deg, var(--accent-hi) 0%, var(--accent-lo) 100%);
+  font-weight: 700;
+  box-shadow: var(--shadow-amber);
 }
-[data-skin="clay"] .pager-n, [data-skin="clay"] .pager-arrow { border-radius: 16px; }
-[data-skin="clay"] .sheet-nav-btn { border-radius: 18px; }
+[data-skin="clay"] .chip.is-on .dot,
+[data-skin="clay"] .chip.is-on.light-bg .dot {
+  background: color-mix(in srgb, var(--c, var(--ink-3)) 70%, #fff);
+}
+[data-skin="clay"] .card .cat,
+[data-skin="clay"] .r-cat,
+[data-skin="clay"] .sheet-side-cat { color: color-mix(in srgb, var(--c, var(--ink-3)) 26%, var(--ink)); }
+[data-skin="clay"] .r-cat .dot { background: color-mix(in srgb, var(--c) 58%, #fff); }
 
 /* ---------- Kartice jela ---------- */
 
 [data-skin="clay"] .card {
   border: 0;
-  border-left: 9px solid color-mix(in srgb, var(--c, var(--accent)) 38%, #fff);
+  border-left: 10px solid color-mix(in srgb, var(--c, var(--ink-3)) 40%, #fff);
   border-radius: var(--radius-s);
-  padding: 18px 18px 16px;
+  padding: 20px 20px 18px;
 }
 [data-skin="clay"] .card:hover { transform: translateY(-3px); }
-[data-skin="clay"] .card .missing b { color: #a1623c; }
+[data-skin="clay"] .card .missing b { color: #a05a12; }
 
 [data-skin="clay"] .bucket-head { border-bottom-width: 4px; border-radius: 2px; }
-[data-skin="clay"] .bucket-head.ok    { border-bottom-color: #b6ddc3; }
-[data-skin="clay"] .bucket-head.miss1 { border-bottom-color: #f3d8b4; }
-[data-skin="clay"] .bucket-head.miss2 { border-bottom-color: #dccff0; }
+[data-skin="clay"] .bucket-head.ok    { border-bottom-color: #9cc9ae; }
+[data-skin="clay"] .bucket-head.miss1 { border-bottom-color: var(--accent); }
+[data-skin="clay"] .bucket-head.miss2 { border-bottom-color: #b9cbe6; }
 
 /* ---------- Legenda i ostava ---------- */
 
@@ -163,46 +188,60 @@
 }
 [data-skin="clay"] .legend li {
   background: var(--paper-2);
-  border-radius: 20px;
-  padding: 14px;
+  border-radius: var(--radius-s);
+  padding: 15px;
   box-shadow: var(--shadow);
 }
+
+/* ikonice dobijaju ćilibarski medaljon, kao u predlošku */
 [data-skin="clay"] .legend li svg,
-[data-skin="clay"] .pantry-icon,
+[data-skin="clay"] .pantry-icon {
+  box-sizing: content-box;
+  padding: 8px;
+  border-radius: 50%;
+  background: linear-gradient(160deg, var(--accent-hi) 0%, var(--accent-lo) 100%);
+  color: var(--ink);
+  box-shadow: var(--shadow-amber);
+}
 [data-skin="clay"] .searchbar-icon,
 [data-skin="clay"] .card .meta svg,
-[data-skin="clay"] .r-meta svg { color: var(--accent-2); }
+[data-skin="clay"] .r-meta svg { color: var(--ink-3); }
 
 [data-skin="clay"] .pantry { border: 0; box-shadow: var(--shadow); }
-[data-skin="clay"] .pantry summary { border-radius: var(--radius); }
+[data-skin="clay"] .pantry summary {
+  border-radius: var(--radius);
+  background: transparent;
+}
+[data-skin="clay"] .pantry summary:hover { background: rgba(23, 38, 79, .04); }
 [data-skin="clay"] .pantry[open] summary { border-radius: var(--radius) var(--radius) 0 0; }
-[data-skin="clay"] .pantry-cta { box-shadow: var(--shadow); }
+[data-skin="clay"] .pantry-body { border-top: 0; }
 
 /* ---------- Popup ---------- */
 
-[data-skin="clay"] .sheet-backdrop { background: rgba(81, 76, 107, .34); backdrop-filter: blur(5px); }
-[data-skin="clay"] .sheet-panel { border-radius: 30px; background: var(--paper-2); }
+[data-skin="clay"] .sheet-backdrop { background: rgba(14, 22, 48, .4); backdrop-filter: blur(5px); }
+[data-skin="clay"] .sheet-panel { border-radius: 34px; background: var(--paper-2); }
 [data-skin="clay"] .sheet-main::after {
   background: linear-gradient(to top, var(--paper-2) 12%, transparent);
 }
-[data-skin="clay"] .sheet-close { background: var(--paper-2); box-shadow: var(--shadow); }
-[data-skin="clay"] .sheet-nav { background: var(--paper); border-top: 0; }
+[data-skin="clay"] .sheet-close { background: var(--cool); box-shadow: var(--shadow); }
+[data-skin="clay"] .sheet-nav { background: #eef1f8; border-top: 0; }
 [data-skin="clay"] .sheet-side {
-  border-radius: 26px;
-  border-top: 6px solid color-mix(in srgb, var(--c, var(--accent)) 45%, #fff);
+  border-radius: var(--radius);
+  border-top: 7px solid color-mix(in srgb, var(--c, var(--ink-3)) 40%, #fff);
 }
 [data-skin="clay"] .sheet-side-arrow {
-  background: color-mix(in srgb, var(--c, var(--accent)) 35%, #fff);
+  background: linear-gradient(160deg, var(--accent-hi) 0%, var(--accent-lo) 100%);
   color: var(--ink);
+  box-shadow: var(--shadow-amber);
 }
 
-[data-skin="clay"] .r-tips { background: #f7f4fd; border-radius: 20px; }
-[data-skin="clay"] .r-tips h3 { color: var(--accent-2); }
+[data-skin="clay"] .r-tips { background: #eef1f8; border-radius: var(--radius-s); }
+[data-skin="clay"] .r-tips h3 { color: #a05a12; }
 
 /* ---------- Podnožje ---------- */
 
 [data-skin="clay"] .foot {
-  background: linear-gradient(200deg, #f0ecfa 0%, #fdfbff 100%);
+  background: linear-gradient(200deg, #e2e8f3 0%, #f4f7fc 100%);
   border-top: 0;
 }
 
