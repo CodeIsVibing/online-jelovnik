@@ -34,6 +34,9 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Nunito+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/clay.css">
+<link id="clay-fonts" rel="stylesheet" disabled href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap">
+<script>try{var s=localStorage.getItem("imunomania.dizajn.v1");if(s==="clay"){document.documentElement.dataset.skin="clay";document.getElementById("clay-fonts").disabled=false;}}catch(e){}</script>
 </head>
 <body>
 
@@ -91,6 +94,10 @@
 <nav class="tabs" aria-label="Delovi sajta">
   <button class="tab is-active" data-view="jela" type="button">Jela</button>
   <button class="tab" data-view="sastojci" type="button">Sastojci</button>
+  <div class="skins" role="group" aria-label="Dizajn">
+    <button class="skin is-active" data-skin="knjiga" type="button">Knjiga</button>
+    <button class="skin" data-skin="clay" type="button">Glina</button>
+  </div>
 </nav>
 
 <main>
@@ -219,7 +226,7 @@
     <p><a href="https://www.instagram.com/cancer.influencer/" target="_blank" rel="noopener noreferrer">Nastasja Nedimović</a></p>
     <p class="foot-sm">Iz kuvara „Imunomania". Sadržaj pripada autorki.</p>
   </div>
-  <p class="foot-note">Pregled servisa, verzija 1.7.1.</p>
+  <p class="foot-note">Pregled servisa, verzija 1.8.0.</p>
 </footer>
 
 <script src="assets/app.js"></script>

@@ -488,6 +488,20 @@
     if (pop && history.state?.recipe) history.back();
   }
 
+  // izbor dizajna živi u browseru korisnika, kao i ostava
+  const SKIN_KEY = "imunomania.dizajn.v1";
+
+  function setSkin(skin) {
+    if (skin === "clay") document.documentElement.dataset.skin = "clay";
+    else delete document.documentElement.dataset.skin;
+
+    const fonts = $("#clay-fonts");
+    if (fonts) fonts.disabled = skin !== "clay";
+
+    $$(".skin").forEach(b => b.classList.toggle("is-active", b.dataset.skin === skin));
+    try { localStorage.setItem(SKIN_KEY, skin); } catch { /* privatni prozor */ }
+  }
+
   function setView(view) {
     state.view = view;
     $$(".tab").forEach(b => b.classList.toggle("is-active", b.dataset.view === view));
@@ -500,6 +514,7 @@
 
   function wire() {
     $$(".tab").forEach(b => b.addEventListener("click", () => setView(b.dataset.view)));
+    $$(".skin").forEach(b => b.addEventListener("click", () => setSkin(b.dataset.skin)));
 
     const q = $("#q");
     q.addEventListener("input", () => {
@@ -617,6 +632,7 @@
     // sastojak koji više ne postoji u rečniku ne sme da zaključa ostavu
     for (const id of [...state.pantry]) if (!ingById.has(id)) state.pantry.delete(id);
 
+    setSkin(document.documentElement.dataset.skin === "clay" ? "clay" : "knjiga");
     renderChips();
     renderPantry();
     renderIngredientsView();

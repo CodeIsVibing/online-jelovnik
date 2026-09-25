@@ -2,6 +2,13 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.8.0] · 2026-09-26
+
+### Dodato
+- Prekidač dizajna u gornjoj traci: „Knjiga" je postojeći izgled, „Glina" je novi claymorphism skin
+- `assets/clay.css` sa glinenim skinom: meke napuhane površine, plava paleta, Poppins i Montserrat, zaobljene ivice od 22 do 30 px
+- Izbor dizajna se pamti u browseru korisnika, kao i ostava; fontovi za glinu se učitavaju samo kada je taj skin uključen
+
 ## [1.7.1] · 2026-09-04
 
 ### Uklonjeno
