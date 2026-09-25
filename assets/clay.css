@@ -1,28 +1,29 @@
 /* Imunomania · glineni skin: meke napuhane površine, sve pod [data-skin="clay"] */
 
 [data-skin="clay"] {
-  --paper:      #e7ecfb;
+  --paper:      #f6f4fc;
   --paper-2:    #ffffff;
-  --paper-edge: #dbe3fa;
-  --ink:        #1c398e;
-  --ink-2:      #3c57ab;
-  --ink-3:      #54689f;
-  --accent:     #2563eb;
+  --paper-edge: #efecf9;
+  --ink:        #514c6b;
+  --ink-2:      #5f5980;
+  --ink-3:      #6e6889;
+
+  /* pastelni akcenat se koristi kao ispuna, tekst na njemu ostaje taman */
+  --accent:     #c9c0ee;
+  /* tamnija nijansa iste boje za ikonice i linije, da ostanu čitljive */
+  --accent-2:   #8b7fc8;
 
   --radius:   28px;
   --radius-s: 22px;
 
-  /* napuhana glina: svetlo gore levo, senka dole desno, unutrašnji sjaj */
+  /* nežna glina: jedva vidljiva senka i mek unutrašnji sjaj */
   --shadow:
-    6px 6px 16px rgba(28, 57, 142, .14),
-    -4px -4px 12px rgba(255, 255, 255, .9),
-    inset 2px 2px 4px rgba(255, 255, 255, .85),
-    inset -3px -5px 9px rgba(28, 57, 142, .08);
-  --shadow-lg:
-    12px 14px 34px rgba(28, 57, 142, .2),
-    -8px -8px 22px rgba(255, 255, 255, .92),
-    inset 2px 2px 6px rgba(255, 255, 255, .9),
-    inset -4px -8px 16px rgba(28, 57, 142, .1);
+    3px 4px 10px rgba(120, 110, 165, .09),
+    -3px -3px 8px rgba(255, 255, 255, .8),
+    inset 1px 1px 2px rgba(255, 255, 255, .85),
+    inset -2px -3px 6px rgba(120, 110, 165, .05);
+  /* bez belog oreola, samo tiha senka ispod */
+  --shadow-lg: 0 16px 40px rgba(120, 110, 165, .16);
 
   --font-hand: "Poppins", "Montserrat", sans-serif;
   --font-body: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -49,14 +50,14 @@
 /* ---------- Zaglavlje ---------- */
 
 [data-skin="clay"] .masthead {
-  background: linear-gradient(160deg, #f2f5ff 0%, #dde5fb 100%);
+  background: linear-gradient(160deg, #fdfbff 0%, #f0ecfa 52%, #eaf3f7 100%);
   border-bottom: 0;
 }
 [data-skin="clay"] .arcs {
   background: repeating-radial-gradient(
     circle at center,
-    #a5c2fd 0 22px, #dbe3fa 22px 44px, #c3d5fe 44px 66px, transparent 66px 88px);
-  opacity: .5;
+    #ded5f5 0 22px, #fbeef3 22px 44px, #dcecf2 44px 66px, transparent 66px 88px);
+  opacity: .55;
 }
 
 /* ---------- Trake i dugmad ---------- */
@@ -69,11 +70,34 @@
   border-radius: 999px;
   font-weight: 600;
 }
-[data-skin="clay"] .tab.is-active {
+[data-skin="clay"] .tab.is-active,
+[data-skin="clay"] .pantry-cta,
+[data-skin="clay"] .pantry-count,
+[data-skin="clay"] .pager-n.is-on,
+[data-skin="clay"] .ing:has(:checked) {
   background: var(--accent);
-  color: #fff;
+  color: var(--ink);
   box-shadow: var(--shadow);
 }
+[data-skin="clay"] .ing:has(:checked) .n { color: var(--ink-2); }
+
+/* boje poglavlja se razblažuju u pastel, ostaju prepoznatljive */
+[data-skin="clay"] .chip .dot { background: color-mix(in srgb, var(--c, var(--accent-2)) 45%, #fff); }
+[data-skin="clay"] .chip.is-on,
+[data-skin="clay"] .chip.is-on.light-bg {
+  background: color-mix(in srgb, var(--c, var(--accent)) 30%, #fff);
+  color: var(--ink);
+}
+[data-skin="clay"] .chip.is-on .n,
+[data-skin="clay"] .chip.is-on.light-bg .n { color: var(--ink-2); }
+[data-skin="clay"] .chip.is-on .dot,
+[data-skin="clay"] .chip.is-on.light-bg .dot {
+  background: color-mix(in srgb, var(--c, var(--accent-2)) 52%, #fff);
+}
+[data-skin="clay"] .card .cat,
+[data-skin="clay"] .r-cat,
+[data-skin="clay"] .sheet-side-cat { color: color-mix(in srgb, var(--c, var(--ink-3)) 28%, var(--ink)); }
+[data-skin="clay"] .r-cat .dot { background: color-mix(in srgb, var(--c) 45%, #fff); }
 
 [data-skin="clay"] .searchbar,
 [data-skin="clay"] .chip,
@@ -118,17 +142,17 @@
 
 [data-skin="clay"] .card {
   border: 0;
-  border-left: 9px solid var(--c, var(--accent));
+  border-left: 9px solid color-mix(in srgb, var(--c, var(--accent)) 38%, #fff);
   border-radius: var(--radius-s);
   padding: 18px 18px 16px;
 }
 [data-skin="clay"] .card:hover { transform: translateY(-3px); }
-[data-skin="clay"] .card .missing b { color: #c2410c; }
+[data-skin="clay"] .card .missing b { color: #a1623c; }
 
 [data-skin="clay"] .bucket-head { border-bottom-width: 4px; border-radius: 2px; }
-[data-skin="clay"] .bucket-head.ok    { border-bottom-color: #16a34a; }
-[data-skin="clay"] .bucket-head.miss1 { border-bottom-color: #d97706; }
-[data-skin="clay"] .bucket-head.miss2 { border-bottom-color: #a78bfa; }
+[data-skin="clay"] .bucket-head.ok    { border-bottom-color: #b6ddc3; }
+[data-skin="clay"] .bucket-head.miss1 { border-bottom-color: #f3d8b4; }
+[data-skin="clay"] .bucket-head.miss2 { border-bottom-color: #dccff0; }
 
 /* ---------- Legenda i ostava ---------- */
 
@@ -143,7 +167,11 @@
   padding: 14px;
   box-shadow: var(--shadow);
 }
-[data-skin="clay"] .legend li svg { color: var(--accent); }
+[data-skin="clay"] .legend li svg,
+[data-skin="clay"] .pantry-icon,
+[data-skin="clay"] .searchbar-icon,
+[data-skin="clay"] .card .meta svg,
+[data-skin="clay"] .r-meta svg { color: var(--accent-2); }
 
 [data-skin="clay"] .pantry { border: 0; box-shadow: var(--shadow); }
 [data-skin="clay"] .pantry summary { border-radius: var(--radius); }
@@ -152,21 +180,29 @@
 
 /* ---------- Popup ---------- */
 
-[data-skin="clay"] .sheet-backdrop { background: rgba(28, 57, 142, .45); }
+[data-skin="clay"] .sheet-backdrop { background: rgba(81, 76, 107, .34); backdrop-filter: blur(5px); }
 [data-skin="clay"] .sheet-panel { border-radius: 30px; background: var(--paper-2); }
 [data-skin="clay"] .sheet-main::after {
   background: linear-gradient(to top, var(--paper-2) 12%, transparent);
 }
 [data-skin="clay"] .sheet-close { background: var(--paper-2); box-shadow: var(--shadow); }
 [data-skin="clay"] .sheet-nav { background: var(--paper); border-top: 0; }
-[data-skin="clay"] .sheet-side { border-radius: 26px; border-top-width: 6px; }
-[data-skin="clay"] .sheet-side-arrow { box-shadow: var(--shadow); }
-[data-skin="clay"] .r-tips { background: var(--paper); border-radius: 20px; }
+[data-skin="clay"] .sheet-side {
+  border-radius: 26px;
+  border-top: 6px solid color-mix(in srgb, var(--c, var(--accent)) 45%, #fff);
+}
+[data-skin="clay"] .sheet-side-arrow {
+  background: color-mix(in srgb, var(--c, var(--accent)) 35%, #fff);
+  color: var(--ink);
+}
+
+[data-skin="clay"] .r-tips { background: #f7f4fd; border-radius: 20px; }
+[data-skin="clay"] .r-tips h3 { color: var(--accent-2); }
 
 /* ---------- Podnožje ---------- */
 
 [data-skin="clay"] .foot {
-  background: linear-gradient(200deg, #dde5fb 0%, #f2f5ff 100%);
+  background: linear-gradient(200deg, #f0ecfa 0%, #fdfbff 100%);
   border-top: 0;
 }
 

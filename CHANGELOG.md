@@ -2,6 +2,14 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.8.1] · 2026-09-26
+
+### Promenjeno
+- Glineni skin prešao na baby paletu: jedva vidljiva lila podloga, pastelni akcenat i mnogo tiše senke
+- Sjaj oko popup-a uklonjen, ostala je samo meka senka ispod
+- Boje poglavlja se u ovom skinu razblažuju u pastel, a nazivi poglavlja se mešaju sa mastilom da ostanu čitljivi; najsvetlije poglavlje čita se na 4.6:1
+- Ispune više ne nose beli tekst, već tamno mastilo, pa akcenat može da ostane pastelan
+
 ## [1.8.0] · 2026-09-26
 
 ### Dodato
