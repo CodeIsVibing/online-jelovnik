@@ -45,9 +45,9 @@
   const PAGE_SIZE = 15;   // koliko kartica staje na jednu stranu
   const PAGE_MIN  = 27;   // do ovog broja se sve prikazuje odjednom
 
-  let RECIPES = [], INGREDIENTS = [], CATEGORIES = [];
+  let RECIPES = [], INGREDIENTS = [], CATEGORIES = [], BOOKS = [];
   let currentId = null;
-  let ingById = new Map(), catById = new Map(), basicIds = new Set();
+  let ingById = new Map(), catById = new Map(), bookById = new Map(), basicIds = new Set();
 
   /* ---------------- pomoćne ---------------- */
 
@@ -90,7 +90,8 @@
   }
 
   function buildIndex(r) {
-    const parts = [r.title, r.subtitle, catById.get(r.category)?.title, r.method];
+    const parts = [r.title, r.subtitle, catById.get(r.category)?.title,
+                   bookById.get(r.book)?.title, r.method];
     for (const it of r.ingredients) {
       parts.push(it.raw, ingById.get(it.ref)?.title);
       const al = ingById.get(it.ref)?.aliases;
@@ -147,6 +148,7 @@
     const miss = entry.miss || [];
     return `
       <button class="card" data-id="${esc(r.id)}" style="--c:${esc(cat.color)};--i:${Math.min(i, 14)}" type="button">
+        <span class="book">${esc(bookById.get(r.book)?.short || "")}</span>
         <span class="cat">${esc(cat.title)}</span>
         <h3>${esc(r.title)}</h3>
         <span class="meta">
@@ -443,7 +445,10 @@
       .filter(Boolean);
 
     $("#sheet-body").innerHTML = `
-      <p class="r-cat" style="--c:${esc(cat.color)}"><span class="dot"></span>${esc(cat.title)}</p>
+      <p class="r-head">
+        <span class="r-cat" style="--c:${esc(cat.color)}"><span class="dot"></span>${esc(cat.title)}</span>
+        <span class="book">${esc(bookById.get(r.book)?.short || "")}</span>
+      </p>
       <h2 id="sheet-title">${esc(r.title)}</h2>
       ${r.subtitle ? `<p class="r-sub">${esc(r.subtitle)}</p>` : ""}
       ${(t || r.tags.length) ? `<div class="r-meta">
@@ -458,7 +463,7 @@
       ${(r.tips || []).length ? `<div class="r-tips"><h3>Savet</h3>${r.tips.map(x => `<p>${esc(x)}</p>`).join("")}</div>` : ""}
       ${see.length ? `<div class="r-see"><span>Vidi i:</span>${see.map(s =>
           `<button data-id="${esc(s.id)}" type="button">${esc(s.title)}</button>`).join("")}</div>` : ""}
-      <p class="r-src">Knjiga „Imunomania", sken ${r.source.scan}${r.source.page === "L" ? ", leva strana" : ", desna strana"}.</p>
+      <p class="r-src">Knjiga „${esc(bookById.get(r.book)?.title || "Imunomania")}", sken ${r.source.scan}${r.source.page === "L" ? ", leva strana" : ", desna strana"}.</p>
     `;
 
     const sheet = $("#sheet");
@@ -608,8 +613,8 @@
   /* ---------------- start ---------------- */
 
   async function init() {
-    const [recipes, ingredients, categories] = await Promise.all(
-      ["data/recipes.json", "data/ingredients.json", "data/categories.json"]
+    const [recipes, ingredients, categories, books] = await Promise.all(
+      ["data/recipes.json", "data/ingredients.json", "data/categories.json", "data/books.json"]
         .map(u => fetch(u).then(r => {
           if (!r.ok) throw new Error(`${u}: ${r.status}`);
           return r.json();
@@ -619,9 +624,11 @@
     RECIPES = recipes;
     INGREDIENTS = ingredients;
     CATEGORIES = categories.sort((a, b) => a.order - b.order);
+    BOOKS = books.sort((a, b) => a.order - b.order);
 
     ingById = new Map(INGREDIENTS.map(i => [i.id, i]));
     catById = new Map(CATEGORIES.map(c => [c.id, c]));
+    bookById = new Map(BOOKS.map(b => [b.id, b]));
     basicIds = new Set(INGREDIENTS.filter(i => i.basic).map(i => i.id));
 
     const order = new Map(CATEGORIES.map(c => [c.id, c.order]));

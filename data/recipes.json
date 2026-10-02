@@ -77,7 +77,8 @@
       "Za dodatno kremastu kašu možete izblendati i skuvanu heljdu sa ostalim sastojcima.",
       "Servirajte uz dodatak seckanog kikirikija ili kašičicu nekog od orašastih putera bez šećera i aditiva."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "mafini-sa-sirom-i-spanacem",
@@ -157,7 +158,8 @@
     ],
     "method": "Umutiti jaja viljuškom, dodati ostale mokre sastojke i promešati. U drugoj činiji pomešati suve sastojke, a zatim sjediniti sa mokrim sastojcima i još jednom sve dobro promešati. Sipati u modle za mafine do pola i posuti semenkama po želji. Peći oko 20 minuta na 200 stepeni.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "hrskavi-omlet-iz-rerne-sa-sampinjonima",
@@ -236,7 +238,8 @@
     ],
     "method": "Oprati i iseckati šampinjone i luk na kolutove i dinstati ih dok ne omekšaju, zatim ih preneti u posudu za pečenje. Umutiti jaja viljuškom i preliti luk i šampinjone. Posuti ravnomerno prosene pahuljice i semenke. Peći u zagrejanoj rerni na 200 stepeni oko 15 minuta, dok se ne uhvati zlatna korica.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "slana-krem-kasa-sa-sampinjonima",
@@ -318,7 +321,8 @@
     ],
     "method": "U multipraktiku usitnite ovsene pahuljice, bundevine semenke, suncokret i susam, a zatim dodajte i šampinjone. Vodu zagrejte do ključanja, dodajte smesu i mešajte, a ringlu smanjite na nižu temperaturu. Začinite pa dodajte pelat i još jednom dobro promešajte dok kaša ne postane kompaktna. Ukoliko je pregusta, dodajte još vode.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pita-sa-sampinjonima-od-speltinih-kora",
@@ -373,7 +377,8 @@
     ],
     "method": "Luk iseckati na sitne kockice, dinstati u nauljenom tiganju i začiniti. Oprati i iseckati šampinjone na krupnije kolutove i dodati u tiganj. Kada pečurke puste vodu, i skoro sva tečnost ispari, skloniti sa vatre. Dve kore staviti jednu na drugu i gornju premazati mešavinom pola pola maslinovog ulja i vode četkicom za mazanje. Ravnomerno rasporediti polovinu pečuraka na gornju koru i urolati. Dobije se ukupno 2 rolne (po dve kore). Svaku rolnu premazati mešavinom vode i ulja i posuti semenkama po želji. Preneti rolnu na tepsiju obloženu pek papirom. Peći oko 30 minuta na 200 stepeni. Ispečene pite prekriti pokvašenom i isceđenom čistom krpom i ostaviti da se prohladi.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "palenta-sa-urdom",
@@ -420,7 +425,8 @@
       "Palenta se kuva u vodi u odnosu 1:4, tj. 4 puta više je potrebno vode u odnosu na količinu palente. Ukoliko volite gušću palentu, smanjite količinu vode.",
       "Urdu možete pronaći u mlekarama, na merenje, kao i u marketima upakovanu u čašama kao za kiselo mleko ili jogurt. Urda je nemasni sir, sa visokim sadržajem proteina jer se dobija iz surutke. Koristan je za zdravlje kostiju, nervnog sistema kao i za održavanje nivoa hemoglobina u krvi. Odlična je za osobe koje paze na unos kalorija."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "granola-hrskavi-musli",
@@ -524,7 +530,8 @@
       "Suva brusnica i višnje sadrže dodati šećer.",
       "Služiti uz jogurt, biljna mleka, prirodan sok ili vodu, kao i uz dodatke svežeg voća."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kajgana-sa-tikvicama-i-prazilukom",
@@ -603,7 +610,8 @@
     ],
     "method": "Umutiti jaja viljuškom, dodati so po želji, izrendati tikvicu i iseckati praziluk na kolutiće. Nauljiti tiganj i dinstati kratko praziluk i tikvicu. Zatim dodati jaja i peći još nekoliko minuta. Kajganu posuti seckanim kikirikijem i poslužiti uz što raznovrsniju svežu salatu koju ćete začiniti po želji i preliti limunovim sokom.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kasa-sa-kruskama-i-kokosom",
@@ -669,7 +677,8 @@
     "tips": [
       "Ukoliko želite posebno kremastu kašu, možete koristiti i fino mlevene ovsene pahuljice."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "americke-palacinke",
@@ -718,7 +727,8 @@
       "Sladoled od šljiva: smrznute šljive iseckati i izblendati sa malo mleka da se pokrene blender.",
       "Umesto biljnog mleka možete koristiti i jogurt. Smesa će tada biti gušća, dodajte više jogurta."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pita-sa-tikvicama",
@@ -788,7 +798,8 @@
     "tips": [
       "Da bi se pita ove količine sastojaka dobro ispekla, koristite standardan kalup za hleb otprilike sledećih dimenzija: 10 cm širine, 5 cm dubine i 25 cm dužine."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "proteinska-slana-kasa",
@@ -863,7 +874,8 @@
     ],
     "method": "U šerpu sipajte vodu i zagrejte do ključanja, dodajte ovsene pahuljice i jaje, pa smanjite vatru. Uz mešanje dodajte preostale sastojke. Ukoliko je potrebno, dodajte još vode. Sklonite sa šporeta, servirajte sa urdom i pospite semenkama lana.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kasa-sa-jabukama-i-cimetom",
@@ -936,7 +948,8 @@
       "Ukoliko želite posebno kremastu kašu, možete usitniti i ovsene pahuljice u multipraktiku sa ostalim sastojcima.",
       "Umesto urmi, možete dodati med. Njega dodajte kada se kaša malo prohladi jer gubi lekovita svojstva pri visokim temperaturama."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "omlet-palacinke-sa-spanacem",
@@ -1011,7 +1024,8 @@
     "tips": [
       "Ukoliko nemate ili ne volite navedeno sveže povrće, zamenite ga sa omiljenim, neka bude bar 3 vrste, po mogućstvu različitih boja kako biste uneli što više različitih minerala i vitamina."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "mediteranske-projice",
@@ -1114,7 +1128,8 @@
     "tips": [
       "Kada kupujete beli luk u granulama ili prahu, posebno obratite pažnju na poreklo belog luka. Najčešće to bude beli luk iz Kine koji sadrži veliku koncentraciju teških metala i drugih toksičnih jedinjenja opasnih po zdravlje. Luk iz Kine pre transporta bude tretiran hlorom ne bi li se sprečilo kvarenje. Ovaj luk ostaje bez svojih lekovitih svojstava."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sumska-palenta",
@@ -1160,7 +1175,8 @@
     ],
     "method": "U vodu ubacite smrznuto voće da se topi dok se voda zagreva. Štapnim mikserom izmiksajte voće i kada voda krene da ključa, ubacite palentu i kuvajte 3 minuta uz mešanje. Kada se palenta malo prohladi, dodajte med i još jednom promešajte. Toping stavljajte po želji i ukusu (sveže, suvo ili koštunjavo voće, semenke, kokos...)",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "vegeterijanski-sendvic",
@@ -1199,7 +1215,8 @@
     "tips": [
       "Ovakva vrsta domaćeg sendviča je odličan odabir za početak dana. Izbacite iz upotrebe mesne prerađevine jer su pune aditiva koji pospešuju upalne procese u organizmu."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pita-sa-sirom-od-speltinih-kora",
@@ -1277,7 +1294,8 @@
     ],
     "method": "Umutiti jaja viljuškom, dodati ostale mokre sastojke i dobro promešati. U drugoj činiji pomešati suve sastojke, zatim sjediniti sve sastojke i još jednom dobro promešati. Dve kore staviti jednu na drugu i gornju premazati mešavinom pola pola maslinovog ulja i vode četkicom za mazanje. Ravnomerno rasporediti oko 5 punih supenih kašika smese na gornju koru i urolati. Dobije se ukupno 4 rolne (po dve kore). Svaku rolnu premazati mešavinom vode i ulja i posuti semenkama po želji. Preneti rolnu na tepsiju obloženu pek papirom. Peći oko 30 minuta na 200 stepeni. Ispečene pite prekriti pokvašenom i isceđenom čistom krpom i ostaviti da se prohladi.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "saksuka",
@@ -1338,7 +1356,8 @@
     ],
     "method": "Iseckati luk na kockice i dinstati dok ne omekša. Uliti paradajz sok i jaja. Začiniti i poklopiti na kratko da se krčka i dok jaja ne budu gotova.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "slane-americke-palacinke",
@@ -1399,7 +1418,8 @@
     ],
     "method": "Umutiti jaja viljuškom, dodati jogurt i maslinovo ulje. U drugoj činiji pomešati brašno, sodu bikarbonu i so. Spojiti ove dve smese i još jednom dobro promešati kašikom dok se svi sastojci ne sjedine. Za jednu palačinku su dovoljne dve kašike smese. Peći 3 minuta na nižoj temperaturi, i oko minut drugu stranu. Mogu se jesti i same, premazane urdom, humusom ili nekim drugim slanim namazom. Poslužite ih uz omiljeno sveže povrće.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "overnight-nutella-ovsena-kasa",
@@ -1474,7 +1494,8 @@
       "Unapred možete napraviti porcije za nekoliko dana.",
       "Po želji, kao toping možete dodati seckanu bananu, lešnike, kokos..."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "gvakamole-tost-sa-jajima",
@@ -1521,7 +1542,8 @@
       "Recept za gvakamole možete pronaći u odeljku namazi/umaci.",
       "Recept za hleb možete pronaći u odeljku hleb."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "protecinke",
@@ -1598,7 +1620,8 @@
     "tips": [
       "Ove palačinke su idealne nakon treninga, možete ih jesti same, ili sa orašastim puterima, kokosom, bademima, svežim voćem, nugat namazom ili pekmezom bez šećera."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kajgana-sa-brokolijem",
@@ -1663,7 +1686,8 @@
     "tips": [
       "Što sitnije izblendate brokoli, manje će se osećati njegov ukus."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "vocna-ovsena-kasa",
@@ -1741,7 +1765,8 @@
     "tips": [
       "Ukoliko želite posebno kremastu kašu, možete usitniti i ovsene pahuljice u multipraktiku sa ostalim sastojcima. Takođe, ako ne volite krupno bobičasto voće, i njega možete izblendati štapnim mikserom dok se topi u šerpi sa vodom, pre dodavanja usitnjenih sastojaka."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "jaja-mafini",
@@ -1782,7 +1807,8 @@
     ],
     "method": "Četkicom podmazati modle za mafine, uliti po jedno jaje i posoliti po ukusu. Peći na 200 stepeni oko 10 minuta, u zavisnosti kakva jaja volite (prvi put kada pečete, pripazite na dužinu pečenja).",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "posirana-jaja",
@@ -1819,7 +1845,8 @@
     ],
     "method": "Potrebnu količinu jaja izvadite iz ljuske pažljivo da se ne raspadne žumance u činiju. Vodu zagrejte do ključanja, zatim je promešajte i smanjite vatru da nestanu balončići. Polako iz činijice sa male udaljenosti sipajte jedno po jedno jaje u mirnu nekipuću vodu. Kuvajte tačno 3 minuta. Izvadite, procedite višak vode i posolite.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kukuruzne-galete-sa-humusom-i-svezim-povrcem",
@@ -1865,7 +1892,8 @@
     "tips": [
       "Ideja za brzi doručak ili laganu večeru. Biram kukuruzne organske galete jer su tanje, hrskavije i ukusnije od pirinčanih."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "moce-iz-rerne",
@@ -1913,7 +1941,8 @@
     ],
     "method": "Jaja umutite viljuškom, hleb isecite na tanje kriške. Umočite hleb u jaja dok ih ne upije dobro sa obe strane. Iscedite višak jaja sa hleba i prebacite moče na tepsiju obloženu pek papirom. Premažite uljem pomoću silikonske četkice gornji deo svakog parčeta, zatim ga posolite i začinite belim lukom u prahu i po želji ostalim začinima. Peći na 200 stepeni, dok se ne uhvati zlatna korica.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kukuruzne-pahuljice-sa-jogurtom-i-vocem",
@@ -1968,7 +1997,8 @@
       "Obratite pažnju pri kupovini kukuruznih pahuljica jer je u mnogima dodat šećer. Pročitajte sastav na poleđini ambalaže.",
       "Umesto kukuruznih pahuljica možete koristiti i heljdine, pirinčane ili prosene. Prirodno ne sadrže gluten."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "banana-sa-puterom-od-suncokreta-i-kikirikija",
@@ -2019,7 +2049,8 @@
       "Puter od suncokreta sadrži nezasićene masne kiseline 6 i 9, vitamin E, gvožđe, mangan, magnezijum, fosfor i bakar, kao i veliku količinu proteina.",
       "Puter od kikirikija sadrži vitamine E, B1, B2, B3, B5, B6, B9 i minerale kalijum, cink, selen, kalcijum, kao i folnu kiselinu. Bogat je proteinima, a ima nizak glikemijski indeks."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "grasak",
@@ -2108,7 +2139,8 @@
     "tips": [
       "Po želji, u toku kuvanja možete dodati kocku slanine, suvo meso ili kobasicu radi šmeka, a posle je sklonite."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "bean-burger",
@@ -2202,7 +2234,8 @@
     "tips": [
       "Recept za lepinjice možete pronaći u delu recepata pod nazivom „Hleb/peciva/grickalice\"."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "buda-cinija",
@@ -2359,7 +2392,8 @@
     ],
     "method": "Falafeli: leblebije procediti i izblendati u multipraktiku (ne na skroz sitno) sa svim sastojcima sem brašna od leblebije i sode bikarbone. U drugu činiju presuti smesu i dodati brašno i sodu bikarbonu. Promešati još jednom, a zatim oblikovati kuglice, pa skloniti u frižider na 30 minuta da smesa odmori. Peći u rerni u obloženom plehu na 200 stepeni oko 25 minuta dok ne porumene, na polovini vremena ih okrenite. Drugi način pečenja je u tiganju na malo ulja oko 5, 6 minuta, takođe dok ne dobiju zlatnu boju. Biće manje suve nego iz rerne.\n\nProso: potopiti proso u hladnu vodu na 15 minuta. Dobro ga oprati i procediti. Kuvati ga u posoljenoj vodi u odnosu 1:3 (npr. šolja prosa u tri šolje vode) oko 15 minuta, dok ne omekša. Posoliti po ukusu.\n\nU činiji pomešati sve sastojke, preliti sokom od limuna i začiniti po ukusu.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "burito",
@@ -2448,7 +2482,8 @@
     "tips": [
       "Recept za tortilje možete pronaći u delu pod nazivom „Hleb/peciva/grickalice\": tortilja, tortilja bez mešenja obična i zelena."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "slatki-kupus",
@@ -2538,7 +2573,8 @@
     "tips": [
       "Ukoliko volite ljuto, ovaj čorbasti kupus ide odlično uz mlevenu ili tucanu ljutu papriku."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "brokoli-pljeskavice-sa-pire-krompirom",
@@ -2624,7 +2660,8 @@
     "tips": [
       "Pljeskavice možete peći i u rerni, očekujte da će biti malo suvlje."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "corbasti-amarant-sa-kukuruzom",
@@ -2690,7 +2727,8 @@
     ],
     "method": "Amarant potopite u hladnu vodu noć pre pripreme obroka. Ujutru ga dobro operite i procedite. Kuvajte ga u oko 200 ml vode dok ne omekša (20ak minuta), a zatim procedite. Luk isecajte na kockice i dinstajte u maloj šerpici na malo ulja dok ne omekša. Dodajte kukuruz i začine, a zatim amarant i paradajz sok. Ostavite još malo da se krčka na laganoj vatri.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "duga-iz-rerne",
@@ -2790,7 +2828,8 @@
     ],
     "method": "Uključite rernu na 200 stepeni, na dno od okruglog pleha prečnika oko 30 cm sipajte 150 ml paradajz soka (od onih 500 ml) i usitnjeni beli luk. Tanko isecite svo povrće. Ređajte ih u posudu kao sa slike, tj. da stoje uspravno i u krug dok se ne popuni ceo pleh. Bitno je da bude tesno poslagano da ne bi palo. Prelijte povrće ostatkom paradajz soka, pospite maslinovim uljem i začinite. Posudu poklopite i pecite oko 40 minuta ukoliko ste tanko isekli povrće.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "file-pastrmke-sa-krompirom-u-ljusci",
@@ -2858,7 +2897,8 @@
     ],
     "method": "Krompir potopite u vodu sa sodom bikarbonom (1 supena kašika na 1 litar vode) na 15 minuta da se otkloni bar deo pesticida sa ljuske. Uključite rernu na 220 stepeni. Dobro ga operite, na više mesta ga probodite viljuškom, premažite uljem i posolite. Pecite oko 50-60 minuta dok kora ne postane hrskava, a viljuška prolazi lako kroz krompir. Povremeno ga okretati i uliti po malo vode na dno da se ne bi zalepila kora. Voda će ispariti skroz. File pastrmke premažite uljem, začinite po ukusu i 10, 15 minuta pred kraj pečenja krompira dodajte ga u tepsiju između ili na krompir. Kada se uhvati korica, riba je gotova.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "heljda-sa-povrcem-i-tunjevinom",
@@ -2954,7 +2994,8 @@
     "tips": [
       "Tunjevinu kupujte u sopstvenom soku."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kinoa-sa-tofuom",
@@ -3025,7 +3066,8 @@
     ],
     "method": "Kinou potopite u hladnu vodu na 10 minuta a zatim je dobro isperite. Kuvajte je u odnosu 1:2 sa vodom, oko 15 minuta, procedite i odložite na stranu. Tofu iseckajte na manje kockice pa je propržite u nauljenom tiganju dok ne lagano ne porumene. Dodajte iseckani luk, dinstajte dok ne omekša a zatim dodajte paradajz iseckan na kockice, začine po ukusu i iseckan sremuš. Nakon 5 minuta dodajte kinou, promešajte da se dobro sjedini, isključite ringlu i ostavite još malo da se krčka.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pica-iz-tiganja",
@@ -3101,7 +3143,8 @@
     "tips": [
       "U momentu stavljanja nadeva na picu morate biti brzi da vam testo ne izgori."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "musaka-sa-sojinim-ljuspicama",
@@ -3194,7 +3237,8 @@
     "tips": [
       "Sojine ljuspice imaju određeni šmek i zato je potrebno dobro ih začiniti. Kada završite dinstanje, obavezno probajte i ukoliko vam ova količina začina nije dovoljna, slobodno dodajte još pre stavljanja u rernu."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "salata-od-boranije-sa-pljeskavicama-od-tikvica",
@@ -3344,7 +3388,8 @@
     "tips": [
       "Salata ima intenzivniji ukus kada se posluži ohlađena."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "socivo",
@@ -3435,7 +3480,8 @@
     "tips": [
       "Ukoliko volite šmek, na početku kuvanja možete ubaciti komadić slanine ili suvog mesa."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kus-kus-paprike",
@@ -3549,7 +3595,8 @@
     ],
     "method": "Noć pre pripreme obroka potopite pasulj i heljdu u zasebne činije sa hladnom vodom. Ujutru ih operite i procedite, a zatim stavite da se kuvaju. Heljdu kuvajte u odnosu 1:3 sa vodom, dok ne nabubri, oko 8 minuta, a pasulj u malo vode na jakoj vatri dok ne omekša (nemojte ga raskuvati jer će se peći u rerni oko 30 minuta). 90 ml vode sipati u manju šerpu, sa nekoliko kapi maslinovog ulja i prstohvatom soli i ostaviti da proključa. Skloniti sa šporeta i kus-kus u činiji preliti sa vodom, dobro promešati, poklopiti i ostaviti sa strane. Uključite rernu na 200 stepeni. Iz paprika ukloniti semenkice i peteljku, preseći na pola i staviti u posudu za pečenje premazanu maslinovim uljem. Na sitno iseckajte tikvicu, crni i beli luk i dinstajte nekoliko minuta, dok ne omekšaju. Dodajte kus-kus, začine po ukusu i paradajz sok i lagano promešajte. Na kraju dodajte dobro proceđenu heljdu i pasulj i promešajte. Napunite polovine paprika smesom, poklopite i pecite oko 30 minuta dok paprike ne omekšaju, zatim sklonite poklopac i zapecite još nekoliko minuta dok gornji sloj smese ne postane hrskav.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pasta-sa-leblebijama",
@@ -3623,7 +3670,8 @@
     "tips": [
       "Pirinčana testenina upija mnogo više tečnosti nego druge vrste testenina, pa ukoliko ne koristite nju, pazite da ne preterate sa tečnošću."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sataras-sa-bukovacama",
@@ -3701,7 +3749,8 @@
     "tips": [
       "Bukovače sadrže veoma malu količinu masti, korisna je za jačanje imuniteta i snižavanje holesterola. Takođe sadrži i obilje minerala, vitamina i proteina. Preporuka je da se što manje termički obrađuje, a konzumira bar jednom nedeljno."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sirove-spagete-od-tikvica-sa-pestom",
@@ -3775,7 +3824,8 @@
       "Ukoliko želite toplo jelo, u tiganju premazanim uljem kratko dinstajte špagete od tikvica i zatim dodajte pesto i promešajte.",
       "Ostatak tikvice koji niste mogli izrendati možete izblendati i dodati u špagete kao dodatan preliv."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pica-sa-podlogom-od-karfiola",
@@ -3846,7 +3896,8 @@
     ],
     "method": "Karfiol operite i isecite na komade, prespite u multipraktik i izblendajte na sitno. Ubacite usitnjeni karfiol u litar ključale vode i neka se kuva 3,4 minuta. Procedite što više u cediljki i ostavite da se hladi i još malo procedi. Kada se smesa prohladi, jednu činiju obložite čistom krpom i u nju prespite karfiol. Polako zavrćite krpu u krug na vrhu kako bi se iscedila voda koja je preostala u karfiolu. Uključite rernu na 200 stepeni. Kada ste dobro iscedili vodu (karfiol će ličiti na sir), u tu smesu dodajte jaje, sir, origano, so i biber. Izmešajte dobro dok se sve lepo ne sjedini. Obložite pleh pek papirom (dimenzija oko 20x30 cm) i oblikujte testo od smese, debljine oko pola cm. Peći oko 20 minuta, dok testo ne porumeni. Premažite ga pelatom ili kečapom bez šećera i stavite nadev po želji (tunjevinu, kukuruz, papriku, sir...). Vratite picu u rernu i zapecite još nekoliko minuta dok se sir ne istopi.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pekarski-krompir-sa-kinoa-pljeskavicama",
@@ -3981,7 +4032,8 @@
     ],
     "method": "Pekarski krompir: krompir oljuštite, i kuvajte ga sa sokom od limuna u ključaloj vodi oko 10 minuta. Rernu uključiti na 200 stepeni. Procediti ga i preručiti u veliku činiju. Ostale sastojke pospite preko krompira i sve dobro promešajte. Na pleh obložen pek papirom preručite začinjeni krompir, ravnomerno ga rasporedite i poprskajte maslinovim uljem. Peći oko 40 minuta, povremeno promešati da se dobro zapeče svaki krompir.\n\nKinoa pljeskavice: kinou procediti i dobro oprati, zatim kuvati u vodi razmere 1:2 dok ne omekša. Procediti i skloniti sa strane. Dok se kinoa kuva, izdinstajte seckani luk i seckanu papriku dok ne omekša pa skloniti sa strane. Leblebiju, začine i peršun izblendati dok smesa ne postane glatka. Spojiti kinou, blendanu smesu i dinstanim povrćem, dobro promešati da se svi sastojci sjedine. Praviti željeni oblik (može i ćufte) i peći u rerni na plehu obloženom pek papirom na 180 stepeni dok ne porumene.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pohovane-tikvice-sa-varivom-od-sargarepe",
@@ -4089,7 +4141,8 @@
     ],
     "method": "Pohovane tikvice: tikvice oljuštiti, iseći oba kraja, preseći po dužini na pola, zatim polovine takođe po dužini na pola. U jedan tanjir sipati brašno, u drugi umutiti jaja viljuškom, a u treći sipati prezlu. Jaja začinite. Tikvice uvaljajte u brašno, zatim u jaja pa na kraju u prezlu. Stavite ih na pleh obložen pek papirom i prelijte sa malo maslinovog ulja. Pecite na 180 stepeni dok ne porumene i ako viljuška lako prolazi kroz tikvicu.\n\nVarivo od šargarepe: šargarepu oljuštiti, oprati i iseckati na tanke kolutiće. Luk iseckati na kockice i dinstati 5 minuta a zatim dodati šargarepu, preliti vodom i ostaviti da se krčka na srednjoj temperaturi. U posebnoj činijici razmutiti tapioku i začine u malo hladne vode i preliti preko šargarepe. Kada šargarepa omekša, gotovo je. Ukoliko vam je previše gusto, dodajte vode, a ukoliko je previše retko, ponovite postupak razmućivanja tapioke u drugoj činijici a zatim dodajte u varivo. Sačekajte dok se ne dostigne željena gustina. Na kraju još jednom probajte jelo i dodajte još začina ukoliko fali.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "povrce-iz-rerne",
@@ -4193,7 +4246,8 @@
     ],
     "method": "Praziluk, šargarepu i papriku iseckajte na kolutiće, a krompir na manje kocke. Beli luk oljuštite i ostavite u komadu. U pleh stavite svo povrće, pospite gustinom, začinite, prelijte uljem i rukama dobro promešajte. Prelijte vodom i još jednom promešajte povrće. Poklopite pleh i pecite na 200 stepeni dok krompir ne omekša, a voda ne ispari, oko 45 minuta. Povrće servirajte i prelijte finim saftom iz pleha.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "maskirana-salata",
@@ -4320,7 +4374,8 @@
     ],
     "method": "Potopite indijske orahe dok pripremate ostale sastojke.\n\nSalata: sa listova kelja uklonite glavnu „žilu\", a ostatak usitnite u multipraktiku. Brokoli takođe usitnite u multipraktiku. Paprike iseckajte na sitne kockice, a šargarepe izrendajte. Mladi luk iseckajte na kolutiće. Te sastojke pomešajte i dodajte baby spanać.\n\nPreliv: indijske orahe procedite, prespite u blender i dodajte preostale sastojke. Vodu dodajte postepeno, do željene gustine preliva.\n\nSalatu preliti i dobro promešati dok se svi sastojci ne sjedine.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pasta-u-sosu-od-povrca",
@@ -4397,7 +4452,8 @@
     "tips": [
       "Ovaj sos vam uvek može biti baza za razne vrste soseva. U njega možete dodati povrće poput brokolija, karfiola, celera, bundeve, paprike..."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "oslic-sa-rizom-iz-rerne",
@@ -4468,7 +4524,8 @@
     "tips": [
       "Ne propustite da ribu prelijete izvrsnim prelivom kako bi ukus bio upotpunjen: pomešajte 2 supene kašike limunovog soka, 40 ml ekstra devičanskog maslinovog ulja, 2 čena sitno seckanog belog luka, par listića usitnjenog svežeg peršuna i jači prstohvat soli."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "zapeceni-pasulj-iz-rerne",
@@ -4566,7 +4623,8 @@
     "tips": [
       "Ukoliko volite šmek suvog mesa, dodajte parče kako bi obogatio miris i ukus pasulja. Posle ga možete izvaditi."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "lazanje-sa-socivom",
@@ -4715,7 +4773,8 @@
     "tips": [
       "Kore: korišćene su tortilje bez mešenja (zelene) čiji recept možete pronaći u delu pod nazivom „Hleb/peciva/grickalice\"."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "proso-sa-pecurkama",
@@ -4779,7 +4838,8 @@
     ],
     "method": "Potopiti proso u hladnu vodu na 15 minuta. Dobro ga oprati i procediti. Kuvati ga u posoljenoj vodi u odnosu 1:3 (npr. šolja prosa u tri šolje vode) oko 15 minuta, dok ne omekša. Za to vreme iseckajte luk na kockice, pečurke na kolutiće, začinite po želji i dinstajte na malo ulja dok ne omekšaju, taman dok se proso ne skuva. Proso dobro iscedite i dodajte u tiganj sa pečurkama. Promešajte još jednom dok se sve lepo ne sjedini.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sarma-sa-sojinim-ljuspicama",
@@ -4856,7 +4916,8 @@
     ],
     "method": "Sojine ljuspice potopiti u vodu, a u drugu činiju pirinač, noć pre pripreme obroka. Luk, šargarepu i krompir oljuštiti i izblendati u multipraktiku. Dinstati na malo ulja a zatim dodati proceđen pirinač i sojine ljuspice. Začiniti po ukusu. Smesu stavljati na listove kupusa tako da sa strane ostane malo praznog kupusa. Postoji više različitih uvijanja sarmi. Ja radim na sledeći način: urolam list kupusa sa smesom kao palačinku, držim je u jednoj šaci a palcem druge ruke gurnem donju stranu kupusa ka unutra, a zatim i gornju. Tada oba kraja kupusa budu uvučeni unutra. Poređati sarme tesno, jednu pored druge u pleh za pečenje da se ne bi raspale. Sipati malo vode na dno i peći poklopljeno oko sat vremena dok kupus ne omekša na oko 150 stepeni. Dolivati vode ako ispari. Zapeći sarmu na kratko po želji.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "paradajz-corba-sa-prosom",
@@ -4936,7 +4997,8 @@
     "tips": [
       "Na ambalaži paradajz soka, pod sastavom proizvoda, pogledajte da li sadrži dodat šećer."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "krem-corba-od-povrca",
@@ -5014,7 +5076,8 @@
     "tips": [
       "Ova čorba vam uvek može biti baza za razne vrste čorbi. U nju možete dodati povrće poput brokolija, karfiola, celera, bundeve..."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "supa-od-supljih-kostiju",
@@ -5105,7 +5168,8 @@
       "Krupnije povrće i ostatak supe možete sačuvati, izblendati štapnim mikserom i od njega napraviti krem čorbu ili sos za pastu.",
       "Supu možete i zamrznuti u manjim posudicama, ukoliko vam je ostalo previše. Uvek ih možete iskoristiti u kuvanju ostalih jela, poput pirinča, pasti, čorbi..."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "potaz-od-sampinjona",
@@ -5201,7 +5265,8 @@
     "tips": [
       "Uz potaž od šampinjona odlično se slažu bundevine semenke."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "zelena-krem-corba",
@@ -5279,7 +5344,8 @@
     "tips": [
       "Za dodatno kremastu čorbu, stavite više krompira."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pesto-od-spanaca",
@@ -5343,7 +5409,8 @@
       "Pesto možete koristiti kao namaz, umak ili kao dodatak salatama, testeninama, sendvičima.",
       "Umesto badema možete koristiti pinjole, suncokret ili orahe, dok spanać može da zameni svež bosiljak ili rukola."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "domaci-majonez",
@@ -5401,7 +5468,8 @@
     ],
     "method": "Sve sastojke izblendati štapnim blenderom dok se sastojci ne sjedine i smesa ne zgusne.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "gvakamole",
@@ -5467,7 +5535,8 @@
     "tips": [
       "U gvakamole možete dodati i biber, čili u prahu ili mlevenu tucanu papriku kako biste dobili pravi meksički pikantni umak."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "namaz-od-pasulja",
@@ -5524,7 +5593,8 @@
     ],
     "method": "Pasulj potopite u hladnu vodu noć pre pripreme obroka. Ujutru ga operite i procedite. Kuvajte ga dok ne omekša, oko 50 minuta. Dobro ga procedite i kada se malo prohladi, prespite ga u multipraktik, dodajte ostale sastojke i blendajte dok smesa ne postane glatka i kremasta. Čuvajte ga u frižideru.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "namaz-od-sirovog-graska",
@@ -5591,7 +5661,8 @@
     "tips": [
       "Namaz možete koristiti i za obogaćivanje drugih jela kao što su paste ili obrok salate."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "namaz-od-suncokreta",
@@ -5643,7 +5714,8 @@
     ],
     "method": "Blendati sve sastojke do željene teksture. Ako želite ređi namaz, dodajte još malo vode, samo pripazite da se ne izgubi ukus začina.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "tuna-pate",
@@ -5698,7 +5770,8 @@
     ],
     "method": "Kuvati jaja 10 minuta u ključaloj vodi i prohladiti ih pod mlazom vode. Sve sastojke izblendati dok pašteta ne postane glatka.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "humus",
@@ -5759,7 +5832,8 @@
       "Ukoliko vam je smesa previše gusta, postepeno dodajte vodu u kojoj ste kuvali leblebije, do željene gustine.",
       "U humus možete dodati razne dodatke kao što su mlevena paprika (slatka ili ljuta), kikiriki, susam, origano, bosiljak, beli luk u prahu..."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "domaci-kikiriki-puter",
@@ -5793,7 +5867,8 @@
     ],
     "method": "U multipraktiku blendati kikiriki u pauzama kada ćete skinuti podignutu smesu sa zidova činije. Dodajte so i blendajte dok smesa ne dostigne teksturu putera.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "brzi-cokoladni-preliv",
@@ -5829,7 +5904,8 @@
     "tips": [
       "Ako ste veliki sladokusci možete dodati i malo meda."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "karamel-krem",
@@ -5878,7 +5954,8 @@
       "Ova mera urmi je za manju teglicu, po želji možete menjati količinu.",
       "Krem možete koristiti kao namaz, zaslađivač za kolače, torte, smutije, sladolede i druge deserte."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "nugat-namaz",
@@ -5922,7 +5999,8 @@
       "Ovaj namaz možete mazati na plačinke, galete ili stavljati u torte, kolače i smutije.",
       "Lešnik sadrži vitamin E, B1, B6, folnu kiselinu, mangan, magnezijum, fosfor, cink i gvožđe. Nije samo ukusan, već veoma zdrav, trudite se da ga uvrstite u svakodnevnu ishranu. Dnevno uzmite šaku lešnika."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pekmez-od-sljiva",
@@ -5959,7 +6037,8 @@
       "Na ovaj način možete napraviti i pekmez od kajsija, malina, jagoda, borovnica, kupina. Samo prilagodite vreme pečenja za sitnije voće.",
       "Po želji možete dodati i cimet."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sirovi-dzem",
@@ -6022,7 +6101,8 @@
     "tips": [
       "Ovaj džem možete koristiti kao premaz, fil u tortama, pitama i kolačima ili kao dodatak šejkovima."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "brzi-beskvasni-hleb-sa-semenkama",
@@ -6128,7 +6208,8 @@
     "tips": [
       "Znaćete da je pečeno ukoliko zabodete čačkalicu i izvadite je, na sebi neće imati zalepljeno testo."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "beskvasni-hleb-sa-suncokretom",
@@ -6202,7 +6283,8 @@
     "tips": [
       "Seme suncokreta će promeniti boju u zelenu kada se ohladi. To je posledica reakcije hlorofila iz semena sa sodom bikarbonom."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "beskvasni-i-bezglutenski-hleb",
@@ -6279,7 +6361,8 @@
     "tips": [
       "Hleb je malo tvrđi, kao da je tostiran, ali se ne raspada. Izuzetno je kompaktan pa ga možete seći na veoma tanke kriške."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "lepinjice",
@@ -6335,7 +6418,8 @@
     ],
     "method": "Umesiti testo od sastojaka, ukoliko se lepi, dodajte još brašna. Uključite rernu na 180 stepeni. Dok se rerna greje, razvucite testo na debljinu oko 1 cm i čašom ili činijom odgovarajuće veličine izdubite testo. Prenesite lepinjice na pleh obložen pek papirom, premažite toplom vodom i pospite semenkama po želji. Pecite oko 15 minuta, dok ne porumene.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "tortilja",
@@ -6393,7 +6477,8 @@
     ],
     "method": "Pomešajte sve sastojke i umesite glatko i nelepljivo testo. Oblikujte jufku i podelite na dva dela i jednu polovinu razvucite tanko, na veličinu tiganja, zatim i drugu. Pecite jednu stranu na srednjoj temperaturi 2 minuta, pa okrenite na drugu stranu na kratko. Ponovite postupak i sa drugim testom.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "tortilje-bez-mesenja",
@@ -6447,7 +6532,8 @@
       "Kako bi tortilje bile savitljivije, poklapajte ih čim ih ispečete.",
       "Za zelenu verziju tortilje ubacite šaku sirovog spanaća u smesu i dobro izblendajte. Ukus spanaća se ne oseti."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "palenta-nacosi",
@@ -6537,7 +6623,8 @@
     "tips": [
       "Ukoliko želite mekše i deblje naćose, celu smesu ispecite odjednom, a podelite u dva dela smesu i istanjite što više i pecite u dve ture za hrskavije i tanje."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pikant-trouglici",
@@ -6614,7 +6701,8 @@
     ],
     "method": "Sve sastojke pomešati. Smesa treba da bude kompaktna, ukoliko se mrvi, dodajte još malo vode. Rasporediti smesu na sredinu pek papira, preko staviti još jedan pek papir pa rastanjiti oklagijom. Posuti sa još malo himalajske soli i iseći testo cik cak tako da dobijete trouglliće. Peći na 180 stepeni oko 15 minuta. Pripazite jer je testo tanko, da se ne presuši previše.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "lanene-plocice",
@@ -6683,7 +6771,8 @@
     ],
     "method": "Pomešati sve sastojke i umesiti testo. Rastanjiti testo na pek papiru na debljinu oko pola cm. Preneti tako na papiru na pleh za pečenje i premazati testo maslinovim uljem a zatim još jednom posoliti. Pre pečenja iseći na željeni oblik. Peći na 160 stepeni dok pločice ne porumene.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "domaca-prezla",
@@ -6706,7 +6795,8 @@
     ],
     "method": "Iscepkati hleb na komade i staviti u tepsiju obloženu pek papirom. Peći na 120 stepeni oko 15 minuta dok se hleb u potpunosti ne osuši. Ohladiti hleb, a zatim ga usitniti u multipraktiku na željenu veličinu prezle. Čuvajte je u tegli na suvom i tamnom mestu.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "domace-kokice",
@@ -6776,7 +6866,8 @@
     ],
     "method": "Ringlu uključiti na najveću temperaturu. U šerpu sipati ulja toliko da pokrije dno, a zatim dodati kukuruz takođe da pokrije dno. Poklopite i čekajte prvi zvuk kokanja. Kada krene kokanje, ringlu isključite a kada kokice prekinu da se kokaju izručite u činiju i posolite.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kuglice-sa-pekmezom",
@@ -6852,7 +6943,8 @@
     "tips": [
       "Da biste dobili kuglice iste veličine, od smese možete oblikovati štrudlu koju ćete iseći na jednaku parčad i od njih oblikovati kuglice."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "americka-pita",
@@ -6960,7 +7052,8 @@
     ],
     "method": "Punjenje: ispasirajte voće viljuškom, a ukoliko koristite smrznute bobice prethodno ih odmrznite na sobnoj temperaturi. Dodajte med, začine ili ekstrakte po želji i čia semenke, dobro promešajte dok se sve semenke ne natope voćem. Premestite u frižider dok pripremate testo.\n\nTesto: pomešajte sve sastojke i umesite glatko i nelepljivo testo. Oblikujte jufku i podelite na dva dela i jednu polovinu razvucite tanko, na malo veće od veličine posude za pečenje (prečnika 20 cm), zatim i drugu.\n\nPosudu za pečenje obložite pek papirom, pa na dno smestite jednu polovinu testa tako da obloži i ivice posude. Ulijte punjenje, a drugu polovinu testa izrežite na trakice širine oko 1 cm. Slažite jedan red trakica vodoravno i spojite prstima sa testom koji je obložio ivice posude, pa drugi red uspravno koji ćete takođe spojiti sa testom koji je obložio ivice posude. Pecite na 180 stepeni dok testo ne porumeni, oko 20 minuta.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "bonzita",
@@ -7020,7 +7113,8 @@
     "tips": [
       "Bonžitu čuvajte u frižideru da bi ostala stegnuta."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "cia-puding",
@@ -7085,7 +7179,8 @@
     ],
     "method": "Promešati dobro semenke sa mlekom i ostaviti na 15 minuta u frižider da semenke upiju tečnost i nabubre. Kada odstoje, promešajte još jednom i dodajte svoje dodatke. Još jednom promešajte i po želji dodajte toping poput kokosa, badema, oraha, lešnika, svežeg voća...",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "gumene-bombone",
@@ -7130,7 +7225,8 @@
     ],
     "method": "U šerpi na srednjoj temperaturi ugrejte sok, zatim dodajte med i želatin uz mešanje. Kada se želatin otopi i smesa sjedini, uliti u silikonske kalupe. Smestite kalupe u frižider na minimum 1 sat pre vađenja iz kalupa i posluženja.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "gnezda-sa-bademom",
@@ -7195,7 +7291,8 @@
     ],
     "method": "Potopite indijske orahe na 20 minuta u vruću vodu. Iscedite i prespite u multipraktik. Dodajte ostale sastojke i blendajte dok smesa ne postane ujednačena i lepljiva. Oblikujte kuglice, a zatim blago spljoštite i utisnite badem u sredinu.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "cokoladni-puding",
@@ -7244,7 +7341,8 @@
       "Za lepši užitak, banane i avokado prethodno ohladite u frižideru.",
       "Avokado sadrži magnezijum, mangan, bakar, cink, gvožđe, fosfor, kalijum, vitamine B1, B2 i B3. Deluje antiseptički, antivirusno i antibakterijski."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "lesnik-mini-torta",
@@ -7321,7 +7419,8 @@
     ],
     "method": "U multipraktiku usitniti lešnike i suncokret, kakao i so. Dodati urme pa još jednom izblendati, a zatim med, kokosovo ulje i rum pa blendati dok se sastojci ne ujednače, a smesa postane pomalo lepljiva. Obložite pek papirom dno koje se odvaja u kalupu za tortu prečnika oko 10 cm i izručiti smesu. Prstima utiskivati smesu na dno, izravnati je, pa posuti lešnicima i lagano ih utisnuti u tortu. Tortu stavite u zamrzivač da se stegne oko 30 minuta, isecite i poslužite.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "nanina-pita-sa-jabukama",
@@ -7384,7 +7483,8 @@
     "tips": [
       "Umesto jabuka možete ubaciti i šljive ili višnje. Ukoliko volite jači ukus cimeta, pre pečenja pospite i preko jabuka."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pecene-jabuke-sa-orasima-i-sladoledom-od-banane",
@@ -7430,7 +7530,8 @@
     ],
     "method": "Jabuke oljuštiti, izvaditi peteljku, koštice i tvrdi deo oko njih. Preseći ih na pola, a od svake polovine, spolju stranu iseći malo da ne bude okrugla, nego ravna pa da se ne bi ljuljala. U polovinu jabuke, na mestu gde ste izvadili koštice stavite 1 do 2 kašičice mlevenih oraha i posuti cimetom. Peći poklopljeno na 180 stepeni dok jabuke ne omekšaju, oko 15-20 minuta (zavisi od veličine jabuke). U multipraktiku izblendati smrznute banane dok ne dostignu teksturu sladoleda. Vaditi kašikom za sladoled i poslužiti uz tople jabuke.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sirovi-brauni",
@@ -7477,7 +7578,8 @@
     ],
     "method": "Usitniti badem u multipraktiku, dodati ostale sastojke i blendati dok smesa ne postane kompaktna. Utisnuti u kalup obložen pek papirom. Odložiti u zamrzivač na 15 minuta da se stegne, a zatim iseći na željene šnite. Čuvati u frižideru.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "vocni-kolac",
@@ -7536,7 +7638,8 @@
     "tips": [
       "Od smrznutog voća možete koristiti iseckane šljive, kupine, višnje, maline, jagode... Višnje možete kombinovati sa kakaom (2 supene kašike). Sveže rendane jabuke odlično idu sa 1 kašičicom cejlonskog cimeta."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "zelene-palacinke",
@@ -7594,7 +7697,8 @@
       "Spirulina je plavo-zelena alga koja sadrži vitamine A, C, B1, B2, B3, B5, B6, B7, B9, B12, antioksidanse, proteine, gvožđe, kalcijum, cink, fosfor, selen, magnezijum, omega 3 i 6 masne kiseline, stoga pomaže kod: podizanja imunog sistema, pospešuje rad digestivnog trakta, smanjenja apetita, podmlađivanja organizma, detoksikacije organizma, ubrzanja metabolizma, sniženja krvnog pritiska, poboljšanja krvne slike, poboljšanja kocentracije, povećanja fizičke izdržljivosti.",
       "Pri kupovini spiruline gledajte da bude organska, iz razloga što bez provere najčešće bude prisutno različitih toksina. Takođe, kao i svu hranu, koliko god ona bila zdrava, konzumirajte umereno, bez preterivanja."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "indi-cokoladica",
@@ -7653,7 +7757,8 @@
     "tips": [
       "Možete je seći na kockice, šnite ili izlomiti da bude nepravilnog oblika."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kinoa-u-kokosovom-mleku",
@@ -7701,7 +7806,8 @@
     "tips": [
       "Ukoliko vam je kinoa upila previše mleka, slobodno dodajte naknadno mleka i promešajte, za nekoliko minuta će se sjediniti sa kinoom."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kikiriki-kolac",
@@ -7755,7 +7861,8 @@
     "tips": [
       "Poslužiti sa prelivom od jagoda (izblendati jagode u blenderu)."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "karamel-kockice",
@@ -7802,7 +7909,8 @@
     ],
     "method": "U multipraktiku izblendati urme sa kokosovim uljem, zatim dodati kikiriki puter i još jednom izblendati. Izliti u posudu obloženu pek papirom i smestiti u zamrzivač da se stegne. Iseći na željeni oblik i držati u zamrzivaču. Pre posluživanja kockice izvaditi na nekoliko minuta da se krenu topiti lagano, pa su spremne za jelo.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "bakin-kolac",
@@ -7878,7 +7986,8 @@
     "tips": [
       "Ukoliko želite mekane bakine kolače, poklopite ih kada se ispeku."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "pita-sa-visnjama-od-speltinih-kora",
@@ -7929,7 +8038,8 @@
     ],
     "method": "Dve kore staviti jednu na drugu i gornju premazati mešavinom pola pola maslinovog ulja i vode četkicom za mazanje. Ravnomerno rasporediti 200 gr višanja na gornju koru, 10 iseckanih urmi, posuti 1 supenom kašikom palente i urolati. Dobije se ukupno 2 rolne (po dve kore). Svaku rolnu premazati mešavinom vode i ulja i izbockati viljuškom. Preneti rolnu na tepsiju obloženu pek papirom. Peći oko 30 minuta na 200 stepeni. Ispečene pite prekriti pokvašenom i isceđenom čistom krpom i ostaviti da se prohladi.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "rafaelo-kuglice",
@@ -7992,7 +8102,8 @@
     ],
     "method": "Pre pripreme potopiti indijske orahe u vruću vodu oko 30 min. Procediti ih i izblendati sa kokosovim uljem i sokom od limuna do kremaste teksture. Dodati kokosovo brašno i med pa ponovo izblendati dok se sastojci ne sjedine. Smesu staviti u zamrzivač na 10 minuta da se stegne. Vaditi kašikom za sladoled da biste formirali iste veličine kuglice. U središte ubacite lešnik, a zatim ih uvaljajte u kokosovo brašno.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sladoled",
@@ -8093,7 +8204,8 @@
     "tips": [
       "Kada vadite sladoled iz modle, stavite je pod vruću vodu desetak sekundi da bi se sladoled odvojio i lakše izvukao."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "ledene-bombone",
@@ -8123,7 +8235,8 @@
     ],
     "method": "Ledene bombone su sjajna ideja ukoliko vam je preostalo sladoleda kada ste ga pravili. Sve što je potrebno je da ostatak smese izlijete u silikonski kalup i smestite ga u zamrzivač. Pravo su zdravo osveženje u letnjim danima. Na ovaj način, podstaći ćete decu da jedu više kvalitetnih sastojaka, bilo to voće ili kakao.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "after-snow",
@@ -8206,7 +8319,8 @@
     ],
     "method": "Čia semenke, susam, kakao, orah, suncokret, kokos, ovsene pahuljice, i kokosovo ulje usitniti u multipraktiku. Zatim dodati bananu i urme dok se ne napravi ujednačena i lepljiva smesa. Možete ih vaditi kašikom za sladoled ili oblikovati u štrudlu pa seći na šnite.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "cokolada",
@@ -8253,7 +8367,8 @@
     ],
     "method": "Kakao puter istopite na pari tako što ćete u jednu šerpicu sipati vode i ugrejati na šporetu, pa preko staviti vatrostalnu činiju sa puterom. Tome pridružite i kokosovo ulje i med, a zatim kakao. Smesu dobro promešajte dok se sastojci ne sjedine. Možete koristiti silikonske kalupe raznih oblika, ili smesu izliti u jednu posudu sa višim ivicama koju ćete obložiti pek papirom. Ukoliko želite deblju čokoladu, koristite manju posudu, a za tanju čokoladu vam je potrebna veća posuda. Čokoladu možete obogatiti lešnicima, indijskim orasima, bademima, orasima, kokosom, ekspandiranom rižom, suvim grožđem, smrznutim malinama, borovnicama...",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kolac-sa-makom",
@@ -8360,7 +8475,8 @@
     ],
     "method": "Sve sastojke izblendati u multipraktiku. Smesa ne sme biti mnogo lepljiva, ukoliko jeste, dodajte još malo kokosovog proteina. Napravite jufku od testa, podelite na tri dela. Deo testa prebaciti na pek papir, preko staviti još jedan papir i razvući testo tanko na oko 25x25 cm. Isti postupak radite i sa preostala dva dela. Izrežite seckom za picu ili nožem lep oblik kvadrata sva tri testa. Sklonite ga sa strane. Punjenje se priprema takođe u multipraktiku. Indijske orahe dobro procedite i blendajte ih dok se svi sastojci ne sjedine. Podelite punjenje na dva dela. Preko jednog testa premažite jedan deo punjenja, zatim stavite drugi deo testa, opet punjenje i na kraju još jedan deo testa. Pecite na oko 140 stepeni oko 15 minuta. Testo bi trebalo da bude i dalje mekano i lako za sečenje. Pospite kolač prosejanim kokosovim proteinom, pa isecite na željeni oblik.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "banana-hleb",
@@ -8426,7 +8542,8 @@
     "tips": [
       "Radi lakšeg oblikovanja, pek papir možete pokvasiti pre nego što obložite kalup za pečenje."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "coko-koko-kuglice",
@@ -8505,7 +8622,8 @@
     "tips": [
       "Da biste dobili kuglice iste veličine, možete ih vaditi kašikom za sladoled, a zatim oblikovati u kuglice."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "ledene-jogurt-plocice",
@@ -8556,7 +8674,8 @@
     ],
     "method": "U činiji pomešajte grčki jogurt, med i vanilu. Obložite posudu pek papirom, ulijte smesu i poređajte voće odgore, zatim pospite kokosom. Staviti u zamrzivač na sat vremena da se stegne, pa poslužite.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "bezglutenske-palacinke",
@@ -8607,7 +8726,8 @@
     ],
     "method": "Sve sastojke umutiti mikserom ili u multipraktiku/blenderu. Zagrejati tiganj na najjačoj vatri, zatim smanjiti za par podeoka, podmazati ga nauljenom četkicom. Izliti smesu u tiganj, peći 2 minuta pa je okrenuti i peći još 30ak sekundi. Palačinke poklopiti da bi bile mekše i savitljivije.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "banana-lesnik-keksici",
@@ -8647,7 +8767,8 @@
     ],
     "method": "Banane izgnječiti viljuškom, dodati ovsene pahuljice i iseckane lešnike. Sve dobro promešati. Ostaviti u frižideru 5 minuta da se stegne. Uključiti rernu na 160 stepeni. Obložiti tepsiju pek papirom, kašikom vaditi smesu i oblikovati u oblik keksa. Peći oko 15 minuta dok kekići ne porumene.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sirova-torta-od-jagoda-i-kupina",
@@ -8795,7 +8916,8 @@
       "Tortu izvadite iz zamrzivača 10 - 15 minuta pre posluživanja.",
       "Po želji tortu ukrasite svežim voćem, kokosom, seckanim bademima, jestivim cvećem, domaćom čokoladom..."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "kakao-kocke",
@@ -8841,7 +8963,8 @@
     ],
     "method": "Sve sastojke izblendajte u multipraktiku dok smesa ne postane ujednačena. Izlijte smesu u posudu obloženu pek papirom i smestite u zamrzivač da se stegne (oko 20-30 minuta, u zavisnosti koje je debljine). Isecite na željeni oblik i poslužite. Čuvajte u frižideru.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-mint",
@@ -8891,7 +9014,8 @@
     ],
     "method": "Ubaciti zeleniš u blender, iscediti sok od citrusa i dodati u blender. Miksati oko minut sa pauzom.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-berries",
@@ -8948,7 +9072,8 @@
     ],
     "method": "Sve sastojke izblendati u blenderu do kremaste teksture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-snickers",
@@ -9011,7 +9136,8 @@
     ],
     "method": "Sve sastojke izblendati do kremaste teksture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-tropical",
@@ -9074,7 +9200,8 @@
     ],
     "method": "Sve sastojke izblendati do kremaste teksture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-protein",
@@ -9131,7 +9258,8 @@
     ],
     "method": "Izblendati sve sastojke do glatke strukture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-fresh",
@@ -9212,7 +9340,8 @@
     ],
     "method": "Oljuštiti avokado, krastavac i narandžu. Spojiti sa ostalim sastojcima i blendati do glatke strukture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-spicy-orange",
@@ -9286,7 +9415,8 @@
     ],
     "method": "Šargarepe oljuštiti i dobro izblendati sa vodom. Procediti i sačuvati sok. Iscediti sok od limuna i narandže i dodati u sok od šargarepe. Pridružiti ostale sastojke, a zatim sve izblendati do glatke strukture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-breakfast",
@@ -9360,7 +9490,8 @@
     ],
     "method": "Prvo izblendajte ovsene pahuljice, cimet i so, a zatim dodajte ostale sastojke, i blendajte do kremaste strukture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-pink",
@@ -9403,7 +9534,8 @@
     ],
     "method": "Oljuštiti tikvicu, iscediti limun, spojiti sa ostalim sastojcima i blendati do kremaste teksture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-pina-colada",
@@ -9460,7 +9592,8 @@
     ],
     "method": "Sve sastojke blendati do glatke strukture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-green",
@@ -9516,7 +9649,8 @@
     ],
     "method": "Iscediti sok od limuna, oljuštiti jabuku i spojiti sa ostalim sastojcima. Blendati do kremaste strukture.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sejk-imunomania-bomb",
@@ -9616,7 +9750,8 @@
     "tips": [
       "Đumbir, kelerabu i cveklu možete oljuštiti, iseckati na kockice i zamrznuti sirove."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "cake-za-ukusniji-sejk",
@@ -9632,7 +9767,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Redosled ubacivanja sastojaka:\n1. Tečnost\n2. Zeleno lisnato povrće\n- izblendati -\n3. Mekano voće i povrće\n4. Zaleđeno voće i povrće\nPrvo se blenda na manju brzinu (da bi se dobro izblendalo), a zatim na veću brzinu.\n\nKako „popraviti\" šejk?\n\nPreviše GUST: postepeno dodavati manje količine vode, ceđenog soka ili biljnog mleka i blendati na max brzini 10-20 sekundi. Svež krastavac je pun vode i nutrijenata i zato je odlična alternativa tečnostima.\n\nPreviše REDAK: dodati smrznuto voće (npr. banane), puter od orašastih plodova, grčki jogurt, ovsene pahuljice ili kuvanu kinou. Blendati na max brzini 20-30 sekundi.\n\nPreviše GORAK: dodati ananas, narandžu, banane, jagode, vanilu ili kakao. Blendati na max brzini 10-20 sekundi. Baby lisnato povrće ima blaži ukus.\n\nPreviše „BRAŠNAST\": ukoliko ste dodali previše proteina u prahu, potrebno je dodati još voća. Ako je još uvek „brašnast\", dodajte pomalo i ostalih sastojaka. Blendati na max brzini 10-20 sekundi.\n\nPreviše SLADAK: potrebno je dodati neki od citrusnih sokova - limun, limetu, grejp... Blendati na max brzini 10-20 sekundi.\n\nPremalo SLADAK: dodati med, urme, javorov sirup ili steviju. Blendati na max brzini 10-20 sekundi. Slatke sastojke oprezno dodavati postepeno, malo po malo. Lubenica je odličan slatki dodatak.\n\nNedovoljno KREMAST: dodati avokado, grčki jogurt ili smrznute banane. Blendati na max brzini 10-20 sekundi. Za smrznuto voće je potrebno imati jak blender. Smrznuto voće daje kremastu strukturu bolje nego sveže koje je ponekad vodenasto.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "yerba-mate-caj",
@@ -9648,7 +9784,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Tradicionalno se pije u Južnoj Americi, i to iz posudica izrađenih od tikve iz posebne metalne slamčice. Ima ukus poput zelenog čaja, meni lično lepši, ne toliko gorak. Sadrži vitamine A, B1, B2, B3 i B5, C, E i minerale kao što su kalcijum, gvožđe, magnezijum, mangan, fosfor, kalijum, selen, natrijum, sumpor i cink. Sadrži i druge korisne fitonutrijente kao što su tanini, minerali u tragovima, hlorofil, flavonoidi i 15 aminokiselina.\n\n1. POVEĆAVA ENERGIJU: pruža stanje budnosti slično kao kod kafe, bez neželjenih efekata kafe.\n\n2. POBOLJŠAVA FIZIČKE PERFORMANSE: koristno je za osobe koje pate od mentalnog ili fizičkog umora ili od sindroma hroničnog umora.\n\n3. POVEĆAVA MENTALNE FUNKCIJE: poboljšava pamćenje, raspoloženje i budnost.\n\n4. POBOLJŠAVA IMUNI SISTEM: veoma je bogat jedinjenjima koji se zovu saponini (prirodni emulgatori koji jačaju imuni sistem i imaju antioksidativna i antiinflamatorna svojstva).\n\n5. POBOLJŠAVA PROBAVU: leči konstipaciju, dijareju i probavne smetnje. Deluje protiv Ešerihije koli. Uništava crevne parazite. Takođe, je koristan i za prevenciju i lečenje infekcija urinarnog trakta i kamenca mokraćne bešike i bubrega.\n\n6. JAČA I POVEĆAVA GUSTINU KOSTIJU.\n\n7. POBOLJŠAVA ZDRAVLJE SRCA: koristan je za srčana oboljenja uključujući srčanu insuficijenciju, nepravilan rad srca i nizak krvni pritisak. Teobromin u čaju opušta krvne sudove omogćavajći bolji protok krvi.\n\n8. POMAŽE U UNIŠTAVANJU MALIGNIH ĆELIJA: sadrži nekoliko poznatih antikancerogenih jedinjenja kao što su saponini, ursolna kiselina, rutin, tanin, hlorogenska kiselina i hlorofil.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "caj-protiv-kaslja",
@@ -9683,7 +9820,8 @@
     ],
     "method": "Na 1 litar vode kuvati 2 jabuke i 2 crna luka sa korom (može i ljubičasti). Kuvati dok ne ukuva na pola litre (oko 30 minuta), izgnječiti pa procediti. Piti do poboljšanja.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sirup-za-izbacivanje-slajma-med-i-limun",
@@ -9725,7 +9863,8 @@
     ],
     "method": "Piti ujutru i uveče, prethodno podgrejati na mlako.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "imunomania-sirup",
@@ -9781,7 +9920,8 @@
     ],
     "method": "Potopiti sve sa ljuskom u vodu sa sodom bikarbonom na 1 sat. Procediti i dobro oprati. Izrendati sve sa ljuskom i ostaviti u frižideru 24h. Procediti (najbolje u gazi) i pomešati sa teglom sirovog meda. Držati u frižideru, uzimati po 1 supenu kašiku na prazan stomak, a deca po 1 kašičicu.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "sirup-za-izbacivanje-slajma-zalfija",
@@ -9827,7 +9967,8 @@
     ],
     "method": "Propržiti 250 gr kokosovog šećera, pa sipati 250 ml vode, dodati 3 kašičice žalfije i 3 izmrvljena lista lovora. Kada provri, kuvati još 3 minuta i ostaviti da se ohladi. Procediti i čuvati u staklenoj boci, na hladnom i tamnom mestu.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "imunomania-eliksir",
@@ -9886,7 +10027,8 @@
     ],
     "method": "Oljuštiti limun, izvaditi semenke. U multipraktiku izblendati limun, suvo grožđe, suncokret i bundevine semenke. Tu smesu pomešati sa medom i sokovima. Dobije se oko 1 kg smese. Čuvati u frižideru i uzimati 3 puta dnevno po 1 kašičicu pre jela.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "krem-protiv-anemije",
@@ -9927,7 +10069,8 @@
     ],
     "method": "Sve sastojke dobro umešati kašikom, spakovati u staklenu teglicu i držati u frižideru. Uzimati 3 puta dnevno po 1 supenu kašiku. Uz ovaj krem bilo bi poželjno konzumirati namirnicu sa vitaminom C, poput limunade, radi bolje apsorpcije gvožđa.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "med-sa-limunom-i-djumbirom",
@@ -9962,7 +10105,8 @@
     ],
     "method": "Izblendati 1 oljušteni svež koren đumbira sa jednim oljuštenim limunom u multipraktiku i dodati u pola tegle meda, zatim dobro promešati. Uzimajte po 1 do 2 kašičice dnevno.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "laneno-ulje-i-mladi-sir-dr-budwig",
@@ -10002,7 +10146,8 @@
     "tips": [
       "Dodaci ovoj smesi mogu biti: orasi, bademi, brazilski orah, indijski orasi, lešnici (ne kikiriki); bobičasto voće (sveže ili smrznuto); 1 do 2 kašike sok od limuna, borovnice ili crnog grožđa; ostalo sveže voće; med."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "prirodni-antibiotici",
@@ -10018,7 +10163,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Beli luk, đumbir, ren, crni luk, ulje od origana, kurkuma, ehinacea, sirovi med, majčina dušica, karanfilić...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "cajna-mesavina-za-imunitet",
@@ -10073,7 +10219,8 @@
     ],
     "method": "Sve biljke pomešati. Supenu kašiku mešavine preliti sa 250 ml ključale vode, promešati i poklopiti. Ostaviti da odstoji 15 - 30 minuta, a zatim procediti i popiti dok je toplo. Pije se 3 do 4 puta na dan.",
     "tips": [],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "konstipacija",
@@ -10089,7 +10236,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Konstipacija se odnosi na promenu pokretljivosti creva.\n\nSaveti koji mogu doprineti rešavanju ovog problema su:\n- uz svaki obrok uzmite 3 supene kašike semena lana uz malo vode;\n- svako jutro pre ili uz doručak pojedite suvu šljivu ili smokvu koju ste prethodno veče potopili u hladnu vodu, a ujutru malo ugrejte;\n- čaj od korena vodopije (cikorije) na prazan stomak;\n- svako jutro na prazan stomak popijte čašu vode sobne temperature;\n- u ishranu uvedite redovno konzumiranje svežeg voća, povrća, žitarica i semenki;\n- iz ishrane izbacite industrijski šećer;\n- svakodnevno se krećite po svežem vazduhu.\n\nRecept za rolat od suvih smokava: oprati 500 gr suvih smokava i izblendati u multipraktiku. Umesiti sa 5 gr praha lista sene. Oblikovati u rolat, umotati u providnu foliju i čuvati u frižideru. Ujutru na prazan stomak uzeti komad veličine lešnika (deca trećinu) sve dok se ne uspostavi normalno varenje.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "crvena-limunada",
@@ -10134,7 +10282,8 @@
     "tips": [
       "Benefiti crvene limunade: smanjuje holesterol, smanjuje krvni pritisak, pomaže kod gripe i prehlade, podiže raspoloženje, pomaže u borbi sa viškom kilograma, čisti jetru, potpomaže probavu, podmlađuje kožu, zbog količine antioksidanasa pomaže u borbi protiv raka, velika količina C vitamina pomaže u dizanju imuniteta."
     ],
-    "type": "recept"
+    "type": "recept",
+    "book": "imunomania"
   },
   {
     "id": "hrana-bogata-magnezijumom",
@@ -10150,7 +10299,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Magnezijum stabilizuje krvni pritisak i rad srca, jača kosti i smanjuje upalu u organizmu. Trudite se da ga unosite u što više obroka.\n\nHrana bogata magnezijumom: kakao, brazilski orah, susam, spanać, bosiljak, seme lubenice, brokoli, seme suncokreta, badem, seme lana, nana, vlašac, bamija, mirođija, bundevino seme, pinjoli...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-bogata-jodom",
@@ -10166,7 +10316,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Jod je važan za rad štitne žlezde, mozak, kožu, želudac, gušteraču... Poboljšava imunitet, poseduje antikancerogena svojstva, kao i antibakterijske, antiparazitske, antigljivične i antivirusne sposobnosti. Čisti organizam od toksina, posebno podržava limfni sistem.\n\nZNAKOVI MANJKA JODA: osećaj tromosti, debljanje, smanjena kognitivna funkcija i budnost, lomljivi nokti, suva koža, hladne ruke i stopala, zatvor, oticanje vrata, opadanje kose, hroničan umor i malaksalost.\n\nNEDOSTATAK JODA može dovesti do teškog oblika hipotireoze, razvoja srčanih oboljenja, depresije, oštećenja perifernih delova nervnog sistema i odsustva ovulacije.\n\nPREVIŠE JODA: ni u čemu ne treba preterivati, pa tako ni uzimati veštačke dodatke joda (ukoliko se niste konsultovati sa lekarom), dovoljan unos će biti putem hrane, tj. balansirane ishrane.\n\nHrana bogata jodom: brusnice, šljive, žumance, krompir, ananas, morska so, alge, orasi, pasulj, banane, maline, morski plodovi, šargarepa, spanać, paradajz, rotkva, grašak, pečurke, jagode, kupus, luk, zelena salata...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-bogata-cinkom",
@@ -10182,7 +10333,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Cink se bori protiv infekcija, pomaže u stvaranju novih ćelija u organizmu, učestvuje u pravilnom radu kardiovaskularnog sistema, uspostavlja nivo hormona.\n\nSIMPTOMI MANJKA su istanjena vlas kose, suva koža, ekcemi, bubuljice, blago otupela čula i oslabljen imunitet. Odličan je u kombinaciji sa C vitaminom, magnezijumom ili selenom.\n\nHrana bogata cinkom: pasulj, leblebije, sočivo, tofu, orah, indijski orah, čia seme, konopljino seme, laneno seme, bundevino seme, šitake pečurke, šampinjoni, grašak, spanać, avokado, bademi, suncokret, jaja, kinoa...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-bogata-kalcijumom",
@@ -10198,7 +10350,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Radi bolje apsorpcije kalcijuma potrebno je da se redovno izlažemo sunčevoj svetlosti. Pušenje, prekomerna konzumacija kafe i soli može negativno uticati na apsorpciju kalcijuma.\n\nHrana bogata kalcijumom: avokado, narandža, suve smokve, brazilski orah, bademi, susam (posebno crni), čia semenke, bundevine semenke, mak, losos, sardine, pasulj, kelj, crni luk, celer, artičoka, brokoli, keleraba, boranija, prokelj, kupus...\n\nSvakodnevno konzumiranje jedne supene kašike susama pomaže u podizanju nivoa kalcijuma u našem organizmu. Potrebno ga je veoma dobro sažvakati i razložiti u ustima, a zatim progutati.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-bogata-selenom",
@@ -10214,7 +10367,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Selen deluje kao antioksidans, pomaže u odbrani protiv raka, ojačava imunitet, poboljšava protok krvi, smanjuje rizik od srčanih oboljenja, reguliše funkciju štitne žlezde, poboljšava plodnost, smanjuje simptome astme...\n\nHrana bogata selenom: spanać, tuna, jaja, seme suncokreta, brazilski orah, čia semenke, pasulj, kokos, prokelj, tofu sir, ovsene pahuljice, morski plodovi, beli luk, pečurke...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-bogata-gvozdjem",
@@ -10230,7 +10384,8 @@
     "notes": [],
     "ingredients": [],
     "method": "C vitamin pospešuje apsorpciju gvožđa, dok mlečni proizvodi smanjuju njegovu apsorpciju.\n\nHrana bogata gvožđem: soja, pasulj, leblebija, sočivo, grašak, spanać, kupus, kelj, prokelj, brokoli, cvekla, susam, suncokret, lan, čia, bundevine i konopljine semenke, spelta, ovas, kakao, spirulina, suvo grožđe, suve kajsije, kikiriki, bademi, pistaći, orah, indijski orah, majčina dušica, kopriva, urme, banana, nar, avokado...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "muckanje-ulja-u-ustima",
@@ -10247,7 +10402,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Ova metoda služi za izbacivanje toksina iz našeg organizma. Za vreme trajanja mućkanja ulja u ustima sva krv protekne kroz pljuvačne žlezde i izbaci otrove. Koriste se hladna ceđena ulja, najčešće suncokretovo ili susamovo. Možete koristiti i nerafinisano kokosovo ili maslinovo ulje. Vreme trajanja mućkanja je 15-20 minuta na prazan stomak ujutru. Količina ulja je 1 supena kašika. Nakon mućkanja, ulje se NE SME progutati. Ulje će postati retko i beličaste boje. Ispljunite ga, zatim isperite usta toplom vodom i operite zube. Preventivno, za imunitet mućkajte 1 dnevno, ukoliko imate neko oboljenje, mućkajte 3 puta na dan, pre jela.\n\nUčinkovito je protiv: glavobolje, zubobolje, paradentoze, nesanice, astme, ekcema, artritisa, hroničnog umora, bolesti krvi. Ova metoda pomaže i u izbeljivanju zuba.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "alkalizacija-organizma",
@@ -10264,7 +10420,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Ovaj napitak pije se ujutru na prazan stomak. Vodu sipajte do pola u visoku čašu. Dodajte kašičicu sode bikarbone bez aluminijuma i sok od pola limuna. Napitak će peniti, kada prestane, promešajte i popijte.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "zamene-za-jaja",
@@ -10280,7 +10437,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Ukoliko želite da smanjite unos ili potpuno izbacite jaja iz ishrane radi alkalizacije organizma, smanjenja holesterola, alergije ili ih jednostavno ne volite, možda i isprobate nešto novo, ovo su neke od zamena za jaja u receptima. Uloga jaja u receptima je da ih čine laganim i izdašnim, povezuju sastojke i daju vlažnost. Svakako, što je manje jaja u receptu navedeno, to ih je lakše zameniti, a da to ne utiče mnogo na ukus i teksturu. Neke zamene odgovaraju slatkim, a druge slanim jelima.\n\n1. ČIA „JAJE\": jednu kašiku čia semenki preliti sa tri kašike tople vode, promešati i ostaviti 10ak minuta da nabubri. Dobićete želatinastu, i veoma zdravu zamenu za jaje koja odrađuje posao vezivanja sastojaka u receptu.\n\n2. ŽELATIN: u šolji ključale vode otopiti dve kašike želatina u prahu. 1,5 kašika želatinaste mase zamenjuje 1 jaje.\n\n3. AKVAFABA: to je voda u kojoj se kuvala leblebija ili neka druga mahunarka. Možete skuvati sami ili je iskoristiti iz konzerve sa već skuvanom leblebijom. 4 kašike umućene akvafabe zamenjuje jedno jaje.\n\n4. LANENO „JAJE\": funkcioniše kao i sa čia semenkama, prethodno lan mora da se samelje. Jednu kašiku samlevenog lanenog semena preliti sa tri kašike tople vode, promešati i ostaviti da odstoji nekoliko minuta pre upotrebe.\n\n5. PSILIJUM: može brzo zgusnuti jelo i odlična je zamena za jaja. Jednu kašiku psilijuma pomešajte sa kašikom vode i zamenite jedno jaje.\n\n6. PUTER OD ORAŠASTIH PLODOVA (KIKIRIKI, BADEM...): tri kašike kikiriki putera menja jedno jaje.\n\n7. BANANA: pola srednje banane može zameniti jedno jaje.\n\n8. KROMPIROV SKROB: dve pune kašike krompirovog skroba menjaju jedno jaje.\n\n9. PIRE OD VOĆA: 30ak gr pirea od jabuka menja jedno jaje.\n\n10. „SLANO JAJE\": zamenu za jedno jaje ćete dobiti ako pomešate pola kašičice sode bikarbone sa kašičicom sirćeta i kašičicom vode.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "tinkture-za-podizanje-imuniteta",
@@ -10296,7 +10454,8 @@
     "notes": [],
     "ingredients": [],
     "method": "1. Kapi EHINACEE: doprinose povećenju broja leukocita, i povećavaju produkciju T-limfocita i sposobnost kretanja leukocita. Ehinakozidi, flavonoidi, etarska ulja, tanini, proteini, vitamini A, C i E i polisaharidi deluju kao imunostimulator, ublažavaju simptome postojeće infekcije, deluju protektivno i ubrzavaju izlečenje. Deluju i na nekoliko vrsta stafilokoka, streptokoka i pojedinih gljivica.\n\n2. Kapi PROPOLISA: primenjuje se u preventivi kod upalnih procesa uha, grla, nosa, usne duplje, gornjih disajnih puteva, za podizanje opšte otpornosti organizma. Koristi se kao prva linija odbrane kod bakterijskih infekcija i virusa. Poseduje i antigljivično, antiseptično i lokalno anestetičko dejstvo.\n\n3. Kapi CRNOG KIMA: od velikog broja aktivnih sastojaka najdelotvorniji je nigelon, koji opušta mišiće i širi bronhije, i timohinon koji pojačava lučenje žuči, ublažava preveliku kiselost, smanjuje holesterol i pomaže kod probavnih problema. Zbog svog snažnog antibakterijskog dejstva ulje crnog kima pomaže kod lečenja gripa. Pomaže i kod alergija, astme, hroničnih probavnih problema, povišenog holesterola, ekcema, kožnih gljivica, akni, menstrualnih problema, smanjuje nesanicu, otklanja umor i depresiju.\n\n4. Kapi KOPRIVE: kopriva sadrži soli minerala i oligoelemenata (gvožđe, magnezijum, kalijum, natrijum, kalcijum, fosfor), vitamine (A, C), hlorofil i biljne hormone, neophodne za čovečiji organizam. Aktivni sastojci biljnih kapi koprive povoljno deluju kod anemije usled nedostatka gvožđa u organizmu, urinarnih infekcija, reumatskih tegoba i protiv opadanja kose (spoljašnja upotreba).",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "sta-je-sirovi-med",
@@ -10312,7 +10471,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Sirovi med je med koji je prirodan, neprocesuiran, nepasterizovan i nefiltriran. Onako kako ga pčele proizvedu, bez ikakve obrade. Sirovi med sadrži i ostatke pčelinjeg voska, polena i propolisa. To je med koji se direktno iz saća cedi u tegle bez ikakve naknadne obrade, prečišćavanja i mešanja, uz vrhunske higijenske uslove. Sadrži aminokiseline, minerale, vitamine, enzime i polifenole koji imaju ulogu antioksidanasa. Ima antimikrobno, antiinflamatorno i antikancerogeno delovanje. Komercijalni med podleže procesu ultrafiltracije i pasterizacije kojim se ujedno i otklanjaju vitamini, enzimi i fitonutrijenti.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "zasto-cejlonski-cimet",
@@ -10328,7 +10488,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Pravi izvorni cimet je sa Šri Lanke. Cejlonski cimet ima svetliju boju i blaži ukus. Sadrži mangan, kalcijum, gvožđe, cink i vitamine B2, B6, C i K, kao i antioksidanse i fenole koji su zaduženi za poboljšanje i očuvanje imuniteta. Kod nas najčešće možemo pronaći kineski cimet koji sadrži kumarin, hemijsko jedinjenje koje oštećuje jetru i bubrege.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "sta-je-sirovi-kakao",
@@ -10344,7 +10505,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Sirovi kakao prah se pravi od negrejanog kako zrna, pri čemu je temperatura procesa proizvodnje ispod 42 stepena C kako bi se sačuvali svi enzimi i minerali koji su veoma bitni za sirovu hranu. Ovakav kakao ima mnogo izražajniji ukus i miris od običnog kakaa. Izvor je antioksidanasa i bogat je magnezijumom, sumporom i gvožđem.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "zasto-himalajska-so",
@@ -10360,7 +10522,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Ova so je iz podnožja Himalaja, odakle se ručno eksploatiše iz rudnika u planinskim pećinama i skladišti po najvišim svetskim standardima. Njena kristalna struktura akumulisala je u sebi ogromnu količinu čiste izvorne energije. Ova ružičasta so, osim natrijum hlorida, sadrži i 84 mikroelementa koji su neophodni za redovno funkcionisanje organizma. Nastala na zemlji pre više od 250 miliona godina postepenim isparavanjem prvobitnog mora usled snažnog dejstva sunčevih toplotnih zraka. Zahvaljujući tome, u njoj se akumulisala ogromna količina životodavne energije sunca. Industrijska kuhinjska so je veoma osiromašena mineralima u toku proizvodnje.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "ulja-za-salate",
@@ -10376,7 +10539,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Hladno ceđena nerafinisana ulja su najbolja opcija za salate: laneno, konopljino, kokosovo, bundevino, maslinovo, susamovo, suncokretovo i ulje iz semena grožđa...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "ulja-i-masti-za-przenje-i-pecenje",
@@ -10392,7 +10556,8 @@
     "notes": [],
     "ingredients": [],
     "method": "1. KOKOSOVO ULJE: za prženje je izuzetno stabilno, najzdravije je nerafinisano koje ostavlja blag ukus i miris kokosa.\n\n2. MASLINOVO ULJE: veoma zdravo ulje za prženje koje može izdržati visoke temperature bez oksidacije. Najzdravije je ekstra devičansko maslinovo ulje.\n\n3. GHEE MASLAC: gi je prečišćeni puter koji je dugotrajnim kuvanjem na blagoj vatri oslobođen vode, mlečnih proteina i šećera. Zadržava svoj prirodni ukus.\n\n4. PUTER: puter nije najbolji izbor za duboko prženje, bolji je za dinstanje na nižim temperaturama. Ako se previše zagreje, može se zapaliti i izgoreti.\n\n5. SVINJSKA DOMAĆA MAST: ima visoku tačku dimljenja pa prilikom pečenja i prženja ne oksidira i ne proizvodi štetne slobodne radikale. Industrijska svinjska mast se veoma često izbeljuje i dodaju joj se transmasti i time produžava rok trajanja. Najbolje je izabrati domaću mast, po mogućstvu od mangulice. Svinjska mast prilikom pečenja ostavlja blag šmek.\n\nMožete koristiti još i susamovo i lešnikovo ulje, ili ulje od avokada koje je kod nas dosta teško pronaći.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "kisele-i-alkalne-namirnice",
@@ -10408,7 +10573,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Dokazano je da maligne ćelije, virusi i bakterije opstaju u kiseloj sredini, dok u baznoj (alkalnoj) ne mogu preživeti. Ovo je okvirna lista namirnica, od alkalnih do kiselih: ono što najčešće treba konzumirati, zatim namirnice koje treba izbegavati i potpuno izbaciti. Ni u čemu ne treba preterivati, uvek se treba truditi naći neki balans. Ni slučajno se ne treba opterećivati ovim, već koristiti kao neki opšti vodič, jer istovremeno i loše emocije kao što su osećaj griže savesti, krivice, tuge, besa i očaja mogu dovesti do kiseljenja organizma.\n\nPH 10 (alkalno): spanać, brokoli, prokelj, kupus, šargarepa, krastavac, crni luk, kelj, karfiol, artičoka, limeta, limun, rotkvica, celer, klice raznog bilja.\n\nPH 9: avokado, zelena salata, tikvica, cvekla, paradajz, peršun, korijander, grašak, patlidžan, beli luk, boranija, batat, borovnica, grožđe, kivi, dinja, smokva, urma, mango...\n\nPH 8: jabuka, badem, grejp, kukuruz, pečurke, masline, breskva, ananas, jagoda, banane, višnje, kajsija, paprika, integralni pirinač, kinoa...\n\nPH 7 (neutral): bundevino seme, maslinovo ulje, susam, sirovo kozije mleko, kokos, suncokret, praziluk, seme komorača...\n\nPH 6: jaja, riba, šljiva, kakao, većina žitarica, ovas, narandža, orasi, maline, lubenica, stevija, agava, lešnici, brazilski orah, spelta, sočivo...\n\nPH 5: med, krompir, beli pirinač, indijski orah, pirinčane galete, kafa, pistaći, kikiriki, pšenica...\n\nPH 4: ćuretina, piletina, kokice, alkohol, sir, pecivo, šećer, čokolada, testenina...\n\nPH 3: svinjetina, teletina, govedina, jagnjetina, zaslađeni sokovi, veštački zaslađivači, energetska pića, cigarete, procesuirana hrana, hrana iz konzerve...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-koja-uzrokuje-hronicne-upale",
@@ -10424,7 +10590,8 @@
     "notes": [],
     "ingredients": [],
     "method": "1. ŠEĆER, VEŠTAČKI ZASLAĐIVAČI I VISOKO FRUKTOZNI KUKURUZNI SIRUP: bombone, čokolade, torte, kolači, peciva, gazirani i negazirani sokovi, kupovne pahuljice i kaše...\n\n2. TRANS MASTI: kokice iz mikrotalasne, margarin, peciva i drugi pekarski proizvodi, lisnato testo, kolači, razne grickalice, pohovano meso, pojedine vrste kikiriki putera, pomfrit...\n\n3. PROCESUIRANO MESO: povećava rizik od srčanih oboljenja, dijabetesa i raka debelog creva. Kobasice, salame, viršle, industrijske slanine, šunke, pečenice...\n\n4. PREKOMERNI UNOS ALKOHOLA: može dovesti do sindroma „propustljivih creva\" kada bakterije i toksini mogu preći u krvotok. Time se upala širi i može doći do oštećenja pojedinih organa. Crveno vino je najbolji izbor jer sadrži antioksidans resveratrol koji štiti kardiovaskularni sistem, dok je pivo koje sadrži gluten i kvasac, najlošiji izbor. Ono remeti prirodnu crevnu floru i podstiče razvoj kandide.\n\n5. RAFINISANI UGLJENI HIDRATI: testenina od belog brašna, beli hleb, gazirani i negazirani napici, kupovni musliji...",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-koja-umiruje-upalne-procese",
@@ -10440,7 +10607,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Anti-inflamatorna ishrana je veoma važna za očuvanje našeg imuniteta.\n\n1. POVRĆE (posebno zeleno lisnato): beli luk, spanać, kelj, kupus, brokoli, crni luk, ljubičasti luk, paprika, cvekla, šargarepa...\n\n2. VOĆE: maline, višnje, borovnice, avokado, ananas, jagode, narandža, paradajz...\n\n3. SVE VRSTE PASULJA.\n\n4. HLADNO CEĐENA ULJA: ekstra devičansko maslinovo ulje, laneno ulje...\n\n5. ORAŠASTI PLODOVI: orah, badem, pistaći, indijski orah, brazilski orah...\n\n6. RIBA: losos, sardine, tuna...\n\n7. ZAČINI: kurkuma, đumbir...\n\n8. ALGE: spirulina, kelp...\n\nOno što će dodatno doprineti smanjenju upalnih procesa u organizmu je redovan i kvalitetan san (minimum 7h dnevno), redovna fizička aktivnost i smanjenje stresa.\n\nPotrebno je izbaciti šećer, veštačke zaslađivače, transmasti (margarin, čips...), procesuirano meso (salame, viršle, kobasice...), prekomerni unos alkohola i rafinisane ugljene hidrate (beli hleb i testenine, sokove).",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "hrana-za-bolji-san",
@@ -10456,7 +10624,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Večera bi trebala biti oko 3h pre spavanja. Namirnice koje pospešuju kvalitetan san su:\n\n1. BANANE: iako se smatra hranom koja pojačava energiju, banane su bogate magnezijumom koji opušta mišiće, a sadrže i serotonin i melatonin koji podstiču san.\n\n2. BADEMI: sjajan izvor zdravih masti, a triptofan i magnezijum pomažu prirodnom smanjenju funkcionisanja mišića i živaca, a istovremeno održavaju ritam srca.\n\n3. SIROVI MED: stimuliše oslobađanje melatonina u mozgu i isključivanje oreksina koji nas drži na oprezu i na taj način nam pomaže da se umirimo i uspavamo.\n\n4. OVAS I OVSENE PAHULJICE: ovas je bogat vitaminima, mineralima i aminokiselinama koji promovišu lučenje melatonina koji izaziva spavanje.\n\n5. ČAJ OD KAMILICE: sadrži flavone (antioksidansi) koji smanjuju upalu koja često dovodi do hroničnih bolesti, poput raka i srčanih bolesti. Pojačava imuni sistem, smanjuje anksioznost i depresiju i poboljšava zdravlje kože. Sadrži i apigenin, antioksidans koji se veže za određene receptore u našem mozgu koji pospešuju pospanost i smanjuju nesanicu.\n\n6. KIVI: zbog velike količine vlakana i karotenoidnih antioksidanasa pomaže digestivnom traktu, smanjuje upale i nivo holesterola. Sadrži serotonin, pomaže u regulisanju našeg ciklusa spavanja.\n\n7. RIBA: losos, tunjevina, pastrmka i skuša. Poseduje izuzetan sadržaj vitamina D i bogata zdravim omega-3 masnim kiselinama, posebno EPA i DHA, a obe su poznate po smanjenju upale, zaštiti od srčanih bolesti i pospešivanju zdravlja mozga. A kombinacija omega-3 masnih kiselina i vitamina D u masnoj ribi može potencijalno poboljšati kvalitet spavanja, jer povećavaju proizvodnju serotonina.\n\n8. ORASI: sadrže preko 19 vitamina i minerala i obiluju vlaknima. Posebno su bogati magnezijumom, fosforom, bakrom i manganom. Poseduju veliku količinu hormona melatonina koji reguliše san.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "domace-ili-organsko",
@@ -10472,7 +10641,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Organska proizvodnja se obavlja na najprirodniji mogući način. Za zaštitu se koriste ekološki preparati. Zemljište se obogaćuje đubrivom i svaki segment u proizvodnji mora biti sertifikovan. Ako je reč o namirnicama koje se uzgajaju na našem podneblju, i imate mogućnost da kupite kod proverenog domaćeg uzgajivača, odlučite se za domaće, radije nego za namirnice koje dolaze sa drugog kraja sveta a deklarisane su kao organske.\n\nNamirnice koje se najviše tretiraju pesticidima i poželjno je da su organskog porekla su jabuke, celer, jagode, breskve, nektarine, grožđe, borovnice, spanać, zelena salata i kelj.\n\nUkoliko ste u mogućnosti, takođe su poželjne da budu organske i namirnice kao što su boranija, paprika, krastavci, karfiol, maline, šljive, pomorandže i mandarine.\n\nDalje su tu luk, kukuruz šećerac, pasulj, patlidžan, kupus, pečurke, ananas, kivi, grejpfrut.\n\nKupujte voće i povrće u sezoni kad god je to moguće.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "dodati-seceri-u-proizvodima",
@@ -10488,7 +10658,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Zašto se dodaje šećer u razne proizvode, kako slatke, tako i slane? Zato što, pored ostalog, daje bolji ukus, izaziva zavisnost i povećava apetit.\n\nI kada na proizvodima piše „integralno\", „zdravo\", „fitness\", „wellness\", „sport\", „posno\", ne znači da nemaju dodate šećere i ostale veštačke zaslađivače. Takođe, to što kupujemo u prodavnicama zdrave hrane, ne mora se podrazumevati da je proizvod potpuno zdrav i bezbedan.\n\nNutritivna tablica pokazuje količinu ukupnih šećera koje sadrži proizvod. Pod sastavom možemo videti koji su to dodati šećeri i zaslađivači.\n\nMogu se pronaći pod nazivima kao što su šećer, ječmeni slad, smeđi šećer, šećer od šećerne trske, kukuruzni šećer, visoko-fruktozni sirup, fruktoza, dekstroza, glukozno-fruktozni sirup, glukozni sirup, maltoza, maltodekstrin...\n\nPrimer kupovnih proizvoda koji sadrže dodate, najčešće skrivene šećere su pite, peciva, hleb, kečap, majonez, senf, soja sos, sos za roštilj, određena biljna mleka, Plazma, Bonžita, čips, štapići, paštete, kobasice, salame, pečenice, slanine, supe iz kesice i kocki, sok od paradajza, kandirano i konzervirano voće i povrće, kaše, musli, sladoledi, voćni jogurti, određeni kikiriki puteri, vode sa aromom, ledeni čajevi, gusti i bistri sokovi, energetska pića, povrće iz tegli poput cvekle i krastavaca i mnogi drugi.\n\nZato je veoma bitno da čitate sastav na proizvodima koje kupujete, i da naučite svoje buduće generacije.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "gluten",
@@ -10504,7 +10675,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Gluten je protein koji se nalazi u određenim žitaricama koje su tradicionalno najzastupljenije u ishrani: pšenica, ječam, raž... Sve češća i veća konzumacija proizvoda koji sadrže gluten, dovelo je do stvaranja intolerancije organizma na ovaj protein kod mnogih ljudi.\n\nSimptomi osetljivosti na gluten:\n1. Nadutost\n2. Zatvor ili dijareja\n3. Bol u stomaku\n4. Glavobolje\n5. Osećaj umora\n6. Kožni problemi\n7. Depresija\n8. Neobjašnjivi gubitak telesne mase\n9. Anemija\n10. Anksioznost\n11. Dodatni autoimuni poremećaji\n12. Bol u mišićima i zglobovima\n13. Loša koncentracija i gubitak fokusa\n14. Zadržavanje tečnosti u organizmu\n\nIshrana bez glutena donosi:\n1. Brže izlečenje zapaljenjskih procesa\n2. Brže korigovanje telesne težine\n3. Oporavak rada štitne žlezde\n4. Umanjenje tegoba autoimunih bolesti\n5. Prevenciju pojave kancera\n\nNeke od bezglutenskih namirnica koje mogu zameniti žitarice: leblebija, tef, kinoa, pirinač, ovas, tapioka, heljda, kukuruz, amarant...\n\nOvas ne sadrži gluten, ALI gotovo svaki proizvod od ovsa sadrži tragove glutena jer se tradicionalno gaji pored pšenice, i obrađuje, skladišti i čisti na istim pogonima. Zato, ukoliko ste alergični ili želite da ga izbacite obratite pažnju da kupujete ovas i njegove proizvode deklarisane kao BEZ GLUTENA.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "zdravo-posudje",
@@ -10520,7 +10692,8 @@
     "notes": [],
     "ingredients": [],
     "method": "Čak i najzdravija hrana pripremljena u toksičnom posuđu vrlo lako postaje nezdrava. Najzdraviji materijali posuđa su prirodni materijali poput stakla, keramike, gline, porcelana, metala...\n\nOdličan izbor je i:\n\n1. EMAJLIRANO POSUĐE: ako se ošteti, ne koristiti ga više.\n\n2. POSUĐE OD NERĐAJUĆEG ČELIKA: oprez za alergične na nikl.\n\n3. POSUĐE OD LIVENOG GVOŽĐA: oprez za ljude sa viškom gvožđa u sebi jer može doći do ispuštanja određene količine u hranu. Ne kuvati kiselu hranu u njemu.\n\nKada kupujete posuđe, obratite pažnju da budu bez:\nPFOA - perfluoroktanska kiselina\nPTFE - politetrafluoroetilen (teflon)\nPFOS - perfluoroktan sulfonska kiselina\n\nNe kupovati teflonsko i drugo posuđe sa nelepljivim premazima i aluminijumsko posuđe.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   },
   {
     "id": "kada-je-hrana-prestala-da-me-kontrolise",
@@ -10536,6 +10709,7 @@
     "notes": [],
     "ingredients": [],
     "method": "1. Kada sam shvatila da neću pasti u nesvest ako ne pojedem nešto, a gladna sam.\n\n2. Kada sam shvatila da ta glad nije glas stomaka, nego moje glave.\n\n3. Kada sam shvatila da ta glad nije glad, već žeđ.\n\n4. Kada sam shvatila da mi je hrana dostupna 24/7.\n\n5. Kada sam shvatila da jedem i više nego što je dovoljno mom organizmu, a i prečesto.\n\n6. Kada sam shvatila da se hrana zove hrana jer hrani naše telo.\n\n7. Kada sam shvatila da nije poenta napuniti stomak, već nahraniti ćelije.\n\n8. Kada sam shvatila da manje hrane znači VIŠE energije.\n\n9. Kada sam shvatila da je GLAD LEK.\n\nI na kraju sam shvatila da ja kontrolišem hranu, a ne ona mene.",
-    "tips": []
+    "tips": [],
+    "book": "imunomania"
   }
 ]

@@ -162,6 +162,11 @@
 [data-skin="clay"] .r-cat,
 [data-skin="clay"] .sheet-side-cat { color: color-mix(in srgb, var(--c, var(--ink-3)) 26%, var(--ink)); }
 [data-skin="clay"] .r-cat .dot { background: color-mix(in srgb, var(--c) 58%, #fff); }
+[data-skin="clay"] .book {
+  background: color-mix(in srgb, var(--c, var(--ink-3)) 14%, #fff);
+  border-color: transparent;
+  box-shadow: var(--shadow);
+}
 
 /* ---------- Kartice jela ---------- */
 

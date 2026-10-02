@@ -2,6 +2,14 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.10.0] · 2026-10-02
+
+### Dodato
+- `data/books.json` sa tri knjige autorke; svaki zapis nosi polje `book`
+- Oznaka knjige na kartici jela i u popupu, pored naziva poglavlja
+- Naziv knjige ulazi u pretragu, pa se jela mogu naći i po njoj
+- `build.py` proverava da li zapis pokazuje na postojeću knjigu i starim zapisima dodeljuje prvu knjigu
+
 ## [1.9.0] · 2026-09-26
 
 ### Promenjeno

@@ -15,6 +15,7 @@ def save(name, obj):
 
 categories = load("categories.json")
 ingredients = load("ingredients.json")
+books = load("books.json")
 order = {c["id"]: c["order"] for c in categories}
 
 records = []
@@ -24,9 +25,12 @@ for path in sorted(glob.glob(os.path.join(DATA, "raw", "*.json"))):
 records.sort(key=lambda r: (order[r["category"]], r["source"]["scan"], r["source"]["page"]))
 for r in records:
     r.setdefault("type", "recept")
+    # prva knjiga je uneta pre nego što su stigle druge dve, pa nema oznaku
+    r.setdefault("book", "imunomania")
 
 ing_ids = {i["id"] for i in ingredients}
 cat_ids = {c["id"] for c in categories}
+book_ids = {b["id"] for b in books}
 rec_ids = {r["id"] for r in records}
 
 errors = []
@@ -35,6 +39,8 @@ errors += [f"duplicate recipe id: {k}" for k, v in seen.items() if v > 1]
 for r in records:
     if r["category"] not in cat_ids:
         errors.append(f"{r['id']}: unknown category {r['category']}")
+    if r["book"] not in book_ids:
+        errors.append(f"{r['id']}: unknown book {r['book']}")
     for item in r["ingredients"]:
         if item["ref"] not in ing_ids:
             errors.append(f"{r['id']}: unknown ingredient {item['ref']}")
