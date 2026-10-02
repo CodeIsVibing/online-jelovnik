@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sm-tri-bobice",
+    "title": "Tri bobice smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 118, "page": "R", "printed": 10 },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "šaka jagoda", "qty": 1, "unit": "šaka", "ref": "jagoda" },
+      { "raw": "šaka borovnica", "qty": 1, "unit": "šaka", "ref": "borovnica" },
+      { "raw": "šaka malina", "qty": 1, "unit": "šaka", "ref": "malina" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-mango",
+    "title": "Mango smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 118, "page": "R", "printed": 10 },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko", "vegan"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 mango", "qty": 1, "unit": "komad", "ref": "mango" },
+      { "raw": "3 sveže otkoštene urme", "qty": 3, "unit": "komad", "ref": "urme" },
+      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "sok od četvrtine limuna", "qty": 0.25, "unit": "komad", "ref": "limun" },
+      { "raw": "1 supena kašika lanenog proteina", "qty": 1, "unit": "supena kašika", "ref": "laneni-protein" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  }
+]

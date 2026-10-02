@@ -10711,5 +10711,404 @@
     "method": "1. Kada sam shvatila da neću pasti u nesvest ako ne pojedem nešto, a gladna sam.\n\n2. Kada sam shvatila da ta glad nije glas stomaka, nego moje glave.\n\n3. Kada sam shvatila da ta glad nije glad, već žeđ.\n\n4. Kada sam shvatila da mi je hrana dostupna 24/7.\n\n5. Kada sam shvatila da jedem i više nego što je dovoljno mom organizmu, a i prečesto.\n\n6. Kada sam shvatila da se hrana zove hrana jer hrani naše telo.\n\n7. Kada sam shvatila da nije poenta napuniti stomak, već nahraniti ćelije.\n\n8. Kada sam shvatila da manje hrane znači VIŠE energije.\n\n9. Kada sam shvatila da je GLAD LEK.\n\nI na kraju sam shvatila da ja kontrolišem hranu, a ne ona mene.",
     "tips": [],
     "book": "imunomania"
+  },
+  {
+    "id": "sm-tri-bobice",
+    "title": "Tri bobice smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 118,
+      "page": "R",
+      "printed": 10
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "šaka malina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-mango",
+    "title": "Mango smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 118,
+      "page": "R",
+      "printed": 10
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 mango",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "3 sveže otkoštene urme",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "sok od četvrtine limuna",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika lanenog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "laneni-protein"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kelj",
+    "title": "Kelj smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 119,
+      "page": "L",
+      "printed": 11
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "šaka iseckanog kelja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-borovnica-smutipita",
+    "title": "Borovnica smutipita",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 119,
+      "page": "L",
+      "printed": 11
+    },
+    "timeMinutes": 30,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Amarant se kuva oko 20 min na nižoj temperaturi u vodi u srazmeri 1:2 ili 1:3."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika bademovog putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bademov-puter"
+      },
+      {
+        "raw": "2 šake borovnica",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "2 supene kašike skuvanog amaranta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "amarant"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-detox",
+    "title": "Detox smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 119,
+      "page": "R",
+      "printed": 12
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-spicy-malina",
+    "title": "Spicy malina smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 119,
+      "page": "R",
+      "printed": 12
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina breskve",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "2 šake malina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "četvrtina kašičice himalajske soli",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "na vrh kašičice čilija u prahu ili mlevene ljute paprike",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-fresh",
+    "title": "Fresh smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 120,
+      "page": "L",
+      "printed": 13
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena narandža",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "šaka iseckane zelene salate",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-maslacak",
+    "title": "Maslačak smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 120,
+      "page": "L",
+      "printed": 13
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg lista maslačka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "maslacak"
+      },
+      {
+        "raw": "polovina svežeg krastavca",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "polovina oljuštene jabuke",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "polovina banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
   }
 ]

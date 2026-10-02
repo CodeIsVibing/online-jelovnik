@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sm-kelj",
+    "title": "Kelj smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 119, "page": "L", "printed": 11 },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko", "vegan"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "1 kruška", "qty": 1, "unit": "komad", "ref": "kruska" },
+      { "raw": "šaka iseckanog kelja", "qty": 1, "unit": "šaka", "ref": "kelj" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-borovnica-smutipita",
+    "title": "Borovnica smutipita",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 119, "page": "L", "printed": 11 },
+    "timeMinutes": 30,
+    "tags": ["bez-glutena", "vegetarijansko", "vegan"],
+    "notes": ["Amarant se kuva oko 20 min na nižoj temperaturi u vodi u srazmeri 1:2 ili 1:3."],
+    "ingredients": [
+      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
+      { "raw": "1 supena kašika bademovog putera", "qty": 1, "unit": "supena kašika", "ref": "bademov-puter" },
+      { "raw": "2 šake borovnica", "qty": 2, "unit": "šaka", "ref": "borovnica" },
+      { "raw": "2 supene kašike skuvanog amaranta", "qty": 2, "unit": "supena kašika", "ref": "amarant" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-detox",
+    "title": "Detox smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 119, "page": "R", "printed": 12 },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko", "vegan"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "šaka svežeg spanaća", "qty": 1, "unit": "šaka", "ref": "spanac" },
+      { "raw": "polovina avokada", "qty": 0.5, "unit": "komad", "ref": "avokado" },
+      { "raw": "sok od 1 limuna", "qty": 1, "unit": "komad", "ref": "limun" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-spicy-malina",
+    "title": "Spicy malina smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 119, "page": "R", "printed": 12 },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko", "ljuto"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "polovina breskve", "qty": 0.5, "unit": "komad", "ref": "breskva" },
+      { "raw": "2 šake malina", "qty": 2, "unit": "šaka", "ref": "malina" },
+      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
+      { "raw": "četvrtina kašičice himalajske soli", "qty": 0.25, "unit": "kašičica", "ref": "so" },
+      { "raw": "na vrh kašičice čilija u prahu ili mlevene ljute paprike", "ref": "ljuta-paprika" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  }
+]
