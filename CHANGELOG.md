@@ -2,6 +2,18 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.11.0] · 2026-10-02
+
+### Dodato
+- Počeo unos knjige „Smoothiemania": šest novih poglavlja i prvih osam šejkova
+- Oznaka „Vegan", sa svojom ikonicom i stavkom u legendi
+- Šest novih sastojaka: borovnice, maline, breskva, zelena salata, maslačak, laneni protein
+- Zapisi mogu da nose odštampan broj strane, pa se izvor prikazuje kao „strana 10" umesto broja skena
+- `data/pitanja-za-autorku.md`, spisak strana za ponovni sken i nedoumica iz prve knjige
+
+### Promenjeno
+- Poglavlja i oznake bez ijednog jela se ne prikazuju, pošto se knjige unose postepeno
+
 ## [1.10.0] · 2026-10-02
 
 ### Dodato

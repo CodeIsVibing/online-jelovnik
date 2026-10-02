@@ -1,0 +1,39 @@
+[
+  {
+    "id": "sm-fresh",
+    "title": "Fresh smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 120, "page": "L", "printed": 13 },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko", "vegan"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "1 oljuštena narandža", "qty": 1, "unit": "komad", "ref": "narandza" },
+      { "raw": "šaka iseckane zelene salate", "qty": 1, "unit": "šaka", "ref": "zelena-salata" },
+      { "raw": "1 oljuštena jabuka", "qty": 1, "unit": "komad", "ref": "jabuka" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-maslacak",
+    "title": "Maslačak smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": { "scan": 120, "page": "L", "printed": 13 },
+    "timeMinutes": 5,
+    "tags": ["bez-glutena", "vegetarijansko", "vegan"],
+    "notes": [],
+    "ingredients": [
+      { "raw": "šaka svežeg lista maslačka", "qty": 1, "unit": "šaka", "ref": "maslacak" },
+      { "raw": "polovina svežeg krastavca", "qty": 0.5, "unit": "komad", "ref": "krastavac" },
+      { "raw": "polovina oljuštene jabuke", "qty": 0.5, "unit": "komad", "ref": "jabuka" },
+      { "raw": "polovina banane", "qty": 0.5, "unit": "komad", "ref": "banana" },
+      { "raw": "vode do željene gustine", "ref": "voda" }
+    ],
+    "tips": []
+  }
+]

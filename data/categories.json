@@ -1,10 +1,86 @@
 [
-  { "id": "dorucak-vecera", "title": "Doručak / večera", "color": "#6B2E8F", "order": 1 },
-  { "id": "rucak",          "title": "Ručak",            "color": "#4C9A2A", "order": 2 },
-  { "id": "supe-corbe",     "title": "Supe / čorbe",     "color": "#1FBFB8", "order": 3 },
-  { "id": "namazi-umaci",   "title": "Namazi / umaci",   "color": "#E42A2A", "order": 4 },
-  { "id": "hleb-peciva",    "title": "Hleb / peciva / grickalice", "color": "#EFDF00", "order": 5 },
-  { "id": "slatko",         "title": "Slatko",           "color": "#1D3FA8", "order": 6 },
-  { "id": "sejkovi",        "title": "Šejkovi",          "color": "#C9AEE0", "order": 7 },
-  { "id": "saveti-sirupi",  "title": "Saveti, sirupi i čajevi", "color": "#F08A1E", "order": 8 }
+  {
+    "id": "dorucak-vecera",
+    "title": "Doručak / večera",
+    "color": "#6B2E8F",
+    "order": 1
+  },
+  {
+    "id": "rucak",
+    "title": "Ručak",
+    "color": "#4C9A2A",
+    "order": 2
+  },
+  {
+    "id": "supe-corbe",
+    "title": "Supe / čorbe",
+    "color": "#1FBFB8",
+    "order": 3
+  },
+  {
+    "id": "namazi-umaci",
+    "title": "Namazi / umaci",
+    "color": "#E42A2A",
+    "order": 4
+  },
+  {
+    "id": "hleb-peciva",
+    "title": "Hleb / peciva / grickalice",
+    "color": "#EFDF00",
+    "order": 5
+  },
+  {
+    "id": "slatko",
+    "title": "Slatko",
+    "color": "#1D3FA8",
+    "order": 6
+  },
+  {
+    "id": "sejkovi",
+    "title": "Šejkovi",
+    "color": "#C9AEE0",
+    "order": 7
+  },
+  {
+    "id": "saveti-sirupi",
+    "title": "Saveti, sirupi i čajevi",
+    "color": "#F08A1E",
+    "order": 8
+  },
+  {
+    "id": "detox-smoothies",
+    "order": 9,
+    "title": "Detox šejkovi",
+    "color": "#6FBF4B"
+  },
+  {
+    "id": "diabetes-smoothies",
+    "order": 10,
+    "title": "Diabetes šejkovi",
+    "color": "#2BA7C9"
+  },
+  {
+    "id": "kids-smoothies",
+    "order": 11,
+    "title": "Kids šejkovi",
+    "color": "#F2A93B"
+  },
+  {
+    "id": "senior-smoothies",
+    "order": 12,
+    "title": "Senior šejkovi",
+    "color": "#9B6FC9"
+  },
+  {
+    "id": "konstipacija-smoothies",
+    "order": 13,
+    "title": "Konstipacija šejkovi",
+    "color": "#D9685F"
+  },
+  {
+    "id": "energy-boost-smoothies",
+    "order": 14,
+    "title": "Energy boost šejkovi",
+    "color": "#E8B62E"
+  }
 ]

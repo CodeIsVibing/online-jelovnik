@@ -26,6 +26,7 @@
   const TAGS = [
     { id: "bez-glutena",          label: "Bez glutena",        icon: "ic-gluten" },
     { id: "vegetarijansko",       label: "Vegetarijansko",     icon: "ic-veg" },
+    { id: "vegan",                label: "Vegan",              icon: "ic-vegan" },
     { id: "priprema-vece-ranije", label: "Priprema veče pre",  icon: "ic-moon" },
     { id: "ljuto",                label: "Ljuto",              icon: "ic-chili" },
   ];
@@ -277,15 +278,19 @@
 
     $("#cats").innerHTML = [
       `<button class="chip ${!state.cat ? "is-on" : ""}" data-cat="" type="button">Sve<span class="n">${RECIPES.length}</span></button>`,
-      ...CATEGORIES.map(c => `
+      // poglavlja bez ijednog jela se ne prikazuju, knjige se unose postepeno
+      ...CATEGORIES.filter(c => counts.get(c.id)).map(c => `
         <button class="chip ${state.cat === c.id ? "is-on" : ""} ${isLight(c.color) ? "light-bg" : ""}"
                 data-cat="${esc(c.id)}" style="--c:${esc(c.color)}" type="button">
           <span class="dot"></span>${esc(c.title)}<span class="n">${counts.get(c.id) || 0}</span>
         </button>`),
     ].join("");
 
+    const tagCounts = new Map();
+    for (const r of RECIPES) for (const t of r.tags) tagCounts.set(t, (tagCounts.get(t) || 0) + 1);
+
     $("#tags").innerHTML = [
-      ...TAGS.map(t => `
+      ...TAGS.filter(t => tagCounts.get(t.id)).map(t => `
         <button class="chip ${state.tags.has(t.id) ? "is-on" : ""}" data-tag="${esc(t.id)}"
                 style="--c:#4c9a2a" type="button">
           <svg aria-hidden="true"><use href="#${t.icon}"/></svg>${esc(t.label)}
@@ -463,7 +468,9 @@
       ${(r.tips || []).length ? `<div class="r-tips"><h3>Savet</h3>${r.tips.map(x => `<p>${esc(x)}</p>`).join("")}</div>` : ""}
       ${see.length ? `<div class="r-see"><span>Vidi i:</span>${see.map(s =>
           `<button data-id="${esc(s.id)}" type="button">${esc(s.title)}</button>`).join("")}</div>` : ""}
-      <p class="r-src">Knjiga „${esc(bookById.get(r.book)?.title || "Imunomania")}", sken ${r.source.scan}${r.source.page === "L" ? ", leva strana" : ", desna strana"}.</p>
+      <p class="r-src">Knjiga „${esc(bookById.get(r.book)?.title || "Imunomania")}"${
+        r.source.printed ? `, strana ${r.source.printed}` :
+        `, sken ${r.source.scan}${r.source.page === "L" ? ", leva strana" : ", desna strana"}`}.</p>
     `;
 
     const sheet = $("#sheet");
