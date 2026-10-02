@@ -461,6 +461,27 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
   line-height: 1.12;
   font-weight: 700;
 }
+/* iz koje knjige jelo dolazi, isto na kartici i u popupu */
+.book {
+  align-self: flex-start;
+  margin-bottom: 6px;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--c, var(--ink-3)) 12%, var(--paper));
+  border: 1px solid color-mix(in srgb, var(--c, var(--ink-3)) 32%, var(--paper-edge));
+  font-size: 10.5px; font-weight: 700;
+  letter-spacing: .08em; text-transform: uppercase;
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+
+.r-head {
+  display: flex; align-items: center; flex-wrap: wrap; gap: 10px;
+  margin: 0 0 2px;
+  padding-right: 42px;
+}
+.r-head .book { margin-bottom: 0; }
+
 .card .cat { font-size: 11px; letter-spacing: .1em; text-transform: uppercase; color: var(--c, var(--ink-3)); font-weight: 700; }
 .card .meta { display: flex; align-items: center; gap: 12px; margin-top: 10px; color: var(--ink-3); font-size: 13px; flex-wrap: wrap; }
 .card .meta .t { display: inline-flex; align-items: center; gap: 5px; }
@@ -658,7 +679,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 .sheet-close:hover { color: var(--ink); border-color: var(--ink-3); }
 
 /* naslov ne sme da uleti pod dugme za zatvaranje */
-.sheet-scroll > .r-cat, .sheet h2 { padding-right: 42px; }
+.sheet h2 { padding-right: 42px; }
 
 .r-cat {
   display: inline-flex; align-items: center; gap: 8px;

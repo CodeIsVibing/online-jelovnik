@@ -1,0 +1,23 @@
+[
+  {
+    "id": "imunomania",
+    "order": 1,
+    "title": "Imunomania",
+    "short": "Imunomania",
+    "subtitle": "Recepti za podizanje imuniteta"
+  },
+  {
+    "id": "imunomania-2",
+    "order": 2,
+    "title": "Imunomania 2",
+    "short": "Imunomania 2",
+    "subtitle": "Korak dalje. Jelovnik za 7 dana, suplementacija i saveti"
+  },
+  {
+    "id": "smoothiemania",
+    "order": 3,
+    "title": "Smoothiemania",
+    "short": "Smoothiemania",
+    "subtitle": "Enciklopedija šejkova, 100 zdravih i izbalansiranih šejkova"
+  }
+]
