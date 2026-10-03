@@ -231,6 +231,7 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 .legend li:nth-child(6) { --d: 510; }
 .legend li:nth-child(7) { --d: 600; }
 .legend li:nth-child(8) { --d: 690; }
+.legend li:nth-child(n+9) { --d: 780; }
 
 .legend li:hover {
   transform: translateY(-3px);
@@ -515,6 +516,19 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 @media (max-width: 460px) {
   .mark { width: 34px; height: 34px; opacity: .8; }
 }
+
+/* nutritivne vrednosti, onako kako su odštampane u knjizi 2 */
+.r-nutri {
+  display: flex; flex-wrap: wrap; gap: 6px 14px;
+  margin: 12px 0 4px;
+  padding: 9px 14px;
+  background: var(--paper-2);
+  border: 1px dashed var(--paper-edge);
+  border-radius: 12px;
+  font-size: 13px;
+  color: var(--ink-2);
+}
+.r-nutri b { font-weight: 700; color: var(--ink); }
 
 /* iz koje knjige jelo dolazi, isto na kartici i u popupu */
 .book {

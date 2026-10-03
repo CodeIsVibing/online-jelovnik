@@ -2053,6 +2053,97 @@
     "book": "imunomania"
   },
   {
+    "id": "i2-sirova-kasa-za-oporavak",
+    "title": "Sirova kaša za oporavak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 13,
+      "page": "L",
+      "printed": 30
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Maslinovo ulje možete zameniti i uljem od lešnika, lana, bundeve."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike opranog sirovog mlevenog prosa",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "proso"
+      },
+      {
+        "raw": "1 supena kašika mlevenog lana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "1 oljuštena izrendana jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 izgnječena banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika sirovog suncokreta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "1 supena kašika suvog grožđa",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvo-grozdje"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike mlevenog oraha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "orah",
+        "group": "Za posipanje"
+      }
+    ],
+    "method": "Oprati i procediti proso, ostaviti da se prosuši dok se pripremaju ostali sastojci. Samleti lan u mlinu za kafu, oljuštiti jabuku i izrendati je, bananu izgnječiti viljuškom. Iscediti polovinu limuna, zatim samleti i proso.\n\nU činiji pomešati lan, jabuku, bananu, sok od limuna, proso, suncokret, suvo grožđe i maslinovo ulje. Sve dobro promešati, posuti mlevenim orasima i po želji dodati šaku bobičastog voća.",
+    "tips": [],
+    "subtitle": "Osvežavajuća kaša koja vraća u život",
+    "timeMinutes": 10,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 548,
+      "carbs": 74.2,
+      "fat": 32.4,
+      "protein": 9.7,
+      "fiber": 12.8
+    }
+  },
+  {
     "id": "grasak",
     "title": "Grašak",
     "category": "rucak",
