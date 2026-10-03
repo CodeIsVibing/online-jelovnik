@@ -1,0 +1,289 @@
+[
+  {
+    "id": "i2-livena-pita",
+    "title": "Livena pita",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 25,
+      "page": "L",
+      "printed": 52
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 crni luk sečen na kolutove",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "3 sveže paprike sečene na kolutove",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "100 gr svežeg spanaća",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "spanac"
+      },
+      {
+        "raw": "3 čena belog luka sitno iseckana",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "4 umućena jajeta",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "180 ml jogurta",
+        "qty": 180,
+        "unit": "ml",
+        "ref": "jogurt"
+      },
+      {
+        "raw": "50 gr rendanog kačkavalja",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "kackavalj"
+      },
+      {
+        "raw": "10 supenih kašika integralnog brašna po želji",
+        "qty": 10,
+        "unit": "supena kašika",
+        "ref": "integralno-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "desetak maslina za ukrašavanje pite",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "masline",
+        "optional": true
+      }
+    ],
+    "method": "Iseckati povrće, dinstati na malo vode 5 do 6 minuta dok ne omekša, zatim skloniti sa ringle. U činiji umutiti jaja viljuškom, i pomešati sa jogurtom i kačkavaljem. U drugoj činiji pomešati brašno, sodu bikarbonu i himalajsku so. Sjediniti obe smese, promešati pa dodati dinstano povrće i još jednom dobro promešati.\n\nUliti u okrugli pleh prethodno obložen pek papirom, ukrasiti maslinama i peći na 180 stepeni oko 20 do 30 minuta, dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Porodična nedeljna pita",
+    "timeMinutes": 40,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 144,
+      "carbs": 14.9,
+      "fat": 6.2,
+      "protein": 8.3,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-slane-kuglice",
+    "title": "Slane kuglice, 3 ukusa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 25,
+      "page": "R",
+      "printed": 53
+    },
+    "tags": [
+      "bez-glutena",
+      "priprema-vece-ranije",
+      "vegan"
+    ],
+    "notes": [
+      "Za ostavu se računa prvi ukus, pizza; ostala dva su varijante."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 gr skuvanog pasulja",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "pasulj",
+        "group": "Pizza"
+      },
+      {
+        "raw": "100 gr sirovih badema",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "badem",
+        "group": "Pizza"
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice",
+        "group": "Pizza"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac",
+        "group": "Pizza"
+      },
+      {
+        "raw": "½ kašičice italijanskog začina (ili origano i bosiljak)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin",
+        "group": "Pizza"
+      },
+      {
+        "raw": "½ kašičice do 1 ravne kašičice himalajske soli (po ukusu)",
+        "ref": "so",
+        "group": "Pizza"
+      },
+      {
+        "raw": "1 supena kašika paradajz paste",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "paradajz-pasta",
+        "group": "Pizza"
+      },
+      {
+        "raw": "opciono ljuta mlevena paprika za posipanje",
+        "ref": "ljuta-paprika",
+        "group": "Pizza",
+        "optional": true
+      },
+      {
+        "raw": "100 gr skuvanog pasulja",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "pasulj",
+        "group": "Kari",
+        "optional": true
+      },
+      {
+        "raw": "100 gr pečenih indijskih oraha",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "indijski-orah",
+        "group": "Kari",
+        "optional": true
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice",
+        "group": "Kari",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice karija",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kari",
+        "group": "Kari",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Kari",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice do 1 ravne kašičice himalajske soli",
+        "ref": "so",
+        "group": "Kari",
+        "optional": true
+      },
+      {
+        "raw": "opciono susam za valjanje kuglica",
+        "ref": "susam",
+        "group": "Kari",
+        "optional": true
+      },
+      {
+        "raw": "100 gr skuvanog pasulja",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "pasulj",
+        "group": "Tahini i beli luk",
+        "optional": true
+      },
+      {
+        "raw": "5 supenih kašika ovsenih pahuljica",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice",
+        "group": "Tahini i beli luk",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice italijanskog začina (ili origano i bosiljak)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin",
+        "group": "Tahini i beli luk",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Tahini i beli luk",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so",
+        "group": "Tahini i beli luk",
+        "optional": true
+      },
+      {
+        "raw": "1 supena kašika tahinija",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tahini",
+        "group": "Tahini i beli luk",
+        "optional": true
+      },
+      {
+        "raw": "opciono italijanski začin za posipanje",
+        "ref": "italijanski-zacin",
+        "group": "Tahini i beli luk",
+        "optional": true
+      }
+    ],
+    "method": "Pizza: skuvati pasulj po uputstvu ispod. Bademe, ovsene pahuljice, nutritivni kvasac, začin i so izblendati u multipraktiku do strukture brašna. Dodati pasulj i paradajz pastu, izblendati još jednom dok se sastojci ne sjedine. Oblikovati smesu u kuglice. Po želji posuti kuglice ljutom mlevenom paprikom. Od ove smese dobije se oko 10 kuglica, zavisi od veličine kuglica koje pravite.\n\nKari: skuvati pasulj po uputstvu ispod. Indijske orahe, ovsene pahuljice, kari, beli luk i so izblendati u multipraktiku do strukture brašna. Dodati pasulj, izblendati još jednom dok se sastojci ne sjedine. Oblikovati smesu u kuglice. Po želji uvaljati kuglice u susam. Od ove smese dobije se oko 10 kuglica.\n\nTahini i beli luk: skuvati pasulj po uputstvu ispod. Ovsene pahuljice, začin, beli luk i so izblendati u multipraktiku do strukture brašna. Dodati tahini i pasulj, izblendati još jednom dok se sastojci ne sjedine. Oblikovati smesu u kuglice. Po želji posuti kuglice italijanskim začinom. Od ove smese dobije se oko 7 kuglica.",
+    "tips": [
+      "Ukoliko kuvate pasulj za ovo jelo, potrebno je da ga potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte pasulj sa prstohvatom sode bikarbone kako bi se brže skuvao. Kada je skuvan, procedite ga i ostavite da se prohladi."
+    ],
+    "subtitle": "Slana verzija kuglica",
+    "timeMinutes": 10,
+    "timeNote": "10 minuta + vreme potrebno za kuvanje pasulja (možete koristiti i gotov skuvani pasulj iz tegle)",
+    "servings": 3
+  }
+]

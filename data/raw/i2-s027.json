@@ -1,0 +1,181 @@
+[
+  {
+    "id": "i2-banana-borovnica-kocke",
+    "title": "Banana borovnica kocke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 27,
+      "page": "L",
+      "printed": 56
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "bez-kvasca"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 18 kocaka, u zavisnosti od veličine na koju isečete."
+    ],
+    "ingredients": [
+      {
+        "raw": "10 svežih otkoštenih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "5 oljuštenih slatkih jabuka",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 veća ili 2 manje banane (što zrelije)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "300 gr ovsenih pahuljica",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "50 gr krupno seckanih oraha",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "oko 130 gr borovnica (sveže ili smrznute)",
+        "qty": 130,
+        "unit": "gr",
+        "ref": "borovnica"
+      }
+    ],
+    "method": "Oljuštiti jabuke, iseći ih i izblendati u blenderu. Izvaditi koštice iz urmi i potopiti ih u izblendane jabuke dok pripremate ostale sastojke. U jednu veću činiju pomešati ovsene pahuljice, cimet, sodu bikarbonu i orahe. Izblendati jabuke i urme, a banane izgnječiti viljuškom, zatim sve dodati u činiju sa suvim sastojcima. Sve promešati pa dodati borovnice u smesu i još jednom promešati. Smesu uliti u kalup veličine oko 25 x 15 cm koji je prethodno obložen pek papirom i sa strane kalupa. Peći na 200 stepeni oko 15 minuta, dok ne porumeni.",
+    "tips": [
+      "Borovnice možete zameniti nekim drugim voćem po želji."
+    ],
+    "subtitle": "Zdrav, jednostavan i lak voćni doručak",
+    "timeMinutes": 30,
+    "servings": 9,
+    "nutrition": {
+      "kcal": 291,
+      "carbs": 52.3,
+      "fat": 8.4,
+      "protein": 7.3,
+      "fiber": 10
+    }
+  },
+  {
+    "id": "i2-vocna-pica",
+    "title": "Voćna pica",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 27,
+      "page": "R",
+      "printed": 57
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100 gr ovsenih pahuljica",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "180 gr samlevenih ovsenih pahuljica u brašno",
+        "qty": 180,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "2 banane",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 slatka oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "10 svežih otkoštenih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "3 supene kašike kokosovog ulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike grčkog jogurta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "prstohvat vanile u prahu, nekoliko kapi esencijalnog ulja vanile ili 1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "optional": true
+      },
+      {
+        "raw": "toping po želji: kokos, med, seckane banane, bobičasto voće",
+        "ref": "bobicasto-voce",
+        "optional": true
+      }
+    ],
+    "method": "Zagrejati rernu na 170 stepeni. U blenderu samleti 180 gr ovsenih pahuljica u brašno. U veću činiju pomešati dobijeno brašno sa 100 gr ovsenih pahuljica, cimetom i solju. U blenderu samleti banane, jabuku i urme, presuti u činiju sa prvom smesom i dodati kokosovo ulje, zatim dobro promešati. Smesu uliti u okrugli pleh koji ste prethodno obložili pek papirom prečnika oko 30 cm i peći oko 15 minuta dok ne porumeni. Izvaditi iz rerne da se prohladi. U manju činiju pomešati grčki jogurt i vanilu, premazati picu i staviti topinge po želji.",
+    "tips": [],
+    "subtitle": "Slatka verzija pice",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 390,
+      "carbs": 75,
+      "fat": 8.5,
+      "protein": 11.8,
+      "fiber": 12.2
+    }
+  }
+]

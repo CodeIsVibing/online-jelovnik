@@ -1,0 +1,154 @@
+[
+  {
+    "id": "i2-na-stangle",
+    "title": "Na štangle",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 28,
+      "page": "L",
+      "printed": 58
+    },
+    "tags": [
+      "bez-secera",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250 gr usitnjenih ovsenih pahuljica",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "2 kašičice cimeta",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 oljuštena slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 supene kašike meda (ili 4 sveže urme za vegan verziju)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike putera od badema (ili putera od kikirikija, lešnika)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "bademov-puter"
+      }
+    ],
+    "method": "U blenderu usitniti ovsene pahuljice (ne previše). Presuti u veću činiju, dodati cimet i promešati. Iseći jabuku, staviti je u blender, dodati puter i med (ili urme), i izblendati. Izblendanu smesu pridružiti prvoj činiji i sve dobro promešati. Prebaciti smesu u pleh veličine 20 x 30 cm koji ste prethodno obložili pek papirom, dobro utisnuti rukama i izravnati špatulom. Smestiti u frižider na 15-ak minuta da se stegne, zatim iseći na štangle pa poslužiti.",
+    "tips": [
+      "Od ove količine dobije se oko 10 štangli, u zavisnosti od veličine na koju sečete."
+    ],
+    "subtitle": "Samo isečeš i uživaš",
+    "timeMinutes": 25,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 261,
+      "carbs": 45.6,
+      "fat": 6.7,
+      "protein": 8.9,
+      "fiber": 7.8
+    }
+  },
+  {
+    "id": "i2-jabuka-krofne",
+    "title": "Jabuka krofne",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 28,
+      "page": "R",
+      "printed": 59
+    },
+    "tags": [
+      "bez-secera",
+      "bez-kvasca"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 20 jabuka krofni."
+    ],
+    "ingredients": [
+      {
+        "raw": "3 što veće i slađe jabuke",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 umućeno jaje",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "180 ml biljnog nezaslađenog mleka",
+        "qty": 180,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "150 gr speltinog mekog brašna",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "kokosovo ulje za pečenje",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Iseći jabuke na kolutove debljine oko 1 cm, kašičicom odstraniti centar. Uvaljati jabuke u cimet. U jednu činiju umutiti jaje viljuškom, dodati kokosovo ulje i biljno mleko. U drugu veću činiju prosejati brašno i sodu bikarbonu, dodati cimet i so i promešati. Sjediniti obe smese i dobro promešati. Uvaljati kolutove jabuke u dobijenu smesu, ocediti višak smese pa zatim peći u nauljenom tiganju na srednjoj temperaturi sa obe strane.",
+    "tips": [],
+    "subtitle": "Zdrave krofnice",
+    "timeMinutes": 30,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 213,
+      "carbs": 34.5,
+      "fat": 7.4,
+      "protein": 5.8,
+      "fiber": 6.4
+    }
+  }
+]

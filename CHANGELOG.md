@@ -2,6 +2,14 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.17.0] · 2026-10-03
+
+### Dodato
+- Imunomania 2, poglavlje Doručak / večera kompletno: svih 30 recepata, strane 30 do 59
+
+### Promenjeno
+- „Zeleni wragan" sa strane 47 nosi naziv iz sadržaja poglavlja, „Zeleni uragan"; razlika je dodata u `data/pitanja-za-autorku.md`
+
 ## [1.16.0] · 2026-10-03
 
 ### Dodato

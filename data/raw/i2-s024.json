@@ -1,0 +1,159 @@
+[
+  {
+    "id": "i2-kockalenta",
+    "title": "Kockalenta",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 24,
+      "page": "L",
+      "printed": 50
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-glutena"
+    ],
+    "notes": [
+      "Za vegan verziju može se dodati veganski parmezan umesto regularnog. Recept za veganski parmezan pronađite u delu „Napravi sam\"."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 ljubičasti luk iseckan na kockice",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "100 gr svežeg spanaća",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "spanac"
+      },
+      {
+        "raw": "2 supene kašike suvog začina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "200 gr palente",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "palenta"
+      },
+      {
+        "raw": "680 ml vode",
+        "qty": 680,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "40 gr parmezana",
+        "qty": 40,
+        "unit": "gr",
+        "ref": "parmezan"
+      },
+      {
+        "raw": "6 supenih kašika paste od paradajza",
+        "qty": 6,
+        "unit": "supena kašika",
+        "ref": "paradajz-pasta"
+      }
+    ],
+    "method": "Luk iseckati na kockice i dinstati na malo vode dok ne omekša, dodati spanać, promešati i sačekati još par minuta dok ne omekša pa skloniti u stranu.\n\nU veću šerpu uliti vodu i suvi začin i sačekati da provri. Dodavati palentu uz konstantno mešanje i kuvati 2 do 3 minuta. Skloniti sa ringle pa dodati dinstano povrće, parmezan i pastu od paradajza. Sve dobro promešati pa uliti u pleh veličine 20 x 20 cm koji je prethodno obložen pek papirom, poravnati špatulom i ostaviti da se ohladi. Premestiti pleh u frižider da se u potpunosti stegne. Iseći na kocke željene veličine i poslužiti.",
+    "tips": [
+      "Ovaj doručak je idealan da se pripremi veče pre, a ujutru se po želji može i zagrejati u tiganju i zapeći."
+    ],
+    "subtitle": "Palenta u obliku kockica",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 121,
+      "carbs": 15.2,
+      "fat": 4.6,
+      "protein": 6.2,
+      "fiber": 1.5
+    }
+  },
+  {
+    "id": "i2-krompita",
+    "title": "Krompita",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 24,
+      "page": "R",
+      "printed": 51
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [
+      "Za vegan verziju umesto jaja ubacite 2 lanena „jajeta\": 1 laneno jaje = 1 supena kašika mlevenog lana + 3 supene kašike vruće vode (dobro promešati i ostaviti 10 minuta da odstoji)."
+    ],
+    "ingredients": [
+      {
+        "raw": "500 gr oljuštenog i izrendanog krompira",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "krompir"
+      },
+      {
+        "raw": "80 gr izrendanog crnog luka",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "3 supene kašike maslinovog ulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "3 supene kašike brašna od leblebije (ili brašna po želji)",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "brasno-od-leblebije"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "jači prstohvat bibera",
+        "ref": "biber"
+      }
+    ],
+    "method": "Uključiti rernu na 200 stepeni. Oljuštiti krompir i luk i izrendati ih. Presuti u veću činiju, dodati umućena jaja i maslinovo ulje, zatim dobro promešati. U drugu manju činiju pomešati brašno, sodu bikarbonu, so i biber. Pridružiti prvoj smesi i još jednom dobro promešati. Uliti u pleh veličine oko 30 x 15 cm koji je prethodno obložen pek papirom. Peći oko 30 do 40 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Sočna pita od krompira bez kora",
+    "timeMinutes": 60,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 29.7,
+      "fat": 5.1,
+      "protein": 10.6,
+      "fiber": 2.6
+    }
+  }
+]
