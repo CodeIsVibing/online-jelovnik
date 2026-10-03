@@ -1,0 +1,161 @@
+[
+  {
+    "id": "sm-zeka",
+    "title": "Zeka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "L",
+      "printed": 35
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100 ml svežeg soka od šargarepe",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-coconana",
+    "title": "Coconana",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "L",
+      "printed": 35
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina zamrznute banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 otkoštena sveža urma",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "kokosovog nezaslađenog mleka do željene gustine",
+        "ref": "kokosovo-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-letnji",
+    "title": "Letnji smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "R",
+      "printed": 36
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "šaka iseckane lubenice",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "lubenica"
+      },
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-visnja",
+    "title": "Višnja smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "R",
+      "printed": 36
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka zamrznutih višanja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "visnja"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "grčkog jogurta do željene gustine",
+        "ref": "grcki-jogurt"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  }
+]

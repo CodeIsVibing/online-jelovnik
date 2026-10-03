@@ -1,0 +1,136 @@
+[
+  {
+    "id": "sm-uvod-diabetes",
+    "title": "Diabetes smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 126,
+      "page": "L",
+      "printed": 25
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Smutiji su dobrodošli iako imate dijagnozu dijabetesa tipa 2. Ukusni su, snabdevaju vas nutrijentima i kontrolišu žudnje za hranom, kao i prejedanje. Mogu zameniti obroke, užine, pa čak i dezerte, a zgodni su i kao obrok za poneti koji je spreman za nekoliko minuta.\n\nKako biste imali kontrolu nad dijabetesom tipa 2, potrebno je da izbegavate određenu vrstu namirnica kao što su proizvodi sa rafinisanim šećerima (sladoled, torte, kolači, keks…), visoko procesuirane i pakovane namirnice, slatke i slane (supe u kesici, kaše i granole u kesicama, voćni jogurti, slane grickalice…). Takođe, treba obratiti pažnju na unos ugljenih hidrata, posebno prostih ugljenih hidrata kao što su beli hleb, paste i razne slane grickalice.\n\nPovrće i određeno voće, zbog količine vlakana koje sadrže, usporavaju apsorpciju glukoze u telu. Iako sadrže ugljene hidrate i šećere, i dalje predstavljaju bezbedniji i zdraviji izbor za dijabetičare tipa 2 jer su prirodni sastojci. Ono što je bitno svakako je dnevna količina unosa voća, kao i pametan odabir i kombinovanje namirnica u obrocima.\n\nZato su smutiji odličan izbor za dijabetičare tipa 2 jer predstavljaju zasitne užine, pa čak i obroke. Unos zdravih masti kroz smutije učiniće da vaš nivo energije bude na zavidnom nivou, a trajaće duže. Zdrave masti nalaze se u avokadu, maslinovom ulju, orašastim plodovima, semenkama… Unos dovoljne količine proteina, kao i redovna fizička aktivnost je veoma bitna u držanju dijabetesa 2 pod kontrolom.\n\nSUPERHRANA za dijabetes tip 2 su celer, bundeva, paradajz, spanać, bobičasto i orašasto voće, kao i cimet.\n\nNeka vam pravljenje smutija ne predstavlja obavezu, nego ritual u kom svakodnevno uživate, a uz to i držite pod kontrolom šećer u krvi."
+  },
+  {
+    "id": "sm-mocni-zeleni",
+    "title": "Moćni zeleni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 126,
+      "page": "R",
+      "printed": 26
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckanog svežeg brokolija",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "1 supena kašika sirovog suncokreta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kivi",
+    "title": "Kivi smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 126,
+      "page": "R",
+      "printed": 26
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 kivija",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "kivi"
+      },
+      {
+        "raw": "pola svežeg krastavca",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "šaka svežeg iseckanog brokolija",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "1 manja oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  }
+]

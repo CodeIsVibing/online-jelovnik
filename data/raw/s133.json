@@ -1,0 +1,176 @@
+[
+  {
+    "id": "sm-zeleni-ananas",
+    "title": "Zeleni ananas smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "L",
+      "printed": 39
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-tutti-frutti",
+    "title": "Tutti frutti smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "L",
+      "printed": 39
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "2 šake iseckane lubenice",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "lubenica"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-sumski",
+    "title": "Šumski smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "R",
+      "printed": 40
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 šake kupina",
+        "qty": 3,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "3 supene kašike grčkog jogurta",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "cejlonskog cimeta na vrh kašičice",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-cunga-lunga",
+    "title": "Čunga lunga smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "R",
+      "printed": 40
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od 1 narandže",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "pola kašičice vanila ekstrakta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "vanila"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "sm-jogi",
+    "title": "Jogi smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "L",
+      "printed": 31
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "jogurta do željene gustine",
+        "ref": "jogurt"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-grejp",
+    "title": "Grejp smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "L",
+      "printed": 31
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od jednog crvenog grejpfruta",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "grejpfrut"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "šaka iseckanog kelja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "grčkog jogurta do željene gustine",
+        "ref": "grcki-jogurt"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-black",
+    "title": "Black smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "R",
+      "printed": 32
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake borovnica",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "2 šake kupina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-dumbir-kurkuma",
+    "title": "Đumbir i kurkuma smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "R",
+      "printed": 32
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "polovina kašičice kurkume u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "1 kašičica izrendanog svežeg đumbira",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  }
+]

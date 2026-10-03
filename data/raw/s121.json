@@ -1,14 +1,14 @@
 [
   {
-    "id": "sm-fresh",
-    "title": "Fresh smoothie",
+    "id": "sm-mint-kajsija",
+    "title": "Mint kajsija smoothie",
     "type": "recept",
     "book": "smoothiemania",
     "category": "detox-smoothies",
     "source": {
-      "scan": 120,
+      "scan": 121,
       "page": "L",
-      "printed": 13
+      "printed": 15
     },
     "timeMinutes": 5,
     "tags": [
@@ -19,22 +19,28 @@
     "notes": [],
     "ingredients": [
       {
-        "raw": "1 oljuštena narandža",
+        "raw": "sok od jednog limuna",
         "qty": 1,
         "unit": "komad",
-        "ref": "narandza"
+        "ref": "limun"
       },
       {
-        "raw": "šaka iseckane zelene salate",
+        "raw": "šaka sveže nane",
         "qty": 1,
         "unit": "šaka",
-        "ref": "zelena-salata"
+        "ref": "nana"
       },
       {
-        "raw": "1 oljuštena jabuka",
+        "raw": "1 sveža oljuštena tikvica",
         "qty": 1,
         "unit": "komad",
-        "ref": "jabuka"
+        "ref": "tikvica"
+      },
+      {
+        "raw": "2 veće otkoštene kajsije",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "kajsija"
       },
       {
         "raw": "vode do željene gustine",
@@ -44,15 +50,15 @@
     "tips": []
   },
   {
-    "id": "sm-maslacak",
-    "title": "Maslačak smoothie",
+    "id": "sm-smokva",
+    "title": "Smokva smoothie",
     "type": "recept",
     "book": "smoothiemania",
     "category": "detox-smoothies",
     "source": {
-      "scan": 120,
+      "scan": 121,
       "page": "L",
-      "printed": 13
+      "printed": 15
     },
     "timeMinutes": 5,
     "tags": [
@@ -63,66 +69,54 @@
     "notes": [],
     "ingredients": [
       {
-        "raw": "šaka svežeg lista maslačka",
-        "qty": 1,
-        "unit": "šaka",
-        "ref": "maslacak"
+        "raw": "3 sveže smokve",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "smokva"
       },
       {
-        "raw": "polovina svežeg krastavca",
-        "qty": 0.5,
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-krastavac-bosiljak",
+    "title": "Krastavac i bosiljak smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 121,
+      "page": "R",
+      "printed": 16
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 svež krastavac",
+        "qty": 1,
         "unit": "komad",
         "ref": "krastavac"
       },
       {
-        "raw": "polovina oljuštene jabuke",
-        "qty": 0.5,
-        "unit": "komad",
-        "ref": "jabuka"
-      },
-      {
-        "raw": "polovina banane",
-        "qty": 0.5,
-        "unit": "komad",
-        "ref": "banana"
-      },
-      {
-        "raw": "vode do željene gustine",
-        "ref": "voda"
-      }
-    ],
-    "tips": []
-  },
-  {
-    "id": "sm-matovilac",
-    "title": "Matovilac smoothie",
-    "type": "recept",
-    "book": "smoothiemania",
-    "category": "detox-smoothies",
-    "source": {
-      "scan": 120,
-      "page": "R",
-      "printed": 14
-    },
-    "timeMinutes": 5,
-    "tags": [
-      "bez-glutena",
-      "vegetarijansko",
-      "vegan"
-    ],
-    "notes": [],
-    "ingredients": [
-      {
-        "raw": "šaka matovilaca",
+        "raw": "šaka svežeg bosiljka",
         "qty": 1,
         "unit": "šaka",
-        "ref": "matovilac"
-      },
-      {
-        "raw": "pola avokada",
-        "qty": 0.5,
-        "unit": "komad",
-        "ref": "avokado"
+        "ref": "bosiljak"
       },
       {
         "raw": "sok od jednog limuna",
@@ -134,35 +128,38 @@
     "tips": []
   },
   {
-    "id": "sm-lubenica",
-    "title": "Lubenica smoothie",
+    "id": "sm-sljiva",
+    "title": "Šljiva smoothie",
     "type": "recept",
     "book": "smoothiemania",
     "category": "detox-smoothies",
     "source": {
-      "scan": 120,
+      "scan": 121,
       "page": "R",
-      "printed": 14
+      "printed": 16
     },
     "timeMinutes": 5,
     "tags": [
       "bez-glutena",
-      "vegetarijansko",
-      "vegan"
+      "vegetarijansko"
     ],
     "notes": [],
     "ingredients": [
       {
-        "raw": "200 gr lubenice",
-        "qty": 200,
-        "unit": "gr",
-        "ref": "lubenica"
+        "raw": "4 otkoštene šljive",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "sljiva"
       },
       {
-        "raw": "sok od jednog limuna",
+        "raw": "1 supena kašika meda",
         "qty": 1,
-        "unit": "komad",
-        "ref": "limun"
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "jogurta do željene gustine",
+        "ref": "jogurt"
       }
     ],
     "tips": []

@@ -1,0 +1,213 @@
+[
+  {
+    "id": "sm-povrtni",
+    "title": "Povrtni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "L",
+      "printed": 19
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "šaka iseckane zelene salate",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "šaka iseckanog svežeg krastavca",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 manja kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-medena-rukola",
+    "title": "Medena rukola smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "L",
+      "printed": 19
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka rukole",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "rukola"
+      },
+      {
+        "raw": "šaka svežeg iseckanog krastavca",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "3 otkoštene sveže urme",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-zeleni",
+    "title": "Zeleni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "R",
+      "printed": 20
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 šaka iseckanog kelja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "1 šaka svežeg iseckanog krastavca",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kamilica",
+    "title": "Kamilica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "R",
+      "printed": 20
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "200 ml ohlađenog čaja od kamilice",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "kamilica"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "timeNote": "5 minuta + vreme hlađenja čaja"
+  }
+]

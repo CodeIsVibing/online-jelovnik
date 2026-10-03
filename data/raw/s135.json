@@ -1,0 +1,103 @@
+[
+  {
+    "id": "sm-cokoladni",
+    "title": "Čokoladni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 135,
+      "page": "L",
+      "printed": 43
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 kašičica sirovog kakao praha",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kakao"
+      },
+      {
+        "raw": "1 kašičica kikiriki putera nezaslađenog",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Dezert smoothies"
+  },
+  {
+    "id": "sm-ludlab",
+    "title": "Ludlab smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 135,
+      "page": "L",
+      "printed": 43
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 otkoštene sveže urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "šaka zamrznutih višanja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "visnja"
+      },
+      {
+        "raw": "pola banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 kašičica sirovog kakao praha",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kakao"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Dezert smoothies"
+  }
+]

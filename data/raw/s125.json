@@ -1,0 +1,173 @@
+[
+  {
+    "id": "sm-mocna-trojka",
+    "title": "Moćna trojka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "L",
+      "printed": 23
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka iseckane zelene salate",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "250 ml svežeg soka od narandže",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "narandza"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-borovnica",
+    "title": "Borovnica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "L",
+      "printed": 23
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake borovnica",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-flamingo",
+    "title": "Flamingo smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "R",
+      "printed": 24
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka malina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "polovina manga",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kelj-malina",
+    "title": "Kelj i malina smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "R",
+      "printed": 24
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake malina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "2 šake iseckanog kelja",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  }
+]

@@ -11110,5 +11110,2737 @@
       }
     ],
     "tips": []
+  },
+  {
+    "id": "sm-matovilac",
+    "title": "Matovilac smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 120,
+      "page": "R",
+      "printed": 14
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka matovilaca",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "matovilac"
+      },
+      {
+        "raw": "pola avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-lubenica",
+    "title": "Lubenica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 120,
+      "page": "R",
+      "printed": 14
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200 gr lubenice",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "lubenica"
+      },
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-mint-kajsija",
+    "title": "Mint kajsija smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 121,
+      "page": "L",
+      "printed": 15
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "šaka sveže nane",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "nana"
+      },
+      {
+        "raw": "1 sveža oljuštena tikvica",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "2 veće otkoštene kajsije",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "kajsija"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-smokva",
+    "title": "Smokva smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 121,
+      "page": "L",
+      "printed": 15
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 sveže smokve",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "smokva"
+      },
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-krastavac-bosiljak",
+    "title": "Krastavac i bosiljak smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 121,
+      "page": "R",
+      "printed": 16
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 svež krastavac",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "šaka svežeg bosiljka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-sljiva",
+    "title": "Šljiva smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 121,
+      "page": "R",
+      "printed": 16
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "4 otkoštene šljive",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "sljiva"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "jogurta do željene gustine",
+        "ref": "jogurt"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-narandza-banana",
+    "title": "Narandža i banana smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "L",
+      "printed": 17
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 oljuštena narandža",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-maslacak-tikvica",
+    "title": "Maslačak i tikvica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "L",
+      "printed": 17
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckane sveže tikvice",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "šaka svežeg lista maslačka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "maslacak"
+      },
+      {
+        "raw": "1 supena kašika konopljinog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "konopljin-protein"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-salata-bobice",
+    "title": "Salata i bobice smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "R",
+      "printed": 18
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "šaka iseckane zelene salate",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-letnja-trojka",
+    "title": "Letnja trojka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "R",
+      "printed": 18
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "četvrtina manga",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "pola banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "šaka iseckane lubenice",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "lubenica"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-povrtni",
+    "title": "Povrtni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "L",
+      "printed": 19
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "šaka iseckane zelene salate",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "šaka iseckanog svežeg krastavca",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 manja kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-medena-rukola",
+    "title": "Medena rukola smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "L",
+      "printed": 19
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka rukole",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "rukola"
+      },
+      {
+        "raw": "šaka svežeg iseckanog krastavca",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "3 otkoštene sveže urme",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-zeleni",
+    "title": "Zeleni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "R",
+      "printed": 20
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 šaka iseckanog kelja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "1 šaka svežeg iseckanog krastavca",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kamilica",
+    "title": "Kamilica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 123,
+      "page": "R",
+      "printed": 20
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "200 ml ohlađenog čaja od kamilice",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "kamilica"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "timeNote": "5 minuta + vreme hlađenja čaja"
+  },
+  {
+    "id": "sm-crni-maslacak",
+    "title": "Crni maslačak smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "L",
+      "printed": 21
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "šaka svežeg lista maslačka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "maslacak"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "2 otkoštene sveže urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-breskva",
+    "title": "Breskva smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "L",
+      "printed": 21
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika bademovog putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bademov-puter"
+      },
+      {
+        "raw": "1 otkoštena breskva",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "1 supena kašika konopljinog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "konopljin-protein"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-mango-rukola",
+    "title": "Mango i rukola smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "R",
+      "printed": 22
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina manga",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "šaka rukole",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "rukola"
+      },
+      {
+        "raw": "2 supene kašike kokosovih mrvica ili brašna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kupina",
+    "title": "Kupina smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "R",
+      "printed": 22
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "1 otkoštena sveža urma",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "polovina manga",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-mocna-trojka",
+    "title": "Moćna trojka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "L",
+      "printed": 23
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka iseckane zelene salate",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "250 ml svežeg soka od narandže",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "narandza"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-borovnica",
+    "title": "Borovnica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "L",
+      "printed": 23
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake borovnica",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-flamingo",
+    "title": "Flamingo smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "R",
+      "printed": 24
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka malina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "polovina manga",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kelj-malina",
+    "title": "Kelj i malina smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 125,
+      "page": "R",
+      "printed": 24
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake malina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "2 šake iseckanog kelja",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-uvod-diabetes",
+    "title": "Diabetes smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 126,
+      "page": "L",
+      "printed": 25
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Smutiji su dobrodošli iako imate dijagnozu dijabetesa tipa 2. Ukusni su, snabdevaju vas nutrijentima i kontrolišu žudnje za hranom, kao i prejedanje. Mogu zameniti obroke, užine, pa čak i dezerte, a zgodni su i kao obrok za poneti koji je spreman za nekoliko minuta.\n\nKako biste imali kontrolu nad dijabetesom tipa 2, potrebno je da izbegavate određenu vrstu namirnica kao što su proizvodi sa rafinisanim šećerima (sladoled, torte, kolači, keks…), visoko procesuirane i pakovane namirnice, slatke i slane (supe u kesici, kaše i granole u kesicama, voćni jogurti, slane grickalice…). Takođe, treba obratiti pažnju na unos ugljenih hidrata, posebno prostih ugljenih hidrata kao što su beli hleb, paste i razne slane grickalice.\n\nPovrće i određeno voće, zbog količine vlakana koje sadrže, usporavaju apsorpciju glukoze u telu. Iako sadrže ugljene hidrate i šećere, i dalje predstavljaju bezbedniji i zdraviji izbor za dijabetičare tipa 2 jer su prirodni sastojci. Ono što je bitno svakako je dnevna količina unosa voća, kao i pametan odabir i kombinovanje namirnica u obrocima.\n\nZato su smutiji odličan izbor za dijabetičare tipa 2 jer predstavljaju zasitne užine, pa čak i obroke. Unos zdravih masti kroz smutije učiniće da vaš nivo energije bude na zavidnom nivou, a trajaće duže. Zdrave masti nalaze se u avokadu, maslinovom ulju, orašastim plodovima, semenkama… Unos dovoljne količine proteina, kao i redovna fizička aktivnost je veoma bitna u držanju dijabetesa 2 pod kontrolom.\n\nSUPERHRANA za dijabetes tip 2 su celer, bundeva, paradajz, spanać, bobičasto i orašasto voće, kao i cimet.\n\nNeka vam pravljenje smutija ne predstavlja obavezu, nego ritual u kom svakodnevno uživate, a uz to i držite pod kontrolom šećer u krvi."
+  },
+  {
+    "id": "sm-mocni-zeleni",
+    "title": "Moćni zeleni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 126,
+      "page": "R",
+      "printed": 26
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckanog svežeg brokolija",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "1 supena kašika sirovog suncokreta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kivi",
+    "title": "Kivi smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 126,
+      "page": "R",
+      "printed": 26
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 kivija",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "kivi"
+      },
+      {
+        "raw": "pola svežeg krastavca",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "šaka svežeg iseckanog brokolija",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "1 manja oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-pizza",
+    "title": "Pizza smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "L",
+      "printed": 27
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 paradajz",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "pola šake svežeg bosiljka",
+        "qty": 0.5,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "polovina manje crvene paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ekstra devičanskog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "prstohvat čilija u prahu ili mlevene ljute paprike",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-sargarepa-dumbir",
+    "title": "Šargarepa i đumbir smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "L",
+      "printed": 27
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od 2 narandže",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "2 oljuštene šargarepe",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 cm svežeg oljuštenog đumbira",
+        "qty": 1,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-grcki",
+    "title": "Grčki smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "R",
+      "printed": 28
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg iseckanog karfiola",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "2 supene kašike grčkog jogurta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-iscelujuci",
+    "title": "Iscelujući smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "R",
+      "printed": 28
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "2 šake zamrznutih malina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "kašičica kokosovog ulja",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "pola kašičice kurkume u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "pola kašičice đumbira u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "1 supena kašika lanenih semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-popaj",
+    "title": "Popaj smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "L",
+      "printed": 29
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "1 supena kašika oraha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "orah"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kelj-dinja",
+    "title": "Kelj i dinja smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "L",
+      "printed": 29
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckanog kelja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 šake iseckane dinje",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "1 supena kašika kokosovih mrvica ili brašna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "2 supene kašike jogurta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jogurt"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-bundeva",
+    "title": "Bundeva smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "R",
+      "printed": 30
+    },
+    "timeMinutes": 30,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Bundevu kuvajte u malo vode dok ne omekša."
+    ],
+    "ingredients": [
+      {
+        "raw": "šaka skuvane iseckane bundeve",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "šaka sirovih lešnika",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "lesnik"
+      },
+      {
+        "raw": "kašičica cejlonskog cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 oljuštena kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-celer",
+    "title": "Celer smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "R",
+      "printed": 30
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "2 štapa celera",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "celer"
+      },
+      {
+        "raw": "50 ml jogurta",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "jogurt"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-jogi",
+    "title": "Jogi smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "L",
+      "printed": 31
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "jogurta do željene gustine",
+        "ref": "jogurt"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-grejp",
+    "title": "Grejp smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "L",
+      "printed": 31
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od jednog crvenog grejpfruta",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "grejpfrut"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "šaka iseckanog kelja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "grčkog jogurta do željene gustine",
+        "ref": "grcki-jogurt"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-black",
+    "title": "Black smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "R",
+      "printed": 32
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake borovnica",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "2 šake kupina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-dumbir-kurkuma",
+    "title": "Đumbir i kurkuma smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 129,
+      "page": "R",
+      "printed": 32
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "polovina kašičice kurkume u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "1 kašičica izrendanog svežeg đumbira",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-uvod-kids",
+    "title": "Kids smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 130,
+      "page": "L",
+      "printed": 33
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Kako biste vašoj deci obezbedili dovoljan unos minerala i vitamina, ubacite im bar jedan smuti u dnevni meni. Ovi smutiji značiće vam preko radne nedelje kada su užurbana jutra, a deca gladna. Iskoristite tu glad i spremite im nutritivno bogat obrok.\n\nU delu za dečije smutije naći ćete više vrsta smutija kao što su smutiji za doručak (puni proteina i vlakana), dezert (preukusni, ali i dalje sadrže nutrijente), užinu (za period kada su deca gladna a još nije vreme za ručak ili večeru) i smutiji pred spavanje (sa sastojcima koji deluju umirujuće na decu i omogućavaju kvalitetan san).\n\nOno što kod dece takođe igra ulogu kod ispijanja smutija:\n\nSlamčice, neka budu što atraktivnije po njihovom ukusu. Ukoliko koriste slamčice od inoxa, obratite pažnju da sede mirno dok piju kako se ne bi povredili.\n\nČaše, odlučite se za njihove omiljene boje, kao i heroje iz crtanih filmova i igrica. A kako biste nekada sakrili zelene boje smutija, ako imate probirljivca, koristite neprovidne čaše u boji sa poklopcem."
+  },
+  {
+    "id": "sm-madagascar",
+    "title": "Madagascar smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 130,
+      "page": "R",
+      "printed": 34
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Ukoliko koristite kupovni sok, obratite pažnju da u sastavu nema dodatih šećera."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 ml svežeg soka od narandže",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "narandza"
+      },
+      {
+        "raw": "100 ml svežeg soka od šargarepe",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "2 šake zamrznutog manga",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "mango"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-crveni",
+    "title": "Crveni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 130,
+      "page": "R",
+      "printed": 34
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100 ml svežeg soka od šargarepe",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "100 ml svežeg soka od jabuke",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "polovina kruške",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "četvrtina sirove cvekle",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "cvekla"
+      },
+      {
+        "raw": "polovina oljuštene jabuke",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "jabuka"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-zeka",
+    "title": "Zeka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "L",
+      "printed": 35
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100 ml svežeg soka od šargarepe",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-coconana",
+    "title": "Coconana",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "L",
+      "printed": 35
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina zamrznute banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 otkoštena sveža urma",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "kokosovog nezaslađenog mleka do željene gustine",
+        "ref": "kokosovo-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-letnji",
+    "title": "Letnji smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "R",
+      "printed": 36
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "šaka iseckane lubenice",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "lubenica"
+      },
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-visnja",
+    "title": "Višnja smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 131,
+      "page": "R",
+      "printed": 36
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka zamrznutih višanja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "visnja"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "grčkog jogurta do željene gustine",
+        "ref": "grcki-jogurt"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-berry-blue",
+    "title": "Berry blue smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 132,
+      "page": "L",
+      "printed": 37
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "polovina zamrznute banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika ovsenih pahuljica",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-kokos-cia",
+    "title": "Kokos i čia smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 132,
+      "page": "L",
+      "printed": 37
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "1 supena kašika ovsenih pahuljica",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "1 supena kašika čia semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "cia-semenke"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "kokosovog nezaslađenog mleka do željene gustine",
+        "ref": "kokosovo-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-tajni-spanac",
+    "title": "Tajni spanać smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 132,
+      "page": "R",
+      "printed": 38
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "1 zrela banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-jagoda-smutikasa",
+    "title": "Jagoda smutikaša",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 132,
+      "page": "R",
+      "printed": 38
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Potrebno je da bude gusto kao kaša."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 zrela banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-zeleni-ananas",
+    "title": "Zeleni ananas smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "L",
+      "printed": 39
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-tutti-frutti",
+    "title": "Tutti frutti smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "L",
+      "printed": 39
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "2 šake iseckane lubenice",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "lubenica"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-sumski",
+    "title": "Šumski smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "R",
+      "printed": 40
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 šake kupina",
+        "qty": 3,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "3 supene kašike grčkog jogurta",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "cejlonskog cimeta na vrh kašičice",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-cunga-lunga",
+    "title": "Čunga lunga smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 133,
+      "page": "R",
+      "printed": 40
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od 1 narandže",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "pola kašičice vanila ekstrakta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "vanila"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-limun",
+    "title": "Limun smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "L",
+      "printed": 41
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "3 supene kašike grčkog jogurta",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "4 kockice leda",
+        "qty": 4,
+        "unit": "kockica",
+        "ref": "led"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-zelena-jabuka",
+    "title": "Zelena jabuka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "L",
+      "printed": 41
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "pola banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "pola oljuštene zelene jabuke",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "kokosovog nezaslađenog mleka do željene gustine",
+        "ref": "kokosovo-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-sutlijas",
+    "title": "Sutlijaš smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "R",
+      "printed": 42
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 kašičica bademovog putera",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "bademov-puter"
+      },
+      {
+        "raw": "pola kašičice vanila ekstrakta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "vanila"
+      },
+      {
+        "raw": "pola kašičice cejlonskog cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "pirinčanog nezaslađenog mleka do željene gustine",
+        "ref": "pirincano-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-candy",
+    "title": "Candy smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "R",
+      "printed": 42
+    },
+    "timeMinutes": 15,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "pola zamrznute banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "biljno nezaslađeno mleko, dovoljno da se banana izblenda, da bude gusto",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "šaka zamrznutog iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "sok od pola limuna i voda, dovoljno da se ananas izblenda, da bude gusto",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "šaka iseckanog svežeg manga",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "mango"
+      },
+      {
+        "raw": "nezaslađen sok od šargarepe, dovoljno da se mango izblenda",
+        "ref": "sargarepa"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies",
+    "timeNote": "15 minuta + vreme hlađenja smutija",
+    "method": "1. sloj: banana i mleko, izblendati pa smestiti u zamrzivač da se malo stegne.\n\n2. sloj: ananas, sok od limuna i voda, izblendati pa smestiti u zamrzivač da se malo stegne.\n\n3. sloj: mango i sok od šargarepe, izblendati pa preliti preko ostala dva sloja, a zatim poslužiti."
+  },
+  {
+    "id": "sm-cokoladni",
+    "title": "Čokoladni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 135,
+      "page": "L",
+      "printed": 43
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 kašičica sirovog kakao praha",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kakao"
+      },
+      {
+        "raw": "1 kašičica kikiriki putera nezaslađenog",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Dezert smoothies"
+  },
+  {
+    "id": "sm-ludlab",
+    "title": "Ludlab smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 135,
+      "page": "L",
+      "printed": 43
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 otkoštene sveže urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "šaka zamrznutih višanja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "visnja"
+      },
+      {
+        "raw": "pola banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 kašičica sirovog kakao praha",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kakao"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Dezert smoothies"
   }
 ]

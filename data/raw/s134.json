@@ -1,0 +1,201 @@
+[
+  {
+    "id": "sm-limun",
+    "title": "Limun smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "L",
+      "printed": 41
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "3 supene kašike grčkog jogurta",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "4 kockice leda",
+        "qty": 4,
+        "unit": "kockica",
+        "ref": "led"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-zelena-jabuka",
+    "title": "Zelena jabuka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "L",
+      "printed": 41
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "pola banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "pola oljuštene zelene jabuke",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "kokosovog nezaslađenog mleka do željene gustine",
+        "ref": "kokosovo-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-sutlijas",
+    "title": "Sutlijaš smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "R",
+      "printed": 42
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 kašičica bademovog putera",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "bademov-puter"
+      },
+      {
+        "raw": "pola kašičice vanila ekstrakta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "vanila"
+      },
+      {
+        "raw": "pola kašičice cejlonskog cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "pirinčanog nezaslađenog mleka do željene gustine",
+        "ref": "pirincano-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies"
+  },
+  {
+    "id": "sm-candy",
+    "title": "Candy smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 134,
+      "page": "R",
+      "printed": 42
+    },
+    "timeMinutes": 15,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "pola zamrznute banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "biljno nezaslađeno mleko, dovoljno da se banana izblenda, da bude gusto",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "šaka zamrznutog iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "sok od pola limuna i voda, dovoljno da se ananas izblenda, da bude gusto",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "šaka iseckanog svežeg manga",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "mango"
+      },
+      {
+        "raw": "nezaslađen sok od šargarepe, dovoljno da se mango izblenda",
+        "ref": "sargarepa"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Užina smoothies",
+    "timeNote": "15 minuta + vreme hlađenja smutija",
+    "method": "1. sloj: banana i mleko, izblendati pa smestiti u zamrzivač da se malo stegne.\n\n2. sloj: ananas, sok od limuna i voda, izblendati pa smestiti u zamrzivač da se malo stegne.\n\n3. sloj: mango i sok od šargarepe, izblendati pa preliti preko ostala dva sloja, a zatim poslužiti."
+  }
+]
