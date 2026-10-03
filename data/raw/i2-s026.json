@@ -1,0 +1,204 @@
+[
+  {
+    "id": "i2-kalcone-mafini",
+    "title": "Kalcone mafini iz blendera",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 26,
+      "page": "L",
+      "printed": 54
+    },
+    "tags": [
+      "bez-kvasca"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 20 mafina."
+    ],
+    "ingredients": [
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "350 ml biljnog nezaslađenog mleka",
+        "qty": 350,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "50 ml maslinovog ulja",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "350 gr integralnog brašna po želji",
+        "qty": 350,
+        "unit": "gr",
+        "ref": "integralno-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 ravna supena kašika himalajske soli",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "1 supena kašika majčine dušice (ili bosiljka)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "1 supena kašika origana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "origano"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "oko 100 gr paradajz paste za punjenje",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "paradajz-pasta"
+      },
+      {
+        "raw": "oko 100 gr rendane mocarele za punjenje",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "mocarela"
+      }
+    ],
+    "method": "U jednu činiju pomešati jaja, mleko, ulje i jabukovo sirće. U drugu činiju pomešati brašno, sodu bikarbonu, so, biber i ostale začine. Sjediniti obe smese i promešati dobro. Kalupe za mafine punite 1 supenom kašikom smese, zatim sipajte malo paradajz paste i rendanog sira, preko sipajte još 1 kašiku smese da prekrije punjenje. Peći na 180 stepeni oko 15 do 18 minuta dok ne porumene.",
+    "tips": [],
+    "subtitle": "Pica spakovana u mafine",
+    "timeMinutes": 25,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 375,
+      "carbs": 54,
+      "fat": 10.7,
+      "protein": 21.3,
+      "fiber": 9.5
+    }
+  },
+  {
+    "id": "i2-visnja-mafini",
+    "title": "Višnja mafini",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 26,
+      "page": "R",
+      "printed": 55
+    },
+    "tags": [
+      "bez-kvasca",
+      "bez-secera"
+    ],
+    "notes": [
+      "1 „laneno\" jaje = 1 supena kašika mlevenog lana + 3 supene kašike vruće vode, promešati i ostaviti 10 minuta.",
+      "Od ove smese dobije se oko 12 mafina, zavisi od veličine kalupa."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 zrele izgnječene banane",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "2 jajeta (ili 2 „lanena\" jajeta za vegan verziju)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike putera od semenki ili orašastih plodova po želji",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "100 gr speltinog mekog brašna (ili brašno po želji)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "1 ravna kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "150 gr višanja",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "visnja"
+      }
+    ],
+    "method": "Izgnječiti viljuškom banane, i umutiti jaja. Presuti banane i jaja u veću činiju, dodati kokosovo ulje, puter i jabukovo sirće i dobro promešati. U drugu manju činiju sipati brašno, cimet, so i sodu bikarbonu i promešati. Ovu smesu pridružiti smesi u većoj činiji, promešati da se sastojci sjedine, dodati višnje i još jednom lagano promešati. Uključiti rernu na 190 stepeni, smesu sipati u kalupe za mafine i peći oko 20 minuta, dok ne porumene. Iznutra mafini će biti mekani, a spolja hrskavi.",
+    "tips": [],
+    "subtitle": "Spoj banana, višanja i orašastog putera",
+    "timeMinutes": 35,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 260,
+      "carbs": 39.7,
+      "fat": 9.4,
+      "protein": 9.2,
+      "fiber": 5.9
+    }
+  }
+]

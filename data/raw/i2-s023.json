@@ -1,0 +1,130 @@
+[
+  {
+    "id": "i2-slani-mekani-keksici",
+    "title": "Slani mekani keksići",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 23,
+      "page": "L",
+      "printed": 48
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 12 keksa, zavisi od veličine.",
+      "1 „laneno\" jaje = 1 supena kašika mlevenog lana + 3 supene kašike vruće vode, promešati i ostaviti 10 minuta."
+    ],
+    "ingredients": [
+      {
+        "raw": "250 gr integralnog brašna po želji",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "integralno-brasno"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 umućeno jaje (ili 1 „laneno\" jaje za vegan verziju)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "50 ml maslinovog ulja",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "100 ml jogurta",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "jogurt"
+      }
+    ],
+    "method": "Pomešati suve sastojke u jednoj činiji, a u drugoj činiji mokre sastojke. Sjediniti dobro kašikom obe smese, dobićete lepljivu smesu. Uključiti rernu na 200 stepeni da se zagreje. Vaditi velikom kašikom, oblikovati vlažnim rukama i stavljati na prethodno obložen pleh pek papirom.\n\nPosuti semenkama po želji, i peći 25 minuta, dok ne porumene.",
+    "tips": [],
+    "subtitle": "Vazdušasti keksi koji se tope u ustima",
+    "timeMinutes": 35,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 380,
+      "carbs": 68,
+      "fat": 5.9,
+      "protein": 15.6,
+      "fiber": 9
+    }
+  },
+  {
+    "id": "i2-vafle-sa-sirom",
+    "title": "Vafle sa sirom",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 23,
+      "page": "R",
+      "printed": 49
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-glutena"
+    ],
+    "notes": [
+      "U nedostatku aparata za vafle možete peći i u tiganju u obliku manjih palačinaka.",
+      "Za vegan verziju umesto jaja ubacite 2 lanena „jajeta\": 1 laneno jaje = 1 supena kašika mlevenog lana + 3 supene kašike vruće vode (dobro promešati i ostaviti 10 minuta da odstoji)."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike brašna od leblebije (ili brašna po želji)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "brasno-od-leblebije"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "90 gr izrendane mocarele (ili punomasnog sira po želji)",
+        "qty": 90,
+        "unit": "gr",
+        "ref": "mocarela"
+      },
+      {
+        "raw": "2 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      }
+    ],
+    "method": "U činiji pomešati brašno i sodu bikarbonu, u drugoj činiji jaja i mocarelu, zatim sjediniti sve i dobro promešati. Uliti smesu u aparat za vafle i peći nekoliko minuta dok se ne upali lampica na aparatu da je gotovo.",
+    "tips": [],
+    "subtitle": "Slana verzija vafli",
+    "timeMinutes": 15,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 252,
+      "carbs": 5.7,
+      "fat": 17,
+      "protein": 21.5,
+      "fiber": 26
+    }
+  }
+]

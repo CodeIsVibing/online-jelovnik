@@ -1,0 +1,162 @@
+[
+  {
+    "id": "i2-smoothie-bowl",
+    "title": "Smoothie bowl",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 22,
+      "page": "L",
+      "printed": 46
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "sirovo"
+    ],
+    "notes": [
+      "Voće možete menjati po želji, kao i topinge."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "3 breskve",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "2 supene kašike biljnog nezaslađenog mleka",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 supena kašika putera od orašastih plodova ili semenki po želji",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "200 gr šumskog voća",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "sumsko-voce"
+      },
+      {
+        "raw": "2 supene kašike biljnog nezaslađenog mleka",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "čia semenke i kokos za posipanje",
+        "ref": "cia-semenke"
+      }
+    ],
+    "method": "U blenderu izblendati bananu, breskve, 2 supene kašike biljnog mleka i putera po želji do kremaste strukture. Uliti polovinu u činiju, a drugu polovinu ostaviti u blenderu. U tu drugu polovinu u blenderu dodati šumsko voće i još 2 supene kašike biljnog mleka i izblendati do kremaste strukture. Doliti u činiju i ovu smesu, i posuti čia semenkama i kokosom. Po želji ukrasiti sa još bobičastog voća.",
+    "tips": [],
+    "subtitle": "Doručak za ljubitelje sladoleda",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 228,
+      "carbs": 47,
+      "fat": 5,
+      "protein": 4.4,
+      "fiber": 7.7
+    }
+  },
+  {
+    "id": "i2-zeleni-uragan",
+    "title": "Zeleni uragan",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 22,
+      "page": "R",
+      "printed": 47
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "50 ml vode",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "¼ kašičice đumbira u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "1 smrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka svežeg ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "1 mandarina ili polovina iseckane narandže",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "mandarina",
+        "group": "Toping (po želji)",
+        "optional": true
+      },
+      {
+        "raw": "1 kašičica lešnik putera",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "puter-od-orasastih",
+        "group": "Toping (po želji)",
+        "optional": true
+      }
+    ],
+    "method": "U blender sipati vodu, spanać, sok od limuna, đumbir, bananu i ananas. Blendati do kremaste strukture. Ukrasiti mandarinom i lešnik puterom ili dodacima po želji.",
+    "tips": [],
+    "subtitle": "Zelen i kremast, nutritivno bogat",
+    "timeMinutes": 7,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 312,
+      "carbs": 69.7,
+      "fat": 5.4,
+      "protein": 5.6,
+      "fiber": 8.4
+    }
+  }
+]

@@ -50,3 +50,5 @@ u prepisu, čeka se potvrda.
 
 1. „45 grama", strana 41: postupak se završava usred rečenice, „Preklopiti omlet, još malo zapeći i",
    a nastavak nije odštampan ni na sledećoj strani. Na sajtu stoji tačno do tog mesta.
+2. Strana 47: naslov je odštampan kao „Zeleni wragan", a u sadržaju poglavlja stoji „Zeleni uragan".
+   Na sajtu je uzet naziv iz sadržaja.
