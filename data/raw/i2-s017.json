@@ -1,0 +1,146 @@
+[
+  {
+    "id": "i2-borocinke",
+    "title": "Boročinke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 17,
+      "page": "L",
+      "printed": 36
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 7 komada, zavisi od veličine palačinaka."
+    ],
+    "ingredients": [
+      {
+        "raw": "70 gr brašna po želji",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "100 ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika meda (za vegan verziju 2 sveže otkoštene urme)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika putera od orašastih plodova ili semenki (kikiriki puter, puter od lešnika, badema, suncokreta, bundeve)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "50 gr borovnica ili voća po želji (smrznuto ili sveže)",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "kokosovo ulje za pečenje",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Sve sastojke sem borovnica izblendati u blenderu do kremaste strukture. Smesa će biti gušća. Presuti u veću činiju i ubaciti borovnice. Promešati kašikom, premazati tiganj kokosovim uljem pa peći na srednjoj temperaturi sa obe strane manje palačinke veličine dlana.",
+    "tips": [
+      "Ukoliko želite, dodatno možete napraviti sos od voća. Nakon pečenja palačinaka, ubacite voće (količinu i voće birajte sami) u tiganj i promešajte nekoliko puta, pritisnite špatulom da se istisne voćni sok. Kada dostigne strukturu sosa, sklonite sa šporeta i prelijte palačinke."
+    ],
+    "subtitle": "Mekane palačinke prelivene voćnim sosom",
+    "timeMinutes": 15,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 352,
+      "carbs": 52.5,
+      "fat": 14.4,
+      "protein": 7,
+      "fiber": 6.8
+    }
+  },
+  {
+    "id": "i2-vegan-palacinke",
+    "title": "Vegan palačinke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 17,
+      "page": "R",
+      "printed": 37
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 25 komada, zavisi od veličine palačinaka."
+    ],
+    "ingredients": [
+      {
+        "raw": "250 gr ovsenih pahuljica",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "500 ml biljnog nezaslađenog mleka",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "2 banane",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "kokosovo ulje za pečenje",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu do kremaste strukture. Smesa će biti gušća. Premazati tiganj kokosovim uljem pa peći na srednjoj temperaturi sa obe strane manje palačinke veličine dlana i filovati po želji.",
+    "tips": [],
+    "subtitle": "Palačinke od 3 sastojka",
+    "timeMinutes": 25,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 248,
+      "carbs": 45,
+      "fat": 3.7,
+      "protein": 8,
+      "fiber": 2
+    }
+  }
+]

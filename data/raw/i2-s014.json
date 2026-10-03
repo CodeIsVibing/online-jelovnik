@@ -1,0 +1,198 @@
+[
+  {
+    "id": "i2-bezglutenska-granola",
+    "title": "Bezglutenska granola",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 14,
+      "page": "L",
+      "printed": 32
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [
+      "1 „laneno\" jaje = 1 supena kašika mlevenog lana + 3 supene kašike vruće vode, promešati i ostaviti 10 minuta.",
+      "Granolu možete jesti uz bademovo biljno mleko ili punomasni jogurt, uz dodatak bobičastog voća, nekog od putera od orašastog voća ili semenki, a može se grickati i samostalno."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 gr oraha",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "100 gr sirovog badema",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "100 gr sirovih bundevinih semenki",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "100 gr sirovog suncokreta",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "4 supene kašike lanenog semena",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "4 supene kašike čia semenki",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "cia-semenke"
+      },
+      {
+        "raw": "4 supene kašike kokosovih mrvica",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "4 supene kašike psilijum ljuspica",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "psilijum"
+      },
+      {
+        "raw": "8 supenih kašika kokosovog ulja",
+        "qty": 8,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "¼ kašičice čiste stevie u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "stevija"
+      },
+      {
+        "raw": "4 umućena belanceta (ili 4 „lanena\" jajeta za vegan verziju)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      }
+    ],
+    "method": "Orah, bademe i bundevine semenke iseckajte na krupnije komadiće ili ih izblendajte u multipraktiku pulsirajućim ritmom (da ne bude previše sitno), prespite u veliku činiju i dodajte ostale sastojke i dobro promešajte kašikom da se sve dobro sjedini. U posebnu manju činiju viljuškom umutite belanca i prespite u veću činiju sa ostalim sastojcima, pa još jednom dobro promešajte.\n\nNa tepsiju postavite pek papir, prespite smesu i pecite na 140 stepeni, 10 do 15 minuta ili dok ne porumeni. Ostavite da se prohladi, pa nakon toga izlomite granolu na deliće.",
+    "tips": [],
+    "subtitle": "Hrskava poslastica bogata vlaknima",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 774,
+      "carbs": 35.6,
+      "fat": 64.8,
+      "protein": 23.7,
+      "fiber": 23.7
+    }
+  },
+  {
+    "id": "i2-kasa-iz-kesice",
+    "title": "Kaša iz kesice, tri ukusa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 14,
+      "page": "R",
+      "printed": 33
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [
+      "Umesto vode možete sipati jogurt ili biljno nezaslađeno mleko.",
+      "Kašu možete obogatiti bilo kojim svežim voćem, orašastim plodovima, semenkama, kao i puterima."
+    ],
+    "ingredients": [
+      {
+        "raw": "80 gr usitnjenih ovsenih pahuljica",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice",
+        "group": "Kokos"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so",
+        "group": "Kokos"
+      },
+      {
+        "raw": "tapioka skrob na vrh kašičice",
+        "ref": "tapioka",
+        "group": "Kokos"
+      },
+      {
+        "raw": "2 supene kašike kokosovog proteina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosov-protein",
+        "group": "Kokos"
+      },
+      {
+        "raw": "1 supena kašika kokosa",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokos",
+        "group": "Kokos"
+      },
+      {
+        "raw": "1 supena kašika čia semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "cia-semenke",
+        "group": "Kokos"
+      },
+      {
+        "raw": "6 otkoštenih svežih urmi",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Kokos"
+      },
+      {
+        "raw": "u kokos smesu (1 porcija od 90 gr) dodati 1 kašičicu kakao praha ili rogača",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kakao",
+        "group": "Čokolada",
+        "optional": true
+      },
+      {
+        "raw": "u kokos smesu (1 porcija od 90 gr) dodati 1 kašičicu voćnog praha poput maline, kupine, aronije, brusnice",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "vocni-prah",
+        "group": "Voćni",
+        "optional": true
+      }
+    ],
+    "method": "Ovsene pahuljice, so, tapioku, kokosov protein, kokos i čia semenke izblendajte u blenderu do strukture brašna. Izvadite koštice iz urmi, dodajte u blender i blendajte oko 20 sekundi. Kaša je spremna. Od ove smese dobiju se 2 porcije (oko 90 gr smese po porciji).\n\nKašu možete spakovati u činiju ili kesicu i poneti sa sobom. Kada želite da jedete, potrebno je samo da ulijete oko 150 ml do 170 ml vruće vode, u zavisnosti koliko gustu kašu volite, i da promešate.",
+    "tips": [],
+    "subtitle": "Posna i ukusna kaša za poneti",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 297,
+      "carbs": 54,
+      "fat": 6.6,
+      "protein": 8.7,
+      "fiber": 7
+    }
+  }
+]

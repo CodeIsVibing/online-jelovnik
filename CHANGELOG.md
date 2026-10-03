@@ -2,6 +2,16 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.16.0] · 2026-10-03
+
+### Dodato
+- Imunomania 2, poglavlje Doručak / večera: recepti od strane 30 do 44, petnaest od trideset
+- Svaki recept nosi porcije, nutritivne vrednosti i oznake iz knjige
+- Recepti sa više varijanti (Kaša iz kesice, Jaja mafini) imaju sastojke podeljene po varijantama; za ostavu se računa samo prva
+
+### Napomena
+- „45 grama": postupak se u knjizi prekida usred rečenice; prenet je do tog mesta i dodat u `data/pitanja-za-autorku.md`
+
 ## [1.15.0] · 2026-10-03
 
 ### Dodato

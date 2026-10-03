@@ -1,0 +1,125 @@
+[
+  {
+    "id": "i2-palacinke-iz-blendera",
+    "title": "Palačinke iz blendera",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 15,
+      "page": "L",
+      "printed": 34
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 4 do 5 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "250 ml biljnog nezaslađenog mleka",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 jaje",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "150 gr brašna po želji",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "¼ kašičice himalajske soli",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "prstohvat bibera",
+        "ref": "biber"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu do kremaste strukture. Ispeći palačinke sa obe strane na srednjoj temperaturi i filovati po želji.",
+    "tips": [],
+    "subtitle": "Palačinke obogaćene spanaćem",
+    "timeMinutes": 15,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 326,
+      "carbs": 58,
+      "fat": 4.4,
+      "protein": 12,
+      "fiber": 2.7
+    }
+  },
+  {
+    "id": "i2-heljdine-palacinke",
+    "title": "Heljdine palačinke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 15,
+      "page": "R",
+      "printed": 35
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 6 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "400 ml biljnog nezaslađenog mleka",
+        "qty": 400,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "180 gr heljdinog brašna",
+        "qty": 180,
+        "unit": "gr",
+        "ref": "heljdino-brasno"
+      },
+      {
+        "raw": "2 jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "kokosovo ulje za pečenje",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu do kremaste strukture. Premazati tiganj kokosovim uljem pa peći palačinke sa obe strane na srednjoj temperaturi i filovati po želji.",
+    "tips": [],
+    "subtitle": "Bezglutenske palačinke",
+    "timeMinutes": 15,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 304,
+      "carbs": 43,
+      "fat": 8,
+      "protein": 14.3,
+      "fiber": 6.5
+    }
+  }
+]

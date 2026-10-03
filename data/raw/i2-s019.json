@@ -1,0 +1,155 @@
+[
+  {
+    "id": "i2-keto-omlet",
+    "title": "Keto omlet",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 19,
+      "page": "L",
+      "printed": 40
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "30 gr mlevenog sirovog badema (ili bademovog brašna)",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "50 gr izrendanog punomasnog sira po želji",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "sir"
+      },
+      {
+        "raw": "maslinovo ulje ili svinjska mast za pečenje",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Umutiti jaja viljuškom, a bademe usitniti u multipraktiku do strukture brašna. Sve sastojke sjediniti u činiji i dobro promešati. Ispeći omlet sa obe strane na srednjoj temperaturi i poslužiti sa svežim povrćem.",
+    "tips": [],
+    "subtitle": "Doručak sa dodatim zdravim mastima",
+    "timeMinutes": 10,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 492,
+      "carbs": 7.2,
+      "fat": 37,
+      "protein": 34,
+      "fiber": 3.8
+    }
+  },
+  {
+    "id": "i2-45-grama",
+    "title": "45 grama",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 19,
+      "page": "R",
+      "printed": 41
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 mladi luk iseckan na kolutove",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "1 paprika iseckana na kolutove",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "1 supena kašika tamari soja sosa (opciono)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tamari",
+        "optional": true
+      },
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "2 supene kašike bundevinog proteina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "bundevin-protein"
+      },
+      {
+        "raw": "10 gr čistog kolagena u prahu",
+        "qty": 10,
+        "unit": "g",
+        "ref": "kolagen"
+      },
+      {
+        "raw": "20 gr rendanog sira (mocarela, kačkavalj)",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "sir"
+      },
+      {
+        "raw": "½ kašičica origana",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "maslinovo ulje ili svinjska mast za pečenje",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Iseckati luk i papriku na željeni oblik i dinstati na malo vode dok ne omekša. Dodati tamari soja sos i spanać i dinstati još malo dok spanać ne omekša, pa skloniti sa strane. U činiji umutiti jaja, dodati bundevin protein i kolagen, još jednom promešati. Nauljiti tiganj, ispeći omlet sa jedne strane, okrenuti ga, pa začiniti origanom, nafilovati ga spremljenim nadevom i posuti sirom.\n\nPreklopiti omlet, još malo zapeći i…",
+    "tips": [],
+    "subtitle": "Visoko proteinski mljac doručak za sate sitosti",
+    "timeMinutes": 15,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 417,
+      "carbs": 16.5,
+      "fat": 19.6,
+      "protein": 45.7,
+      "fiber": 3.6
+    }
+  }
+]

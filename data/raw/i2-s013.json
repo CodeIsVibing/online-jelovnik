@@ -88,5 +88,97 @@
       "protein": 9.7,
       "fiber": 12.8
     }
+  },
+  {
+    "id": "i2-zapecena-vegan-kasa",
+    "title": "Zapečena vegan kaša",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 13,
+      "page": "R",
+      "printed": 31
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [
+      "Bobičasto voće možete zameniti bilo kojim drugim svežim ili smrznutim voćem."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 gr mlevenih sirovih badema",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "1 supena kašika mlevenog lana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "100 ml biljnog nezaslađenog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "5 svežih otkoštenih urmi",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "30 gr kokos listića",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "kokos"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "80 gr bobičastog voća",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "bobicasto-voce"
+      }
+    ],
+    "method": "Samleti bademe u multipraktiku, a lan u mlinu za kafu. U blender usuti biljno mleko, dodati urme i isečenu jabuku i blendati dok smesa ne postane ujednačena i glatka. U manjoj vatrostalnoj činiji sjediniti bademe, lan, kokos listiće, sodu bikarbonu, cimet i so. Dobro promešati, a zatim dodati i blendanu smesu i bobičasto voće. Još jednom promešati pa peći oko 25 do 30 minuta u rerni na 170 stepeni.",
+    "tips": [],
+    "subtitle": "Hrskava spolja, mekana i sočna iznutra",
+    "timeMinutes": 40,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 477,
+      "carbs": 49,
+      "fat": 29.6,
+      "protein": 13,
+      "fiber": 12.6
+    }
   }
 ]

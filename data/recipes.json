@@ -2144,6 +2144,1179 @@
     }
   },
   {
+    "id": "i2-zapecena-vegan-kasa",
+    "title": "Zapečena vegan kaša",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 13,
+      "page": "R",
+      "printed": 31
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Bobičasto voće možete zameniti bilo kojim drugim svežim ili smrznutim voćem."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 gr mlevenih sirovih badema",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "1 supena kašika mlevenog lana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "100 ml biljnog nezaslađenog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "5 svežih otkoštenih urmi",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "30 gr kokos listića",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "kokos"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "80 gr bobičastog voća",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "bobicasto-voce"
+      }
+    ],
+    "method": "Samleti bademe u multipraktiku, a lan u mlinu za kafu. U blender usuti biljno mleko, dodati urme i isečenu jabuku i blendati dok smesa ne postane ujednačena i glatka. U manjoj vatrostalnoj činiji sjediniti bademe, lan, kokos listiće, sodu bikarbonu, cimet i so. Dobro promešati, a zatim dodati i blendanu smesu i bobičasto voće. Još jednom promešati pa peći oko 25 do 30 minuta u rerni na 170 stepeni.",
+    "tips": [],
+    "subtitle": "Hrskava spolja, mekana i sočna iznutra",
+    "timeMinutes": 40,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 477,
+      "carbs": 49,
+      "fat": 29.6,
+      "protein": 13,
+      "fiber": 12.6
+    }
+  },
+  {
+    "id": "i2-bezglutenska-granola",
+    "title": "Bezglutenska granola",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 14,
+      "page": "L",
+      "printed": 32
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [
+      "1 „laneno\" jaje = 1 supena kašika mlevenog lana + 3 supene kašike vruće vode, promešati i ostaviti 10 minuta.",
+      "Granolu možete jesti uz bademovo biljno mleko ili punomasni jogurt, uz dodatak bobičastog voća, nekog od putera od orašastog voća ili semenki, a može se grickati i samostalno."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 gr oraha",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "100 gr sirovog badema",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "100 gr sirovih bundevinih semenki",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "100 gr sirovog suncokreta",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "4 supene kašike lanenog semena",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "4 supene kašike čia semenki",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "cia-semenke"
+      },
+      {
+        "raw": "4 supene kašike kokosovih mrvica",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "4 supene kašike psilijum ljuspica",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "psilijum"
+      },
+      {
+        "raw": "8 supenih kašika kokosovog ulja",
+        "qty": 8,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "¼ kašičice čiste stevie u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "stevija"
+      },
+      {
+        "raw": "4 umućena belanceta (ili 4 „lanena\" jajeta za vegan verziju)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      }
+    ],
+    "method": "Orah, bademe i bundevine semenke iseckajte na krupnije komadiće ili ih izblendajte u multipraktiku pulsirajućim ritmom (da ne bude previše sitno), prespite u veliku činiju i dodajte ostale sastojke i dobro promešajte kašikom da se sve dobro sjedini. U posebnu manju činiju viljuškom umutite belanca i prespite u veću činiju sa ostalim sastojcima, pa još jednom dobro promešajte.\n\nNa tepsiju postavite pek papir, prespite smesu i pecite na 140 stepeni, 10 do 15 minuta ili dok ne porumeni. Ostavite da se prohladi, pa nakon toga izlomite granolu na deliće.",
+    "tips": [],
+    "subtitle": "Hrskava poslastica bogata vlaknima",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 774,
+      "carbs": 35.6,
+      "fat": 64.8,
+      "protein": 23.7,
+      "fiber": 23.7
+    }
+  },
+  {
+    "id": "i2-kasa-iz-kesice",
+    "title": "Kaša iz kesice, tri ukusa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 14,
+      "page": "R",
+      "printed": 33
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Umesto vode možete sipati jogurt ili biljno nezaslađeno mleko.",
+      "Kašu možete obogatiti bilo kojim svežim voćem, orašastim plodovima, semenkama, kao i puterima."
+    ],
+    "ingredients": [
+      {
+        "raw": "80 gr usitnjenih ovsenih pahuljica",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice",
+        "group": "Kokos"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so",
+        "group": "Kokos"
+      },
+      {
+        "raw": "tapioka skrob na vrh kašičice",
+        "ref": "tapioka",
+        "group": "Kokos"
+      },
+      {
+        "raw": "2 supene kašike kokosovog proteina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosov-protein",
+        "group": "Kokos"
+      },
+      {
+        "raw": "1 supena kašika kokosa",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokos",
+        "group": "Kokos"
+      },
+      {
+        "raw": "1 supena kašika čia semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "cia-semenke",
+        "group": "Kokos"
+      },
+      {
+        "raw": "6 otkoštenih svežih urmi",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Kokos"
+      },
+      {
+        "raw": "u kokos smesu (1 porcija od 90 gr) dodati 1 kašičicu kakao praha ili rogača",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kakao",
+        "group": "Čokolada",
+        "optional": true
+      },
+      {
+        "raw": "u kokos smesu (1 porcija od 90 gr) dodati 1 kašičicu voćnog praha poput maline, kupine, aronije, brusnice",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "vocni-prah",
+        "group": "Voćni",
+        "optional": true
+      }
+    ],
+    "method": "Ovsene pahuljice, so, tapioku, kokosov protein, kokos i čia semenke izblendajte u blenderu do strukture brašna. Izvadite koštice iz urmi, dodajte u blender i blendajte oko 20 sekundi. Kaša je spremna. Od ove smese dobiju se 2 porcije (oko 90 gr smese po porciji).\n\nKašu možete spakovati u činiju ili kesicu i poneti sa sobom. Kada želite da jedete, potrebno je samo da ulijete oko 150 ml do 170 ml vruće vode, u zavisnosti koliko gustu kašu volite, i da promešate.",
+    "tips": [],
+    "subtitle": "Posna i ukusna kaša za poneti",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 297,
+      "carbs": 54,
+      "fat": 6.6,
+      "protein": 8.7,
+      "fiber": 7
+    }
+  },
+  {
+    "id": "i2-palacinke-iz-blendera",
+    "title": "Palačinke iz blendera",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 15,
+      "page": "L",
+      "printed": 34
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 4 do 5 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "250 ml biljnog nezaslađenog mleka",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 jaje",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "150 gr brašna po želji",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "¼ kašičice himalajske soli",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "prstohvat bibera",
+        "ref": "biber"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu do kremaste strukture. Ispeći palačinke sa obe strane na srednjoj temperaturi i filovati po želji.",
+    "tips": [],
+    "subtitle": "Palačinke obogaćene spanaćem",
+    "timeMinutes": 15,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 326,
+      "carbs": 58,
+      "fat": 4.4,
+      "protein": 12,
+      "fiber": 2.7
+    }
+  },
+  {
+    "id": "i2-heljdine-palacinke",
+    "title": "Heljdine palačinke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 15,
+      "page": "R",
+      "printed": 35
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 6 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "400 ml biljnog nezaslađenog mleka",
+        "qty": 400,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "180 gr heljdinog brašna",
+        "qty": 180,
+        "unit": "gr",
+        "ref": "heljdino-brasno"
+      },
+      {
+        "raw": "2 jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "kokosovo ulje za pečenje",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu do kremaste strukture. Premazati tiganj kokosovim uljem pa peći palačinke sa obe strane na srednjoj temperaturi i filovati po želji.",
+    "tips": [],
+    "subtitle": "Bezglutenske palačinke",
+    "timeMinutes": 15,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 304,
+      "carbs": 43,
+      "fat": 8,
+      "protein": 14.3,
+      "fiber": 6.5
+    }
+  },
+  {
+    "id": "i2-borocinke",
+    "title": "Boročinke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 17,
+      "page": "L",
+      "printed": 36
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 7 komada, zavisi od veličine palačinaka."
+    ],
+    "ingredients": [
+      {
+        "raw": "70 gr brašna po želji",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "100 ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika meda (za vegan verziju 2 sveže otkoštene urme)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika putera od orašastih plodova ili semenki (kikiriki puter, puter od lešnika, badema, suncokreta, bundeve)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "50 gr borovnica ili voća po želji (smrznuto ili sveže)",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "kokosovo ulje za pečenje",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Sve sastojke sem borovnica izblendati u blenderu do kremaste strukture. Smesa će biti gušća. Presuti u veću činiju i ubaciti borovnice. Promešati kašikom, premazati tiganj kokosovim uljem pa peći na srednjoj temperaturi sa obe strane manje palačinke veličine dlana.",
+    "tips": [
+      "Ukoliko želite, dodatno možete napraviti sos od voća. Nakon pečenja palačinaka, ubacite voće (količinu i voće birajte sami) u tiganj i promešajte nekoliko puta, pritisnite špatulom da se istisne voćni sok. Kada dostigne strukturu sosa, sklonite sa šporeta i prelijte palačinke."
+    ],
+    "subtitle": "Mekane palačinke prelivene voćnim sosom",
+    "timeMinutes": 15,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 352,
+      "carbs": 52.5,
+      "fat": 14.4,
+      "protein": 7,
+      "fiber": 6.8
+    }
+  },
+  {
+    "id": "i2-vegan-palacinke",
+    "title": "Vegan palačinke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 17,
+      "page": "R",
+      "printed": 37
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-belog-brasna",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 25 komada, zavisi od veličine palačinaka."
+    ],
+    "ingredients": [
+      {
+        "raw": "250 gr ovsenih pahuljica",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "500 ml biljnog nezaslađenog mleka",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "2 banane",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "kokosovo ulje za pečenje",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu do kremaste strukture. Smesa će biti gušća. Premazati tiganj kokosovim uljem pa peći na srednjoj temperaturi sa obe strane manje palačinke veličine dlana i filovati po želji.",
+    "tips": [],
+    "subtitle": "Palačinke od 3 sastojka",
+    "timeMinutes": 25,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 248,
+      "carbs": 45,
+      "fat": 3.7,
+      "protein": 8,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "i2-hulk-jaja",
+    "title": "Hulk jaja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 18,
+      "page": "L",
+      "printed": 38
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [
+      "Od ove smese dobiju se 4 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "himalajska so po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "4 kockice kačkavalja (oko 2 x 2 cm)",
+        "qty": 4,
+        "unit": "kockica",
+        "ref": "kackavalj"
+      }
+    ],
+    "method": "Jaja, spanać i so izblendati u blenderu. U kalupe za mafin na dno staviti po kockicu kačkavalja pa preliti smesom iz blendera. Peći na 200 stepeni oko 10 do 12 minuta, dok ne porumene.",
+    "tips": [
+      "Hulk jaja će „porasti\" dok se budu pekla, a nakon otvaranja rerne će se izduvati."
+    ],
+    "subtitle": "Doručak za snagu",
+    "timeMinutes": 15,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 2.3,
+      "fat": 13,
+      "protein": 19,
+      "fiber": 0.6
+    }
+  },
+  {
+    "id": "i2-zelena-saksuka",
+    "title": "Zelena šakšuka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 18,
+      "page": "R",
+      "printed": 39
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 crni luk iseckan na kockice",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "2 čena belog luka iseckana na kockice",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 mlada luka iseckana na kolutove",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "1 zelena paprika iseckana na kolutove",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "4 jajeta",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "100 ml biljnog nezaslađenog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "iseckani peršun za posipanje",
+        "ref": "persun"
+      }
+    ],
+    "method": "Povrće iseckati na željeni oblik i dinstati na malo vode dok ne omekša. Dok se povrće priprema, u blenderu izblendati biljno mleko i spanać. Uliti jaja u tiganj sa povrćem i dodati izblendanu smesu. Poklopiti i peći dok se jaja ne ispeku na način koji volite. Otklopiti, začiniti peršunom i poslužiti.",
+    "tips": [],
+    "subtitle": "Arapsko jelo na zeleni način",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 155,
+      "carbs": 1.8,
+      "fat": 10,
+      "protein": 13.5,
+      "fiber": 0.8
+    }
+  },
+  {
+    "id": "i2-keto-omlet",
+    "title": "Keto omlet",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 19,
+      "page": "L",
+      "printed": 40
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "30 gr mlevenog sirovog badema (ili bademovog brašna)",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "50 gr izrendanog punomasnog sira po želji",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "sir"
+      },
+      {
+        "raw": "maslinovo ulje ili svinjska mast za pečenje",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Umutiti jaja viljuškom, a bademe usitniti u multipraktiku do strukture brašna. Sve sastojke sjediniti u činiji i dobro promešati. Ispeći omlet sa obe strane na srednjoj temperaturi i poslužiti sa svežim povrćem.",
+    "tips": [],
+    "subtitle": "Doručak sa dodatim zdravim mastima",
+    "timeMinutes": 10,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 492,
+      "carbs": 7.2,
+      "fat": 37,
+      "protein": 34,
+      "fiber": 3.8
+    }
+  },
+  {
+    "id": "i2-45-grama",
+    "title": "45 grama",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 19,
+      "page": "R",
+      "printed": 41
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 mladi luk iseckan na kolutove",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "1 paprika iseckana na kolutove",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "1 supena kašika tamari soja sosa (opciono)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tamari",
+        "optional": true
+      },
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "2 supene kašike bundevinog proteina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "bundevin-protein"
+      },
+      {
+        "raw": "10 gr čistog kolagena u prahu",
+        "qty": 10,
+        "unit": "g",
+        "ref": "kolagen"
+      },
+      {
+        "raw": "20 gr rendanog sira (mocarela, kačkavalj)",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "sir"
+      },
+      {
+        "raw": "½ kašičica origana",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "maslinovo ulje ili svinjska mast za pečenje",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Iseckati luk i papriku na željeni oblik i dinstati na malo vode dok ne omekša. Dodati tamari soja sos i spanać i dinstati još malo dok spanać ne omekša, pa skloniti sa strane. U činiji umutiti jaja, dodati bundevin protein i kolagen, još jednom promešati. Nauljiti tiganj, ispeći omlet sa jedne strane, okrenuti ga, pa začiniti origanom, nafilovati ga spremljenim nadevom i posuti sirom.\n\nPreklopiti omlet, još malo zapeći i…",
+    "tips": [],
+    "subtitle": "Visoko proteinski mljac doručak za sate sitosti",
+    "timeMinutes": 15,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 417,
+      "carbs": 16.5,
+      "fat": 19.6,
+      "protein": 45.7,
+      "fiber": 3.6
+    }
+  },
+  {
+    "id": "i2-avokado-korpice",
+    "title": "Avokado korpice",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 20,
+      "page": "L",
+      "printed": 42
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 otkoštena avokada",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "4 jajeta",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "½ crvene paprike iseckane na kockice",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "šaka spanaća sitno iseckanog",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "¼ kašičice belog luka u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      }
+    ],
+    "method": "Preseći avokado po dužini, izvaditi košticu i još po 2 supene kašike avokada iz svake polovine koju ćete sačuvati sa strane. U polovine avokada uliti po 1 jaje i začiniti solju i biberom. Peći na 200 stepeni oko 13 do 18 minuta u zavisnosti od toga koliko pečena jaja volite.\n\nOstatak „mesa\" od avokada koji ste sačuvali izgnječite viljuškom i dodajte sok od limuna, povrće koje ste naseckali i beli luk u prahu. Dobro promešajte i poslužite uz avokado korpice.",
+    "tips": [],
+    "subtitle": "Kremasti avokado sa jajima",
+    "timeMinutes": 25,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 401,
+      "carbs": 17.5,
+      "fat": 31.7,
+      "protein": 16.5,
+      "fiber": 10.8
+    }
+  },
+  {
+    "id": "i2-jaja-mafini-4-nacina",
+    "title": "Jaja mafini, 4 načina",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 20,
+      "page": "R",
+      "printed": 43
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [
+      "Od svake smese, u zavisnosti koliko jaja ubacite, dobijete oko 5 do 6 mafina.",
+      "Za ostavu se računa prvi način, brokoli i sir; ostala tri su varijante."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "½ kašičice majčine dušice",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "majcina-dusica",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "50 gr seckanog svežeg brokolija",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "brokoli",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "30 gr rendane mocarele",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "mocarela",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "šaka svežeg iseckanog spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "20 gr iseckane bukovače",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "bukovaca",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "polovina iseckane paprike na kockice",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "polovina sveže ljute paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "ljuta-paprika",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "50 gr krem sira",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "krem-sir",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "30 gr rendanog kačkavalja",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "kackavalj",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice italijanske mešavine začina",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "20 gr parmezana",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "parmezan",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "1 paradajz iseckan na kockice",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paradajz",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "šaka svežeg iseckanog spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      }
+    ],
+    "method": "Za sve načine isti je postupak. Umutiti jaja viljuškom, dodati začine i dodatke koje ste odabrali, uliti u 2/3 kalupa za mafine i peći oko 10 do 12 minuta na 200 stepeni u zavisnosti od toga koliko pečena jaja volite.",
+    "tips": [],
+    "subtitle": "Zabavan i zgodan način pripreme jaja",
+    "timeMinutes": 20,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 337,
+      "carbs": 5.7,
+      "fat": 22.4,
+      "protein": 29.5,
+      "fiber": 2.6
+    }
+  },
+  {
+    "id": "i2-proteinska-vegan-kajgana",
+    "title": "Proteinska vegan kajgana",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 21,
+      "page": "L",
+      "printed": 44
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina iseckanog luka",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "polovina iseckane paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "¼ kašičice kurkume",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "200 gr tofu sira",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "tofu"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iseckati povrće na željeni oblik, dinstati na malo vode dok ne omekša, začiniti i promešati. Izdrobiti tofu rukama, dodati ga u povrće, posuti nutritivnim kvascem i dobro promešati, peći još nekoliko minuta. Poslužiti sa još svežeg povrća.",
+    "tips": [],
+    "subtitle": "Za ljubitelje kajgane, bez jaja",
+    "timeMinutes": 15,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 199,
+      "carbs": 9.9,
+      "fat": 9.5,
+      "protein": 19.8,
+      "fiber": 6.3
+    }
+  },
+  {
     "id": "grasak",
     "title": "Grašak",
     "category": "rucak",

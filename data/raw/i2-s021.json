@@ -1,0 +1,73 @@
+[
+  {
+    "id": "i2-proteinska-vegan-kajgana",
+    "title": "Proteinska vegan kajgana",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 21,
+      "page": "L",
+      "printed": 44
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina iseckanog luka",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "polovina iseckane paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "¼ kašičice kurkume",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "200 gr tofu sira",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "tofu"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iseckati povrće na željeni oblik, dinstati na malo vode dok ne omekša, začiniti i promešati. Izdrobiti tofu rukama, dodati ga u povrće, posuti nutritivnim kvascem i dobro promešati, peći još nekoliko minuta. Poslužiti sa još svežeg povrća.",
+    "tips": [],
+    "subtitle": "Za ljubitelje kajgane, bez jaja",
+    "timeMinutes": 15,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 199,
+      "carbs": 9.9,
+      "fat": 9.5,
+      "protein": 19.8,
+      "fiber": 6.3
+    }
+  }
+]

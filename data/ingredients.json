@@ -1,13 +1,5 @@
 [
   {
-    "id": "voda",
-    "title": "Voda",
-    "group": "osnovno",
-    "aliases": [],
-    "basic": true,
-    "count": 89
-  },
-  {
     "id": "so",
     "title": "So",
     "group": "osnovno",
@@ -15,7 +7,15 @@
       "himalajska so"
     ],
     "basic": true,
-    "count": 84
+    "count": 90
+  },
+  {
+    "id": "voda",
+    "title": "Voda",
+    "group": "osnovno",
+    "aliases": [],
+    "basic": true,
+    "count": 90
   },
   {
     "id": "banana",
@@ -24,7 +24,7 @@
     "aliases": [
       "zrele banane"
     ],
-    "count": 72
+    "count": 74
   },
   {
     "id": "limun",
@@ -33,14 +33,14 @@
     "aliases": [
       "limunov sok"
     ],
-    "count": 56
+    "count": 57
   },
   {
     "id": "med",
     "title": "Med",
     "group": "ostalo",
     "aliases": [],
-    "count": 48
+    "count": 49
   },
   {
     "id": "biljno-mleko",
@@ -51,7 +51,7 @@
       "kokosovo mleko",
       "bademovo mleko"
     ],
-    "count": 43
+    "count": 48
   },
   {
     "id": "maslinovo-ulje",
@@ -59,7 +59,7 @@
     "group": "osnovno",
     "aliases": [],
     "basic": true,
-    "count": 41
+    "count": 43
   },
   {
     "id": "beli-luk",
@@ -68,24 +68,7 @@
     "aliases": [
       "beli luk u prahu"
     ],
-    "count": 37
-  },
-  {
-    "id": "biber",
-    "title": "Biber",
-    "group": "osnovno",
-    "aliases": [],
-    "basic": true,
-    "count": 32
-  },
-  {
-    "id": "urme",
-    "title": "Urme",
-    "group": "voce",
-    "aliases": [
-      "otkoštene sveže urme"
-    ],
-    "count": 31
+    "count": 42
   },
   {
     "id": "jaja",
@@ -94,7 +77,24 @@
     "aliases": [
       "jaje"
     ],
-    "count": 29
+    "count": 38
+  },
+  {
+    "id": "biber",
+    "title": "Biber",
+    "group": "osnovno",
+    "aliases": [],
+    "basic": true,
+    "count": 33
+  },
+  {
+    "id": "urme",
+    "title": "Urme",
+    "group": "voce",
+    "aliases": [
+      "otkoštene sveže urme"
+    ],
+    "count": 33
   },
   {
     "id": "crni-luk",
@@ -103,6 +103,22 @@
     "aliases": [
       "glavica crnog luka"
     ],
+    "count": 30
+  },
+  {
+    "id": "spanac",
+    "title": "Spanać",
+    "group": "povrce",
+    "aliases": [
+      "baby spanać"
+    ],
+    "count": 30
+  },
+  {
+    "id": "kokosovo-ulje",
+    "title": "Kokosovo ulje",
+    "group": "masti",
+    "aliases": [],
     "count": 28
   },
   {
@@ -113,7 +129,7 @@
       "sirovi suncokret",
       "semenke suncokreta"
     ],
-    "count": 26
+    "count": 27
   },
   {
     "id": "jabuka",
@@ -123,6 +139,13 @@
       "oljuštene jabuke",
       "greni smit"
     ],
+    "count": 26
+  },
+  {
+    "id": "ovsene-pahuljice",
+    "title": "Ovsene pahuljice",
+    "group": "zitarice",
+    "aliases": [],
     "count": 25
   },
   {
@@ -135,15 +158,6 @@
     "count": 25
   },
   {
-    "id": "spanac",
-    "title": "Spanać",
-    "group": "povrce",
-    "aliases": [
-      "baby spanać"
-    ],
-    "count": 24
-  },
-  {
     "id": "kakao",
     "title": "Kakao prah",
     "group": "ostalo",
@@ -154,18 +168,13 @@
     "count": 23
   },
   {
-    "id": "kokosovo-ulje",
-    "title": "Kokosovo ulje",
-    "group": "masti",
-    "aliases": [],
-    "count": 23
-  },
-  {
-    "id": "ovsene-pahuljice",
-    "title": "Ovsene pahuljice",
-    "group": "zitarice",
-    "aliases": [],
-    "count": 23
+    "id": "soda-bikarbona",
+    "title": "Soda bikarbona",
+    "group": "ostalo",
+    "aliases": [
+      "soda bikarbona bez aluminijuma"
+    ],
+    "count": 22
   },
   {
     "id": "ulje",
@@ -179,15 +188,6 @@
     "count": 22
   },
   {
-    "id": "soda-bikarbona",
-    "title": "Soda bikarbona",
-    "group": "ostalo",
-    "aliases": [
-      "soda bikarbona bez aluminijuma"
-    ],
-    "count": 20
-  },
-  {
     "id": "lanene-semenke",
     "title": "Lanene semenke",
     "group": "semenke",
@@ -195,7 +195,7 @@
       "laneno seme",
       "lan"
     ],
-    "count": 19
+    "count": 21
   },
   {
     "id": "cimet",
@@ -204,7 +204,27 @@
     "aliases": [
       "cejlonski cimet"
     ],
-    "count": 18
+    "count": 19
+  },
+  {
+    "id": "paprika",
+    "title": "Paprika",
+    "group": "povrce",
+    "aliases": [
+      "crvena paprika",
+      "sveža paprika",
+      "sveža crvena paprika"
+    ],
+    "count": 19
+  },
+  {
+    "id": "avokado",
+    "title": "Avokado",
+    "group": "voce",
+    "aliases": [
+      "zreli avokado"
+    ],
+    "count": 17
   },
   {
     "id": "jagoda",
@@ -214,11 +234,11 @@
     "count": 17
   },
   {
-    "id": "avokado",
-    "title": "Avokado",
-    "group": "voce",
+    "id": "badem",
+    "title": "Badem",
+    "group": "orasasti",
     "aliases": [
-      "zreli avokado"
+      "sirovi bademi"
     ],
     "count": 16
   },
@@ -228,6 +248,15 @@
     "group": "mlecno",
     "aliases": [
       "grčki jogurt"
+    ],
+    "count": 16
+  },
+  {
+    "id": "kokos",
+    "title": "Kokos",
+    "group": "voce",
+    "aliases": [
+      "kokosovo brašno"
     ],
     "count": 16
   },
@@ -243,17 +272,6 @@
     "title": "Narandža",
     "group": "voce",
     "aliases": [],
-    "count": 15
-  },
-  {
-    "id": "paprika",
-    "title": "Paprika",
-    "group": "povrce",
-    "aliases": [
-      "crvena paprika",
-      "sveža paprika",
-      "sveža crvena paprika"
-    ],
     "count": 15
   },
   {
@@ -275,21 +293,39 @@
     "count": 15
   },
   {
-    "id": "badem",
-    "title": "Badem",
-    "group": "orasasti",
+    "id": "cia-semenke",
+    "title": "Čia semenke",
+    "group": "semenke",
     "aliases": [
-      "sirovi bademi"
+      "čia"
+    ],
+    "count": 15
+  },
+  {
+    "id": "borovnica",
+    "title": "Borovnice",
+    "group": "voce",
+    "aliases": [
+      "borovnica",
+      "borovnice"
     ],
     "count": 13
   },
   {
-    "id": "kokos",
-    "title": "Kokos",
-    "group": "voce",
+    "id": "bundevine-semenke",
+    "title": "Bundevine semenke",
+    "group": "semenke",
     "aliases": [
-      "kokosovo brašno"
+      "golica",
+      "sirova golica"
     ],
+    "count": 13
+  },
+  {
+    "id": "origano",
+    "title": "Origano",
+    "group": "zacini",
+    "aliases": [],
     "count": 13
   },
   {
@@ -302,45 +338,9 @@
     "count": 13
   },
   {
-    "id": "cia-semenke",
-    "title": "Čia semenke",
-    "group": "semenke",
-    "aliases": [
-      "čia"
-    ],
-    "count": 13
-  },
-  {
-    "id": "borovnica",
-    "title": "Borovnice",
-    "group": "voce",
-    "aliases": [
-      "borovnica",
-      "borovnice"
-    ],
-    "count": 12
-  },
-  {
-    "id": "bundevine-semenke",
-    "title": "Bundevine semenke",
-    "group": "semenke",
-    "aliases": [
-      "golica",
-      "sirova golica"
-    ],
-    "count": 12
-  },
-  {
     "id": "kukuruzno-brasno",
     "title": "Kukuruzno brašno",
     "group": "zitarice",
-    "aliases": [],
-    "count": 12
-  },
-  {
-    "id": "origano",
-    "title": "Origano",
-    "group": "zacini",
     "aliases": [],
     "count": 12
   },
@@ -382,6 +382,15 @@
     "count": 11
   },
   {
+    "id": "orah",
+    "title": "Orah",
+    "group": "orasasti",
+    "aliases": [
+      "sirovi orah"
+    ],
+    "count": 11
+  },
+  {
     "id": "krastavac",
     "title": "Krastavac",
     "group": "povrce",
@@ -417,15 +426,6 @@
     "count": 10
   },
   {
-    "id": "orah",
-    "title": "Orah",
-    "group": "orasasti",
-    "aliases": [
-      "sirovi orah"
-    ],
-    "count": 10
-  },
-  {
     "id": "bademov-puter",
     "title": "Bademov puter",
     "group": "ostalo",
@@ -440,6 +440,22 @@
     "count": 9
   },
   {
+    "id": "kurkuma",
+    "title": "Kurkuma",
+    "group": "zacini",
+    "aliases": [],
+    "count": 9
+  },
+  {
+    "id": "brokoli",
+    "title": "Brokoli",
+    "group": "povrce",
+    "aliases": [
+      "svež brokoli"
+    ],
+    "count": 8
+  },
+  {
     "id": "indijski-orah",
     "title": "Indijski orah",
     "group": "orasasti",
@@ -450,10 +466,12 @@
     "count": 8
   },
   {
-    "id": "kurkuma",
-    "title": "Kurkuma",
+    "id": "persun",
+    "title": "Peršun",
     "group": "zacini",
-    "aliases": [],
+    "aliases": [
+      "svež peršun"
+    ],
     "count": 8
   },
   {
@@ -475,19 +493,24 @@
     "count": 7
   },
   {
+    "id": "bobicasto-voce",
+    "title": "Bobičasto voće",
+    "group": "voce",
+    "aliases": [
+      "jagode",
+      "ribizle",
+      "maline",
+      "kupine",
+      "borovnice",
+      "smrznuto bobičasto voće"
+    ],
+    "count": 7
+  },
+  {
     "id": "bosiljak",
     "title": "Bosiljak",
     "group": "zacini",
     "aliases": [],
-    "count": 7
-  },
-  {
-    "id": "brokoli",
-    "title": "Brokoli",
-    "group": "povrce",
-    "aliases": [
-      "svež brokoli"
-    ],
     "count": 7
   },
   {
@@ -510,15 +533,6 @@
     "count": 7
   },
   {
-    "id": "persun",
-    "title": "Peršun",
-    "group": "zacini",
-    "aliases": [
-      "svež peršun"
-    ],
-    "count": 7
-  },
-  {
     "id": "kikiriki-puter",
     "title": "Puter od kikirikija",
     "group": "ostalo",
@@ -535,20 +549,6 @@
       "pečurke"
     ],
     "count": 7
-  },
-  {
-    "id": "bobicasto-voce",
-    "title": "Bobičasto voće",
-    "group": "voce",
-    "aliases": [
-      "jagode",
-      "ribizle",
-      "maline",
-      "kupine",
-      "borovnice",
-      "smrznuto bobičasto voće"
-    ],
-    "count": 6
   },
   {
     "id": "dinja",
@@ -724,6 +724,13 @@
     "count": 4
   },
   {
+    "id": "mladi-luk",
+    "title": "Mladi luk",
+    "group": "povrce",
+    "aliases": [],
+    "count": 4
+  },
+  {
     "id": "palenta",
     "title": "Palenta",
     "group": "zitarice",
@@ -785,6 +792,15 @@
     "count": 4
   },
   {
+    "id": "brasno",
+    "title": "Brašno",
+    "group": "zitarice",
+    "aliases": [
+      "mešano brašno"
+    ],
+    "count": 3
+  },
+  {
     "id": "grasak",
     "title": "Grašak",
     "group": "mahunarke",
@@ -819,12 +835,31 @@
     "count": 3
   },
   {
+    "id": "kokosov-protein",
+    "title": "Kokosov protein",
+    "group": "ostalo",
+    "aliases": [
+      "kokosov protein",
+      "kokosovog proteina"
+    ],
+    "count": 3
+  },
+  {
     "id": "konopljin-protein",
     "title": "Konopljin protein",
     "group": "semenke",
     "aliases": [
       "konopljin protein",
       "konoplja protein"
+    ],
+    "count": 3
+  },
+  {
+    "id": "majcina-dusica",
+    "title": "Majčina dušica",
+    "group": "zacini",
+    "aliases": [
+      "timijan"
     ],
     "count": 3
   },
@@ -976,6 +1011,16 @@
     "count": 2
   },
   {
+    "id": "kackavalj",
+    "title": "Kačkavalj",
+    "group": "mlecno",
+    "aliases": [
+      "mocarela",
+      "mozzarella"
+    ],
+    "count": 2
+  },
+  {
     "id": "keleraba",
     "title": "Keleraba",
     "group": "povrce",
@@ -983,20 +1028,20 @@
     "count": 2
   },
   {
-    "id": "kokosov-protein",
-    "title": "Kokosov protein",
-    "group": "ostalo",
-    "aliases": [
-      "kokosov protein",
-      "kokosovog proteina"
-    ],
-    "count": 2
-  },
-  {
     "id": "kokosovo-brasno",
     "title": "Kokosovo brašno",
     "group": "zitarice",
     "aliases": [],
+    "count": 2
+  },
+  {
+    "id": "kolagen",
+    "title": "Kolagen",
+    "group": "ostalo",
+    "aliases": [
+      "kolagen",
+      "kolagena"
+    ],
     "count": 2
   },
   {
@@ -1038,28 +1083,12 @@
     "count": 2
   },
   {
-    "id": "majcina-dusica",
-    "title": "Majčina dušica",
-    "group": "zacini",
-    "aliases": [
-      "timijan"
-    ],
-    "count": 2
-  },
-  {
     "id": "mirodjija",
     "title": "Mirođija",
     "group": "zacini",
     "aliases": [
       "sušena mirođija"
     ],
-    "count": 2
-  },
-  {
-    "id": "mladi-luk",
-    "title": "Mladi luk",
-    "group": "povrce",
-    "aliases": [],
     "count": 2
   },
   {
@@ -1090,6 +1119,16 @@
     "count": 2
   },
   {
+    "id": "psilijum",
+    "title": "Psilijum ljuspice",
+    "group": "semenke",
+    "aliases": [
+      "psilijum",
+      "psilijum ljuspice"
+    ],
+    "count": 2
+  },
+  {
     "id": "ribizla",
     "title": "Ribizle",
     "group": "voce",
@@ -1097,6 +1136,17 @@
       "ribizla",
       "ribizle",
       "ribizli"
+    ],
+    "count": 2
+  },
+  {
+    "id": "sir",
+    "title": "Sir (punomasni)",
+    "group": "mlecno",
+    "aliases": [
+      "sir",
+      "punomasni sir",
+      "izrendani sir"
     ],
     "count": 2
   },
@@ -1117,12 +1167,38 @@
     "count": 2
   },
   {
+    "id": "stevija",
+    "title": "Stevija",
+    "group": "ostalo",
+    "aliases": [
+      "stevija",
+      "stevie"
+    ],
+    "count": 2
+  },
+  {
+    "id": "tapioka",
+    "title": "Tapioka",
+    "group": "ostalo",
+    "aliases": [],
+    "count": 2
+  },
+  {
     "id": "testenina",
     "title": "Testenina",
     "group": "zitarice",
     "aliases": [
       "pirinčana testenina",
       "suva testenina"
+    ],
+    "count": 2
+  },
+  {
+    "id": "tofu",
+    "title": "Tofu",
+    "group": "ostalo",
+    "aliases": [
+      "tofu sir"
     ],
     "count": 2
   },
@@ -1204,15 +1280,6 @@
     "count": 1
   },
   {
-    "id": "brasno",
-    "title": "Brašno",
-    "group": "zitarice",
-    "aliases": [
-      "mešano brašno"
-    ],
-    "count": 1
-  },
-  {
     "id": "brasno-od-leblebije",
     "title": "Brašno od leblebije",
     "group": "zitarice",
@@ -1239,6 +1306,16 @@
     "count": 1
   },
   {
+    "id": "bundevin-protein",
+    "title": "Bundevin protein",
+    "group": "semenke",
+    "aliases": [
+      "bundevin protein",
+      "bundevinog proteina"
+    ],
+    "count": 1
+  },
+  {
     "id": "gustin",
     "title": "Gustin",
     "group": "ostalo",
@@ -1252,6 +1329,16 @@
     "title": "Gvakamole",
     "group": "ostalo",
     "aliases": [],
+    "count": 1
+  },
+  {
+    "id": "heljdino-brasno",
+    "title": "Heljdino brašno",
+    "group": "zitarice",
+    "aliases": [
+      "heljdino brašno",
+      "heljdinog brašna"
+    ],
     "count": 1
   },
   {
@@ -1298,16 +1385,6 @@
     "aliases": [
       "kajsije",
       "kajsija"
-    ],
-    "count": 1
-  },
-  {
-    "id": "kackavalj",
-    "title": "Kačkavalj",
-    "group": "mlecno",
-    "aliases": [
-      "mocarela",
-      "mozzarella"
     ],
     "count": 1
   },
@@ -1362,16 +1439,6 @@
     "title": "Kokosov šećer",
     "group": "ostalo",
     "aliases": [],
-    "count": 1
-  },
-  {
-    "id": "kolagen",
-    "title": "Kolagen",
-    "group": "ostalo",
-    "aliases": [
-      "kolagen",
-      "kolagena"
-    ],
     "count": 1
   },
   {
@@ -1500,6 +1567,16 @@
     "count": 1
   },
   {
+    "id": "mocarela",
+    "title": "Mocarela",
+    "group": "mlecno",
+    "aliases": [
+      "mocarela",
+      "mocarele"
+    ],
+    "count": 1
+  },
+  {
     "id": "namaz-od-graska",
     "title": "Namaz od sirovog graška",
     "group": "ostalo",
@@ -1514,6 +1591,16 @@
       "nar",
       "nara",
       "šipak"
+    ],
+    "count": 1
+  },
+  {
+    "id": "nutritivni-kvasac",
+    "title": "Nutritivni kvasac",
+    "group": "ostalo",
+    "aliases": [
+      "nutritivni kvasac",
+      "nutritivnog kvasca"
     ],
     "count": 1
   },
@@ -1587,12 +1674,13 @@
     "count": 1
   },
   {
-    "id": "psilijum",
-    "title": "Psilijum ljuspice",
-    "group": "semenke",
+    "id": "puter-od-orasastih",
+    "title": "Puter od orašastih plodova ili semenki",
+    "group": "orasasti",
     "aliases": [
-      "psilijum",
-      "psilijum ljuspice"
+      "puter od orašastih plodova",
+      "puter od lešnika",
+      "puter od semenki"
     ],
     "count": 1
   },
@@ -1656,16 +1744,6 @@
     "count": 1
   },
   {
-    "id": "stevija",
-    "title": "Stevija",
-    "group": "ostalo",
-    "aliases": [
-      "stevija",
-      "stevie"
-    ],
-    "count": 1
-  },
-  {
     "id": "suncokretovo-ulje",
     "title": "Suncokretovo ulje",
     "group": "masti",
@@ -1680,22 +1758,6 @@
     "group": "masti",
     "aliases": [
       "domaća svinjska mast"
-    ],
-    "count": 1
-  },
-  {
-    "id": "tapioka",
-    "title": "Tapioka",
-    "group": "ostalo",
-    "aliases": [],
-    "count": 1
-  },
-  {
-    "id": "tofu",
-    "title": "Tofu",
-    "group": "ostalo",
-    "aliases": [
-      "tofu sir"
     ],
     "count": 1
   },
@@ -1748,6 +1810,16 @@
     "count": 0
   },
   {
+    "id": "italijanski-zacin",
+    "title": "Italijanska mešavina začina",
+    "group": "zacini",
+    "aliases": [
+      "italijanska mešavina začina",
+      "italijanski začin"
+    ],
+    "count": 0
+  },
+  {
     "id": "limeta",
     "title": "Limeta",
     "group": "voce",
@@ -1762,6 +1834,17 @@
     "count": 0
   },
   {
+    "id": "rogac",
+    "title": "Rogač",
+    "group": "ostalo",
+    "aliases": [
+      "rogač",
+      "rogača",
+      "rogac"
+    ],
+    "count": 0
+  },
+  {
     "id": "semenke",
     "title": "Semenke (po želji)",
     "group": "semenke",
@@ -1773,6 +1856,28 @@
     "title": "Sveže povrće (po želji)",
     "group": "povrce",
     "aliases": [],
+    "count": 0
+  },
+  {
+    "id": "tamari",
+    "title": "Tamari soja sos",
+    "group": "zacini",
+    "aliases": [
+      "tamari",
+      "soja sos",
+      "tamari soja sos"
+    ],
+    "count": 0
+  },
+  {
+    "id": "vocni-prah",
+    "title": "Voćni prah",
+    "group": "voce",
+    "aliases": [
+      "voćni prah",
+      "prah maline",
+      "prah aronije"
+    ],
     "count": 0
   }
 ]
