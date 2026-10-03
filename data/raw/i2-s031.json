@@ -1,0 +1,150 @@
+[
+  {
+    "id": "i2-pita-sa-fetom-i-spanacem",
+    "title": "Pita sa fetom i spanaćem",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 31,
+      "page": "L",
+      "printed": 64
+    },
+    "tags": [
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "10 gr putera",
+        "qty": 10,
+        "unit": "gr",
+        "ref": "puter"
+      },
+      {
+        "raw": "200 gr svežeg spanaća",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "spanac"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "5 jaja",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "350 gr feta sira",
+        "qty": 350,
+        "unit": "gr",
+        "ref": "feta-sir"
+      },
+      {
+        "raw": "maslinovo ulje",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "speltine kore za pitu",
+        "ref": "speltine-kore"
+      }
+    ],
+    "method": "U tiganju otopiti puter, ubaciti spanać, dodati beli luk i začiniti, promešati i poklopiti na 5 minuta, pa skloniti sa ringle. U činiji umutiti jaja, dodati fetu i biber po ukusu, zatim ubaciti dinstani spanać i sve promešati dobro. U okrugao pleh prečnika oko 30 cm na dno staviti pokvašen pek papir. Na njega staviti 2 kore, nauljiti sa malo maslinovog ulja i ređati ostale kore u krug da se preklapaju i tako da polovina kore viri sa strane, van pleha. Uliti smesu pa krajevima kora koje su bile van pleha poklopiti. Peći oko 30 minuta na 180 stepeni.",
+    "tips": [],
+    "subtitle": "Brza priprema sa gotovim korama od spelte",
+    "timeMinutes": 40,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 332,
+      "carbs": 23,
+      "fat": 17.6,
+      "protein": 18.5,
+      "fiber": 0.8
+    }
+  },
+  {
+    "id": "i2-zapecena-pita-sa-ribom",
+    "title": "Zapečena pita sa ribom i krompirom",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 31,
+      "page": "R",
+      "printed": 65
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "8 krompira (isečen na četvrtine)",
+        "qty": 8,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "4 paradajza (iseckan na kockice)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "2 mlada luka (iseckan na kolutove)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "3 čena belog luka (iseckan na kockice)",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "400 gr filea ribe po želji (iseckana na trakice)",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "riba"
+      },
+      {
+        "raw": "100 gr mocarele ili sira po želji (narendan)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "mocarela"
+      }
+    ],
+    "method": "Oljuštiti krompir, iseći i kuvati dok ne omekša, procediti i zatim ga izgnječiti gnječilicom za krompir i začiniti po ukusu. Iseckati povrće, dinstati 5 minuta na soku od limuna i začiniti po ukusu.\n\nU okrugao pleh prečnika oko 30 cm na dno poređati ribu, dodati dinstano povrće, pa posuti sa 50 gr sira, zatim izgnječeni krompir i preostalih 50 gr sira. Peći na 180 stepeni oko 30 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Bez ulja, sa dodatkom povrća i sira",
+    "timeMinutes": 50,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 438,
+      "carbs": 60.7,
+      "fat": 12.4,
+      "protein": 23.4,
+      "fiber": 8.1
+    }
+  }
+]

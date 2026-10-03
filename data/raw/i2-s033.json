@@ -1,0 +1,229 @@
+[
+  {
+    "id": "i2-palenta-lazanje",
+    "title": "Palenta lazanje",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 33,
+      "page": "L",
+      "printed": 68
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-kvasca",
+      "priprema-vece-ranije"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250 gr skuvanog sočiva",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "2 glavice crnog luka (iseckan na kockice)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 sveža paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "6 čena belog luka (iseckan na kockice)",
+        "qty": 6,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika italijanske mešavine začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "500 ml marinara sosa (recept na strani 106) ili paradajz soka bez šećera",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "100 gr kelja (ili spanaća)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 supene kašike belog vinskog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "vinsko-sirce"
+      },
+      {
+        "raw": "biber po ukusu",
+        "ref": "biber"
+      },
+      {
+        "raw": "2 l vode",
+        "qty": 2,
+        "unit": "l",
+        "ref": "voda"
+      },
+      {
+        "raw": "¼ kašičice sode bikarbone",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "300 gr neskuvane palente",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "palenta"
+      }
+    ],
+    "method": "Skuvati sočivo po uputstvu iznad. Iseći crni luk, papriku i beli luk na kockice, dinstati na malo vode dok ne omekša, dodati italijansku mešavinu začina. Dodati 250 ml marinara sosa, kelj kom ste prethodno otklonili glavnu „žilu\" i isekli na trakice, sirće i biber. Promešati i dinstati još nekoliko minuta pa skloniti sa ringle.\n\nU veću šerpu sipati 2 l vode, sodu bikarbonu i so i sačekati da proključa, zatim dodati palentu uz mešanje i kuvati 2 do 3 minuta. Zagrejati rernu na 180 stepeni.\n\nU veći pleh sipati i ravnomerno rasporediti trećinu količine palente, zatim polovinu sočiva, drugu trećinu palente, drugi deo sočiva i treći deo palente. Preliti sve sa 250 ml marinara sosom i peći 20-ak minuta.",
+    "tips": [
+      "Sočivo potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte ga sa prstohvatom sode bikarbone kako bi se brže skuvalo. Kada je skuvano, procedite ga i ostavite da se prohladi."
+    ],
+    "subtitle": "Lazanje na kašiku",
+    "timeMinutes": 60,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 407,
+      "carbs": 88.5,
+      "fat": 2,
+      "protein": 13.8,
+      "fiber": 7.9
+    }
+  },
+  {
+    "id": "i2-punjeni-patlidzani",
+    "title": "Punjeni patlidžani",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 33,
+      "page": "R",
+      "printed": 69
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250 gr kukuruza",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kukuruz-secerac",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "4 krompira (isečen na četvrtine)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "krompir",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "100 ml nezaslađenog biljnog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "himalajska so po ukusu",
+        "ref": "so",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "2 oljuštena patlidžana",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "patlidzan",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "himalajska so",
+        "ref": "so",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "1 ljubičasti luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ljubicasti-luk",
+        "group": "Toping"
+      },
+      {
+        "raw": "2 čena belog luka (iseckan na sitno)",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk",
+        "group": "Toping"
+      },
+      {
+        "raw": "300 gr svežeg spanaća",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "spanac",
+        "group": "Toping"
+      },
+      {
+        "raw": "500 ml paradajz soka bez dodatog šećera",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-sok",
+        "group": "Toping"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so",
+        "group": "Toping"
+      }
+    ],
+    "method": "Izvaditi kukuruz iz zamrzivača da se odmrzne. Oljuštiti krompir, iseći i kuvati u posoljenoj vodi dok ne omekša, pa procediti. U velikoj posudi krompir izgnječiti gnječilicom za krompir, i u njega dodati polovinu kukuruza. Drugu polovinu kukuruza, biljno mleko i beli luk u prahu izblendati u blenderu do kremaste strukture. I to dodati u krompir i sve dobro promešati i posoliti po ukusu.\n\nOljuštiti patlidžan, iseći po dužini na debljinu oko 0,5 cm, začiniti ga, poređati u plehu obloženom pek papirom i peći 5 minuta na 180 stepeni, zatim okrenuti i peći još 3 minuta. Punjenje sipati na patlidžan, urolati i ređati u posudu za pečenje veličine oko 20 x 30 cm, preliti paradajz sokom i peći 15 minuta na 200 stepeni.\n\nIseckati ljubičasti i beli luk, ubaciti u tiganj i dodati spanać, pa poklopiti dok spanać ne omekša i začiniti. Toping prebaciti preko punjenih patlidžana.",
+    "tips": [],
+    "subtitle": "Krompir, kukuruz i spanać",
+    "timeMinutes": 45,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 48.4,
+      "fat": 5.5,
+      "protein": 7.2,
+      "fiber": 8.8
+    }
+  }
+]

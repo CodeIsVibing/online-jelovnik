@@ -1,0 +1,207 @@
+[
+  {
+    "id": "i2-leblebija-rolat",
+    "title": "Leblebija rolat",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 32,
+      "page": "L",
+      "printed": 66
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-kvasca",
+      "priprema-vece-ranije"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200 gr skuvane leblebije",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "200 gr iseckane bukovače",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "bukovaca"
+      },
+      {
+        "raw": "1 glavica iseckanog crnog luka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 sveža iseckana paprika",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "šaka svežeg bosiljka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "2 supene kašike brašna od leblebije",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "brasno-od-leblebije"
+      },
+      {
+        "raw": "⅛ kašičice majčine dušice",
+        "qty": 0.125,
+        "unit": "kašičica",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "⅓ kašičice žalfije",
+        "qty": 0.33,
+        "unit": "kašičica",
+        "ref": "zalfija"
+      },
+      {
+        "raw": "¼ kašičice ljute mlevene paprike",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "¼ kašičice origana",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "origano"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Iseckati bukovaču, luk i papriku na kockice, pa ih na maslinovom ulju na srednjoj temperaturi dinstati dok ne omekšaju, zatim dodati bosiljak i promešati. Skloniti sa ringle i dodati brašno i ostale začine i još jednom dobro promešati. Skuvanu leblebiju izblendati u multipraktiku na krupnije komadiće, dodati u smesu i promešati. Smesu presuti u kalup za hleb koji ste prethodno obložili pek papirom, utisnuti i poravnati. Peći oko 30 minuta na 160 stepeni dok ne porumeni.",
+    "tips": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "subtitle": "Fuzija leblebije, bukovače i začina",
+    "timeMinutes": 50,
+    "timeNote": "50 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 4,
+    "nutrition": {
+      "kcal": 225,
+      "carbs": 31,
+      "fat": 9.6,
+      "protein": 9.4,
+      "fiber": 5
+    }
+  },
+  {
+    "id": "i2-musaka-od-karfiola-i-prosa",
+    "title": "Musaka od karfiola i prosa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 32,
+      "page": "R",
+      "printed": 67
+    },
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "400 gr prosa",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "proso"
+      },
+      {
+        "raw": "150 gr graška",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "grasak"
+      },
+      {
+        "raw": "1 veći crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "6 čena belog luka (iseckan na kockice)",
+        "qty": 6,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 srednja glavica karfiola (iseckan na manje delove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "1 supena kašika italijanske mešavine začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "1 supena kašika jabukovog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "500 ml paradajz soka bez dodatog šećera",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "150 gr mocarele (narendane)",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "mocarela"
+      }
+    ],
+    "method": "Procediti, oprati i još jednom procediti proso. U ključalu posoljenu vodu ubaciti proso, smanjiti na srednju temperaturu i kuvati oko 20 minuta, skloniti sa ringle i poklopiti. Izvaditi grašak iz zamrzivača da se odmrzne. Iseći povrće, ubaciti u veći tiganj pa dinstati na malo vode.\n\nDodati sirće i začine, paradajz sok i grašak, pa promešati. Narendati sir, procediti proso i dodati himalajsku so po potrebi.\n\nU veliku tepsiju izliti proso, zatim povrće iz tiganja. Peći na 180 stepeni oko 25 minuta, zatim posuti sirom i zapeći još oko 5 minuta dok se sir ne istopi.",
+    "tips": [
+      "15 minuta pre pripreme ovog jela, potopiti proso u vodu."
+    ],
+    "subtitle": "Vegetarijanska verzija musake",
+    "timeMinutes": 55,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 259,
+      "carbs": 51.9,
+      "fat": 4.9,
+      "protein": 11.3,
+      "fiber": 6.9
+    }
+  }
+]

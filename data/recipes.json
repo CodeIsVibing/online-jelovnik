@@ -3071,8 +3071,7 @@
       "bez-glutena"
     ],
     "notes": [
-      "Od svake smese, u zavisnosti koliko jaja ubacite, dobijete oko 5 do 6 mafina.",
-      "Za ostavu se računa prvi način, brokoli i sir; ostala tri su varijante."
+      "Od svake smese, u zavisnosti koliko jaja ubacite, dobijete oko 5 do 6 mafina."
     ],
     "ingredients": [
       {
@@ -3940,9 +3939,7 @@
       "vegan",
       "vegetarijansko"
     ],
-    "notes": [
-      "Za ostavu se računa prvi ukus, pizza; ostala dva su varijante."
-    ],
+    "notes": [],
     "ingredients": [
       {
         "raw": "100 gr skuvanog pasulja",
@@ -7513,6 +7510,1270 @@
     "tips": [],
     "type": "recept",
     "book": "imunomania"
+  },
+  {
+    "id": "i2-punjene-paprike",
+    "title": "Punjene paprike",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 30,
+      "page": "L",
+      "printed": 62
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300 gr kinoe",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "6 većih paprika",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "3 manje oljuštene tikvice (iseckane na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "3 šargarepe (iseckane na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "5 supenih kašika paradajz soka",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "šaka svežeg peršuna (iseckan na sitno)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "šaka sveže mirođije (iseckana na sitno)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "mirodjija"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "method": "Potopiti kinou u vodu. Iseći gornji deo paprika (sačuvati „poklopac\"), izvaditi semenke i smestiti uspravno u okruglu posudu za pečenje, vratiti „poklopac\" i poklopiti posudu. Peći 30 minuta na 180 stepeni. Iseći povrće, ubaciti u veću šerpu, dodati paradajz sok i začine. Procediti kinou, oprati i opet procediti. Ubaciti je u šerpu, dodati vode i kuvati 10-ak minuta. U to dodati sveže bilje i sok od limuna pa promešati.\n\nIz paprike koja se pekla izbaciti višak vode i napuniti spremljenim nadevom. Peći još 20-ak minuta dok ne porumene.",
+    "tips": [],
+    "subtitle": "Kinoa, šargarepa i tikvice",
+    "timeMinutes": 60,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 241,
+      "carbs": 45.6,
+      "fat": 3.2,
+      "protein": 9.8,
+      "fiber": 7.7
+    }
+  },
+  {
+    "id": "i2-tetkina-savijaca-od-sarmi",
+    "title": "Tetkina savijača od sarmi sa orasima",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 30,
+      "page": "R",
+      "printed": 63
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300 gr pirinča",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "pirinac"
+      },
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "4 šargarepe (narendane)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "200 gr mlevenih oraha",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "1 supena kašika mlevene paprike",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "oko 1 kg što većih listova kiselog kupusa",
+        "qty": 1,
+        "unit": "kg",
+        "ref": "kiseli-kupus"
+      },
+      {
+        "raw": "100 ml soka od paradajza bez dodatog šećera",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Potopiti pirinač u vodu. Iseckati crni i beli luk, narendati šargarepu i ubaciti u veću šerpu sa malo vode i dinstati na srednjoj temperaturi. Samleti orahe, oprati pirinač i procediti. Dodati u šerpu, a zatim i začine, pa preliti vodom. Kuvati 10-ak minuta, dok se pirinač ne skuva na pola pa skloniti sa ringle i poklopiti.\n\nOprati listove kupusa mlakom vodom, iseći glavnu „žilu\" i dodavati punjenje na list i motati po dužini, zatim slagati u krug u pleh prečnika oko 30 cm dok se ne popuni ceo. Naređati 2 reda duguljastih sarmica kao pitu savijaču. Preliti paradajz sokom i razmazati.\n\nPokvasiti pek papir i staviti preko sarmi. Peći na 190 stepeni oko 30 minuta. Po želji možete skinuti papir i zapeći još malo.",
+    "tips": [],
+    "subtitle": "Posna i lagana sarma bez ulja",
+    "timeMinutes": 60,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 460,
+      "carbs": 60,
+      "fat": 21.7,
+      "protein": 12.2,
+      "fiber": 5.5
+    }
+  },
+  {
+    "id": "i2-pita-sa-fetom-i-spanacem",
+    "title": "Pita sa fetom i spanaćem",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 31,
+      "page": "L",
+      "printed": 64
+    },
+    "tags": [
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "10 gr putera",
+        "qty": 10,
+        "unit": "gr",
+        "ref": "puter"
+      },
+      {
+        "raw": "200 gr svežeg spanaća",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "spanac"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "5 jaja",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "350 gr feta sira",
+        "qty": 350,
+        "unit": "gr",
+        "ref": "feta-sir"
+      },
+      {
+        "raw": "maslinovo ulje",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "speltine kore za pitu",
+        "ref": "speltine-kore"
+      }
+    ],
+    "method": "U tiganju otopiti puter, ubaciti spanać, dodati beli luk i začiniti, promešati i poklopiti na 5 minuta, pa skloniti sa ringle. U činiji umutiti jaja, dodati fetu i biber po ukusu, zatim ubaciti dinstani spanać i sve promešati dobro. U okrugao pleh prečnika oko 30 cm na dno staviti pokvašen pek papir. Na njega staviti 2 kore, nauljiti sa malo maslinovog ulja i ređati ostale kore u krug da se preklapaju i tako da polovina kore viri sa strane, van pleha. Uliti smesu pa krajevima kora koje su bile van pleha poklopiti. Peći oko 30 minuta na 180 stepeni.",
+    "tips": [],
+    "subtitle": "Brza priprema sa gotovim korama od spelte",
+    "timeMinutes": 40,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 332,
+      "carbs": 23,
+      "fat": 17.6,
+      "protein": 18.5,
+      "fiber": 0.8
+    }
+  },
+  {
+    "id": "i2-zapecena-pita-sa-ribom",
+    "title": "Zapečena pita sa ribom i krompirom",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 31,
+      "page": "R",
+      "printed": 65
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "8 krompira (isečen na četvrtine)",
+        "qty": 8,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "4 paradajza (iseckan na kockice)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "2 mlada luka (iseckan na kolutove)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "3 čena belog luka (iseckan na kockice)",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "400 gr filea ribe po želji (iseckana na trakice)",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "riba"
+      },
+      {
+        "raw": "100 gr mocarele ili sira po želji (narendan)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "mocarela"
+      }
+    ],
+    "method": "Oljuštiti krompir, iseći i kuvati dok ne omekša, procediti i zatim ga izgnječiti gnječilicom za krompir i začiniti po ukusu. Iseckati povrće, dinstati 5 minuta na soku od limuna i začiniti po ukusu.\n\nU okrugao pleh prečnika oko 30 cm na dno poređati ribu, dodati dinstano povrće, pa posuti sa 50 gr sira, zatim izgnječeni krompir i preostalih 50 gr sira. Peći na 180 stepeni oko 30 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Bez ulja, sa dodatkom povrća i sira",
+    "timeMinutes": 50,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 438,
+      "carbs": 60.7,
+      "fat": 12.4,
+      "protein": 23.4,
+      "fiber": 8.1
+    }
+  },
+  {
+    "id": "i2-leblebija-rolat",
+    "title": "Leblebija rolat",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 32,
+      "page": "L",
+      "printed": 66
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-kvasca",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200 gr skuvane leblebije",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "200 gr iseckane bukovače",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "bukovaca"
+      },
+      {
+        "raw": "1 glavica iseckanog crnog luka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 sveža iseckana paprika",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "šaka svežeg bosiljka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "2 supene kašike brašna od leblebije",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "brasno-od-leblebije"
+      },
+      {
+        "raw": "⅛ kašičice majčine dušice",
+        "qty": 0.125,
+        "unit": "kašičica",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "⅓ kašičice žalfije",
+        "qty": 0.33,
+        "unit": "kašičica",
+        "ref": "zalfija"
+      },
+      {
+        "raw": "¼ kašičice ljute mlevene paprike",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "¼ kašičice origana",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "origano"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Iseckati bukovaču, luk i papriku na kockice, pa ih na maslinovom ulju na srednjoj temperaturi dinstati dok ne omekšaju, zatim dodati bosiljak i promešati. Skloniti sa ringle i dodati brašno i ostale začine i još jednom dobro promešati. Skuvanu leblebiju izblendati u multipraktiku na krupnije komadiće, dodati u smesu i promešati. Smesu presuti u kalup za hleb koji ste prethodno obložili pek papirom, utisnuti i poravnati. Peći oko 30 minuta na 160 stepeni dok ne porumeni.",
+    "tips": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "subtitle": "Fuzija leblebije, bukovače i začina",
+    "timeMinutes": 50,
+    "timeNote": "50 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 4,
+    "nutrition": {
+      "kcal": 225,
+      "carbs": 31,
+      "fat": 9.6,
+      "protein": 9.4,
+      "fiber": 5
+    }
+  },
+  {
+    "id": "i2-musaka-od-karfiola-i-prosa",
+    "title": "Musaka od karfiola i prosa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 32,
+      "page": "R",
+      "printed": 67
+    },
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "400 gr prosa",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "proso"
+      },
+      {
+        "raw": "150 gr graška",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "grasak"
+      },
+      {
+        "raw": "1 veći crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "6 čena belog luka (iseckan na kockice)",
+        "qty": 6,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 srednja glavica karfiola (iseckan na manje delove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "1 supena kašika italijanske mešavine začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "1 supena kašika jabukovog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "500 ml paradajz soka bez dodatog šećera",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "150 gr mocarele (narendane)",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "mocarela"
+      }
+    ],
+    "method": "Procediti, oprati i još jednom procediti proso. U ključalu posoljenu vodu ubaciti proso, smanjiti na srednju temperaturu i kuvati oko 20 minuta, skloniti sa ringle i poklopiti. Izvaditi grašak iz zamrzivača da se odmrzne. Iseći povrće, ubaciti u veći tiganj pa dinstati na malo vode.\n\nDodati sirće i začine, paradajz sok i grašak, pa promešati. Narendati sir, procediti proso i dodati himalajsku so po potrebi.\n\nU veliku tepsiju izliti proso, zatim povrće iz tiganja. Peći na 180 stepeni oko 25 minuta, zatim posuti sirom i zapeći još oko 5 minuta dok se sir ne istopi.",
+    "tips": [
+      "15 minuta pre pripreme ovog jela, potopiti proso u vodu."
+    ],
+    "subtitle": "Vegetarijanska verzija musake",
+    "timeMinutes": 55,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 259,
+      "carbs": 51.9,
+      "fat": 4.9,
+      "protein": 11.3,
+      "fiber": 6.9
+    }
+  },
+  {
+    "id": "i2-palenta-lazanje",
+    "title": "Palenta lazanje",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 33,
+      "page": "L",
+      "printed": 68
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-kvasca",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250 gr skuvanog sočiva",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "2 glavice crnog luka (iseckan na kockice)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 sveža paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "6 čena belog luka (iseckan na kockice)",
+        "qty": 6,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika italijanske mešavine začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "500 ml marinara sosa (recept na strani 106) ili paradajz soka bez šećera",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "100 gr kelja (ili spanaća)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 supene kašike belog vinskog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "vinsko-sirce"
+      },
+      {
+        "raw": "biber po ukusu",
+        "ref": "biber"
+      },
+      {
+        "raw": "2 l vode",
+        "qty": 2,
+        "unit": "l",
+        "ref": "voda"
+      },
+      {
+        "raw": "¼ kašičice sode bikarbone",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "300 gr neskuvane palente",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "palenta"
+      }
+    ],
+    "method": "Skuvati sočivo po uputstvu iznad. Iseći crni luk, papriku i beli luk na kockice, dinstati na malo vode dok ne omekša, dodati italijansku mešavinu začina. Dodati 250 ml marinara sosa, kelj kom ste prethodno otklonili glavnu „žilu\" i isekli na trakice, sirće i biber. Promešati i dinstati još nekoliko minuta pa skloniti sa ringle.\n\nU veću šerpu sipati 2 l vode, sodu bikarbonu i so i sačekati da proključa, zatim dodati palentu uz mešanje i kuvati 2 do 3 minuta. Zagrejati rernu na 180 stepeni.\n\nU veći pleh sipati i ravnomerno rasporediti trećinu količine palente, zatim polovinu sočiva, drugu trećinu palente, drugi deo sočiva i treći deo palente. Preliti sve sa 250 ml marinara sosom i peći 20-ak minuta.",
+    "tips": [
+      "Sočivo potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte ga sa prstohvatom sode bikarbone kako bi se brže skuvalo. Kada je skuvano, procedite ga i ostavite da se prohladi."
+    ],
+    "subtitle": "Lazanje na kašiku",
+    "timeMinutes": 60,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 407,
+      "carbs": 88.5,
+      "fat": 2,
+      "protein": 13.8,
+      "fiber": 7.9
+    }
+  },
+  {
+    "id": "i2-punjeni-patlidzani",
+    "title": "Punjeni patlidžani",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 33,
+      "page": "R",
+      "printed": 69
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250 gr kukuruza",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kukuruz-secerac",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "4 krompira (isečen na četvrtine)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "krompir",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "100 ml nezaslađenog biljnog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "himalajska so po ukusu",
+        "ref": "so",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "2 oljuštena patlidžana",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "patlidzan",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "himalajska so",
+        "ref": "so",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "1 ljubičasti luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ljubicasti-luk",
+        "group": "Toping"
+      },
+      {
+        "raw": "2 čena belog luka (iseckan na sitno)",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk",
+        "group": "Toping"
+      },
+      {
+        "raw": "300 gr svežeg spanaća",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "spanac",
+        "group": "Toping"
+      },
+      {
+        "raw": "500 ml paradajz soka bez dodatog šećera",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-sok",
+        "group": "Toping"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so",
+        "group": "Toping"
+      }
+    ],
+    "method": "Izvaditi kukuruz iz zamrzivača da se odmrzne. Oljuštiti krompir, iseći i kuvati u posoljenoj vodi dok ne omekša, pa procediti. U velikoj posudi krompir izgnječiti gnječilicom za krompir, i u njega dodati polovinu kukuruza. Drugu polovinu kukuruza, biljno mleko i beli luk u prahu izblendati u blenderu do kremaste strukture. I to dodati u krompir i sve dobro promešati i posoliti po ukusu.\n\nOljuštiti patlidžan, iseći po dužini na debljinu oko 0,5 cm, začiniti ga, poređati u plehu obloženom pek papirom i peći 5 minuta na 180 stepeni, zatim okrenuti i peći još 3 minuta. Punjenje sipati na patlidžan, urolati i ređati u posudu za pečenje veličine oko 20 x 30 cm, preliti paradajz sokom i peći 15 minuta na 200 stepeni.\n\nIseckati ljubičasti i beli luk, ubaciti u tiganj i dodati spanać, pa poklopiti dok spanać ne omekša i začiniti. Toping prebaciti preko punjenih patlidžana.",
+    "tips": [],
+    "subtitle": "Krompir, kukuruz i spanać",
+    "timeMinutes": 45,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 48.4,
+      "fat": 5.5,
+      "protein": 7.2,
+      "fiber": 8.8
+    }
+  },
+  {
+    "id": "i2-punjeni-sampinjoni",
+    "title": "Punjeni šampinjoni",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 34,
+      "page": "L",
+      "printed": 70
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "ljuto",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "80 gr skuvanog sočiva",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "12 velikih šampinjona",
+        "qty": 12,
+        "unit": "komad",
+        "ref": "sampinjoni"
+      },
+      {
+        "raw": "1 veći batat",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "batat"
+      },
+      {
+        "raw": "1 kašičica mlevenog korijandera",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "korijander"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 kašičica čilija",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "prstohvat bibera",
+        "ref": "biber"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      }
+    ],
+    "method": "Skuvati sočivo po uputstvu iznad. Oljuštiti batat, iseći na kolutove i kuvati u vodi 10-ak minuta. Probosti viljuškom kako bi videli da li je kuvan, pa procediti.\n\nOtkloniti dršku od šampinjona, izbušiti ga čačkalicom na nekoliko mesta, okrenuti naopačke i poređati po plehu obloženom pek papirom.\n\nSve sastojke iz recepta (sem šampinjona) sipati u multipraktik i blendati do kremaste strukture. Napuniti smesom šampinjone i peći ih na 200 stepeni oko 30 minuta, dok ne porumene.",
+    "tips": [
+      "Sočivo potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte ga sa prstohvatom sode bikarbone kako bi se brže skuvalo. Kada je skuvano, procedite ga i ostavite da se prohladi."
+    ],
+    "subtitle": "Kremasto punjenje od batata i sočiva",
+    "timeMinutes": 60,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 153,
+      "carbs": 36,
+      "fat": 0.7,
+      "protein": 7.9,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-ustipci-od-kukuruza-i-pasulja",
+    "title": "Uštipci od kukuruza i pasulja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 34,
+      "page": "R",
+      "printed": 71
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-kvasca",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 15 većih uštipaka."
+    ],
+    "ingredients": [
+      {
+        "raw": "200 gr skuvanog pasulja",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "pasulj"
+      },
+      {
+        "raw": "300 gr otopljenog kukuruza",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "kukuruz-secerac"
+      },
+      {
+        "raw": "350 gr brašna po želji",
+        "qty": 350,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 supena kašika sode bikarbone",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "350 ml nezaslađenog biljnog mleka",
+        "qty": 350,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 slatka oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 praziluk (iseckan na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "praziluk"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Skuvati pasulj po uputstvu iznad. U velikoj posudi sjediniti brašno, sodu bikarbonu i so pa promešati. Oljuštiti jabuku pa je u blenderu izblendati sa biljnim mlekom. Iseckati papriku i praziluk.\n\nNapraviti rupu u brašnu, dodati smesu iz blendera, papriku, praziluk, pasulj i kukuruz. Sve dobro promešati. Nauljiti tiganj, odvaditi po 1 do 2 supene kašike smese i oblikovati u tiganju.\n\nPeći na srednjoj temperaturi po nekoliko minuta dok ne porumene.",
+    "tips": [
+      "Ukoliko kuvate pasulj za ovo jelo, potrebno je da ga potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte pasulj sa prstohvatom sode bikarbone kako bi se brže skuvao. Kada je skuvan, procedite ga i ostavite da se prohladi. Izvadite kukuruz iz zamrzivača da se istopi."
+    ],
+    "subtitle": "Uštipci na zdrav način",
+    "timeMinutes": 30,
+    "timeNote": "30 minuta + vreme potrebno za kuvanje pasulja (možete koristiti i gotov skuvani pasulj iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 347,
+      "carbs": 66.4,
+      "fat": 10.3,
+      "protein": 14.2,
+      "fiber": 7.8
+    }
+  },
+  {
+    "id": "i2-pastomania",
+    "title": "Pastomania",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 35,
+      "page": "L",
+      "printed": 72
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 supene kašike izgnječenog skuvanog belog pasulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "pasulj"
+      },
+      {
+        "raw": "1 iseckan praziluk",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "praziluk"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "1 supena kašika susama",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "susam"
+      },
+      {
+        "raw": "200 gr iseckane bukovače",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "bukovaca"
+      },
+      {
+        "raw": "2 čena iseckanog belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "bešamel sos (recept pronađite na strani 103)",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "oko 70 gr testenine od celog zrna",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "testenina"
+      }
+    ],
+    "method": "Skuvati pasulj po uputstvu iznad. Iseckati praziluk na kolutove, bukovaču na trakice, a beli luk na sitne kockice. Na malo vode dinstati praziluk, dodati suvi začin i susam pa promešati. Dodati bukovaču, beli luk i pasulj pa kuvati još 10 minuta. Skloniti sa ringle i dodati dve šake spanaća i poklopiti. Skuvati bešamel po receptu, a testeninu po uputstvu sa pakovanja. Sve sjediniti i promešati.",
+    "tips": [
+      "Ukoliko kuvate pasulj za ovo jelo, potrebno je da ga potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte pasulj sa prstohvatom sode bikarbone kako bi se brže skuvao. Kada je skuvan, procedite ga i ostavite da se prohladi."
+    ],
+    "subtitle": "Moja omiljena pasta",
+    "timeMinutes": 30,
+    "timeNote": "30 minuta + vreme potrebno za kuvanje pasulja (možete koristiti i gotov skuvani pasulj iz tegle)",
+    "servings": 1,
+    "nutrition": {
+      "kcal": 415,
+      "carbs": 86.2,
+      "fat": 11.2,
+      "protein": 20.7,
+      "fiber": 4.2
+    }
+  },
+  {
+    "id": "i2-vege-bolonjeze",
+    "title": "Vege bolonjeze",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 35,
+      "page": "R",
+      "printed": 73
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije",
+      "bez-belog-brasna",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250 gr skuvanog braon sočiva",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "800 gr paradajza (iseckan na kockice)",
+        "qty": 800,
+        "unit": "gr",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "2 šargarepe (narendane)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "2 supene kašike italijanske mešavine začina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "biber po ukusu",
+        "ref": "biber"
+      },
+      {
+        "raw": "150 ml paradajz soka bez dodatog šećera",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "šaka svežeg bosiljka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "200 gr integralne testenine po želji",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "testenina"
+      }
+    ],
+    "method": "Procediti i oprati sočivo, zatim opet procediti. Kuvati u vodi dok ne omekša, pa procediti. Iseckati povrće, ubaciti u veliki duboki tiganj, dodati začine, paradajz sok i dinstati dok ne omekša.\n\nNa kraju dodati sočivo i bosiljak, pa promešati. Skuvati testeninu po uputstvu sa pakovanja, procediti i preliti sosom od sočiva.",
+    "tips": [
+      "Noć pre pripreme ovog recepta potopite sočivo u vodu."
+    ],
+    "subtitle": "Sočivo i paradajz",
+    "timeMinutes": 35,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 318,
+      "carbs": 67,
+      "fat": 2.1,
+      "protein": 15.3,
+      "fiber": 13.1
+    }
+  },
+  {
+    "id": "i2-mediterana",
+    "title": "Mediterana",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 36,
+      "page": "L",
+      "printed": 74
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150 gr integralne testenine po želji",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "testenina"
+      },
+      {
+        "raw": "1 crvena paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 žuta paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "2 paradajza (iseckan na četvrtine)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica sušene majčine dušice",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "1 kašičica sušenog peršuna",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "persun"
+      },
+      {
+        "raw": "1 kašičica sušenog majorana",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "majoran"
+      },
+      {
+        "raw": "2 supene kašike paradajz paste",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "paradajz-pasta"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "12 čeri paradajza (iseckan na četvrtine)",
+        "qty": 12,
+        "unit": "komad",
+        "ref": "ceri-paradajz"
+      },
+      {
+        "raw": "1 oljuštena tikvica (iseckana na polukrugove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "1 šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "5 crnih maslina",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "masline"
+      }
+    ],
+    "method": "Skuvati testeninu po uputstvu sa pakovanja. Iseckati paprike i paradajz, začiniti i dinstati na malo vode 5 minuta. Dodati paradajz pastu i sirće, promešati. Iseći čeri paradajz i tikvicu, dodati u tiganj, kao i spanać i masline. Dinstati još 5 do 7 minuta. Dodati proceđenu testeninu i dobro promešati da se sastojci sjedine.",
+    "tips": [],
+    "subtitle": "Paprika, paradajz, masline i tikvice",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 409,
+      "carbs": 79.9,
+      "fat": 5.1,
+      "protein": 12.3,
+      "fiber": 10.3
+    }
   },
   {
     "id": "paradajz-corba-sa-prosom",

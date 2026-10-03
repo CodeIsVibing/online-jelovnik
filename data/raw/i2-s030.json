@@ -1,0 +1,186 @@
+[
+  {
+    "id": "i2-punjene-paprike",
+    "title": "Punjene paprike",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 30,
+      "page": "L",
+      "printed": 62
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300 gr kinoe",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "6 većih paprika",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "3 manje oljuštene tikvice (iseckane na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "3 šargarepe (iseckane na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "5 supenih kašika paradajz soka",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "šaka svežeg peršuna (iseckan na sitno)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "šaka sveže mirođije (iseckana na sitno)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "mirodjija"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "method": "Potopiti kinou u vodu. Iseći gornji deo paprika (sačuvati „poklopac\"), izvaditi semenke i smestiti uspravno u okruglu posudu za pečenje, vratiti „poklopac\" i poklopiti posudu. Peći 30 minuta na 180 stepeni. Iseći povrće, ubaciti u veću šerpu, dodati paradajz sok i začine. Procediti kinou, oprati i opet procediti. Ubaciti je u šerpu, dodati vode i kuvati 10-ak minuta. U to dodati sveže bilje i sok od limuna pa promešati.\n\nIz paprike koja se pekla izbaciti višak vode i napuniti spremljenim nadevom. Peći još 20-ak minuta dok ne porumene.",
+    "tips": [],
+    "subtitle": "Kinoa, šargarepa i tikvice",
+    "timeMinutes": 60,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 241,
+      "carbs": 45.6,
+      "fat": 3.2,
+      "protein": 9.8,
+      "fiber": 7.7
+    }
+  },
+  {
+    "id": "i2-tetkina-savijaca-od-sarmi",
+    "title": "Tetkina savijača od sarmi sa orasima",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 30,
+      "page": "R",
+      "printed": 63
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300 gr pirinča",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "pirinac"
+      },
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "4 šargarepe (narendane)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "200 gr mlevenih oraha",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "1 supena kašika mlevene paprike",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "oko 1 kg što većih listova kiselog kupusa",
+        "qty": 1,
+        "unit": "kg",
+        "ref": "kiseli-kupus"
+      },
+      {
+        "raw": "100 ml soka od paradajza bez dodatog šećera",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Potopiti pirinač u vodu. Iseckati crni i beli luk, narendati šargarepu i ubaciti u veću šerpu sa malo vode i dinstati na srednjoj temperaturi. Samleti orahe, oprati pirinač i procediti. Dodati u šerpu, a zatim i začine, pa preliti vodom. Kuvati 10-ak minuta, dok se pirinač ne skuva na pola pa skloniti sa ringle i poklopiti.\n\nOprati listove kupusa mlakom vodom, iseći glavnu „žilu\" i dodavati punjenje na list i motati po dužini, zatim slagati u krug u pleh prečnika oko 30 cm dok se ne popuni ceo. Naređati 2 reda duguljastih sarmica kao pitu savijaču. Preliti paradajz sokom i razmazati.\n\nPokvasiti pek papir i staviti preko sarmi. Peći na 190 stepeni oko 30 minuta. Po želji možete skinuti papir i zapeći još malo.",
+    "tips": [],
+    "subtitle": "Posna i lagana sarma bez ulja",
+    "timeMinutes": 60,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 460,
+      "carbs": 60,
+      "fat": 21.7,
+      "protein": 12.2,
+      "fiber": 5.5
+    }
+  }
+]
