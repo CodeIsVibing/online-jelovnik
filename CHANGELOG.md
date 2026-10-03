@@ -2,6 +2,17 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.15.0] · 2026-10-03
+
+### Dodato
+- Podrška za knjigu „Imunomania 2": broj porcija i nutritivne vrednosti (kcal, ugljeni hidrati, masti, proteini, vlakna) u popupu
+- Četiri nove oznake iz legende druge knjige: bez šećera, bez belog brašna, bez kvasca, sirovo, sa ikonicama i stavkama u legendi
+- Prvi recept druge knjige, „Sirova kaša za oporavak"
+
+### Promenjeno
+- Jelo označeno kao vegan automatski dobija i oznaku vegetarijansko, pošto druga knjiga štampa samo vegan
+- Redosled unutar poglavlja ide po knjizi, jer se skenovi u svakoj knjizi numerišu ispočetka
+
 ## [1.14.0] · 2026-10-03
 
 ### Dodato

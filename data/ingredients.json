@@ -24,7 +24,7 @@
     "aliases": [
       "zrele banane"
     ],
-    "count": 71
+    "count": 72
   },
   {
     "id": "limun",
@@ -33,7 +33,7 @@
     "aliases": [
       "limunov sok"
     ],
-    "count": 55
+    "count": 56
   },
   {
     "id": "med",
@@ -59,7 +59,7 @@
     "group": "osnovno",
     "aliases": [],
     "basic": true,
-    "count": 40
+    "count": 41
   },
   {
     "id": "beli-luk",
@@ -113,6 +113,16 @@
       "sirovi suncokret",
       "semenke suncokreta"
     ],
+    "count": 26
+  },
+  {
+    "id": "jabuka",
+    "title": "Jabuka",
+    "group": "voce",
+    "aliases": [
+      "oljuštene jabuke",
+      "greni smit"
+    ],
     "count": 25
   },
   {
@@ -123,16 +133,6 @@
       "rendana šargarepa"
     ],
     "count": 25
-  },
-  {
-    "id": "jabuka",
-    "title": "Jabuka",
-    "group": "voce",
-    "aliases": [
-      "oljuštene jabuke",
-      "greni smit"
-    ],
-    "count": 24
   },
   {
     "id": "spanac",
@@ -188,21 +188,21 @@
     "count": 20
   },
   {
-    "id": "cimet",
-    "title": "Cimet",
-    "group": "zacini",
-    "aliases": [
-      "cejlonski cimet"
-    ],
-    "count": 18
-  },
-  {
     "id": "lanene-semenke",
     "title": "Lanene semenke",
     "group": "semenke",
     "aliases": [
       "laneno seme",
       "lan"
+    ],
+    "count": 19
+  },
+  {
+    "id": "cimet",
+    "title": "Cimet",
+    "group": "zacini",
+    "aliases": [
+      "cejlonski cimet"
     ],
     "count": 18
   },
@@ -417,6 +417,15 @@
     "count": 10
   },
   {
+    "id": "orah",
+    "title": "Orah",
+    "group": "orasasti",
+    "aliases": [
+      "sirovi orah"
+    ],
+    "count": 10
+  },
+  {
     "id": "bademov-puter",
     "title": "Bademov puter",
     "group": "ostalo",
@@ -428,15 +437,6 @@
     "title": "Kupina",
     "group": "voce",
     "aliases": [],
-    "count": 9
-  },
-  {
-    "id": "orah",
-    "title": "Orah",
-    "group": "orasasti",
-    "aliases": [
-      "sirovi orah"
-    ],
     "count": 9
   },
   {
@@ -454,6 +454,15 @@
     "title": "Kurkuma",
     "group": "zacini",
     "aliases": [],
+    "count": 8
+  },
+  {
+    "id": "suvo-grozdje",
+    "title": "Suvo grožđe",
+    "group": "voce",
+    "aliases": [
+      "suve šljive"
+    ],
     "count": 8
   },
   {
@@ -515,15 +524,6 @@
     "group": "ostalo",
     "aliases": [
       "kikiriki puter"
-    ],
-    "count": 7
-  },
-  {
-    "id": "suvo-grozdje",
-    "title": "Suvo grožđe",
-    "group": "voce",
-    "aliases": [
-      "suve šljive"
     ],
     "count": 7
   },
@@ -740,6 +740,13 @@
     "count": 4
   },
   {
+    "id": "proso",
+    "title": "Proso",
+    "group": "zitarice",
+    "aliases": [],
+    "count": 4
+  },
+  {
     "id": "rukola",
     "title": "Rukola",
     "group": "povrce",
@@ -852,13 +859,6 @@
   {
     "id": "pirinac",
     "title": "Pirinač",
-    "group": "zitarice",
-    "aliases": [],
-    "count": 3
-  },
-  {
-    "id": "proso",
-    "title": "Proso",
     "group": "zitarice",
     "aliases": [],
     "count": 3

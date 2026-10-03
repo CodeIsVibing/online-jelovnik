@@ -31,6 +31,10 @@
     { id: "vegan",                label: "Vegan",              icon: "ic-vegan" },
     { id: "priprema-vece-ranije", label: "Priprema veče pre",  icon: "ic-moon" },
     { id: "ljuto",                label: "Ljuto",              icon: "ic-chili" },
+    { id: "bez-secera",           label: "Bez šećera",         icon: "ic-nosugar" },
+    { id: "bez-belog-brasna",     label: "Bez belog brašna",   icon: "ic-noflour" },
+    { id: "bez-kvasca",           label: "Bez kvasca",         icon: "ic-noyeast" },
+    { id: "sirovo",               label: "Sirovo",             icon: "ic-raw" },
   ];
 
   const state = {
@@ -438,6 +442,19 @@
 
   /* ---------------- detalj recepta ---------------- */
 
+  // vrednosti su odštampane u knjizi, ovde se samo formatiraju
+  function nutritionStrip(n) {
+    const f = v => String(v).replace(".", ",");
+    const parts = [
+      n.kcal    != null && `<span><b>${f(n.kcal)}</b> kcal</span>`,
+      n.carbs   != null && `<span><b>${f(n.carbs)}</b> g ugljenih hidrata</span>`,
+      n.fat     != null && `<span><b>${f(n.fat)}</b> g masti</span>`,
+      n.protein != null && `<span><b>${f(n.protein)}</b> g proteina</span>`,
+      n.fiber   != null && `<span><b>${f(n.fiber)}</b> g vlakana</span>`,
+    ].filter(Boolean);
+    return parts.length ? `<p class="r-nutri" aria-label="Nutritivne vrednosti">${parts.join("")}</p>` : "";
+  }
+
   function ingredientLines(r) {
     let html = "", group = null;
     for (const it of r.ingredients) {
@@ -533,10 +550,12 @@
       </p>
       <h2 id="sheet-title">${esc(r.title)}</h2>
       ${r.subtitle ? `<p class="r-sub">${esc(r.subtitle)}</p>` : ""}
-      ${(t || r.tags.length) ? `<div class="r-meta">
+      ${(t || r.servings || r.tags.length) ? `<div class="r-meta">
         ${t ? `<span class="t"><svg aria-hidden="true"><use href="#ic-clock"/></svg>${esc(t)}</span>` : ""}
+        ${r.servings ? `<span class="t"><svg aria-hidden="true"><use href="#ic-fork"/></svg>${esc(r.servings)} ${plural(r.servings, "porcija", "porcije", "porcija")}</span>` : ""}
         ${r.tags.length ? `<span class="r-badges">${badges(r)}</span>` : ""}
       </div>` : ""}
+      ${r.nutrition ? nutritionStrip(r.nutrition) : ""}
       ${(r.notes || []).length ? `<div class="r-notes">${r.notes.map(n => `<p>${esc(n)}</p>`).join("")}</div>` : ""}
       ${(r.equipment || []).length ? `<h3 class="r-h">Potrebno</h3><ul class="r-ing">${r.equipment.map(e => `<li>${esc(e)}</li>`).join("")}</ul>` : ""}
       ${r.ingredients.length ? `<h3 class="r-h">Sastojci</h3>${ingredientLines(r)}` : ""}

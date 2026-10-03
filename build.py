@@ -22,11 +22,18 @@ records = []
 for path in sorted(glob.glob(os.path.join(DATA, "raw", "*.json"))):
     records.extend(json.load(open(path, encoding="utf-8")))
 
-records.sort(key=lambda r: (order[r["category"]], r["source"]["scan"], r["source"]["page"]))
 for r in records:
     r.setdefault("type", "recept")
     # prva knjiga je uneta pre nego što su stigle druge dve, pa nema oznaku
     r.setdefault("book", "imunomania")
+    # vegan je uvek i vegetarijanski; knjiga 2 štampa samo oznaku vegan
+    if "vegan" in r.get("tags", []) and "vegetarijansko" not in r["tags"]:
+        r["tags"].append("vegetarijansko")
+
+# skenovi se numerišu ispočetka u svakoj knjizi, pa redosled ide i po knjizi
+book_order = {b["id"]: b["order"] for b in books}
+records.sort(key=lambda r: (order[r["category"]], book_order[r["book"]],
+                            r["source"]["scan"], r["source"]["page"]))
 
 ing_ids = {i["id"] for i in ingredients}
 cat_ids = {c["id"] for c in categories}
@@ -41,6 +48,9 @@ for r in records:
         errors.append(f"{r['id']}: unknown category {r['category']}")
     if r["book"] not in book_ids:
         errors.append(f"{r['id']}: unknown book {r['book']}")
+    n = r.get("nutrition")
+    if n is not None and set(n) - {"kcal", "carbs", "fat", "protein", "fiber"}:
+        errors.append(f"{r['id']}: unknown nutrition keys {set(n)}")
     for item in r["ingredients"]:
         if item["ref"] not in ing_ids:
             errors.append(f"{r['id']}: unknown ingredient {item['ref']}")
