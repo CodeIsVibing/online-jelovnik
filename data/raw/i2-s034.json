@@ -1,0 +1,187 @@
+[
+  {
+    "id": "i2-punjeni-sampinjoni",
+    "title": "Punjeni šampinjoni",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 34,
+      "page": "L",
+      "printed": 70
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "ljuto",
+      "priprema-vece-ranije"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "80 gr skuvanog sočiva",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "12 velikih šampinjona",
+        "qty": 12,
+        "unit": "komad",
+        "ref": "sampinjoni"
+      },
+      {
+        "raw": "1 veći batat",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "batat"
+      },
+      {
+        "raw": "1 kašičica mlevenog korijandera",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "korijander"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 kašičica čilija",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "prstohvat bibera",
+        "ref": "biber"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      }
+    ],
+    "method": "Skuvati sočivo po uputstvu iznad. Oljuštiti batat, iseći na kolutove i kuvati u vodi 10-ak minuta. Probosti viljuškom kako bi videli da li je kuvan, pa procediti.\n\nOtkloniti dršku od šampinjona, izbušiti ga čačkalicom na nekoliko mesta, okrenuti naopačke i poređati po plehu obloženom pek papirom.\n\nSve sastojke iz recepta (sem šampinjona) sipati u multipraktik i blendati do kremaste strukture. Napuniti smesom šampinjone i peći ih na 200 stepeni oko 30 minuta, dok ne porumene.",
+    "tips": [
+      "Sočivo potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte ga sa prstohvatom sode bikarbone kako bi se brže skuvalo. Kada je skuvano, procedite ga i ostavite da se prohladi."
+    ],
+    "subtitle": "Kremasto punjenje od batata i sočiva",
+    "timeMinutes": 60,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 153,
+      "carbs": 36,
+      "fat": 0.7,
+      "protein": 7.9,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-ustipci-od-kukuruza-i-pasulja",
+    "title": "Uštipci od kukuruza i pasulja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 34,
+      "page": "R",
+      "printed": 71
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-kvasca",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 15 većih uštipaka."
+    ],
+    "ingredients": [
+      {
+        "raw": "200 gr skuvanog pasulja",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "pasulj"
+      },
+      {
+        "raw": "300 gr otopljenog kukuruza",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "kukuruz-secerac"
+      },
+      {
+        "raw": "350 gr brašna po želji",
+        "qty": 350,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 supena kašika sode bikarbone",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "350 ml nezaslađenog biljnog mleka",
+        "qty": 350,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 slatka oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 praziluk (iseckan na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "praziluk"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Skuvati pasulj po uputstvu iznad. U velikoj posudi sjediniti brašno, sodu bikarbonu i so pa promešati. Oljuštiti jabuku pa je u blenderu izblendati sa biljnim mlekom. Iseckati papriku i praziluk.\n\nNapraviti rupu u brašnu, dodati smesu iz blendera, papriku, praziluk, pasulj i kukuruz. Sve dobro promešati. Nauljiti tiganj, odvaditi po 1 do 2 supene kašike smese i oblikovati u tiganju.\n\nPeći na srednjoj temperaturi po nekoliko minuta dok ne porumene.",
+    "tips": [
+      "Ukoliko kuvate pasulj za ovo jelo, potrebno je da ga potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte pasulj sa prstohvatom sode bikarbone kako bi se brže skuvao. Kada je skuvan, procedite ga i ostavite da se prohladi. Izvadite kukuruz iz zamrzivača da se istopi."
+    ],
+    "subtitle": "Uštipci na zdrav način",
+    "timeMinutes": 30,
+    "timeNote": "30 minuta + vreme potrebno za kuvanje pasulja (možete koristiti i gotov skuvani pasulj iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 347,
+      "carbs": 66.4,
+      "fat": 10.3,
+      "protein": 14.2,
+      "fiber": 7.8
+    }
+  }
+]

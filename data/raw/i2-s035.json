@@ -1,0 +1,195 @@
+[
+  {
+    "id": "i2-pastomania",
+    "title": "Pastomania",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 35,
+      "page": "L",
+      "printed": 72
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 supene kašike izgnječenog skuvanog belog pasulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "pasulj"
+      },
+      {
+        "raw": "1 iseckan praziluk",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "praziluk"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "1 supena kašika susama",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "susam"
+      },
+      {
+        "raw": "200 gr iseckane bukovače",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "bukovaca"
+      },
+      {
+        "raw": "2 čena iseckanog belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "bešamel sos (recept pronađite na strani 103)",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "oko 70 gr testenine od celog zrna",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "testenina"
+      }
+    ],
+    "method": "Skuvati pasulj po uputstvu iznad. Iseckati praziluk na kolutove, bukovaču na trakice, a beli luk na sitne kockice. Na malo vode dinstati praziluk, dodati suvi začin i susam pa promešati. Dodati bukovaču, beli luk i pasulj pa kuvati još 10 minuta. Skloniti sa ringle i dodati dve šake spanaća i poklopiti. Skuvati bešamel po receptu, a testeninu po uputstvu sa pakovanja. Sve sjediniti i promešati.",
+    "tips": [
+      "Ukoliko kuvate pasulj za ovo jelo, potrebno je da ga potopite u vodu noć ranije. Procedite ga, dobro operite, zatim još jednom procedite. Kuvajte pasulj sa prstohvatom sode bikarbone kako bi se brže skuvao. Kada je skuvan, procedite ga i ostavite da se prohladi."
+    ],
+    "subtitle": "Moja omiljena pasta",
+    "timeMinutes": 30,
+    "timeNote": "30 minuta + vreme potrebno za kuvanje pasulja (možete koristiti i gotov skuvani pasulj iz tegle)",
+    "servings": 1,
+    "nutrition": {
+      "kcal": 415,
+      "carbs": 86.2,
+      "fat": 11.2,
+      "protein": 20.7,
+      "fiber": 4.2
+    },
+    "seeAlso": [
+      "i2-besamel"
+    ]
+  },
+  {
+    "id": "i2-vege-bolonjeze",
+    "title": "Vege bolonjeze",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 35,
+      "page": "R",
+      "printed": 73
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250 gr skuvanog braon sočiva",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "800 gr paradajza (iseckan na kockice)",
+        "qty": 800,
+        "unit": "gr",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "2 šargarepe (narendane)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "2 supene kašike italijanske mešavine začina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "biber po ukusu",
+        "ref": "biber"
+      },
+      {
+        "raw": "150 ml paradajz soka bez dodatog šećera",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "šaka svežeg bosiljka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "200 gr integralne testenine po želji",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "testenina"
+      }
+    ],
+    "method": "Procediti i oprati sočivo, zatim opet procediti. Kuvati u vodi dok ne omekša, pa procediti. Iseckati povrće, ubaciti u veliki duboki tiganj, dodati začine, paradajz sok i dinstati dok ne omekša.\n\nNa kraju dodati sočivo i bosiljak, pa promešati. Skuvati testeninu po uputstvu sa pakovanja, procediti i preliti sosom od sočiva.",
+    "tips": [
+      "Noć pre pripreme ovog recepta potopite sočivo u vodu."
+    ],
+    "subtitle": "Sočivo i paradajz",
+    "timeMinutes": 35,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 318,
+      "carbs": 67,
+      "fat": 2.1,
+      "protein": 15.3,
+      "fiber": 13.1
+    }
+  }
+]

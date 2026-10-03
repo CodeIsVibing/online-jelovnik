@@ -1,0 +1,117 @@
+[
+  {
+    "id": "i2-mediterana",
+    "title": "Mediterana",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 36,
+      "page": "L",
+      "printed": 74
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150 gr integralne testenine po želji",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "testenina"
+      },
+      {
+        "raw": "1 crvena paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 žuta paprika (iseckana na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "2 paradajza (iseckan na četvrtine)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica sušene majčine dušice",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "1 kašičica sušenog peršuna",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "persun"
+      },
+      {
+        "raw": "1 kašičica sušenog majorana",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "majoran"
+      },
+      {
+        "raw": "2 supene kašike paradajz paste",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "paradajz-pasta"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "12 čeri paradajza (iseckan na četvrtine)",
+        "qty": 12,
+        "unit": "komad",
+        "ref": "ceri-paradajz"
+      },
+      {
+        "raw": "1 oljuštena tikvica (iseckana na polukrugove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "1 šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "5 crnih maslina",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "masline"
+      }
+    ],
+    "method": "Skuvati testeninu po uputstvu sa pakovanja. Iseckati paprike i paradajz, začiniti i dinstati na malo vode 5 minuta. Dodati paradajz pastu i sirće, promešati. Iseći čeri paradajz i tikvicu, dodati u tiganj, kao i spanać i masline. Dinstati još 5 do 7 minuta. Dodati proceđenu testeninu i dobro promešati da se sastojci sjedine.",
+    "tips": [],
+    "subtitle": "Paprika, paradajz, masline i tikvice",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 409,
+      "carbs": 79.9,
+      "fat": 5.1,
+      "protein": 12.3,
+      "fiber": 10.3
+    }
+  }
+]

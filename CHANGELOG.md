@@ -2,6 +2,15 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.18.0] · 2026-10-03
+
+### Dodato
+- Imunomania 2, poglavlje Ručak: prvih trinaest od trideset recepata, strane 62 do 74
+- Pastomania upućuje na recept za bešamel; veza će se pojaviti kad recept iz dela Namazi i umaci bude unet
+
+### Uklonjeno
+- Tri napomene koje nisu autorkine, a stajale su uz njen tekst (objašnjenja kako ostava računa varijante)
+
 ## [1.17.0] · 2026-10-03
 
 ### Dodato
