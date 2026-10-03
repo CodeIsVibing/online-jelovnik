@@ -1,0 +1,203 @@
+[
+  {
+    "id": "sm-ribizla",
+    "title": "Ribizla smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 145,
+      "page": "L",
+      "printed": 63
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake crvenih ribizli",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "ribizla"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-nar",
+    "title": "Nar smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 145,
+      "page": "L",
+      "printed": 63
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od 1 narandže",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika grčkog jogurta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "2 šake očišćenog nara",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "nar"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kokos",
+    "title": "Kokos smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 145,
+      "page": "R",
+      "printed": 64
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 supena kašika kokosovog putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosov-puter"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "2 otkoštene sveže urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "2 supene kašike čia semenki",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "cia-semenke"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "kokosovog nezaslađenog mleka do željene gustine",
+        "ref": "kokosovo-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kolagen",
+    "title": "Kolagen smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 145,
+      "page": "R",
+      "printed": 64
+    },
+    "timeMinutes": 5,
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "kesica čistog kolagena (10 g)",
+        "qty": 10,
+        "unit": "g",
+        "ref": "kolagen"
+      },
+      {
+        "raw": "1 supena kašika bademovog putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bademov-puter"
+      },
+      {
+        "raw": "1 kašičica sirovog kakao praha",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kakao"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  }
+]

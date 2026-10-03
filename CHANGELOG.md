@@ -2,6 +2,20 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.14.0] · 2026-10-03
+
+### Dodato
+- Smoothiemania kompletna: svih 100 šejkova, koliko navodi korica knjige
+- Poglavlja Senior, Konstipacija i Energy boost
+- Uvodi svih šest poglavlja, kao saveti
+- Novo poglavlje „Saveti za šejkove": o knjizi sa disklejmerom, napomena za gluten, oprema, zamrzavanje voća
+
+### Promenjeno
+- Oznaka „bez glutena" skinuta sa 27 šejkova koji koriste biljno mleko bez navedene vrste. Knjiga ne štampa tu oznaku po šejku, a autorka u napomeni upozorava na tragove glutena; ovseno mleko bi tu oznaku učinilo netačnom.
+
+### Izostavljeno namerno
+- Strana o autorki i posveta porodici, jer su lični podaci, ne sadržaj jelovnika
+
 ## [1.13.0] · 2026-10-03
 
 ### Dodato

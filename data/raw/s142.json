@@ -1,0 +1,126 @@
+[
+  {
+    "id": "sm-pine",
+    "title": "Pine smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "konstipacija-smoothies",
+    "source": {
+      "scan": 142,
+      "page": "L",
+      "printed": 57
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "polovina zamrznute banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "1 supena kašika mlevenog lana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "ceđenog soka od ananasa ili vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kefir",
+    "title": "Kefir smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "konstipacija-smoothies",
+    "source": {
+      "scan": 142,
+      "page": "L",
+      "printed": 57
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200 gr kefira",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "kefir"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "polovina banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka iseckane sveže tikvice",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika semena konoplje",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "seme-konoplje"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-uvod-energy",
+    "title": "Energy boost smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 142,
+      "page": "R",
+      "printed": 58
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Ovi smutiji će vas učiniti dovoljno sitim, a u isto vreme obezbediti energije za naporan dan. Sadrže lako svarljive namirnice koje nisu industrijski obrađene, a pružaju osećaj hidracije. Sadrže neophodne zdrave masti, proteine i složene ugljene hidrate koji ne podižu naglo nivo šećera u krvi, a samim tim i naglo opadanje kada nam organizam ubrzo opet traži hranu, nego duže pružaju osećaj sitosti.\n\nZa dodatan boost energije u svoje smutije dodajte ekstra banane, putere od orašastih plodova, biljno nezaslađeno mleko, proteinski dodatak bez šećera poput kolagena, med, lanene ili čia semenke, prah peruanske make… Takođe se možete igrati i sa tropskim voćem, bobicama, zelenim lisnatim povrćem i avokadom.\n\nOve smutije možete unositi pre treninga, ili nakon, zavisi od vaše lične potrebe.\n\nDa biste imali više energije u toku dana probajte da svedete stres na minimum, redovno vežbajte i spavajte, smanjite dnevni unos kafe kao i alkohola, unosite dovoljno vode, izbacite industrijsku hranu punu aditiva, šećera i veštačkih zaslađivača."
+  }
+]

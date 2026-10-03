@@ -1,0 +1,200 @@
+[
+  {
+    "id": "sm-manora",
+    "title": "Manora smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 144,
+      "page": "L",
+      "printed": 61
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina manga",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 oljuštena narandža",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-dinja",
+    "title": "Dinja smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 144,
+      "page": "L",
+      "printed": 61
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake iseckane dinje",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "1 supena kašika kokosovog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosov-protein"
+      },
+      {
+        "raw": "1 do 2 supene kašike meda, zavisi od slatkoće dinje",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-brokoli",
+    "title": "Brokoli smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 144,
+      "page": "R",
+      "printed": 62
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg iseckanog brokolija",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 supene kašike grčkog jogurta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "šaka zamrznutog iseckanog ananasa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ananas"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-maka",
+    "title": "Maka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 144,
+      "page": "R",
+      "printed": 62
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "4 kockice leda",
+        "qty": 4,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "1 kašičica make u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "maka"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  }
+]
