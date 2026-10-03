@@ -1,0 +1,139 @@
+[
+  {
+    "id": "sm-uvod-konstipacija",
+    "title": "Konstipacija smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "konstipacija-smoothies",
+    "source": {
+      "scan": 141,
+      "page": "L",
+      "printed": 55
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Ukoliko imate problema sa zatvorom i radom creva, ovi smutiji će sigurno pomoći. Sadrže potrebne sastojke kako bi se stvari „pokrenule\", kao što su zdrave masti, probiotike, nerastvorljiva i rastvorljiva vlakna, vodu iz povrća i voća, minerale i vitamine, kao i prirodno prisutne šećere koji mogu biti od velike koristi za olakšanje i poboljšanje varenja.\n\nPored ovih smutija, pokušajte sa nekom od sledećih opcija:\n\nUz svaki obrok uzmite 3 supene kašike semena lana uz malo vode.\n\nSvako jutro pre ili uz doručak pojedite suvu šljivu ili smokvu koju ste prethodno veče potopili u hladnu vodu, a ujutru malo ugrejali.\n\nČaj od korena vodopije (cikorije) na prazan stomak.\n\nSvako jutro na prazan stomak popijte čašu vode sobne temperature.\n\nOno što je neophodno, kako biste imali redovnu stolicu, je da u ishranu uvedete redovno konzumiranje svežeg povrća, voća, žitarica i semenki. Iz ishrane izbacite industrijski šećer, svakodnevno se krećite po svežem vazduhu i redovno spavajte. Unos tečnosti, naročito vode, je krucijalan za rad naših creva. Pokušajte da stres svedete na minimum."
+  },
+  {
+    "id": "sm-sos",
+    "title": "S.O.S. smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "konstipacija-smoothies",
+    "source": {
+      "scan": 141,
+      "page": "R",
+      "printed": 56
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Pre konzumacije smuti ostaviti da odstoji 5 minuta, kako bi čia semenke upile tečnost."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "polovina banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "2 šake zamrznutih malina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "2 supene kašike čia semenki",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "cia-semenke"
+      },
+      {
+        "raw": "1 supena kašika sirovih bundevinih semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-cvekla",
+    "title": "Cvekla smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "konstipacija-smoothies",
+    "source": {
+      "scan": 141,
+      "page": "R",
+      "printed": 56
+    },
+    "timeMinutes": 30,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 cvekla",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "cvekla"
+      },
+      {
+        "raw": "oko 2 cm svežeg oljuštenog đumbira",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "pola kašičice psilijum ljuspica",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "psilijum"
+      },
+      {
+        "raw": "prstohvat čiste stevie",
+        "ref": "stevija"
+      },
+      {
+        "raw": "prstohvat soli",
+        "ref": "so"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "method": "Oprati cveklu i neoljuštenu je iseckati na kocke, preliti vodom da ogreznu, kuvati dok ne omekšaju, proveriti viljuškom, zatim procediti i ostaviti da se ohladi. Sve sastojke izblendati do kremaste teksture."
+  }
+]

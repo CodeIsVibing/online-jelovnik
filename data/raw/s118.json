@@ -1,21 +1,73 @@
 [
   {
+    "id": "sm-uvod-detox",
+    "title": "Detox smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 118,
+      "page": "L",
+      "printed": 9
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Dobro je da znamo koliko je jetra važan organ u našem telu, samim tim koliko je bitno negovati je, čistiti je i vršiti svakodnevni detoks. Jetra obavlja preko 400 funkcija u našem telu. Filtrira krv, razlaže toksine, bori se i uništava štetne bakterije pre nego što dospeju u stomak, pomaže u čuvanju glukoze kako bi se kasnije iskoristila u vidu energije, pomaže u skladištenju minerala, vitamina, ugljenih hidrata, masti, proteina, a i proizvodi holesterol i žuč. Zdrava jetra daje nam zdravlje celog organizma. Mnogi ljudi misle da je detoks jetre teška stvar za uraditi, ali zaista nije tako! Sa detoks smutijima iz Smoothiemanie shvatićete koliko je ukusno, zabavno i lako! Recepti za detoks smutije su alkalni, što znači da će postaviti baznu sredinu u našem organizmu i onemogućiti širenje virusa i bakterija u telu.\n\nZnakovi da vam je potreban detoks: prevelik umor, tromost, loše varenje, čest bol u desnoj strani stomaka, nedostatak energije, konstantne velike promene raspoloženja, prekomerno gojenje, depresija, učestale migrene i glavobolje, diskoloracija kože, nadutost, akne.\n\nDetoksom ćete se rešiti toksina, viška kilograma, kamenčića iz jetre, poboljšaćete raspoloženje, povećati energiju, osećaćete se življe i imaćete više samopouzdanja.\n\nOno što je takođe važno znati je činjenica da na zdravlje jetre ne utiče samo detoks, nego i ceo naš životni stil. Ostavite pušenje i alkohol i pijte dovoljno vode."
+  },
+  {
     "id": "sm-tri-bobice",
     "title": "Tri bobice smoothie",
     "type": "recept",
     "book": "smoothiemania",
     "category": "detox-smoothies",
-    "source": { "scan": 118, "page": "R", "printed": 10 },
+    "source": {
+      "scan": 118,
+      "page": "R",
+      "printed": 10
+    },
     "timeMinutes": 5,
-    "tags": ["bez-glutena", "vegetarijansko"],
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
     "notes": [],
     "ingredients": [
-      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
-      { "raw": "šaka jagoda", "qty": 1, "unit": "šaka", "ref": "jagoda" },
-      { "raw": "šaka borovnica", "qty": 1, "unit": "šaka", "ref": "borovnica" },
-      { "raw": "šaka malina", "qty": 1, "unit": "šaka", "ref": "malina" },
-      { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
-      { "raw": "vode do željene gustine", "ref": "voda" }
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "šaka malina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
     ],
     "tips": []
   },
@@ -25,17 +77,53 @@
     "type": "recept",
     "book": "smoothiemania",
     "category": "detox-smoothies",
-    "source": { "scan": 118, "page": "R", "printed": 10 },
+    "source": {
+      "scan": 118,
+      "page": "R",
+      "printed": 10
+    },
     "timeMinutes": 5,
-    "tags": ["bez-glutena", "vegetarijansko", "vegan"],
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
     "notes": [],
     "ingredients": [
-      { "raw": "1 mango", "qty": 1, "unit": "komad", "ref": "mango" },
-      { "raw": "3 sveže otkoštene urme", "qty": 3, "unit": "komad", "ref": "urme" },
-      { "raw": "1 banana", "qty": 1, "unit": "komad", "ref": "banana" },
-      { "raw": "sok od četvrtine limuna", "qty": 0.25, "unit": "komad", "ref": "limun" },
-      { "raw": "1 supena kašika lanenog proteina", "qty": 1, "unit": "supena kašika", "ref": "laneni-protein" },
-      { "raw": "vode do željene gustine", "ref": "voda" }
+      {
+        "raw": "1 mango",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "3 sveže otkoštene urme",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "sok od četvrtine limuna",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika lanenog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "laneni-protein"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
     ],
     "tips": []
   }

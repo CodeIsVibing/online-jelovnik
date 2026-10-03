@@ -1,0 +1,219 @@
+[
+  {
+    "id": "sm-smokva-jabuka",
+    "title": "Smokva i jabuka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 143,
+      "page": "L",
+      "printed": 59
+    },
+    "timeMinutes": 25,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Kinoa se kuva oko 15 minuta na nižoj temperaturi u vodi u srazmeri 1:2."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike kuvane kinoe",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "1 oljuštena crvena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "3 suve smokve",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "smokva"
+      },
+      {
+        "raw": "1 supena kašika suvog grožđa",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvo-grozdje"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-avocu",
+    "title": "Avocu smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 143,
+      "page": "L",
+      "printed": 59
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "četvrtina svežeg krastavca",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika naseckanog oraha za posipanje",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "orah"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-red",
+    "title": "Red smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 143,
+      "page": "R",
+      "printed": 60
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od jednog limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 šake iseckane lubenice",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "lubenica"
+      },
+      {
+        "raw": "šaka ribizli",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ribizla"
+      },
+      {
+        "raw": "pola svežeg krastavca",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-zuccini",
+    "title": "Zuccini smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "energy-boost-smoothies",
+    "source": {
+      "scan": 143,
+      "page": "R",
+      "printed": 60
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "polovina sveže tikvice",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "2 supene kašike lanenog proteina",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "laneni-protein"
+      },
+      {
+        "raw": "2 šake iseckane zelene salate",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  }
+]

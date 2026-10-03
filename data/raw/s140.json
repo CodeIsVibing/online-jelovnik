@@ -12,7 +12,6 @@
     },
     "timeMinutes": 5,
     "tags": [
-      "bez-glutena",
       "vegetarijansko",
       "vegan"
     ],
@@ -97,6 +96,112 @@
         "qty": 1,
         "unit": "šaka",
         "ref": "spanac"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-smokva-badem",
+    "title": "Smokva i badem smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 140,
+      "page": "R",
+      "printed": 54
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka sirovih badema",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "badem"
+      },
+      {
+        "raw": "2 sveže smokve",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "smokva"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-letnji-senior",
+    "title": "Letnji smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 140,
+      "page": "R",
+      "printed": 54
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina breskve",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "2 šake malina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "1 supena kašika oraha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "orah"
+      },
+      {
+        "raw": "2 sveže otkoštene urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "1 kašičica kokosovog proteina",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kokosov-protein"
       },
       {
         "raw": "vode do željene gustine",

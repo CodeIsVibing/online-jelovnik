@@ -82,5 +82,11 @@
     "order": 14,
     "title": "Energy boost šejkovi",
     "color": "#E8B62E"
+  },
+  {
+    "id": "smoothie-saveti",
+    "order": 15,
+    "title": "Saveti za šejkove",
+    "color": "#A5B84A"
   }
 ]
