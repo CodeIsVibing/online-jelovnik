@@ -6,6 +6,8 @@
   const $$ = (s, r = document) => [...r.querySelectorAll(s)];
 
   const STORE_KEY = "imunomania.ostava.v1";
+  const FAV_KEY   = "imunomania.omiljena.v1";
+  const MADE_KEY  = "imunomania.pravio.v1";
 
   const GROUP_LABELS = {
     povrce:    "Povrće",
@@ -38,6 +40,10 @@
     tags: new Set(),
     ing: null,
     pantry: new Set(loadPantry()),
+    favs: new Set(loadSet(FAV_KEY)),
+    made: new Set(loadSet(MADE_KEY)),
+    favOnly: false,          // prikaži samo omiljena
+    madeMode: null,          // null, "samo" ili "sakrij"
     showAllIngredients: false,
     ingQuery: "",
     page: 1,
@@ -61,6 +67,16 @@
     .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
     .replace(/đ/g, "d").replace(/ć/g, "c").replace(/č/g, "c")
     .replace(/š/g, "s").replace(/ž/g, "z");
+
+  // omiljena jela i ona koja je korisnik već pravio žive u njegovom browseru
+  function loadSet(key) {
+    try { return JSON.parse(localStorage.getItem(key)) || []; }
+    catch { return []; }
+  }
+  function saveSet(key, set) {
+    try { localStorage.setItem(key, JSON.stringify([...set])); }
+    catch { /* privatni prozor */ }
+  }
 
   function loadPantry() {
     try { return JSON.parse(localStorage.getItem(STORE_KEY)) || []; }
@@ -111,6 +127,9 @@
       if (state.cat && r.category !== state.cat) return false;
       for (const t of state.tags) if (!r.tags.includes(t)) return false;
       if (state.ing && !r.ingredients.some(i => i.ref === state.ing)) return false;
+      if (state.favOnly && !state.favs.has(r.id)) return false;
+      if (state.madeMode === "samo"   && !state.made.has(r.id)) return false;
+      if (state.madeMode === "sakrij" &&  state.made.has(r.id)) return false;
       for (const w of words) if (!r._idx.includes(w)) return false;
       return true;
     });
@@ -147,8 +166,10 @@
     const cat = catById.get(r.category);
     const t = timeLabel(r);
     const miss = entry.miss || [];
+    const fav = state.favs.has(r.id), made = state.made.has(r.id);
     return `
-      <button class="card" data-id="${esc(r.id)}" style="--c:${esc(cat.color)};--i:${Math.min(i, 14)}" type="button">
+      <div class="card-wrap" style="--c:${esc(cat.color)};--i:${Math.min(i, 14)}">
+      <button class="card${fav ? " is-fav" : ""}${made ? " is-made" : ""}" data-id="${esc(r.id)}" type="button">
         <span class="book">${esc(bookById.get(r.book)?.short || "")}</span>
         <span class="cat">${esc(cat.title)}</span>
         <h3>${esc(r.title)}</h3>
@@ -157,7 +178,38 @@
           ${r.tags.length ? `<span class="badges">${badges(r)}</span>` : ""}
         </span>
         ${miss.length ? `<span class="missing">Fali: <b>${miss.map(x => esc(ingById.get(x)?.title || x)).join(", ")}</b></span>` : ""}
+      </button>
+      <span class="marks">${markButtons(r.id, fav, made)}</span>
+      </div>`;
+  }
+
+  // dugmad stoje pored kartice, ne u njoj, jer dugme ne sme da sadrži dugme
+  function markButtons(id, fav, made) {
+    return `
+      <button class="mark${fav ? " is-on" : ""}" type="button" data-fav="${esc(id)}"
+              aria-pressed="${fav}" title="${fav ? "Ukloni iz omiljenih" : "Dodaj u omiljena"}"
+              aria-label="${fav ? "Ukloni iz omiljenih" : "Dodaj u omiljena"}">
+        <svg aria-hidden="true"><use href="#${fav ? "ic-heart-full" : "ic-heart"}"/></svg>
+      </button>
+      <button class="mark${made ? " is-on" : ""}" type="button" data-made="${esc(id)}"
+              aria-pressed="${made}" title="${made ? "Nisam pravio" : "Označi da sam pravio"}"
+              aria-label="${made ? "Nisam pravio" : "Označi da sam pravio"}">
+        <svg aria-hidden="true"><use href="#${made ? "ic-check" : "ic-pot"}"/></svg>
       </button>`;
+  }
+
+  function toggleMark(kind, id) {
+    const set = kind === "fav" ? state.favs : state.made;
+    set.has(id) ? set.delete(id) : set.add(id);
+    saveSet(kind === "fav" ? FAV_KEY : MADE_KEY, set);
+    renderChips();
+    renderResults();
+    if (!$("#sheet").hidden && currentId === id) renderSheetMarks(id);
+  }
+
+  function renderSheetMarks(id) {
+    const box = $("#sheet-marks");
+    if (box) box.innerHTML = markButtons(id, state.favs.has(id), state.made.has(id));
   }
 
   // strane se broje kroz ceo rezultat, i onda kad je podeljen u grupe po ostavi
@@ -289,6 +341,8 @@
     const tagCounts = new Map();
     for (const r of RECIPES) for (const t of r.tags) tagCounts.set(t, (tagCounts.get(t) || 0) + 1);
 
+    renderMyChips();
+
     $("#tags").innerHTML = [
       ...TAGS.filter(t => tagCounts.get(t.id)).map(t => `
         <button class="chip ${state.tags.has(t.id) ? "is-on" : ""}" data-tag="${esc(t.id)}"
@@ -299,6 +353,27 @@
           Sadrži: ${esc(ingById.get(state.ing)?.title || state.ing)}
           <svg aria-hidden="true"><use href="#ic-close"/></svg></button>` : "",
     ].join("");
+  }
+
+  // dva čipa za lična jela: omiljena i ona koja je korisnik već pravio
+  function renderMyChips() {
+    const box = $("#moji");
+    if (!box) return;
+
+    const madeLabel = state.madeMode === "samo" ? "Samo ono što sam pravio"
+                    : state.madeMode === "sakrij" ? "Sakriveno ono što sam pravio"
+                    : "Pravio sam";
+
+    box.innerHTML = `
+      <button class="chip chip-mine${state.favOnly ? " is-on" : ""}" data-mine="fav"
+              style="--c:#c2185b" type="button" aria-pressed="${state.favOnly}">
+        <svg aria-hidden="true"><use href="#${state.favOnly ? "ic-heart-full" : "ic-heart"}"/></svg>Omiljena<span class="n">${state.favs.size}</span>
+      </button>
+      <button class="chip chip-mine${state.madeMode ? " is-on" : ""}" data-mine="made"
+              style="--c:#4c9a2a" type="button" aria-pressed="${!!state.madeMode}">
+        <svg aria-hidden="true"><use href="#${state.madeMode === "sakrij" ? "ic-close" : "ic-pot"}"/></svg>${esc(madeLabel)}<span class="n">${state.made.size}</span>
+      </button>
+      ${(state.favs.size || state.made.size) ? `<button class="chip chip-clear" data-mine="ocisti" type="button">Očisti moje oznake</button>` : ""}`;
   }
 
   function renderPantry() {
@@ -453,6 +528,8 @@
       <p class="r-head">
         <span class="r-cat" style="--c:${esc(cat.color)}"><span class="dot"></span>${esc(cat.title)}</span>
         <span class="book">${esc(bookById.get(r.book)?.short || "")}</span>
+        <span class="marks marks-sheet" id="sheet-marks">${
+          markButtons(r.id, state.favs.has(r.id), state.made.has(r.id))}</span>
       </p>
       <h2 id="sheet-title">${esc(r.title)}</h2>
       ${r.subtitle ? `<p class="r-sub">${esc(r.subtitle)}</p>` : ""}
@@ -546,6 +623,22 @@
       renderChips(); refresh();
     });
 
+    $("#moji").addEventListener("click", e => {
+      const b = e.target.closest("[data-mine]");
+      if (!b) return;
+      if (b.dataset.mine === "fav") state.favOnly = !state.favOnly;
+      if (b.dataset.mine === "made")
+        state.madeMode = state.madeMode === null ? "samo"
+                       : state.madeMode === "samo" ? "sakrij" : null;
+      if (b.dataset.mine === "ocisti") {
+        if (!confirm("Obrisati sve oznake za omiljena jela i ona koja si pravio?")) return;
+        state.favs.clear(); state.made.clear();
+        saveSet(FAV_KEY, state.favs); saveSet(MADE_KEY, state.made);
+        state.favOnly = false; state.madeMode = null;
+      }
+      renderChips(); refresh();
+    });
+
     $("#tags").addEventListener("click", e => {
       const clear = e.target.closest("[data-clear-ing]");
       if (clear) { state.ing = null; renderChips(); refresh(); return; }
@@ -579,6 +672,10 @@
     iq.addEventListener("input", () => { state.ingQuery = iq.value; renderPantry(); });
 
     $("#results").addEventListener("click", e => {
+      const f = e.target.closest("[data-fav]");
+      if (f) { toggleMark("fav", f.dataset.fav); return; }
+      const m = e.target.closest("[data-made]");
+      if (m) { toggleMark("made", m.dataset.made); return; }
       const p = e.target.closest("[data-page]");
       if (p) { goToPage(Number(p.dataset.page)); return; }
       const b = e.target.closest(".card");
@@ -596,6 +693,10 @@
 
     $("#sheet").addEventListener("click", e => {
       if (e.target.closest("[data-close]")) { closeSheet(); return; }
+      const f = e.target.closest("[data-fav]");
+      if (f) { toggleMark("fav", f.dataset.fav); return; }
+      const mk = e.target.closest("[data-made]");
+      if (mk) { toggleMark("made", mk.dataset.made); return; }
       const step = e.target.closest("[data-step]");
       if (step) { stepRecipe(Number(step.dataset.step)); return; }
       const b = e.target.closest("[data-id]");

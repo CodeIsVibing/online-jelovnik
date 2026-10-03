@@ -2,6 +2,16 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.13.0] · 2026-10-03
+
+### Dodato
+- Omiljena jela: srce na kartici i u popupu, filter „Omiljena" prikazuje samo njih
+- „Pravio sam": lonac na kartici i u popupu; filter ima tri stanja, isključen, samo ono što sam pravio, sakriveno ono što sam pravio
+- Jelo koje je već pravljeno nosi tihu zelenu ivicu
+- Dugme „Očisti moje oznake", uz potvrdu
+- Obe liste se čuvaju samo u browseru korisnika, kao i ostava
+- Smoothiemania, strane 44 do 53: 19 novih zapisa, kraj Kids poglavlja i početak Senior
+
 ## [1.12.0] · 2026-10-03
 
 ### Dodato

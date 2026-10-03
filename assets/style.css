@@ -229,6 +229,8 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 .legend li:nth-child(4) { --d: 330; }
 .legend li:nth-child(5) { --d: 420; }
 .legend li:nth-child(6) { --d: 510; }
+.legend li:nth-child(7) { --d: 600; }
+.legend li:nth-child(8) { --d: 690; }
 
 .legend li:hover {
   transform: translateY(-3px);
@@ -459,11 +461,61 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 
 .card h3 {
   margin: 0 0 3px;
+  padding-right: 62px;
   font-family: var(--font-hand);
   font-size: 25px;
   line-height: 1.12;
   font-weight: 700;
 }
+/* ---------- Moja jela: omiljena i ono što sam pravio ---------- */
+
+/* kartica i njene oznake dele omotač, jer dugme ne sme da sadrži dugme */
+.card-wrap { position: relative; display: flex; }
+.card-wrap > .card { flex: 1; min-width: 0; }
+
+.marks {
+  position: absolute;
+  top: 8px; right: 8px;
+  display: flex; gap: 4px;
+  z-index: 2;
+}
+
+.mark {
+  display: grid; place-items: center;
+  width: 30px; height: 30px;
+  appearance: none;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--paper) 72%, transparent);
+  color: var(--ink-3);
+  font-size: 16px;
+  cursor: pointer;
+  opacity: .55;
+  transition: opacity .18s ease, color .18s ease, background .18s ease, transform .18s cubic-bezier(.34,1.4,.5,1);
+  -webkit-tap-highlight-color: transparent;
+}
+.card-wrap:hover .mark, .mark:focus-visible { opacity: 1; }
+.mark:hover { transform: scale(1.12); background: var(--paper-2); border-color: var(--paper-edge); }
+.mark:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.mark.is-on { opacity: 1; background: var(--paper-2); border-color: var(--paper-edge); }
+.mark[data-fav].is-on  { color: #c2185b; }
+.mark[data-made].is-on { color: var(--accent); }
+
+/* jelo koje je već pravljeno nosi tihu zelenu ivicu */
+.card.is-made { box-shadow: var(--shadow), inset 0 0 0 1px color-mix(in srgb, var(--accent) 45%, transparent); }
+
+/* u popupu oznake stoje u redu sa poglavljem, bez apsolutnog pozicioniranja */
+.marks-sheet { position: static; margin-left: auto; }
+.marks-sheet .mark { opacity: 1; background: var(--paper-2); border-color: var(--paper-edge); }
+
+.chip-mine svg { font-size: 16px; }
+.chip-clear { color: var(--ink-3); }
+
+@media (max-width: 460px) {
+  .mark { width: 34px; height: 34px; opacity: .8; }
+}
+
 /* iz koje knjige jelo dolazi, isto na kartici i u popupu */
 .book {
   align-self: flex-start;

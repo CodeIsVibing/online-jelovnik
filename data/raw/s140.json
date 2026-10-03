@@ -1,0 +1,108 @@
+[
+  {
+    "id": "sm-zelena-jabuka-senior",
+    "title": "Zelena jabuka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 140,
+      "page": "L",
+      "printed": 53
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "1 zelena oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 brazilska oraha",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "brazilski-orah"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-zeleni-dorucak",
+    "title": "Zeleni doručak",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 140,
+      "page": "L",
+      "printed": 53
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina krastavca",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 zelena oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika oraha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "orah"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  }
+]

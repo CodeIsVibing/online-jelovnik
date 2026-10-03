@@ -1,0 +1,198 @@
+[
+  {
+    "id": "sm-bundeva-smutipita",
+    "title": "Bundeva smutipita",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 137,
+      "page": "L",
+      "printed": 47
+    },
+    "timeMinutes": 30,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Bundevu kuvajte u malo vode dok ne omekša."
+    ],
+    "ingredients": [
+      {
+        "raw": "šaka skuvane iseckane bundeve",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "pola banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "pola kašičice vanila ekstrakta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "vanila"
+      },
+      {
+        "raw": "pola kašičice cejlonskog cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Dezert smoothies"
+  },
+  {
+    "id": "sm-batat-smutipita",
+    "title": "Slatki krompir smutipita",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 137,
+      "page": "L",
+      "printed": 47
+    },
+    "timeMinutes": 20,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Batat kuvajte u malo vode dok ne omekša."
+    ],
+    "ingredients": [
+      {
+        "raw": "zamrznuta banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka iseckanog skuvanog slatkog krompira (batat)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "batat"
+      },
+      {
+        "raw": "pola kašičice cejlonskog cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Dezert smoothies"
+  },
+  {
+    "id": "sm-kamilica-bobica",
+    "title": "Kamilica bobica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 137,
+      "page": "R",
+      "printed": 48
+    },
+    "timeMinutes": 10,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Čaj kuvajte po uputstvu na pakovanju."
+    ],
+    "ingredients": [
+      {
+        "raw": "ohlađen čaj od kamilice",
+        "ref": "kamilica"
+      },
+      {
+        "raw": "3 šake zamrznutih mix bobica",
+        "qty": 3,
+        "unit": "šaka",
+        "ref": "bobicasto-voce"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Smoothies za laku noć",
+    "timeNote": "10 minuta + vreme hlađenja čaja od kamilice"
+  },
+  {
+    "id": "sm-kikiriki-jabuka",
+    "title": "Kikiriki i jabuka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 137,
+      "page": "R",
+      "printed": 48
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 slatka oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 supena kašika nezaslađenog kikiriki putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Smoothies za laku noć"
+  }
+]
