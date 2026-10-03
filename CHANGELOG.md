@@ -5,7 +5,7 @@ Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [Sem
 ## [1.12.0] · 2026-10-03
 
 ### Dodato
-- Smoothiemania, strane 9 do 43: 64 nova zapisa, 62 šejka i 2 uvoda u poglavlja
+- Smoothiemania, strane 9 do 43: 66 novih zapisa, 64 šejka i 2 uvoda u poglavlja
 - Poglavlja Detox, Diabetes i Kids šejkovi popunjena; Kids nosi i podnaslov potpoglavlja
 - Petnaest novih sastojaka, između ostalog ananas, kivi, lubenica, dinja, bundeva, kamilica, đumbir, kokosovo i pirinčano mleko
 
