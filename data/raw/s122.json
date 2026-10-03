@@ -1,0 +1,201 @@
+[
+  {
+    "id": "sm-narandza-banana",
+    "title": "Narandža i banana smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "L",
+      "printed": 17
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 oljuštena narandža",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-maslacak-tikvica",
+    "title": "Maslačak i tikvica smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "L",
+      "printed": 17
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckane sveže tikvice",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "šaka svežeg lista maslačka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "maslacak"
+      },
+      {
+        "raw": "1 supena kašika konopljinog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "konopljin-protein"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-salata-bobice",
+    "title": "Salata i bobice smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "R",
+      "printed": 18
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "šaka iseckane zelene salate",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "zelena-salata"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-letnja-trojka",
+    "title": "Letnja trojka smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 122,
+      "page": "R",
+      "printed": 18
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "četvrtina manga",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "pola banane",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "šaka iseckane lubenice",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "lubenica"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  }
+]

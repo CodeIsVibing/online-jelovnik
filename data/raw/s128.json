@@ -1,0 +1,210 @@
+[
+  {
+    "id": "sm-popaj",
+    "title": "Popaj smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "L",
+      "printed": 29
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "četvrtina avokada",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "1 supena kašika oraha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "orah"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kelj-dinja",
+    "title": "Kelj i dinja smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "L",
+      "printed": 29
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka iseckanog kelja",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kelj"
+      },
+      {
+        "raw": "2 šake iseckane dinje",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "1 supena kašika kokosovih mrvica ili brašna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "2 supene kašike jogurta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jogurt"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-bundeva",
+    "title": "Bundeva smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "R",
+      "printed": 30
+    },
+    "timeMinutes": 30,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Bundevu kuvajte u malo vode dok ne omekša."
+    ],
+    "ingredients": [
+      {
+        "raw": "šaka skuvane iseckane bundeve",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "šaka sirovih lešnika",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "lesnik"
+      },
+      {
+        "raw": "kašičica cejlonskog cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 oljuštena kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-celer",
+    "title": "Celer smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 128,
+      "page": "R",
+      "printed": 30
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "2 štapa celera",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "celer"
+      },
+      {
+        "raw": "50 ml jogurta",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "jogurt"
+      },
+      {
+        "raw": "1 oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  }
+]

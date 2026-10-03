@@ -1,0 +1,115 @@
+[
+  {
+    "id": "sm-uvod-kids",
+    "title": "Kids smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 130,
+      "page": "L",
+      "printed": 33
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Kako biste vašoj deci obezbedili dovoljan unos minerala i vitamina, ubacite im bar jedan smuti u dnevni meni. Ovi smutiji značiće vam preko radne nedelje kada su užurbana jutra, a deca gladna. Iskoristite tu glad i spremite im nutritivno bogat obrok.\n\nU delu za dečije smutije naći ćete više vrsta smutija kao što su smutiji za doručak (puni proteina i vlakana), dezert (preukusni, ali i dalje sadrže nutrijente), užinu (za period kada su deca gladna a još nije vreme za ručak ili večeru) i smutiji pred spavanje (sa sastojcima koji deluju umirujuće na decu i omogućavaju kvalitetan san).\n\nOno što kod dece takođe igra ulogu kod ispijanja smutija:\n\nSlamčice, neka budu što atraktivnije po njihovom ukusu. Ukoliko koriste slamčice od inoxa, obratite pažnju da sede mirno dok piju kako se ne bi povredili.\n\nČaše, odlučite se za njihove omiljene boje, kao i heroje iz crtanih filmova i igrica. A kako biste nekada sakrili zelene boje smutija, ako imate probirljivca, koristite neprovidne čaše u boji sa poklopcem."
+  },
+  {
+    "id": "sm-madagascar",
+    "title": "Madagascar smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 130,
+      "page": "R",
+      "printed": 34
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Ukoliko koristite kupovni sok, obratite pažnju da u sastavu nema dodatih šećera."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 ml svežeg soka od narandže",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "narandza"
+      },
+      {
+        "raw": "100 ml svežeg soka od šargarepe",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "2 šake zamrznutog manga",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "mango"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  },
+  {
+    "id": "sm-crveni",
+    "title": "Crveni smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 130,
+      "page": "R",
+      "printed": 34
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100 ml svežeg soka od šargarepe",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "100 ml svežeg soka od jabuke",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "polovina kruške",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "četvrtina sirove cvekle",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "cvekla"
+      },
+      {
+        "raw": "polovina oljuštene jabuke",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "jabuka"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Doručak smoothies"
+  }
+]

@@ -1,0 +1,220 @@
+[
+  {
+    "id": "sm-pizza",
+    "title": "Pizza smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "L",
+      "printed": 27
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 paradajz",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "pola šake svežeg bosiljka",
+        "qty": 0.5,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "šaka svežeg spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "polovina manje crvene paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ekstra devičanskog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "prstohvat čilija u prahu ili mlevene ljute paprike",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-sargarepa-dumbir",
+    "title": "Šargarepa i đumbir smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "L",
+      "printed": 27
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od 2 narandže",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "2 oljuštene šargarepe",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 cm svežeg oljuštenog đumbira",
+        "qty": 1,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-grcki",
+    "title": "Grčki smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "R",
+      "printed": 28
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka svežeg iseckanog karfiola",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "šaka zamrznutih jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka iseckane dinje",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "dinja"
+      },
+      {
+        "raw": "2 supene kašike grčkog jogurta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-iscelujuci",
+    "title": "Iscelujući smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "diabetes-smoothies",
+    "source": {
+      "scan": 127,
+      "page": "R",
+      "printed": 28
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "2 šake zamrznutih malina",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "kašičica kokosovog ulja",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "pola kašičice kurkume u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "pola kašičice đumbira u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "1 supena kašika lanenih semenki",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  }
+]

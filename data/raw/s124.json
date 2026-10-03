@@ -1,0 +1,210 @@
+[
+  {
+    "id": "sm-crni-maslacak",
+    "title": "Crni maslačak smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "L",
+      "printed": 21
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "šaka svežeg lista maslačka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "maslacak"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "2 otkoštene sveže urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-breskva",
+    "title": "Breskva smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "L",
+      "printed": 21
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika bademovog putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bademov-puter"
+      },
+      {
+        "raw": "1 otkoštena breskva",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "1 supena kašika konopljinog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "konopljin-protein"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-mango-rukola",
+    "title": "Mango i rukola smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "R",
+      "printed": 22
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "polovina manga",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "šaka rukole",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "rukola"
+      },
+      {
+        "raw": "2 supene kašike kokosovih mrvica ili brašna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "polovina avokada",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kupina",
+    "title": "Kupina smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "detox-smoothies",
+    "source": {
+      "scan": 124,
+      "page": "R",
+      "printed": 22
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "1 otkoštena sveža urma",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "polovina manga",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  }
+]
