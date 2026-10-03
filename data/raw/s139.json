@@ -1,0 +1,209 @@
+[
+  {
+    "id": "sm-srce",
+    "title": "Srce smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 139,
+      "page": "L",
+      "printed": 51
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "šaka jagoda",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "jagoda"
+      },
+      {
+        "raw": "šaka malina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "šaka kupina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "kupina"
+      },
+      {
+        "raw": "1 supena kašika sirovog suncokreta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-ljubicasti",
+    "title": "Ljubičasti smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 139,
+      "page": "L",
+      "printed": 51
+    },
+    "timeMinutes": 25,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [
+      "Kinoa se kuva oko 15 minuta na nižoj temperaturi u vodi u srazmeri 1:2."
+    ],
+    "ingredients": [
+      {
+        "raw": "šaka borovnica",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "2 supene kašike kuvane kinoe",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "3 sveže otkoštene urme",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-kinoa-mango",
+    "title": "Kinoa i mango smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 139,
+      "page": "R",
+      "printed": 52
+    },
+    "timeMinutes": 25,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljušten i otkošten mango",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "2 sveže otkoštene urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "2 supene kašike kuvane kinoe",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "1 supena kašika konopljinog proteina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "konopljin-protein"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": []
+  },
+  {
+    "id": "sm-dorucak",
+    "title": "Doručak",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 139,
+      "page": "R",
+      "printed": 52
+    },
+    "timeMinutes": 15,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Najbolji čajevi za podizanje energije su zeleni, crni, limun, menta.",
+      "Najbolji začini uz bananu su cimet, karanfilić, đumbir, kardamom."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika oraha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "orah"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "200 ml ohlađenog čaja od hibiskusa",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "hibiskus"
+      }
+    ],
+    "tips": [],
+    "timeNote": "15 minuta + vreme hlađenja čaja"
+  }
+]

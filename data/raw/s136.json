@@ -1,64 +1,14 @@
 [
   {
-    "id": "sm-cokoladni",
-    "title": "Čokoladni smoothie",
+    "id": "sm-breskva-malina",
+    "title": "Breskva i malina smoothie",
     "type": "recept",
     "book": "smoothiemania",
     "category": "kids-smoothies",
     "source": {
-      "scan": 135,
+      "scan": 136,
       "page": "L",
-      "printed": 43
-    },
-    "timeMinutes": 5,
-    "tags": [
-      "bez-glutena",
-      "vegetarijansko"
-    ],
-    "notes": [],
-    "ingredients": [
-      {
-        "raw": "1 zamrznuta banana",
-        "qty": 1,
-        "unit": "komad",
-        "ref": "banana"
-      },
-      {
-        "raw": "1 kašičica sirovog kakao praha",
-        "qty": 1,
-        "unit": "kašičica",
-        "ref": "kakao"
-      },
-      {
-        "raw": "1 kašičica kikiriki putera nezaslađenog",
-        "qty": 1,
-        "unit": "kašičica",
-        "ref": "kikiriki-puter"
-      },
-      {
-        "raw": "1 supena kašika meda",
-        "qty": 1,
-        "unit": "supena kašika",
-        "ref": "med"
-      },
-      {
-        "raw": "biljnog nezaslađenog mleka do željene gustine",
-        "ref": "biljno-mleko"
-      }
-    ],
-    "tips": [],
-    "subtitle": "Dezert smoothies"
-  },
-  {
-    "id": "sm-ludlab",
-    "title": "Ludlab smoothie",
-    "type": "recept",
-    "book": "smoothiemania",
-    "category": "kids-smoothies",
-    "source": {
-      "scan": 135,
-      "page": "L",
-      "printed": 43
+      "printed": 45
     },
     "timeMinutes": 5,
     "tags": [
@@ -69,28 +19,60 @@
     "notes": [],
     "ingredients": [
       {
+        "raw": "šaka zamrznutih malina",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina"
+      },
+      {
+        "raw": "2 breskve",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "vode do željene gustine",
+        "ref": "voda"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Dezert smoothies"
+  },
+  {
+    "id": "sm-cheese-smoothiecake",
+    "title": "Cheese smoothiecake",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 136,
+      "page": "L",
+      "printed": 45
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
         "raw": "2 otkoštene sveže urme",
         "qty": 2,
         "unit": "komad",
         "ref": "urme"
       },
       {
-        "raw": "šaka zamrznutih višanja",
-        "qty": 1,
+        "raw": "2 šake zamrznutih malina",
+        "qty": 2,
         "unit": "šaka",
-        "ref": "visnja"
+        "ref": "malina"
       },
       {
-        "raw": "pola banane",
-        "qty": 0.5,
-        "unit": "komad",
-        "ref": "banana"
-      },
-      {
-        "raw": "1 kašičica sirovog kakao praha",
-        "qty": 1,
-        "unit": "kašičica",
-        "ref": "kakao"
+        "raw": "2 supene kašike krem sira",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "krem-sir"
       },
       {
         "raw": "nezaslađenog biljnog mleka do željene gustine",
@@ -101,20 +83,21 @@
     "subtitle": "Dezert smoothies"
   },
   {
-    "id": "sm-keksic",
-    "title": "Keksić smoothie",
+    "id": "sm-sarga-smoothiecake",
+    "title": "Šarga smoothiecake",
     "type": "recept",
     "book": "smoothiemania",
     "category": "kids-smoothies",
     "source": {
-      "scan": 135,
+      "scan": 136,
       "page": "R",
-      "printed": 44
+      "printed": 46
     },
     "timeMinutes": 5,
     "tags": [
       "bez-glutena",
-      "vegetarijansko"
+      "vegetarijansko",
+      "vegan"
     ],
     "notes": [],
     "ingredients": [
@@ -123,18 +106,6 @@
         "qty": 1,
         "unit": "komad",
         "ref": "banana"
-      },
-      {
-        "raw": "1 supena kašika meda",
-        "qty": 1,
-        "unit": "supena kašika",
-        "ref": "med"
-      },
-      {
-        "raw": "1 supena kašika bademovog putera",
-        "qty": 1,
-        "unit": "supena kašika",
-        "ref": "bademov-puter"
       },
       {
         "raw": "pola kašičice vanila ekstrakta",
@@ -149,45 +120,40 @@
         "ref": "cimet"
       },
       {
-        "raw": "nezaslađenog biljnog mleka do željene gustine",
-        "ref": "biljno-mleko"
+        "raw": "soka od šargarepe nezaslađenog do željene gustine",
+        "ref": "sargarepa"
       }
     ],
     "tips": [],
     "subtitle": "Dezert smoothies"
   },
   {
-    "id": "sm-kasa",
-    "title": "Kaša smoothie",
+    "id": "sm-jabuka-smutipita",
+    "title": "Jabuka smutipita",
     "type": "recept",
     "book": "smoothiemania",
     "category": "kids-smoothies",
     "source": {
-      "scan": 135,
+      "scan": 136,
       "page": "R",
-      "printed": 44
+      "printed": 46
     },
     "timeMinutes": 5,
     "tags": [
+      "bez-glutena",
       "vegetarijansko",
       "vegan"
     ],
     "notes": [],
     "ingredients": [
       {
-        "raw": "2 supene kašike ovsenih pahuljica",
-        "qty": 2,
-        "unit": "supena kašika",
-        "ref": "ovsene-pahuljice"
+        "raw": "pola oljuštene slatke jabuke",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "jabuka"
       },
       {
-        "raw": "2 supene kašike suvog grožđa",
-        "qty": 2,
-        "unit": "supena kašika",
-        "ref": "suvo-grozdje"
-      },
-      {
-        "raw": "1 banana",
+        "raw": "1 zamrznuta banana",
         "qty": 1,
         "unit": "komad",
         "ref": "banana"
@@ -199,8 +165,8 @@
         "ref": "cimet"
       },
       {
-        "raw": "nezaslađenog biljnog mleka do željene gustine",
-        "ref": "biljno-mleko"
+        "raw": "soka od jabuke nezaslađenog do željene gustine",
+        "ref": "jabuka"
       }
     ],
     "tips": [],

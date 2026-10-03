@@ -1,0 +1,108 @@
+[
+  {
+    "id": "sm-pospana-visnja",
+    "title": "Pospana višnja smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 138,
+      "page": "L",
+      "printed": 49
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake zamrznutih višanja",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "visnja"
+      },
+      {
+        "raw": "pola kašičice vanila ekstrakta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "vanila"
+      },
+      {
+        "raw": "nezaslađenog biljnog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Smoothies za laku noć"
+  },
+  {
+    "id": "sm-najsladji-snovi",
+    "title": "Najslađi snovi smoothie",
+    "type": "recept",
+    "book": "smoothiemania",
+    "category": "kids-smoothies",
+    "source": {
+      "scan": 138,
+      "page": "L",
+      "printed": 49
+    },
+    "timeMinutes": 5,
+    "tags": [
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 supena kašika bademovog putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bademov-puter"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 kockice leda",
+        "qty": 2,
+        "unit": "kockica",
+        "ref": "led"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "nezaslađenog bademovog mleka do željene gustine",
+        "ref": "bademovo-mleko"
+      }
+    ],
+    "tips": [],
+    "subtitle": "Smoothies za laku noć"
+  },
+  {
+    "id": "sm-uvod-senior",
+    "title": "Senior smoothies",
+    "type": "savet",
+    "book": "smoothiemania",
+    "category": "senior-smoothies",
+    "source": {
+      "scan": 138,
+      "page": "R",
+      "printed": 50
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "U svakoj životnoj dobi bitno je da pazimo šta unosimo u svoj organizam. Razlikuje se potreba za određenom hranom u zavisnosti od naših godina, pola, godišnjeg doba, vremenske prilike i dnevnih aktivnosti. Da bismo bili dugovečniji i usporili starenje našeg organizma potrebno je negovati ga pravom hranom kroz ceo život, ne samo u detinjstvu i ranoj mladosti. Pružite svom telu ono što vam je potrebno za dobro zdravlje i u kasnijoj životnoj dobi.\n\nNeophodno je unositi raznoliku hranu kao što je povrće i voće svih boja, mahunarke, žitarice celog zrna, riba, jaja, orašasto voće, semenke i mlečne proizvode u umerenim količinama. Unos tečnosti, posebno vode, je od izuzetne važnosti, kao i izbacivanje industrijske prerađene hrane. Zato su smutiji odličan način za unos različite vrste celovite hrane koja nam obezbeđuje nutrijente: proteine, zdrave masti, ugljene hidrate, vitamine i minerale za bezbedno i savršeno funkcionisanje našeg organizma.\n\nSmutiji mogu biti odlična užina, dezert ili čak zameniti obrok, u zavisnosti od apetita. Usvajanjem smutija u svakodnevnicu, omogućićete sebi osećaj lakoće u stomaku, poboljšaćete varenje, a u isto vreme pružićete odličan primer svojoj deci i unucima. Smutiji su laki za pripremu, ne oduzimaju mnogo vremena, a vrlo brzo postajete kreativni u kreiranju sopstvenih recepata po svom ukusu. Nabavku namirnica za smutije možete obavljati sa svojim unucima, biti fizički aktivni, a u isto vreme učiti ih zdravim navikama na čega ćete biti posebno ponosni.\n\nZapamtite, nikada nije kasno promeniti svoje životne navike na bolje."
+  }
+]
