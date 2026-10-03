@@ -1,0 +1,134 @@
+[
+  {
+    "id": "i2-hulk-jaja",
+    "title": "Hulk jaja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 18,
+      "page": "L",
+      "printed": 38
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [
+      "Od ove smese dobiju se 4 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "himalajska so po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "4 kockice kačkavalja (oko 2 x 2 cm)",
+        "qty": 4,
+        "unit": "kockica",
+        "ref": "kackavalj"
+      }
+    ],
+    "method": "Jaja, spanać i so izblendati u blenderu. U kalupe za mafin na dno staviti po kockicu kačkavalja pa preliti smesom iz blendera. Peći na 200 stepeni oko 10 do 12 minuta, dok ne porumene.",
+    "tips": [
+      "Hulk jaja će „porasti\" dok se budu pekla, a nakon otvaranja rerne će se izduvati."
+    ],
+    "subtitle": "Doručak za snagu",
+    "timeMinutes": 15,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 2.3,
+      "fat": 13,
+      "protein": 19,
+      "fiber": 0.6
+    }
+  },
+  {
+    "id": "i2-zelena-saksuka",
+    "title": "Zelena šakšuka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 18,
+      "page": "R",
+      "printed": 39
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 crni luk iseckan na kockice",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "2 čena belog luka iseckana na kockice",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 mlada luka iseckana na kolutove",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "1 zelena paprika iseckana na kolutove",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "4 jajeta",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "2 šake svežeg spanaća",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "100 ml biljnog nezaslađenog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "iseckani peršun za posipanje",
+        "ref": "persun"
+      }
+    ],
+    "method": "Povrće iseckati na željeni oblik i dinstati na malo vode dok ne omekša. Dok se povrće priprema, u blenderu izblendati biljno mleko i spanać. Uliti jaja u tiganj sa povrćem i dodati izblendanu smesu. Poklopiti i peći dok se jaja ne ispeku na način koji volite. Otklopiti, začiniti peršunom i poslužiti.",
+    "tips": [],
+    "subtitle": "Arapsko jelo na zeleni način",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 155,
+      "carbs": 1.8,
+      "fat": 10,
+      "protein": 13.5,
+      "fiber": 0.8
+    }
+  }
+]

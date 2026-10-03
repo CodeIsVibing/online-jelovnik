@@ -45,3 +45,8 @@ u prepisu, čeka se potvrda.
 6. „Voćni kolač" ima grešku u štampi u spisku sastojaka.
 7. Sken 16 prve knjige ima dva recepta bez formalnog spiska sastojaka, sastojci su opisani
    unutar postupka.
+
+## 3. Nedoumice iz druge knjige „Imunomania 2"
+
+1. „45 grama", strana 41: postupak se završava usred rečenice, „Preklopiti omlet, još malo zapeći i",
+   a nastavak nije odštampan ni na sledećoj strani. Na sajtu stoji tačno do tog mesta.

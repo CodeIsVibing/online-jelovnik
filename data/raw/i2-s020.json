@@ -1,0 +1,260 @@
+[
+  {
+    "id": "i2-avokado-korpice",
+    "title": "Avokado korpice",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 20,
+      "page": "L",
+      "printed": 42
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 otkoštena avokada",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "4 jajeta",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "½ crvene paprike iseckane na kockice",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "šaka spanaća sitno iseckanog",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "¼ kašičice belog luka u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      }
+    ],
+    "method": "Preseći avokado po dužini, izvaditi košticu i još po 2 supene kašike avokada iz svake polovine koju ćete sačuvati sa strane. U polovine avokada uliti po 1 jaje i začiniti solju i biberom. Peći na 200 stepeni oko 13 do 18 minuta u zavisnosti od toga koliko pečena jaja volite.\n\nOstatak „mesa\" od avokada koji ste sačuvali izgnječite viljuškom i dodajte sok od limuna, povrće koje ste naseckali i beli luk u prahu. Dobro promešajte i poslužite uz avokado korpice.",
+    "tips": [],
+    "subtitle": "Kremasti avokado sa jajima",
+    "timeMinutes": 25,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 401,
+      "carbs": 17.5,
+      "fat": 31.7,
+      "protein": 16.5,
+      "fiber": 10.8
+    }
+  },
+  {
+    "id": "i2-jaja-mafini-4-nacina",
+    "title": "Jaja mafini, 4 načina",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dorucak-vecera",
+    "source": {
+      "scan": 20,
+      "page": "R",
+      "printed": 43
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [
+      "Od svake smese, u zavisnosti koliko jaja ubacite, dobijete oko 5 do 6 mafina.",
+      "Za ostavu se računa prvi način, brokoli i sir; ostala tri su varijante."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "½ kašičice majčine dušice",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "majcina-dusica",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "50 gr seckanog svežeg brokolija",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "brokoli",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "30 gr rendane mocarele",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "mocarela",
+        "group": "Brokoli i sir"
+      },
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "šaka svežeg iseckanog spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "20 gr iseckane bukovače",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "bukovaca",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "polovina iseckane paprike na kockice",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika",
+        "group": "Pečurke, spanać i paprika",
+        "optional": true
+      },
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "polovina sveže ljute paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "ljuta-paprika",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "50 gr krem sira",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "krem-sir",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "30 gr rendanog kačkavalja",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "kackavalj",
+        "group": "Ljuta paprika",
+        "optional": true
+      },
+      {
+        "raw": "2 do 3 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice italijanske mešavine začina",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "20 gr parmezana",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "parmezan",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "1 paradajz iseckan na kockice",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paradajz",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      },
+      {
+        "raw": "šaka svežeg iseckanog spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac",
+        "group": "Paradajz, spanać i parmezan",
+        "optional": true
+      }
+    ],
+    "method": "Za sve načine isti je postupak. Umutiti jaja viljuškom, dodati začine i dodatke koje ste odabrali, uliti u 2/3 kalupa za mafine i peći oko 10 do 12 minuta na 200 stepeni u zavisnosti od toga koliko pečena jaja volite.",
+    "tips": [],
+    "subtitle": "Zabavan i zgodan način pripreme jaja",
+    "timeMinutes": 20,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 337,
+      "carbs": 5.7,
+      "fat": 22.4,
+      "protein": 29.5,
+      "fiber": 2.6
+    }
+  }
+]
