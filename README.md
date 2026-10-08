@@ -1,19 +1,24 @@
 # Online Jelovnik
 
-Podaci izvučeni iz kuvara „Imunomania" autorke Nastasje Nedimović, pripremljeni za
-pretragu jela, pregled po kategorijama i filter po sastojcima koje korisnik ima kod kuće.
+Podaci izvučeni iz tri kuvara autorke Nastasje Nedimović („Imunomania", „Imunomania 2" i
+„Smoothiemania"), pripremljeni za pretragu jela, pregled po knjigama i poglavljima, filter po
+sastojcima koje korisnik ima kod kuće i sastojcima koje ne jede, i lični plan ishrane sa
+spiskom za kupovinu.
 
 ## Fajlovi
 
 ```
 data/
-├── recipes.json      — 174 zapisa (145 recepata + 29 saveta), spojeno iz raw/
-├── ingredients.json  — 170 normalizovanih sastojaka sa sinonimima i brojem pojavljivanja
-├── categories.json   — 8 kategorija iz sadržaja knjige, sa bojama
+├── recipes.json      — svi zapisi, spojeno iz raw/
+├── ingredients.json  — normalizovani sastojci sa grupom, sinonimima i brojem pojavljivanja
+├── categories.json   — poglavlja iz sve tri knjige, sa bojama i redosledom
+├── books.json        — tri knjige: naziv, kratak naziv, podnaslov, redosled
 ├── pitanja-za-autorku.md — strane za ponovni sken i odgovori autorke
-└── raw/              — po jedan fajl po skenu (sNN.json), izvor istine
+└── raw/              — po jedan fajl po skenu, izvor istine (sNN, i2-sNNN, s1NN)
 build.py              — spaja raw/ u recipes.json i proverava veze
-scans/                — 166 uspravljenih polustrana (van gita)
+tools/                — pomoć za ručni unos (unos.py) i proveru ikonica sa štampe (ikonice.py)
+TODO.md               — recepti kojima nešto fali i strane koje čekaju nov sken
+scans*/               — skenovi knjiga, samo lokalno, nikad u gitu
 ```
 
 Izmene se rade u `data/raw/`, pa se pokrene `python3 build.py`.
@@ -39,8 +44,17 @@ Izmene se rade u `data/raw/`, pa se pokrene `python3 build.py`.
 }
 ```
 
-Opciona polja: `subtitle`, `timeNote`, `equipment`, `seeAlso`, `ingredients[].group`,
-`ingredients[].optional`, `source.continuedOn`.
+Opciona polja: `book` (podrazumevano `imunomania`), `subtitle`, `timeNote`, `servings`,
+`nutrition` (`kcal`, `carbs`, `fat`, `protein`, `fiber`, po porciji), `warning` (napomena sa
+znakom upozorenja), `equipment`, `seeAlso`, `ingredients[].group`, `ingredients[].optional`,
+`source.printed` (odštampan broj strane), `source.continuedOn`.
+
+## Podaci korisnika
+
+Sve lično živi u `localStorage` pregledača, nikad na serveru: ostava (`imunomania.ostava.v1`),
+omiljena (`imunomania.omiljena.v1`), pravio sam (`imunomania.pravio.v1`), ne jedem
+(`imunomania.nejedem.v1`), plan ishrane (`imunomania.plan.v1`), kupljeno sa spiska
+(`imunomania.kupljeno.v1`) i izbor dizajna (`imunomania.dizajn.v1`).
 
 `type` je `recept` ili `savet`. Saveti su tekstualne strane iz poslednjeg poglavlja i
 nemaju listu sastojaka.

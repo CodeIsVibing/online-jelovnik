@@ -280,3 +280,23 @@
 @media (max-width: 420px) {
   .skin { padding: 6px 9px; font-size: 11px; }
 }
+
+/* ---------- Plan, porcije, ne jedem ---------- */
+
+[data-skin="clay"] .btn-plan,
+[data-skin="clay"] .tab-n {
+  background: linear-gradient(160deg, var(--accent-hi) 0%, var(--accent-lo) 100%);
+  color: var(--ink);
+  box-shadow: var(--shadow-amber);
+}
+[data-skin="clay"] .r-ing .sc { color: #a05a12; }
+[data-skin="clay"] .r-plan,
+[data-skin="clay"] .plan-day { border-color: transparent; border-radius: var(--radius-s); box-shadow: var(--shadow); background: var(--paper-2); }
+[data-skin="clay"] .plan-day.is-empty { box-shadow: none; background: #eef1f8; }
+[data-skin="clay"] .r-plan select,
+[data-skin="clay"] .serv button,
+[data-skin="clay"] .q-scope { border-color: transparent; background: var(--cool); }
+[data-skin="clay"] .q-scope[aria-pressed="true"] { background: var(--ink); color: #fff; }
+[data-skin="clay"] .avoid { border: 0; }
+[data-skin="clay"] .avoid .pantry-icon { background: color-mix(in srgb, var(--warn) 18%, #fff); color: var(--warn); box-shadow: var(--shadow); }
+[data-skin="clay"] .r-warn { border-color: transparent; box-shadow: var(--shadow); }

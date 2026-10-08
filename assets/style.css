@@ -1013,3 +1013,156 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 20px 72px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }
+
+/* ---------- Pretraga samo po nazivu ---------- */
+
+.q-scope {
+  flex: none;
+  margin-right: 8px;
+  padding: 7px 12px;
+  border: 1px solid var(--paper-edge);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--ink-2);
+  font: 600 12.5px var(--font-body);
+  white-space: nowrap;
+  cursor: pointer;
+}
+.q-scope:hover { color: var(--ink); border-color: var(--ink-3); }
+.q-scope[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--paper-2); }
+.q-scope:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+.chips-books .chip { font-weight: 700; }
+
+/* ---------- Ne jedem ---------- */
+
+.avoid { margin-top: -10px; border-color: color-mix(in srgb, var(--warn) 30%, var(--paper-edge)); }
+.avoid[open] { border-color: var(--warn); }
+.avoid .pantry-icon { color: var(--warn); }
+.avoid .pantry-count { background: var(--warn); color: #fff; }
+.avoid .pantry-body .chips { margin: 10px 0 4px; }
+.avoid .chip svg { width: 14px; height: 14px; }
+
+/* ---------- Porcije u popupu ---------- */
+
+.serv { gap: 6px; }
+.serv button {
+  width: 26px; height: 26px;
+  display: inline-grid; place-items: center;
+  border: 1px solid var(--paper-edge);
+  border-radius: 50%;
+  background: var(--paper-2);
+  color: var(--ink);
+  font: 700 16px/1 var(--font-body);
+  cursor: pointer;
+}
+.serv button:hover:not(:disabled) { border-color: var(--ink-3); }
+.serv button:disabled { opacity: .4; cursor: default; }
+.serv button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.r-ing .sc { color: var(--accent); font-weight: 700; }
+
+/* ---------- Dodaj u plan ---------- */
+
+.r-plan {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+  margin: 16px 0 6px;
+  padding: 10px 12px;
+  border: 1px dashed var(--paper-edge);
+  border-radius: 12px;
+  background: var(--paper-2);
+}
+.r-plan > svg { width: 20px; height: 20px; color: var(--ink-3); flex: none; }
+.r-plan select {
+  padding: 7px 10px;
+  border: 1px solid var(--paper-edge);
+  border-radius: 9px;
+  background: var(--paper);
+  color: var(--ink);
+  font: 500 14px var(--font-body);
+}
+.btn-plan {
+  padding: 8px 14px;
+  border: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font: 700 14px var(--font-body);
+  cursor: pointer;
+}
+.btn-plan:hover { filter: brightness(1.06); }
+.btn-plan:focus-visible, .r-plan select:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.r-plan-in { flex-basis: 100%; margin: 2px 0 0; font-size: 13px; color: var(--ink-2); }
+
+.tab-n {
+  display: inline-grid; place-items: center;
+  min-width: 20px; height: 20px; margin-left: 6px; padding: 0 6px;
+  border-radius: 999px;
+  background: var(--accent); color: #fff;
+  font-size: 12px; font-weight: 700;
+}
+.tab-n[hidden] { display: none; }
+
+/* ---------- Moj plan ---------- */
+
+.plan-days {
+  display: grid; gap: 14px;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  margin: 18px 0 30px;
+}
+.plan-day {
+  padding: 16px 18px;
+  background: var(--paper-2);
+  border: 1px solid var(--paper-edge);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+.plan-day.is-empty { box-shadow: none; background: transparent; border-style: dashed; }
+.plan-day h3 { margin: 0 0 8px; font-size: 18px; }
+.plan-meal { margin-top: 10px; }
+.plan-meal-n { font-size: 11px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
+.plan-meal ul { list-style: none; margin: 4px 0 0; padding: 0; }
+.plan-meal li { display: flex; align-items: center; gap: 6px; padding: 3px 0; }
+.plan-meal a { flex: 1; color: var(--ink); font-weight: 600; text-decoration: underline; text-decoration-color: var(--paper-edge); text-underline-offset: 3px; }
+.plan-meal a:hover { text-decoration-color: var(--accent); }
+.plan-del {
+  flex: none; width: 28px; height: 28px;
+  display: inline-grid; place-items: center;
+  border: 0; border-radius: 50%; background: transparent; color: var(--ink-3); cursor: pointer;
+}
+.plan-del:hover { background: var(--paper); color: var(--warn); }
+.plan-del svg { width: 14px; height: 14px; }
+.plan-empty { margin: 0; color: var(--ink-3); font-size: 14px; }
+.plan-sum { margin: 12px 0 0; padding-top: 10px; border-top: 1px dashed var(--paper-edge); font-size: 13px; color: var(--ink-2); }
+.plan-sum b { color: var(--ink); }
+.plan-sum span { display: block; margin-top: 2px; color: var(--ink-3); font-size: 12px; }
+
+/* ---------- Spisak za kupovinu ---------- */
+
+.shop-head { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.shop-head h2 { margin: 0 auto 0 0; }
+.shop-group { margin-top: 18px; }
+.shop-group h3 { margin: 0 0 6px; font-size: 13px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+.shop-item {
+  display: grid; grid-template-columns: auto 1fr auto; gap: 2px 10px; align-items: baseline;
+  padding: 9px 4px;
+  border-bottom: 1px solid var(--paper-edge);
+  cursor: pointer;
+}
+.shop-item input { accent-color: var(--accent); width: 18px; height: 18px; align-self: center; }
+.shop-name { font-weight: 600; color: var(--ink); }
+.shop-amt { font-size: 14px; color: var(--ink-2); text-align: right; }
+.shop-for { grid-column: 2 / -1; font-size: 12px; color: var(--ink-3); }
+.shop-item.is-done .shop-name, .shop-item.is-done .shop-amt { text-decoration: line-through; color: var(--ink-3); }
+.shop-have { margin-top: 18px; font-size: 14px; color: var(--ink-2); }
+
+.tab { white-space: nowrap; }
+@media (max-width: 420px) {
+  .tab { padding-left: 11px; padding-right: 11px; }
+  .tab-n { margin-left: 4px; min-width: 18px; height: 18px; padding: 0 5px; font-size: 11px; }
+}
+@media (max-width: 380px) {
+  .tabs { gap: 2px; padding-left: 12px; padding-right: 12px; }
+  .tab { padding-left: 9px; padding-right: 9px; }
+  .skin { padding: 6px 7px; font-size: 10.5px; letter-spacing: .02em; }
+}
+.masthead { overflow: hidden; }

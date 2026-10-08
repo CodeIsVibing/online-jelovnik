@@ -2,6 +2,26 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.20.0] · 2026-10-08
+
+### Dodato
+- **Moj plan**: novi tab sa sedam dana i četiri obroka, kao u planovima iz knjige 2. U popupu svakog jela biraš dan i obrok i dodaješ ga u plan; jela u planu su linkovi koji otvaraju recept. Za jela sa odštampanim vrednostima dan dobija zbir kalorija, proteina, ugljenih hidrata i masti
+- **Spisak za kupovinu** ispod plana: sastojci svih jela iz plana, sabrani po jedinici i grupisani po vrsti, sa jelima kojima trebaju. Ono što je čekirano u ostavi izdvojeno je na kraju. Stavke se štikliraju u prodavnici, a dugme kopira spisak
+- **Ne jedem**: panel za sastojke koje korisnik izbegava; jela sa njima se ne prikazuju. Opcioni sastojak ne sakriva jelo
+- **Porcije**: kod recepata iz knjige 2 broj porcija se menja dugmadima, a količine u sastojcima se preračunavaju
+- **Filter po knjizi**, red čipova iznad poglavlja; poglavlja i oznake broje samo jela iz izabrane knjige
+- **Samo naziv**: prekidač u pretrazi koji traži samo u nazivima jela
+- Ekran telefona ostaje upaljen dok je recept otvoren, gde pregledač to dozvoljava
+- Poglavlja „Dresinzi za salate" i „Napravi sam" za knjigu 2; pojaviće se kad budu uneti prvi recepti
+
+### Promenjeno
+- Sastojci su preraspoređeni u 17 grupa; nove su Biljna mleka, Puteri i namazi, Zaslađivači, Proteini u prahu i dodaci, Za pečenje i zgušnjavanje i Sirće, sosevi i bujon. Ostava i spisak za kupovinu ih prikazuju po grupama
+- Opis sajta za pretraživače i deljenje pominje sve tri knjige
+- Na uskim telefonima traka sa tabovima staje u jedan red, a ukras zaglavlja ne pravi horizontalni skrol
+
+### Pregledano
+- Ostatak knjige 2: šest poglavlja recepata, deo Imunitet, dva plana ishrane i „Moje preporuke". Za „Moje preporuke" skenirana je samo naslovna strana, zapisano u `TODO.md`
+
 ## [1.19.2] · 2026-10-08
 
 ### Promenjeno

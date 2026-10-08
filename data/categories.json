@@ -24,68 +24,80 @@
     "order": 4
   },
   {
+    "id": "dresinzi",
+    "title": "Dresinzi za salate",
+    "color": "#2E7D6B",
+    "order": 5
+  },
+  {
     "id": "hleb-peciva",
     "title": "Hleb / peciva / grickalice",
     "color": "#EFDF00",
-    "order": 5
+    "order": 6
   },
   {
     "id": "slatko",
     "title": "Slatko",
     "color": "#1D3FA8",
-    "order": 6
+    "order": 7
+  },
+  {
+    "id": "napravi-sam",
+    "title": "Napravi sam",
+    "color": "#8A5A3C",
+    "order": 8
   },
   {
     "id": "sejkovi",
     "title": "Šejkovi",
     "color": "#C9AEE0",
-    "order": 7
+    "order": 9
   },
   {
     "id": "saveti-sirupi",
     "title": "Saveti, sirupi i čajevi",
     "color": "#F08A1E",
-    "order": 8
+    "order": 10
   },
   {
     "id": "detox-smoothies",
-    "order": 9,
+    "order": 11,
     "title": "Detox šejkovi",
     "color": "#6FBF4B"
   },
   {
     "id": "diabetes-smoothies",
-    "order": 10,
+    "order": 12,
     "title": "Diabetes šejkovi",
     "color": "#2BA7C9"
   },
   {
     "id": "kids-smoothies",
-    "order": 11,
+    "order": 13,
     "title": "Kids šejkovi",
     "color": "#F2A93B"
   },
   {
     "id": "senior-smoothies",
-    "order": 12,
+    "order": 14,
     "title": "Senior šejkovi",
     "color": "#9B6FC9"
   },
   {
     "id": "konstipacija-smoothies",
-    "order": 13,
+    "order": 15,
     "title": "Konstipacija šejkovi",
     "color": "#D9685F"
   },
   {
     "id": "energy-boost-smoothies",
-    "order": 14,
+    "order": 16,
     "title": "Energy boost šejkovi",
     "color": "#E8B62E"
   },
   {
     "id": "smoothie-saveti",
-    "order": 15,
+    "order": 17,
     "title": "Saveti za šejkove",
     "color": "#A5B84A"
   }
