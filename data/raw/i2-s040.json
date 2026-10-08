@@ -1,0 +1,256 @@
+[
+  {
+    "id": "i2-indijsko-jelo",
+    "title": "Indijsko jelo",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 40,
+      "page": "L",
+      "printed": 82
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [
+      "Kada se jelo skuva, po želji možete dodati šaku svežeg spanaća u jelo i promešati."
+    ],
+    "ingredients": [
+      {
+        "raw": "oko 1 l vode",
+        "qty": 1,
+        "unit": "l",
+        "ref": "voda"
+      },
+      {
+        "raw": "150 gr crvenog sočiva",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "150 gr basmati riže (ili običan pirinač)",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "pirinac"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "1 kašičica semena slačice",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "seme-slacice"
+      },
+      {
+        "raw": "prstohvat ljute paprike",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "1 supena kašika narendanog svežeg đumbira",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "½ kašičice kurkume",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "½ kumina u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kumin"
+      },
+      {
+        "raw": "½ korijandera u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "korijander"
+      },
+      {
+        "raw": "½ semena komorača",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "seme-komoraca"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica soka od limuna",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "limun"
+      },
+      {
+        "raw": "200 gr povrća po želji",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "paprika",
+        "optional": true
+      }
+    ],
+    "method": "U veliku šerpu sipati vodu, sočivo, rižu i so. Kada krene da vri, smanjiti temperaturu na nižu i sklanjati penu ukoliko se pojavi. Poklopiti delimično. Iseckati povrće. U manju šerpu sipati maslinovo ulje i seme slačice, nakon 1 minuta dodati sve začine i kada seme slačice počne da pucketa, skloniti sa ringle i dodati sok od limuna.\n\nOvu smesu začina i iseckano povrće dodati u šerpu 10 minuta pre nego što se skuvaju sočivo i riža. Ukoliko je potrebno, dodati još vode i dobro promešati.",
+    "tips": [
+      "20 minuta pre pravljenja ovog jela potopite rižu i sočivo u vodu. Procediti, oprati i opet procediti."
+    ],
+    "subtitle": "Po ajurvedi",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 284,
+      "carbs": 50.1,
+      "fat": 3.9,
+      "protein": 12.3,
+      "fiber": 11
+    }
+  },
+  {
+    "id": "i2-palenta-kari",
+    "title": "Palenta kari",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 40,
+      "page": "R",
+      "printed": 83
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "800 ml vode",
+        "qty": 800,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Palenta kocke"
+      },
+      {
+        "raw": "½ kašičice kima",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kim",
+        "group": "Palenta kocke"
+      },
+      {
+        "raw": "1 kašičica kurkume",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kurkuma",
+        "group": "Palenta kocke"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so",
+        "group": "Palenta kocke"
+      },
+      {
+        "raw": "160 gr palente",
+        "qty": 160,
+        "unit": "gr",
+        "ref": "palenta",
+        "group": "Palenta kocke"
+      },
+      {
+        "raw": "4 paradajza",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "paradajz",
+        "group": "Kari"
+      },
+      {
+        "raw": "1 crni luk",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk",
+        "group": "Kari"
+      },
+      {
+        "raw": "1 supena kašika suvog grožđa",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvo-grozdje",
+        "group": "Kari"
+      },
+      {
+        "raw": "1 kašičica korijandera u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "korijander",
+        "group": "Kari"
+      },
+      {
+        "raw": "1 kašičica karija",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kari",
+        "group": "Kari"
+      },
+      {
+        "raw": "½ kašičice ljute paprike",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "ljuta-paprika",
+        "group": "Kari"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so",
+        "group": "Kari"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun",
+        "group": "Kari"
+      },
+      {
+        "raw": "70 gr graška",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "grasak",
+        "group": "Kari"
+      }
+    ],
+    "method": "U šerpu sipati vodu, dodati začine i zagrejati do ključanja. Dodavati palentu uz mešanje. Smesa će biti gušća. Uliti u posudu veličine oko 20 x 25 cm, ohladiti i kada se stegne iseći na kocke veličine oko 2 cm. Sve sastojke za kari (sem graška) ubaciti u blender i izblendati.\n\nU veću šerpu presuti smesu, dodati 200 ml vode i grašak i kuvati na srednjoj temperaturi dok ne postane gušći sos uz povremeno mešanje. Na kraju dodati kockice palente i promešati i skloniti sa ringle.",
+    "tips": [],
+    "subtitle": "Kockice palente u kariju",
+    "timeMinutes": 35,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 409,
+      "carbs": 88,
+      "fat": 1.8,
+      "protein": 10.9,
+      "fiber": 5.8
+    }
+  }
+]

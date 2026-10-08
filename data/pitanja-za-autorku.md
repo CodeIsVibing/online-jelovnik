@@ -52,3 +52,5 @@ u prepisu, čeka se potvrda.
    a nastavak nije odštampan ni na sledećoj strani. Na sajtu stoji tačno do tog mesta.
 2. Strana 47: naslov je odštampan kao „Zeleni wragan", a u sadržaju poglavlja stoji „Zeleni uragan".
    Na sajtu je uzet naziv iz sadržaja.
+3. „Pečeni pirinač od karfiola", strana 80: traka sa ikonicama nosi i „vegan", „sirovo" i „ljuto",
+   a recept ima jaja, peče se u tiganju i nema ljutog sastojka. Na sajtu te tri oznake nisu prenete.

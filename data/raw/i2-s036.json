@@ -113,5 +113,89 @@
       "protein": 12.3,
       "fiber": 10.3
     }
+  },
+  {
+    "id": "i2-pasta-sa-paradajzom-limunom-kikirikijem",
+    "title": "Pasta sa paradajzom, limunom i kikirikijem",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 36,
+      "page": "R",
+      "printed": 75
+    },
+    "tags": [
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Za vegan verziju može se dodati veganski parmezan umesto regularnog. Recept za veganski parmezan pronađite u delu „Napravi sam\"."
+    ],
+    "ingredients": [
+      {
+        "raw": "300 gr integralne testenine po želji",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "testenina"
+      },
+      {
+        "raw": "1 čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "himalajska so",
+        "ref": "so"
+      },
+      {
+        "raw": "1 limun",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "50 gr parmezana (narendanog)",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "parmezan"
+      },
+      {
+        "raw": "30 gr peršuna (sitno naseckanog)",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "persun"
+      },
+      {
+        "raw": "400 gr paradajza (iseckan na kockice)",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "50 gr mlevenog kikirikija",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "kikiriki"
+      },
+      {
+        "raw": "3 supene kašike maslinovog ulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Skuvati testeninu po uputstvu sa pakovanja (sačuvati malo vode u kojoj se kuvala). Izgnječiti beli luk, iseckati ga, posoliti i sa jednom stranom noža još malo izgnječiti kako bi se napravila pasta i ubaciti u veću činiju. Iscediti limun, narendati parmezan, iseckati peršun i paradajz, samleti kikiriki. Sve to i maslinovo ulje ubaciti u činiju sa belim lukom i dobro promešati.\n\nSkuvanu pastu ubaciti u činiju i dodati malo vode koju ste sačuvali i dobro promešati dok se sastojci ne sjedine.",
+    "tips": [],
+    "subtitle": "Sirovo povrće i parmezan",
+    "timeMinutes": 15,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 510,
+      "carbs": 68.5,
+      "fat": 21.6,
+      "protein": 16.5,
+      "fiber": 9
+    }
   }
 ]

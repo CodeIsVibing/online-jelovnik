@@ -1,0 +1,133 @@
+[
+  {
+    "id": "i2-krompir-lepeza",
+    "title": "Krompir lepeza",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 44,
+      "page": "L",
+      "printed": 90
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "6 krompira ili batata",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "maslinovo ulje",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "himalajska so",
+        "ref": "so"
+      },
+      {
+        "raw": "susam",
+        "ref": "susam"
+      },
+      {
+        "raw": "punjenje po želji: sir, puter, tikvice, paprike",
+        "ref": "sir",
+        "optional": true
+      }
+    ],
+    "method": "Oljuštiti krompir. Odseći donji deo krompira kako bi stajao ravno. Zaseći krompir na tanko, na pola cm do kraja. Između svakog lista krompira staviti punjenje po želji. Premazati svaki krompir uljem, posoliti i posuti susamom. Zagrejati rernu na 200 stepeni i peći oko 35 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Zapečeni krompir punjen sirom, puterom i povrćem",
+    "timeMinutes": 45,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 277,
+      "carbs": 55.9,
+      "fat": 3.8,
+      "protein": 6.5,
+      "fiber": 6.7
+    }
+  },
+  {
+    "id": "i2-karfiol-sa-sirom",
+    "title": "Karfiol sa sirom",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 44,
+      "page": "R",
+      "printed": 91
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 srednja glavica karfiola",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike parmezana",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "parmezan"
+      },
+      {
+        "raw": "½ kašičice mlevene paprike",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "200 gr mocarele (ili punomasnog sira po želji)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "mocarela"
+      }
+    ],
+    "method": "Iseckati karfiol na manje komade, premazati maslinovim uljem. U manjoj činiji pomešati parmezan i začine, zatim posuti po karfiolu.\n\nNarendati sir i posuti po karfiolu. Peći na 200 stepeni oko 20 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Karfiol koji svi žele da jedu",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 255,
+      "carbs": 9.8,
+      "fat": 17.8,
+      "protein": 19,
+      "fiber": 5.1
+    }
+  }
+]

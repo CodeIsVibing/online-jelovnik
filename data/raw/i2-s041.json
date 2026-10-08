@@ -1,0 +1,176 @@
+[
+  {
+    "id": "i2-leblebija-salata",
+    "title": "Leblebija salata",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 41,
+      "page": "L",
+      "printed": 84
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Nutritivne vrednosti su bez dresinga."
+    ],
+    "ingredients": [
+      {
+        "raw": "100 gr skuvane leblebije",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "1 ljubičasti luk (iseckan na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "1 svež krastavac (na četvrtine)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "6 čeri paradajza (na četvrtine)",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "ceri-paradajz"
+      },
+      {
+        "raw": "1 štap celera (kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "celer"
+      },
+      {
+        "raw": "1 supena kašika mirođije",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "mirodjija"
+      },
+      {
+        "raw": "½ kašičice peršuna",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "persun"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Iseckati povrće, ubaciti sve sastojke u činiju, začiniti i dobro promešati. Preliti dresingom po želji (recept pronaći u delu „Dresinzi za salate\").",
+    "tips": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "subtitle": "Leblebija, krastavac, paradajz i celer",
+    "timeMinutes": 10,
+    "timeNote": "10 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 2,
+    "nutrition": {
+      "kcal": 161,
+      "carbs": 27.6,
+      "fat": 5.6,
+      "protein": 6.1,
+      "fiber": 5.4
+    }
+  },
+  {
+    "id": "i2-zimska-salata",
+    "title": "Zimska salata",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 41,
+      "page": "R",
+      "printed": 85
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [
+      "Nutritivne vrednosti su bez dresinga."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 batat (isečen na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "batat"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "himalajska so i biber",
+        "ref": "so"
+      },
+      {
+        "raw": "50 gr pečenih oraha",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "150 gr ili 5 listova kelja (iseckan na trakice)",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "kelj"
+      },
+      {
+        "raw": "100 gr ljubičastog kupusa (iseckan na trakice)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "ljubicasti-kupus"
+      },
+      {
+        "raw": "200 gr prokelja (iseckan na kolutove)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "prokelj"
+      },
+      {
+        "raw": "¼ avokada (isečen na kockice)",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "šaka rukole",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "rukola"
+      },
+      {
+        "raw": "50 gr nara",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "nar"
+      }
+    ],
+    "method": "Uključiti rernu na 200 stepeni. Oljuštiti batat i iseći, preliti maslinovim uljem, posoliti i pobiberiti. Smestiti u pleh obložen pek papirom, a sa strane ubaciti i orahe. Peći 20 minuta, a nakon 10 minuta izvaditi orahe. Iz kelja odstraniti glavnu „žilu\" i iseckati, kao i preostalo povrće. Očistiti nar. Kada se batat ispeče, prohladiti ga. U veliku činiju pomešati sve sastojke. Preliti dresingom po želji (recept pronaći u delu „Dresinzi za salate\").",
+    "tips": [],
+    "subtitle": "Šarena salata sa batatom i orasima",
+    "timeMinutes": 25,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 414,
+      "carbs": 33.3,
+      "fat": 30.4,
+      "protein": 11.4,
+      "fiber": 10.2
+    }
+  }
+]

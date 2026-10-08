@@ -1,0 +1,186 @@
+[
+  {
+    "id": "i2-supasta",
+    "title": "Supasta",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 37,
+      "page": "L",
+      "printed": 76
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 čena belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 crni luk",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 manji krompir",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "1 batat",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "batat"
+      },
+      {
+        "raw": "1 štap celera",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "celer"
+      },
+      {
+        "raw": "2 manje šargarepe",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "2 paradajza",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "150 gr graška",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "grasak"
+      },
+      {
+        "raw": "250 ml paradajz soka bez dodatog šećera",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "paradajz-sok"
+      },
+      {
+        "raw": "2 kašičice origana",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "voda",
+        "ref": "voda"
+      },
+      {
+        "raw": "150 gr integralne testenine po želji",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "testenina"
+      }
+    ],
+    "method": "Svo povrće iseckati na kockice i ubaciti u veću šerpu. Dodati grašak, paradajz sok i začine i preliti vodom da prekrije povrće. Kuvati dok povrće ne omekša. Skuvati testeninu po uputstvu sa pakovanja, procediti i dodati u supu, pa promešati.",
+    "tips": [],
+    "subtitle": "I supa i pasta",
+    "timeMinutes": 35,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 293,
+      "carbs": 59.8,
+      "fat": 3.1,
+      "protein": 9.4,
+      "fiber": 9.3
+    }
+  },
+  {
+    "id": "i2-brokoli-pica",
+    "title": "Brokoli pica",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 37,
+      "page": "R",
+      "printed": 77
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-kvasca",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300 gr usitnjenog svežeg brokolija",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "2 supene kašike ovsenih pahuljica",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "2 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "50 gr parmezana (narendanog)",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "parmezan"
+      },
+      {
+        "raw": "1 kašičica origana",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "½ kašičice bosiljka",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "topinzi po želji (ovde: paradajz pasta, 1 mladi luk, ½ ljute sveže paprike, mocarela sir i spanać)",
+        "ref": "paradajz-pasta",
+        "optional": true
+      }
+    ],
+    "method": "Brokoli usitniti u multipraktiku, ovsene pahuljice usitniti u blenderu na strukturu brašna, pa ubaciti u veliku činiju i dodati ostale sastojke. Sve dobro promešati i oblikovati rukama na plehu obloženom pek papirom oblik pice.\n\nPeći na 200 stepeni oko 15 minuta, zatim dodati topinge po želji i zapeći na 250 stepeni još 5 minuta.",
+    "tips": [],
+    "subtitle": "Pica bez brašna",
+    "timeMinutes": 30,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 285,
+      "carbs": 23.6,
+      "fat": 13.3,
+      "protein": 19.9,
+      "fiber": 5.4
+    }
+  }
+]

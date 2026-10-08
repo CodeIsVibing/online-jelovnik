@@ -1,0 +1,160 @@
+[
+  {
+    "id": "i2-proteinska-pica-bez-brasna",
+    "title": "Proteinska pica bez brašna",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 38,
+      "page": "L",
+      "printed": 78
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-kvasca",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "4 belanaca",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "½ kašičice origana",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "½ kašičice bosiljka",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 kašičice tapioke (ili kukuruzni skrob)",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "topinzi po želji: kečap, sir, masline, kukuruz, paprika, rukola",
+        "ref": "sir",
+        "optional": true
+      }
+    ],
+    "method": "Odvojiti belanca od žumanaca i ubaciti u veću činiju. Umutiti ih mikserom u čvrsti „sneg\" i dodati začine i tapioku pa promešati. Obložiti pleh pek papirom i dodatno nauljiti pek papir. Prebaciti smesu i izravnati je. Peći 10 minuta na 180 stepeni. Izvaditi testo iz rerne pa dodati topinge po želji i peći još 5 minuta na 250 stepeni dok se sir ne istopi.",
+    "tips": [],
+    "subtitle": "Pun ukus pice, lagani osećaj u stomaku",
+    "timeMinutes": 25,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 146,
+      "carbs": 17.8,
+      "fat": 4,
+      "protein": 7.2,
+      "fiber": 0
+    }
+  },
+  {
+    "id": "i2-tikvizza",
+    "title": "Tikvizza",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 38,
+      "page": "R",
+      "printed": 79
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-kvasca",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 srednja oljuštena tikvica (narendana)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "1 umućeno jaje",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "30 gr narendane mocarele (ili sira po želji)",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "mocarela"
+      },
+      {
+        "raw": "2 supene kašike parmezana",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "parmezan"
+      },
+      {
+        "raw": "50 gr brašna od leblebije (ili brašna po želji)",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "brasno-od-leblebije"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica origana",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "½ kašičice bosiljka",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "topinzi po želji (ovde: pasta od paradajza, origano, masline i sir)",
+        "ref": "paradajz-pasta",
+        "optional": true
+      }
+    ],
+    "method": "Oljuštiti i narendati tikvicu, ubaciti je u okrugli pleh obložen pek papirom prečnika oko 30 cm i peći 5 minuta na 200 stepeni. Umutiti jaje, narendati sir i ubaciti u veću posudu.\n\nDodati brašno i začine, zatim i pečene tikvice i sve dobro promešati. Oblikovati rukama mini picu u istom plehu i vratiti u rernu i peći još 15 minuta.\n\nDodati topinge po želji i zapeći na 250 stepeni još 5 minuta.",
+    "tips": [],
+    "subtitle": "Mini pica od tikvice",
+    "timeMinutes": 30,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 417,
+      "carbs": 36.8,
+      "fat": 18.2,
+      "protein": 31.2,
+      "fiber": 6.3
+    }
+  }
+]

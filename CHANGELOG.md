@@ -2,6 +2,19 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.19.0] · 2026-10-08
+
+### Dodato
+- Imunomania 2, poglavlje Ručak kompletno: svih 30 recepata, strane 62 do 91
+- `tools/unos.py` i `tools/ikonice.py`: pomoć za ručni unos i alat koji izrezuje i uvećava zelenu traku sa ikonicama, da se oznake proveravaju sa štampe
+
+### Popravljeno
+- Sedam recepata nosilo je „bez kvasca" umesto „bez belog brašna"; ikonica vreće je u legendi knjige brašno. Provereno uvećanjem trake na svakoj strani
+- Neodređeno „povrće po želji" u Indijskom jelu ne traži više papriku u ostavi
+
+### Napomena
+- „Pečeni pirinač od karfiola": traka nosi i vegan, sirovo i ljuto, što se ne slaže sa receptom; te oznake nisu prenete i zabeležene su za autorku
+
 ## [1.18.0] · 2026-10-03
 
 ### Dodato

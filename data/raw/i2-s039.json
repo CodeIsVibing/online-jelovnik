@@ -1,0 +1,232 @@
+[
+  {
+    "id": "i2-peceni-pirinac-od-karfiola",
+    "title": "Pečeni pirinač od karfiola",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 39,
+      "page": "L",
+      "printed": 80
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-kvasca",
+      "bez-belog-brasna",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 srednja glavica karfiola",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "4 mlada luka (iseckan na kolutove)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "1 šargarepa (iseckana na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "2 čena belog luka (iseckan na sitno)",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "100 gr graška",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "grasak"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "2 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "10 supenih kašika tamari soja sosa bez dodatog šećera",
+        "qty": 10,
+        "unit": "supena kašika",
+        "ref": "tamari"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Karfiol iseći na manje delove i blendati u multipraktiku na veličinu pirinča. Povrće iseckati i ubaciti u veliki duboki tiganj, zatim i grašak i dinstati 5 do 6 minuta na malo vode, pa začiniti. Skloniti sa ringle i dodati umućena jaja i dobro promešati. Vratiti na ringlu i dodati usitnjen karfiol, tamari sos i maslinovo ulje i peći još 5 minuta uz povremeno mešanje.",
+    "tips": [],
+    "subtitle": "Jelo sa smanjenim sadržajem ugljenih hidrata",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 196,
+      "carbs": 24.7,
+      "fat": 6.9,
+      "protein": 12.3,
+      "fiber": 4.2
+    }
+  },
+  {
+    "id": "i2-socivo-sa-bulgurom",
+    "title": "Sočivo sa bulgurom",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 39,
+      "page": "R",
+      "printed": 81
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "750 ml vode",
+        "qty": 750,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "150 gr braon sočiva",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "½ kašičice mlevenog kumina",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kumin"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "1 crni luk (isečen na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 oljuštena tikvica (isečena na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "2 šargarepe (isečena na kolutove)",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 paradajz (isečen na kriške)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "150 gr bulgura",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "bulgur"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "3 supene kašike tahinija",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "tahini",
+        "group": "Preliv"
+      },
+      {
+        "raw": "3 supene kašike soka od limuna",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "limun",
+        "group": "Preliv"
+      },
+      {
+        "raw": "2 supene kašike svežeg peršuna (sitno seckanog)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "persun",
+        "group": "Preliv"
+      },
+      {
+        "raw": "3 čena belog luka (sitno seckanog)",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk",
+        "group": "Preliv"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so",
+        "group": "Preliv"
+      },
+      {
+        "raw": "voda do željene gustine (oko 20 ml)",
+        "qty": 20,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Preliv"
+      }
+    ],
+    "method": "Procediti i oprati sočivo, zatim opet procediti. U veliku šerpu sipati vodu i sačekati da provri, ubaciti sočivo, kumin, so i biber, smanjiti temperaturu, poklopiti i kuvati oko 15 minuta dok ne omekša. Iseći povrće i ubaciti u veći pleh (luk neka bude odvojen od ostalog povrća), posoliti i pobiberiti, i peći na 200 stepeni 10 minuta pa izvaditi luk, a ostalo povrće promešati i peći još 10 minuta.\n\nSkloniti sočivo sa ringle i dodati bulgur, promešati, poklopiti i ostaviti 10 minuta. U to dodati pečeni luk i 1 supenu kašiku soka od limuna pa promešati viljuškom. Za preliv sve sastojke sjediniti u činiji i začiniti po ukusu. Servirati sočivo i bulgur, odgore pečeno povrće i preliv sa strane.",
+    "tips": [
+      "Noć pre pripreme ovog recepta potopite sočivo u vodu."
+    ],
+    "subtitle": "Sa ukusima Bliskog istoka",
+    "timeMinutes": 50,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 146,
+      "carbs": 27.6,
+      "fat": 2.6,
+      "protein": 7.3,
+      "fiber": 9
+    }
+  }
+]

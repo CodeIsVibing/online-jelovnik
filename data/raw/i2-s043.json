@@ -1,0 +1,205 @@
+[
+  {
+    "id": "i2-sirove-nudle-od-povrca",
+    "title": "Sirove nudle od povrća",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 43,
+      "page": "L",
+      "printed": 88
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena tikvica",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "1 oljušteni svež krastavac",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 oljuštena šargarepa",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "½ crvene sveže paprike",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "šaka iseckanog ljubičastog kupusa",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ljubicasti-kupus"
+      },
+      {
+        "raw": "šaka svežeg peršuna (iseckan na sitno)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "20 gr kikirikija",
+        "qty": 20,
+        "unit": "gr",
+        "ref": "kikiriki"
+      },
+      {
+        "raw": "1 supena kašika susama",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "susam"
+      },
+      {
+        "raw": "¼ kašičice đumbira u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "2 supene kašike tamari soja sosa (bez dodatog šećera)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tamari"
+      },
+      {
+        "raw": "1 kašičica kikiriki putera",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Ljuštilicom za povrće napraviti oblik nudli od tikvice, krastavca i šargarepe. Papriku iseći po dužini u tanke trake, kao i kupus. U činiji sjediniti povrće, dodati peršun, kikiriki, susam, đumbir, soja sos, kikiriki puter i začiniti po ukusu. Sve dobro promešati.",
+    "tips": [],
+    "subtitle": "Kineska na moj način",
+    "timeMinutes": 10,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 282,
+      "carbs": 28.5,
+      "fat": 15.3,
+      "protein": 14,
+      "fiber": 6.2
+    }
+  },
+  {
+    "id": "i2-buda-cinija",
+    "title": "Buda činija sa pečenim povrćem",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "rucak",
+    "source": {
+      "scan": 43,
+      "page": "R",
+      "printed": 89
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Nutritivne vrednosti su bez dresinga."
+    ],
+    "ingredients": [
+      {
+        "raw": "150 gr leblebije",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "250 gr kinoe",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "200 gr bundeve (iseckana na kockice)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "100 gr brokolija (iseckan na sitnije cvetove)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "100 gr prokelja",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "prokelj"
+      },
+      {
+        "raw": "himalajska so i biber",
+        "ref": "so"
+      },
+      {
+        "raw": "šaka spanaća",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "spanac"
+      },
+      {
+        "raw": "šaka ljubičastog kupusa (iseckan na trakice)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "ljubicasti-kupus"
+      },
+      {
+        "raw": "1 šargarepa (narendana)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike susama",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "susam"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Kinou dobro isprati, i kuvati u vodi u srazmeri 1:2 oko 15 minuta. Bundevu i brokoli iseckati i staviti zasebno da se ne pomešaju u pleh obložen pek papirom, dodati i leblebiju i prokelj. Sve začiniti solju i biberom. Peći u rerni na 200 stepeni 20 minuta, a brokoli i leblebije izvaditi već nakon 10 minuta pečenja, pa prohladiti. Iseckati i preostalo povrće. U manju šerpu uliti ulje, dodati susam i peći nekoliko minuta dok susam ne krene da pucketa, paziti da ne zagori. U veliku činiju ređati sve sastojke na svoju gomilicu. Pripremiti dresing po želji (recept pronaći u delu „Dresinzi za salate\") i sipati u činijicu. Smestiti je u sredinu velike činije.",
+    "tips": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "subtitle": "Kinoa, bundeva, leblebija i povrće za ekipu",
+    "timeMinutes": 30,
+    "timeNote": "30 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 5,
+    "nutrition": {
+      "kcal": 225,
+      "carbs": 32.1,
+      "fat": 9.4,
+      "protein": 8.8,
+      "fiber": 6.9
+    }
+  }
+]
