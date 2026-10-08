@@ -1,0 +1,201 @@
+[
+  {
+    "id": "i2-detox-supa",
+    "title": "Detox supa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 48,
+      "page": "L",
+      "printed": 98
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 ljubičasti luk (isečen na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "2 čena belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ supene kašike rendanog svežeg đumbira",
+        "qty": 0.5,
+        "unit": "supena kašika",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "4 štapa celera (iseckan na kolutove)",
+        "qty": 4,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "1 veća oljuštena šargarepa (iseckana na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "100 gr svežeg brokolija (iseckan na manje komade)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "100gr svežeg karfiola (iseckan na manje komade)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "½ kašičice kurkume",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "3 paradajza (seckan na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "1 kašičica italijanske mešavine začina",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      },
+      {
+        "raw": "2 lista kelja (seckan na trakice)",
+        "qty": 2,
+        "unit": "list",
+        "ref": "kelj"
+      },
+      {
+        "raw": "50gr ljubičastog kupusa (seckan na trakice)",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "ljubicasti-kupus"
+      },
+      {
+        "raw": "Sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "method": "Sve sastojke pripremiti, i ubaciti u veliku šerpu (sem kelja, kupusa i soka od limuna), preliti vodom da prekrije povrće i kuvati dok ne omekša. Iseći kupus, a iz kelja izvaditi glavnu \"žilu\", zatim iseći. Iscediti limun. 5 minuta pre nego što se sve skuva, ubaciti ove sastojke, skloniti sa ringle i poklopiti.",
+    "tips": [],
+    "subtitle": "Supa za oporavak",
+    "timeMinutes": 60,
+    "servings": 6,
+    "servingsMax": 8
+  },
+  {
+    "id": "i2-obrok-supa",
+    "title": "Obrok supa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 48,
+      "page": "R",
+      "printed": 99
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 krompir (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "2 štapa celera (iseckan na kockice)",
+        "qty": 2,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "200gr bundeve (iseckana na kockice)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "3 paradajza (iseckan na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "200gr ili 5 listova kelja (ili zelenog lisnatog povrća po želji)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "kelj"
+      },
+      {
+        "raw": "4 jajeta",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "Parče hleba po porciji (opciono)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "hleb",
+        "optional": true
+      }
+    ],
+    "method": "Iseći povrće, zatim dinstati u šerpi na maslinovom ulju na srednjoj temperaturi oko 10 minuta uz mešanje.\n\nDodati 1l vode, začiniti, zagrejati do ključanja, dodati paradajz i smanjiti na nižu temperaturu i kuvati još 10ak minuta.\n\nOdstraniti glavnu \"žilu\" na kelju i iseckati na tanke trakice. Ubaciti u šerpu i kuvati 5 minuta. Lagano uliti po jedno jaje u šerpu, poklopiti, kuvati 3 minuta i skloniti sa ringle.",
+    "tips": [],
+    "subtitle": "Sadrži sve što čini jedan kvalitetan obrok",
+    "timeMinutes": 40,
+    "servings": 4
+  }
+]

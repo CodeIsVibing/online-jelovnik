@@ -1,0 +1,135 @@
+[
+  {
+    "id": "i2-narandza-puter",
+    "title": "Narandža puter",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 57,
+      "page": "L",
+      "printed": 116
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150 gr pečenih badema",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "1 kašičica meda (za vegan verziju 1 sveža otkoštena urma)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "Sok od narandže",
+        "ref": "narandza"
+      }
+    ],
+    "method": "Bademe ubaciti u multipraktik i blendati do strukture brašna. Dodati med, kokosovo ulje, so, a sok od narandže postepeno dodavati do željene gustine.",
+    "tips": [],
+    "subtitle": "Bademi, narandža i med",
+    "timeMinutes": 5,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 226,
+      "carbs": 15,
+      "fat": 15.6,
+      "protein": 5.9,
+      "fiber": 2.5
+    }
+  },
+  {
+    "id": "i2-cokoladni-namaz",
+    "title": "Čokoladni namaz",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 57,
+      "page": "R",
+      "printed": 117
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi.",
+      "Držati u frižideru do 2 nedelje."
+    ],
+    "ingredients": [
+      {
+        "raw": "400gr kuvane leblebije",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "1 supena kašika putera od orašastih plodova po želji",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "3 supene kašike kokosovog ulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike kakao praha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "80gr meda (za vegan verziju 20ak svežih otkoštenih urmi)",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "med"
+      },
+      {
+        "raw": "4 supene kašike vode",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "optional": true
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Sve sastojke ubaciti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Leblebije, kakao i med",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 206,
+      "carbs": 21.4,
+      "fat": 10.6,
+      "protein": 6.9,
+      "fiber": 0.4
+    }
+  }
+]

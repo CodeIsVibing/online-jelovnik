@@ -1,0 +1,66 @@
+[
+  {
+    "id": "i2-slatki-humus",
+    "title": "Slatki humus",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 59,
+      "page": "L",
+      "printed": 120
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "ingredients": [
+      {
+        "raw": "250gr skuvane leblebije",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "1 oljuštena slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 supene kašike meda (za vegan verziju 4 sveže otkoštene urme)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Oljuštiti jabuku, iscediti limun. Sve sastojke ubaciti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Slatka verzija humusa",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 206,
+      "carbs": 21.4,
+      "fat": 10.6,
+      "protein": 6.9,
+      "fiber": 0.4
+    }
+  }
+]

@@ -1,0 +1,175 @@
+[
+  {
+    "id": "i2-kecap",
+    "title": "Kečap",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 54,
+      "page": "L",
+      "printed": 110
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 manje oljuštene slatke jabuke",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "500ml paste od paradajza",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-pasta"
+      },
+      {
+        "raw": "100ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "¼ kašičice belog luka u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "¼ kašičice origana",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "¼ kašičice bosiljka",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "½ kašičice tapioke (ili kukuruzni skrob)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "tapioka"
+      }
+    ],
+    "method": "Oljuštiti jabuke, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Zdrava verzija kečapa",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 161,
+      "carbs": 39,
+      "fat": 0.6,
+      "protein": 5.9,
+      "fiber": 9.1
+    }
+  },
+  {
+    "id": "i2-pink-umak",
+    "title": "Pink umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 54,
+      "page": "R",
+      "printed": 111
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100gr sirovih indijskih oraha",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "indijski-orah"
+      },
+      {
+        "raw": "1 veća oljuštena cvekla",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "cvekla"
+      },
+      {
+        "raw": "1 glavica ljubičastog luka",
+        "qty": 1,
+        "unit": "glavica",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "3 supene kašike svežeg peršuna",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "persun"
+      },
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 supene kašike tahinija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "1 čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ kašičice dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Prstohvat bibera",
+        "ref": "biber"
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Indijske orahe potopiti u vruću vodu na 15ak minuta, pa procediti. Oljuštiti povrće i iseći na četvrtine, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture. Vodu dodavati postepeno do željene gustine.",
+    "tips": [],
+    "subtitle": "Cvekla i indijski orasi",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 16.8,
+      "fat": 12.4,
+      "protein": 6,
+      "fiber": 1.8
+    }
+  }
+]

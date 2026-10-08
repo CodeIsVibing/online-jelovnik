@@ -1,0 +1,146 @@
+[
+  {
+    "id": "i2-socivo-kikiriki-namaz",
+    "title": "Sočivo-kikiriki namaz",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 50,
+      "page": "L",
+      "printed": 102
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "priprema-vece-ranije"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr skuvanog braon sočiva",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "Sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "3 čena belog luka",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 do 1 ½ kašičice himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "2 supene kašike usitnjenog kikirikija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kikiriki"
+      }
+    ],
+    "method": "Sočivo potopiti veče pre pripreme. Procediti ga, oprati i još jednom procediti. Kuvati ga u šerpi oko 10 - 15 minuta na jačoj vatri. Za to vreme iscediti limun i oljuštiti beli luk. U blender ubacite kikiriki, usitnite ga i presuti u činiju. Kada se sočivo skuva, procediti ga i ostaviti malo da se prohladi. U blender stavite sočivo, sok limuna, maslinovo ulje, beli luk, mlevenu papriku i himalajsku so. Izblendati do kremaste strukture i dodati u činiju sa usitnjenim kikirikijem, dobro promešati pa poslužiti.",
+    "tips": [],
+    "subtitle": "Duplo proteinski namaz",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 198,
+      "carbs": 21,
+      "fat": 10.8,
+      "protein": 8.6,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-besamel",
+    "title": "Bešamel sos",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 50,
+      "page": "R",
+      "printed": 103
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 supena kašika putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter"
+      },
+      {
+        "raw": "200ml biljnog nezaslađenog mleka + još 100ml",
+        "qty": 300,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "2 supene kašike parmezana",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "parmezan"
+      },
+      {
+        "raw": "1 supena kašika tapioka skroba",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika origana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "origano"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "U manju šerpu ubaciti puter i na srednjoj temperaturi sačekati da se istopi. Dodati 200ml biljnog mleka i parmezan pa promešati.\n\nU manjoj činiji pomešati 100ml biljnog mleka i tapioku, promešati dobro da se tapioka istopi i da nestanu grudvice. Tu mešavinu uliti u šerpu, dodati beli luk i origano, a so i biber po ukusu, i mešati dok se sos ne zgusne.",
+    "tips": [],
+    "timeMinutes": 10,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 107,
+      "carbs": 3.9,
+      "fat": 8.9,
+      "protein": 3,
+      "fiber": 0.3
+    }
+  }
+]

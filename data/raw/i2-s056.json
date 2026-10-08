@@ -1,0 +1,117 @@
+[
+  {
+    "id": "i2-namaz-od-jabuka",
+    "title": "Namaz od jabuka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 56,
+      "page": "L",
+      "printed": 114
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [
+      "Držati u frižideru do 2 nedelje."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 kg slatkih jabuka",
+        "qty": 2,
+        "unit": "kg",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 kašičice cimeta",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "¼ kašičice đumbira u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "¼ kašičice karanfilića u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "karanfilic"
+      },
+      {
+        "raw": "100ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "opciono med ili sveže urme za jaču slatkoću",
+        "ref": "med",
+        "optional": true
+      }
+    ],
+    "method": "Oljuštiti jabuke, iseći na četvrtine i iscediti limun. U veću šerpu dodati i ostale sastojke i kuvati na srednjoj temperaturi oko 30 minuta. Izblendati štapnim mikserom i kuvati do željene gustine uz povremeno mešanje.",
+    "tips": [],
+    "subtitle": "Jabuke i začini",
+    "timeMinutes": 45,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 129,
+      "carbs": 35.4,
+      "fat": 0,
+      "protein": 0,
+      "fiber": 8.8
+    }
+  },
+  {
+    "id": "i2-pire-od-pecene-bundeve",
+    "title": "Pire od pečene bundeve",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 56,
+      "page": "R",
+      "printed": 115
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [
+      "Po želji u pire možete dodati začine poput cimeta, karanfilića, đumbira, kakao praha, rogača..."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 bundeva",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "bundeva"
+      }
+    ],
+    "method": "Preseći bundevu na pola, izvaditi koštice. Okrenuti polovine naopačke, tako da leže na ravnoj strani, prebaciti u pleh obložen pek papirom. Peći na 200 stepeni oko 45 - 60 minuta. Ostaviti da se prohladi, izvaditi unutrašnjost, ubaciti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Bundeva i ništa više",
+    "timeMinutes": 60,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 130,
+      "carbs": 32.5,
+      "fat": 0.5,
+      "protein": 5,
+      "fiber": 2.5
+    }
+  }
+]

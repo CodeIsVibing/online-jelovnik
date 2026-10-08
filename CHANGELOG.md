@@ -2,6 +2,17 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.21.0] · 2026-10-08
+
+### Dodato
+- Imunomania 2: poglavlje Supe i čorbe, svih 6 recepata (strane 94 do 99)
+- Imunomania 2: poglavlje Namazi, umaci i sosevi, svih 19 recepata (strane 102 do 120), sa nutritivnim vrednostima
+- Porcije odštampane kao raspon („6-8") prikazuju se kao raspon, dok ih korisnik ne promeni
+- Novi sastojci: guščija mast, karanfilić
+
+### Za autorku
+- U `TODO.md` su dodata dva recepta čije se ikonice ne slažu sa receptom (Brza salsa, Kikiriki umak), Slatki humus sa nutritivnim vrednostima prepisanim od Čokoladnog namaza i Tahini umak bez ikonica
+
 ## [1.20.0] · 2026-10-08
 
 ### Dodato

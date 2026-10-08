@@ -1,0 +1,107 @@
+[
+  {
+    "id": "i2-krem-od-suvih-sljiva",
+    "title": "Krem od suvih šljiva",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 58,
+      "page": "L",
+      "printed": 118
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150gr suvih šljiva",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "sljiva"
+      },
+      {
+        "raw": "300ml ključale vode",
+        "qty": 300,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "25 otkoštenih svežih urmi",
+        "qty": 25,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "50gr suvog grožđa",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "suvo-grozdje"
+      }
+    ],
+    "method": "Suve šljive potopiti u ključalu vodu i ostaviti 1h. Izvaditi koštice iz urmi. Procediti šljive i sačuvati vodu u kojoj su bile potopljene. Sve sastojke ubaciti u blender i blendati do kremaste strukture, a postepeno dodavati vodu koju ste sačuvali, do željene gustine krema.",
+    "tips": [],
+    "timeNote": "10 minuta + 60 minuta potrebno za potapanje suvih šljiva",
+    "servings": 4,
+    "nutrition": {
+      "kcal": 261,
+      "carbs": 63.9,
+      "fat": 0.4,
+      "protein": 2.2,
+      "fiber": 7.2
+    }
+  },
+  {
+    "id": "i2-umak-za-voce",
+    "title": "Umak za voće",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 58,
+      "page": "R",
+      "printed": 119
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150 gr grčkog jogurta",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "65gr kikiriki putera",
+        "qty": 65,
+        "unit": "gr",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      }
+    ],
+    "method": "Sve sastojke pomešati u činiji dok se ne sjedine.",
+    "tips": [],
+    "subtitle": "Grčki jogurt, kikiriki puter i med",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 140,
+      "carbs": 5.4,
+      "fat": 10.7,
+      "protein": 7.4,
+      "fiber": 0.8
+    }
+  }
+]

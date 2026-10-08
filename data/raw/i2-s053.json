@@ -1,0 +1,120 @@
+[
+  {
+    "id": "i2-tahini-umak",
+    "title": "Tahini umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 53,
+      "page": "L",
+      "printed": 108
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "50ml soka od limuna",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "limun"
+      },
+      {
+        "raw": "3 čena belog luka (narendanog)",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "5 supenih kašika tahinija",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "50ml vode",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iscediti limun, narendati beli luk. Sve sastojke kašikom dobro sjediniti u činiji.",
+    "tips": [],
+    "subtitle": "Pasta od susama kao glavna zvezda",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 190,
+      "carbs": 9,
+      "fat": 16,
+      "protein": 5.3,
+      "fiber": 3.7
+    }
+  },
+  {
+    "id": "i2-vegan-soja-umak",
+    "title": "Vegan soja umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 53,
+      "page": "R",
+      "printed": 109
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 čena belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "200gr tofu sira",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "tofu"
+      },
+      {
+        "raw": "3 supene kašike jabukovog sirćeta",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "50ml soja sosa bez šećera (tamari)",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "tamari"
+      },
+      {
+        "raw": "50 ml vode",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Oljuštiti beli luk. Ubaciti sve sastojke u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Proteinski umak od tofua",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 154,
+      "carbs": 14.4,
+      "fat": 4.3,
+      "protein": 10.4,
+      "fiber": 0.1
+    }
+  }
+]

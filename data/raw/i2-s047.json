@@ -1,0 +1,195 @@
+[
+  {
+    "id": "i2-supa-od-luka",
+    "title": "Supa od luka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 47,
+      "page": "L",
+      "printed": 96
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "4 glavice crnog luka (iseckan na kolutove)",
+        "qty": 4,
+        "unit": "glavica",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "30gr putera",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "puter"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "Himalajska so i biber",
+        "ref": "so"
+      },
+      {
+        "raw": "4 krompira (narendan)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "50ml jabukovog sirćeta",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "Oko 1l vode",
+        "qty": 1,
+        "unit": "l",
+        "ref": "voda"
+      }
+    ],
+    "method": "Iseći beli i crni luk. Zagrejati puter u šerpi, dodati luk, jabukovo sirće so i biber.\n\nDinstati oko 20 minuta uz povremeno mešanje i dodatak vode ukoliko je potrebno da se ne zalepi za dno šerpe. Oljuštiti krompir i narendati ga. Iscediti limun.\n\nDodati krompir, sok od limuna, jabukovo sirće, suvi začin i vodu i krčkati još 30ak minuta dok se krompir ne skuva.",
+    "tips": [],
+    "subtitle": "Gusta kisela supa punog ukusa luka",
+    "timeMinutes": 60,
+    "servings": 4
+  },
+  {
+    "id": "i2-lekovita-supa",
+    "title": "Lekovita supa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 47,
+      "page": "R",
+      "printed": 97
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 šargarepe",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 sveža tikvica",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "5 cm svežeg korena đumbira",
+        "qty": 5,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "2 glavice crnog luka",
+        "qty": 2,
+        "unit": "glavica",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 oljušteni limun",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "3 čena belog luka",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 sveža paprika",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 štap celera",
+        "qty": 1,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "2 lista svežeg kupusa",
+        "qty": 2,
+        "unit": "list",
+        "ref": "kupus"
+      },
+      {
+        "raw": "Šaka svežeg peršuna",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "Oko 2l vode",
+        "qty": 2,
+        "unit": "l",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika svinjske masti",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "svinjska-mast"
+      },
+      {
+        "raw": "1 kašičica guščije masti",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "guscija-mast"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "Biber i himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti i iseckati šargarepu na kolutove. Tikvicu oljuštiti i iseckati na kockice. Oljuštiti đumbir, crni luk, limun i beli luk i ostaviti u komadu. Izvaditi peteljku i semenke iz paprike i takođe ostaviti u komadu. Celer iseći na kolutove, peršun na sitno, a listove kupusa ostaviti u komadu. Uliti 2 litre vode u veliku šerpu, dodati svo povrće, svinjsku i guščiju mast i začine. Krčkati oko 1.5h na nižoj temperaturi.",
+    "tips": [],
+    "subtitle": "Supa koja leči dušu, a okrepljuje telo",
+    "timeMinutes": 120,
+    "servings": 6,
+    "servingsMax": 8
+  }
+]

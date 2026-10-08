@@ -8553,7 +8553,10 @@
       "fat": 11.2,
       "protein": 20.7,
       "fiber": 4.2
-    }
+    },
+    "seeAlso": [
+      "i2-besamel"
+    ]
   },
   {
     "id": "i2-vege-bolonjeze",
@@ -10823,6 +10826,585 @@
     "book": "imunomania"
   },
   {
+    "id": "i2-corba-od-crnog-pasulja",
+    "title": "Čorba od crnog pasulja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 46,
+      "page": "L",
+      "printed": 94
+    },
+    "tags": [
+      "bez-glutena",
+      "priprema-vece-ranije",
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Noć pre pripreme ovog recepta potopite pasulj u vodu."
+    ],
+    "ingredients": [
+      {
+        "raw": "400gr crnog pasulja",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "pasulj"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 glavice ljubičastog luka (iseckan na kockice)",
+        "qty": 2,
+        "unit": "glavica",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "2 čena belog luka (iseckan na kockice)",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 štapa celera (iseckan na kockice)",
+        "qty": 2,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "1 avokado (isečen na šnite)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "1 limun",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika mrvljene fete po porciji",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "feta-sir"
+      }
+    ],
+    "method": "Procediti pasulj, oprati ga i još jednom procediti. Iseći povrće. U šerpu sipati maslinovo ulje i na srednjoj temperaturi 10 minuta dinstati crni i beli luk i celer. Dodati pasulj i preliti vodom da prekrije pasulj. Začiniti i kuvati dok ne omekša. Odvaditi jednu kutlaču zrna pasulja u činiju, a ostatak u šerpi izblendati štapnim mikserom do kremaste strukture. Vratiti pasulj u šerpu i promešati. Poslužiti sa avokadom, preliti ga sokom od limuna i dodati mrvljenu fetu.",
+    "tips": [],
+    "subtitle": "Crni pasulj, avokado i feta",
+    "timeMinutes": 40,
+    "servings": 5
+  },
+  {
+    "id": "i2-sirova-corba-iz-blendera",
+    "title": "Sirova čorba iz blendera",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 46,
+      "page": "R",
+      "printed": 95
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300gr graška (svež ili smrznut)",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "grasak"
+      },
+      {
+        "raw": "4 mlada luka",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "¼ sveže ljute paprike (izvaditi semenke)",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "½ svežeg krastavca",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 crvena paprika",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "250gr čeri paradajza (može i običan)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "ceri-paradajz"
+      },
+      {
+        "raw": "15gr svežeg bosiljka",
+        "qty": 15,
+        "unit": "gr",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "1 supena kašika jabukovog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "Parče hleba (opciono)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "hleb",
+        "optional": true
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Izvaditi grašak da se odmrzne, ukoliko koristite smrznut. Sve sastojke pripremiti i ubaciti u blender (i iscepkano parče hleba ukoliko želite) i blendati do kremaste strukture. Vodu dodavati postepeno do željene gustine. Začiniti po ukusu.",
+    "tips": [],
+    "subtitle": "Brza letnja okrepljujuća čorba",
+    "timeMinutes": 10,
+    "servings": 4
+  },
+  {
+    "id": "i2-supa-od-luka",
+    "title": "Supa od luka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 47,
+      "page": "L",
+      "printed": 96
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "4 glavice crnog luka (iseckan na kolutove)",
+        "qty": 4,
+        "unit": "glavica",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "30gr putera",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "puter"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "Himalajska so i biber",
+        "ref": "so"
+      },
+      {
+        "raw": "4 krompira (narendan)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "50ml jabukovog sirćeta",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "Oko 1l vode",
+        "qty": 1,
+        "unit": "l",
+        "ref": "voda"
+      }
+    ],
+    "method": "Iseći beli i crni luk. Zagrejati puter u šerpi, dodati luk, jabukovo sirće so i biber.\n\nDinstati oko 20 minuta uz povremeno mešanje i dodatak vode ukoliko je potrebno da se ne zalepi za dno šerpe. Oljuštiti krompir i narendati ga. Iscediti limun.\n\nDodati krompir, sok od limuna, jabukovo sirće, suvi začin i vodu i krčkati još 30ak minuta dok se krompir ne skuva.",
+    "tips": [],
+    "subtitle": "Gusta kisela supa punog ukusa luka",
+    "timeMinutes": 60,
+    "servings": 4
+  },
+  {
+    "id": "i2-lekovita-supa",
+    "title": "Lekovita supa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 47,
+      "page": "R",
+      "printed": 97
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 šargarepe",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "1 sveža tikvica",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "5 cm svežeg korena đumbira",
+        "qty": 5,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "2 glavice crnog luka",
+        "qty": 2,
+        "unit": "glavica",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 oljušteni limun",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "3 čena belog luka",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 sveža paprika",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 štap celera",
+        "qty": 1,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "2 lista svežeg kupusa",
+        "qty": 2,
+        "unit": "list",
+        "ref": "kupus"
+      },
+      {
+        "raw": "Šaka svežeg peršuna",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "Oko 2l vode",
+        "qty": 2,
+        "unit": "l",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika svinjske masti",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "svinjska-mast"
+      },
+      {
+        "raw": "1 kašičica guščije masti",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "guscija-mast"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "Biber i himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti i iseckati šargarepu na kolutove. Tikvicu oljuštiti i iseckati na kockice. Oljuštiti đumbir, crni luk, limun i beli luk i ostaviti u komadu. Izvaditi peteljku i semenke iz paprike i takođe ostaviti u komadu. Celer iseći na kolutove, peršun na sitno, a listove kupusa ostaviti u komadu. Uliti 2 litre vode u veliku šerpu, dodati svo povrće, svinjsku i guščiju mast i začine. Krčkati oko 1.5h na nižoj temperaturi.",
+    "tips": [],
+    "subtitle": "Supa koja leči dušu, a okrepljuje telo",
+    "timeMinutes": 120,
+    "servings": 6,
+    "servingsMax": 8
+  },
+  {
+    "id": "i2-detox-supa",
+    "title": "Detox supa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 48,
+      "page": "L",
+      "printed": 98
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 ljubičasti luk (isečen na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "2 čena belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ supene kašike rendanog svežeg đumbira",
+        "qty": 0.5,
+        "unit": "supena kašika",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "4 štapa celera (iseckan na kolutove)",
+        "qty": 4,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "1 veća oljuštena šargarepa (iseckana na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "100 gr svežeg brokolija (iseckan na manje komade)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "brokoli"
+      },
+      {
+        "raw": "100gr svežeg karfiola (iseckan na manje komade)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "karfiol"
+      },
+      {
+        "raw": "½ kašičice kurkume",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "3 paradajza (seckan na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "1 kašičica italijanske mešavine začina",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      },
+      {
+        "raw": "2 lista kelja (seckan na trakice)",
+        "qty": 2,
+        "unit": "list",
+        "ref": "kelj"
+      },
+      {
+        "raw": "50gr ljubičastog kupusa (seckan na trakice)",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "ljubicasti-kupus"
+      },
+      {
+        "raw": "Sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      }
+    ],
+    "method": "Sve sastojke pripremiti, i ubaciti u veliku šerpu (sem kelja, kupusa i soka od limuna), preliti vodom da prekrije povrće i kuvati dok ne omekša. Iseći kupus, a iz kelja izvaditi glavnu \"žilu\", zatim iseći. Iscediti limun. 5 minuta pre nego što se sve skuva, ubaciti ove sastojke, skloniti sa ringle i poklopiti.",
+    "tips": [],
+    "subtitle": "Supa za oporavak",
+    "timeMinutes": 60,
+    "servings": 6,
+    "servingsMax": 8
+  },
+  {
+    "id": "i2-obrok-supa",
+    "title": "Obrok supa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 48,
+      "page": "R",
+      "printed": 99
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 crni luk (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "1 krompir (iseckan na kockice)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "2 štapa celera (iseckan na kockice)",
+        "qty": 2,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "200gr bundeve (iseckana na kockice)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "3 paradajza (iseckan na kockice)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "200gr ili 5 listova kelja (ili zelenog lisnatog povrća po želji)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "kelj"
+      },
+      {
+        "raw": "4 jajeta",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "Parče hleba po porciji (opciono)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "hleb",
+        "optional": true
+      }
+    ],
+    "method": "Iseći povrće, zatim dinstati u šerpi na maslinovom ulju na srednjoj temperaturi oko 10 minuta uz mešanje.\n\nDodati 1l vode, začiniti, zagrejati do ključanja, dodati paradajz i smanjiti na nižu temperaturu i kuvati još 10ak minuta.\n\nOdstraniti glavnu \"žilu\" na kelju i iseckati na tanke trakice. Ubaciti u šerpu i kuvati 5 minuta. Lagano uliti po jedno jaje u šerpu, poklopiti, kuvati 3 minuta i skloniti sa ringle.",
+    "tips": [],
+    "subtitle": "Sadrži sve što čini jedan kvalitetan obrok",
+    "timeMinutes": 40,
+    "servings": 4
+  },
+  {
     "id": "pesto-od-spanaca",
     "title": "Pesto od spanaća",
     "category": "namazi-umaci",
@@ -11579,6 +12161,1227 @@
     ],
     "type": "recept",
     "book": "imunomania"
+  },
+  {
+    "id": "i2-socivo-kikiriki-namaz",
+    "title": "Sočivo-kikiriki namaz",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 50,
+      "page": "L",
+      "printed": 102
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr skuvanog braon sočiva",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "Sok od polovine limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "3 čena belog luka",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 do 1 ½ kašičice himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "2 supene kašike usitnjenog kikirikija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kikiriki"
+      }
+    ],
+    "method": "Sočivo potopiti veče pre pripreme. Procediti ga, oprati i još jednom procediti. Kuvati ga u šerpi oko 10 - 15 minuta na jačoj vatri. Za to vreme iscediti limun i oljuštiti beli luk. U blender ubacite kikiriki, usitnite ga i presuti u činiju. Kada se sočivo skuva, procediti ga i ostaviti malo da se prohladi. U blender stavite sočivo, sok limuna, maslinovo ulje, beli luk, mlevenu papriku i himalajsku so. Izblendati do kremaste strukture i dodati u činiju sa usitnjenim kikirikijem, dobro promešati pa poslužiti.",
+    "tips": [],
+    "subtitle": "Duplo proteinski namaz",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 198,
+      "carbs": 21,
+      "fat": 10.8,
+      "protein": 8.6,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-besamel",
+    "title": "Bešamel sos",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 50,
+      "page": "R",
+      "printed": 103
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 supena kašika putera",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter"
+      },
+      {
+        "raw": "200ml biljnog nezaslađenog mleka + još 100ml",
+        "qty": 300,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "2 supene kašike parmezana",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "parmezan"
+      },
+      {
+        "raw": "1 supena kašika tapioka skroba",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika origana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "origano"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "U manju šerpu ubaciti puter i na srednjoj temperaturi sačekati da se istopi. Dodati 200ml biljnog mleka i parmezan pa promešati.\n\nU manjoj činiji pomešati 100ml biljnog mleka i tapioku, promešati dobro da se tapioka istopi i da nestanu grudvice. Tu mešavinu uliti u šerpu, dodati beli luk i origano, a so i biber po ukusu, i mešati dok se sos ne zgusne.",
+    "tips": [],
+    "timeMinutes": 10,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 107,
+      "carbs": 3.9,
+      "fat": 8.9,
+      "protein": 3,
+      "fiber": 0.3
+    }
+  },
+  {
+    "id": "i2-brza-salsa",
+    "title": "Brza salsa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 51,
+      "page": "L",
+      "printed": 104
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 paradajza",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "2 cm svežeg korena đumbira",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "Biber i himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Narendati paradajz na krupnije rende, i baciti koru. Oljuštiti đumbir i narendati na manje rende. Iscediti limun. U činiji pomešati narendani paradajz, đumbir, sok od limuna, so i biber. Promešati.",
+    "tips": [],
+    "subtitle": "Paradajz, đumbir i limun",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 35,
+      "carbs": 7.9,
+      "fat": 0.3,
+      "protein": 1.2,
+      "fiber": 2.6
+    }
+  },
+  {
+    "id": "i2-kikiriki-umak",
+    "title": "Kikiriki umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 51,
+      "page": "R",
+      "printed": 105
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike kikiriki putera",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "3 supene kašike vode",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "Biber i himalajska so po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "100ml biljnog nezaslađenog mleka + još 50ml",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 supena kašika tapioka skroba (ili kukuruzni skrob)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "60 gr usitnjenog kikirikija",
+        "qty": 60,
+        "unit": "gr",
+        "ref": "kikiriki"
+      }
+    ],
+    "method": "Kikiriki puter, vodu i sok od limuna sipati u manju šerpu, zagrejati na srednjoj temperaturi uz mešanje. Dodati 100ml biljnog mleka i promešati. U zasebnu činijicu sipati 50ml biljnog mleka i tapioku, promešati da se tapioka istopi i da se razbiju grudvice, zatim to sipati u šerpu pa promešati. Dodati so i biber po ukusu i mešati dok se umak ne zgusne. U blenderu usitniti kikiriki i dodati u šerpu. Još jednom dobro promešati i skloniti sa ringle.",
+    "tips": [],
+    "subtitle": "Brz i kremasti umak uz slane grickalice",
+    "timeMinutes": 10,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 171,
+      "carbs": 11.7,
+      "fat": 12,
+      "protein": 6.3,
+      "fiber": 3.7
+    }
+  },
+  {
+    "id": "i2-marinara-sos",
+    "title": "Marinara sos",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 52,
+      "page": "L",
+      "printed": 106
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1.5kg paradajza (isečen na četvrtine)",
+        "qty": 1.5,
+        "unit": "kg",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Šaka svežeg bilja po želji ili mix (bosiljak, peršun, origano, majčina dušica...)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "Biber po ukusu",
+        "ref": "biber"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 sveže otkoštene urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      }
+    ],
+    "method": "Iseći paradajz na četvrtine, prebaciti u veću činiju i izgnječiti gnječilicom za krompir ili rukama. Iseći beli luk, pa u većem dubljem tiganju na srednjoj temperaturi izdinstati beli luk na maslinovom ulju. Dodati paradajz i sveže bilje, pa poklopiti i povremeno promešati. Izvaditi koštice iz urmi. Kada se sos zgusne, izvaditi bilje a dodati biber, so, jabukovo sirće i urme, još jednom promešati i skloniti sa ringle da se prohladi. Kada se prohladi, sipati u blender i izblendati na kratko.",
+    "tips": [],
+    "subtitle": "U sve se meša",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 122,
+      "carbs": 19,
+      "fat": 4.2,
+      "protein": 3.4,
+      "fiber": 4.6
+    }
+  },
+  {
+    "id": "i2-karamelizovani-namaz-od-belog-luka",
+    "title": "Karamelizovani namaz od belog luka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 52,
+      "page": "R",
+      "printed": 107
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "10 glavica belog luka",
+        "qty": 10,
+        "unit": "glavica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Maslinovo ulje",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Načeti nožem gornji deo cele glavice. Tako neoljušten beli luk smestiti u vatrostalnu činiju, poklopiti. Peći oko 50 minuta na 200 stepeni. Izvaditi iz rerne i sačekati da se malo prohladi. Rukom iscediti mekanu unutrašnjost belog luka u činiju, dodati maslinovo ulje do željene gustine i biber i so po ukusu.",
+    "tips": [],
+    "subtitle": "Pečeni beli luk, maslinovo ulje i začini",
+    "timeMinutes": 60
+  },
+  {
+    "id": "i2-tahini-umak",
+    "title": "Tahini umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 53,
+      "page": "L",
+      "printed": 108
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "50ml soka od limuna",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "limun"
+      },
+      {
+        "raw": "3 čena belog luka (narendanog)",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "5 supenih kašika tahinija",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "50ml vode",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iscediti limun, narendati beli luk. Sve sastojke kašikom dobro sjediniti u činiji.",
+    "tips": [],
+    "subtitle": "Pasta od susama kao glavna zvezda",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 190,
+      "carbs": 9,
+      "fat": 16,
+      "protein": 5.3,
+      "fiber": 3.7
+    }
+  },
+  {
+    "id": "i2-vegan-soja-umak",
+    "title": "Vegan soja umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 53,
+      "page": "R",
+      "printed": 109
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 čena belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "200gr tofu sira",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "tofu"
+      },
+      {
+        "raw": "3 supene kašike jabukovog sirćeta",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "50ml soja sosa bez šećera (tamari)",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "tamari"
+      },
+      {
+        "raw": "50 ml vode",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Oljuštiti beli luk. Ubaciti sve sastojke u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Proteinski umak od tofua",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 154,
+      "carbs": 14.4,
+      "fat": 4.3,
+      "protein": 10.4,
+      "fiber": 0.1
+    }
+  },
+  {
+    "id": "i2-kecap",
+    "title": "Kečap",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 54,
+      "page": "L",
+      "printed": 110
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 manje oljuštene slatke jabuke",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "500ml paste od paradajza",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "paradajz-pasta"
+      },
+      {
+        "raw": "100ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "¼ kašičice belog luka u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "¼ kašičice origana",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "¼ kašičice bosiljka",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "½ kašičice tapioke (ili kukuruzni skrob)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "tapioka"
+      }
+    ],
+    "method": "Oljuštiti jabuke, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Zdrava verzija kečapa",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 161,
+      "carbs": 39,
+      "fat": 0.6,
+      "protein": 5.9,
+      "fiber": 9.1
+    }
+  },
+  {
+    "id": "i2-pink-umak",
+    "title": "Pink umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 54,
+      "page": "R",
+      "printed": 111
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100gr sirovih indijskih oraha",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "indijski-orah"
+      },
+      {
+        "raw": "1 veća oljuštena cvekla",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "cvekla"
+      },
+      {
+        "raw": "1 glavica ljubičastog luka",
+        "qty": 1,
+        "unit": "glavica",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "3 supene kašike svežeg peršuna",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "persun"
+      },
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 supene kašike tahinija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "1 čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ kašičice dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Prstohvat bibera",
+        "ref": "biber"
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Indijske orahe potopiti u vruću vodu na 15ak minuta, pa procediti. Oljuštiti povrće i iseći na četvrtine, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture. Vodu dodavati postepeno do željene gustine.",
+    "tips": [],
+    "subtitle": "Cvekla i indijski orasi",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 16.8,
+      "fat": 12.4,
+      "protein": 6,
+      "fiber": 1.8
+    }
+  },
+  {
+    "id": "i2-slatki-krem-od-slatkog-krompira",
+    "title": "Slatki krem od slatkog krompira",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 55,
+      "page": "L",
+      "printed": 112
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljušteni batat",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "batat"
+      },
+      {
+        "raw": "1 do 2 supene kašike meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike biljnog nezaslađenog mleka",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 kašičica tahinija",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "tahini"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "optional": true
+      },
+      {
+        "raw": "¼ kašičice cimeta",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti batat, iseći na kolutove i kuvati 10ak minuta. Probosti viljuškom, proveriti da li je kuvano pa dobro procediti i ostaviti da se prohladi. Sve sastojke staviti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Batat kao glavna zvezda",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 134,
+      "carbs": 21.7,
+      "fat": 4.7,
+      "protein": 1.5,
+      "fiber": 2.1
+    }
+  },
+  {
+    "id": "i2-pasta-od-urmi",
+    "title": "Pasta od urmi",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 55,
+      "page": "R",
+      "printed": 113
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "500gr otkoštenih svežih urmi",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "urme"
+      },
+      {
+        "raw": "150ml vode/nezaslađenog biljnog mleka/voćnog soka",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi, ubaciti ih u veliku činiju i preliti sa tečnošću. Ostaviti 15 min. Prebaciti sve u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Idealni zaslađivač za zdrave dezerte",
+    "timeMinutes": 20,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 141,
+      "carbs": 37.5,
+      "fat": 0.2,
+      "protein": 1.2,
+      "fiber": 4
+    }
+  },
+  {
+    "id": "i2-namaz-od-jabuka",
+    "title": "Namaz od jabuka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 56,
+      "page": "L",
+      "printed": 114
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Držati u frižideru do 2 nedelje."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 kg slatkih jabuka",
+        "qty": 2,
+        "unit": "kg",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 kašičice cimeta",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "¼ kašičice đumbira u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "¼ kašičice karanfilića u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "karanfilic"
+      },
+      {
+        "raw": "100ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "opciono med ili sveže urme za jaču slatkoću",
+        "ref": "med",
+        "optional": true
+      }
+    ],
+    "method": "Oljuštiti jabuke, iseći na četvrtine i iscediti limun. U veću šerpu dodati i ostale sastojke i kuvati na srednjoj temperaturi oko 30 minuta. Izblendati štapnim mikserom i kuvati do željene gustine uz povremeno mešanje.",
+    "tips": [],
+    "subtitle": "Jabuke i začini",
+    "timeMinutes": 45,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 129,
+      "carbs": 35.4,
+      "fat": 0,
+      "protein": 0,
+      "fiber": 8.8
+    }
+  },
+  {
+    "id": "i2-pire-od-pecene-bundeve",
+    "title": "Pire od pečene bundeve",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 56,
+      "page": "R",
+      "printed": 115
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Po želji u pire možete dodati začine poput cimeta, karanfilića, đumbira, kakao praha, rogača..."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 bundeva",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "bundeva"
+      }
+    ],
+    "method": "Preseći bundevu na pola, izvaditi koštice. Okrenuti polovine naopačke, tako da leže na ravnoj strani, prebaciti u pleh obložen pek papirom. Peći na 200 stepeni oko 45 - 60 minuta. Ostaviti da se prohladi, izvaditi unutrašnjost, ubaciti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Bundeva i ništa više",
+    "timeMinutes": 60,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 130,
+      "carbs": 32.5,
+      "fat": 0.5,
+      "protein": 5,
+      "fiber": 2.5
+    }
+  },
+  {
+    "id": "i2-narandza-puter",
+    "title": "Narandža puter",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 57,
+      "page": "L",
+      "printed": 116
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150 gr pečenih badema",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "1 kašičica meda (za vegan verziju 1 sveža otkoštena urma)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "Sok od narandže",
+        "ref": "narandza"
+      }
+    ],
+    "method": "Bademe ubaciti u multipraktik i blendati do strukture brašna. Dodati med, kokosovo ulje, so, a sok od narandže postepeno dodavati do željene gustine.",
+    "tips": [],
+    "subtitle": "Bademi, narandža i med",
+    "timeMinutes": 5,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 226,
+      "carbs": 15,
+      "fat": 15.6,
+      "protein": 5.9,
+      "fiber": 2.5
+    }
+  },
+  {
+    "id": "i2-cokoladni-namaz",
+    "title": "Čokoladni namaz",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 57,
+      "page": "R",
+      "printed": 117
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi.",
+      "Držati u frižideru do 2 nedelje."
+    ],
+    "ingredients": [
+      {
+        "raw": "400gr kuvane leblebije",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "1 supena kašika putera od orašastih plodova po želji",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "3 supene kašike kokosovog ulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike kakao praha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "80gr meda (za vegan verziju 20ak svežih otkoštenih urmi)",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "med"
+      },
+      {
+        "raw": "4 supene kašike vode",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "optional": true
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Sve sastojke ubaciti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Leblebije, kakao i med",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 206,
+      "carbs": 21.4,
+      "fat": 10.6,
+      "protein": 6.9,
+      "fiber": 0.4
+    }
+  },
+  {
+    "id": "i2-krem-od-suvih-sljiva",
+    "title": "Krem od suvih šljiva",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 58,
+      "page": "L",
+      "printed": 118
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150gr suvih šljiva",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "sljiva"
+      },
+      {
+        "raw": "300ml ključale vode",
+        "qty": 300,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "25 otkoštenih svežih urmi",
+        "qty": 25,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "50gr suvog grožđa",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "suvo-grozdje"
+      }
+    ],
+    "method": "Suve šljive potopiti u ključalu vodu i ostaviti 1h. Izvaditi koštice iz urmi. Procediti šljive i sačuvati vodu u kojoj su bile potopljene. Sve sastojke ubaciti u blender i blendati do kremaste strukture, a postepeno dodavati vodu koju ste sačuvali, do željene gustine krema.",
+    "tips": [],
+    "timeNote": "10 minuta + 60 minuta potrebno za potapanje suvih šljiva",
+    "servings": 4,
+    "nutrition": {
+      "kcal": 261,
+      "carbs": 63.9,
+      "fat": 0.4,
+      "protein": 2.2,
+      "fiber": 7.2
+    }
+  },
+  {
+    "id": "i2-umak-za-voce",
+    "title": "Umak za voće",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 58,
+      "page": "R",
+      "printed": 119
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "150 gr grčkog jogurta",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "grcki-jogurt"
+      },
+      {
+        "raw": "65gr kikiriki putera",
+        "qty": 65,
+        "unit": "gr",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      }
+    ],
+    "method": "Sve sastojke pomešati u činiji dok se ne sjedine.",
+    "tips": [],
+    "subtitle": "Grčki jogurt, kikiriki puter i med",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 140,
+      "carbs": 5.4,
+      "fat": 10.7,
+      "protein": 7.4,
+      "fiber": 0.8
+    }
+  },
+  {
+    "id": "i2-slatki-humus",
+    "title": "Slatki humus",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 59,
+      "page": "L",
+      "printed": 120
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "bez-secera",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "ingredients": [
+      {
+        "raw": "250gr skuvane leblebije",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "1 oljuštena slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 supene kašike meda (za vegan verziju 4 sveže otkoštene urme)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Oljuštiti jabuku, iscediti limun. Sve sastojke ubaciti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Slatka verzija humusa",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 206,
+      "carbs": 21.4,
+      "fat": 10.6,
+      "protein": 6.9,
+      "fiber": 0.4
+    }
   },
   {
     "id": "brzi-beskvasni-hleb-sa-semenkama",

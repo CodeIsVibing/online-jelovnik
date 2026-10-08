@@ -27,3 +27,21 @@ peče se u tiganju i nema ljutog sastojka. Na sajtu te tri oznake nisu prenete.
 - Strane 8, 9 i 12 do 35 skenirane su na 626 px širine, ostatak knjige je na 1669 px.
   Strane 30 do 35 su ipak prepisane, tekst je bio čitak. Ostale čekaju nov sken.
 - Deo „Moje preporuke" na kraju knjige: skenirana je samo naslovna strana (sken 113, desna polovina), sadržaj iza nje fali.
+
+## Ikonice koje se ne slažu sa receptom, Imunomania 2
+
+Na sajtu te oznake nisu prenete dok autorka ne potvrdi.
+
+### Brza salsa
+Strana 104. Traka nosi ikonicu „priprema veče ranije", a recept nema ništa što se potapa.
+
+### Kikiriki umak
+Strana 105. Traka nosi „sirovo", a umak se kuva u šerpi.
+
+## Moguće greške u štampi, Imunomania 2
+
+### Slatki humus
+Strana 120. Nutritivne vrednosti su iste kao kod Čokoladnog namaza na strani 117 (206 kcal, 21,4 g UH, 10,6 g M, 6,9 g P, 0,4 g vlakna), a sastojci se razlikuju. Na sajtu stoji kako je odštampano.
+
+### Tahini umak
+Strana 108. Jedini recept u poglavlju bez trake sa ikonicama. Na sajtu je bez oznaka.

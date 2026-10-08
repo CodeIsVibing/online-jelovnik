@@ -1,0 +1,118 @@
+[
+  {
+    "id": "i2-marinara-sos",
+    "title": "Marinara sos",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 52,
+      "page": "L",
+      "printed": 106
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1.5kg paradajza (isečen na četvrtine)",
+        "qty": 1.5,
+        "unit": "kg",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "4 čena belog luka (iseckan na kockice)",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Šaka svežeg bilja po želji ili mix (bosiljak, peršun, origano, majčina dušica...)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "Biber po ukusu",
+        "ref": "biber"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 sveže otkoštene urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      }
+    ],
+    "method": "Iseći paradajz na četvrtine, prebaciti u veću činiju i izgnječiti gnječilicom za krompir ili rukama. Iseći beli luk, pa u većem dubljem tiganju na srednjoj temperaturi izdinstati beli luk na maslinovom ulju. Dodati paradajz i sveže bilje, pa poklopiti i povremeno promešati. Izvaditi koštice iz urmi. Kada se sos zgusne, izvaditi bilje a dodati biber, so, jabukovo sirće i urme, još jednom promešati i skloniti sa ringle da se prohladi. Kada se prohladi, sipati u blender i izblendati na kratko.",
+    "tips": [],
+    "subtitle": "U sve se meša",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 122,
+      "carbs": 19,
+      "fat": 4.2,
+      "protein": 3.4,
+      "fiber": 4.6
+    }
+  },
+  {
+    "id": "i2-karamelizovani-namaz-od-belog-luka",
+    "title": "Karamelizovani namaz od belog luka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 52,
+      "page": "R",
+      "printed": 107
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "10 glavica belog luka",
+        "qty": 10,
+        "unit": "glavica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Maslinovo ulje",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Načeti nožem gornji deo cele glavice. Tako neoljušten beli luk smestiti u vatrostalnu činiju, poklopiti. Peći oko 50 minuta na 200 stepeni. Izvaditi iz rerne i sačekati da se malo prohladi. Rukom iscediti mekanu unutrašnjost belog luka u činiju, dodati maslinovo ulje do željene gustine i biber i so po ukusu.",
+    "tips": [],
+    "subtitle": "Pečeni beli luk, maslinovo ulje i začini",
+    "timeMinutes": 60
+  }
+]

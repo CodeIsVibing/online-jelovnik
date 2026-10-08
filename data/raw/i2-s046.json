@@ -1,0 +1,187 @@
+[
+  {
+    "id": "i2-corba-od-crnog-pasulja",
+    "title": "Čorba od crnog pasulja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 46,
+      "page": "L",
+      "printed": 94
+    },
+    "tags": [
+      "bez-glutena",
+      "priprema-vece-ranije",
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Noć pre pripreme ovog recepta potopite pasulj u vodu."
+    ],
+    "ingredients": [
+      {
+        "raw": "400gr crnog pasulja",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "pasulj"
+      },
+      {
+        "raw": "1 supena kašika maslinovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 glavice ljubičastog luka (iseckan na kockice)",
+        "qty": 2,
+        "unit": "glavica",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "2 čena belog luka (iseckan na kockice)",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 štapa celera (iseckan na kockice)",
+        "qty": 2,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "1 supena kašika suvog začina",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "suvi-zacin"
+      },
+      {
+        "raw": "1 avokado (isečen na šnite)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "1 limun",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika mrvljene fete po porciji",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "feta-sir"
+      }
+    ],
+    "method": "Procediti pasulj, oprati ga i još jednom procediti. Iseći povrće. U šerpu sipati maslinovo ulje i na srednjoj temperaturi 10 minuta dinstati crni i beli luk i celer. Dodati pasulj i preliti vodom da prekrije pasulj. Začiniti i kuvati dok ne omekša. Odvaditi jednu kutlaču zrna pasulja u činiju, a ostatak u šerpi izblendati štapnim mikserom do kremaste strukture. Vratiti pasulj u šerpu i promešati. Poslužiti sa avokadom, preliti ga sokom od limuna i dodati mrvljenu fetu.",
+    "tips": [],
+    "subtitle": "Crni pasulj, avokado i feta",
+    "timeMinutes": 40,
+    "servings": 5
+  },
+  {
+    "id": "i2-sirova-corba-iz-blendera",
+    "title": "Sirova čorba iz blendera",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "supe-corbe",
+    "source": {
+      "scan": 46,
+      "page": "R",
+      "printed": 95
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300gr graška (svež ili smrznut)",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "grasak"
+      },
+      {
+        "raw": "4 mlada luka",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "mladi-luk"
+      },
+      {
+        "raw": "¼ sveže ljute paprike (izvaditi semenke)",
+        "qty": 0.25,
+        "unit": "komad",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "½ svežeg krastavca",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "krastavac"
+      },
+      {
+        "raw": "1 crvena paprika",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "paprika"
+      },
+      {
+        "raw": "1 čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "250gr čeri paradajza (može i običan)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "ceri-paradajz"
+      },
+      {
+        "raw": "15gr svežeg bosiljka",
+        "qty": 15,
+        "unit": "gr",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "1 supena kašika jabukovog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "Parče hleba (opciono)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "hleb",
+        "optional": true
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Izvaditi grašak da se odmrzne, ukoliko koristite smrznut. Sve sastojke pripremiti i ubaciti u blender (i iscepkano parče hleba ukoliko želite) i blendati do kremaste strukture. Vodu dodavati postepeno do željene gustine. Začiniti po ukusu.",
+    "tips": [],
+    "subtitle": "Brza letnja okrepljujuća čorba",
+    "timeMinutes": 10,
+    "servings": 4
+  }
+]

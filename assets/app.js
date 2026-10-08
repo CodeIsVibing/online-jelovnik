@@ -36,6 +36,7 @@
     "svežanj": ["svežanj", "svežnja", "svežnjeva"],
     "kolut": ["kolut", "koluta", "kolutova"],
     "koren": ["koren", "korena", "korenova"],
+    "štap": ["štap", "štapa", "štapova"],
   };
 
   const GROUP_LABELS = {
@@ -533,8 +534,14 @@
   function servingsControl() {
     return `<span class="t serv"><svg aria-hidden="true"><use href="#ic-fork"/></svg>
       <button type="button" data-serv="-1" aria-label="Manje porcija"${servings <= 1 ? " disabled" : ""}>−</button>
-      <span aria-live="polite"><b>${servings}</b> ${plural(servings, "porcija", "porcije", "porcija")}</span>
+      <span aria-live="polite"><b>${servingsText()}</b> ${plural(servings, "porcija", "porcije", "porcija")}</span>
       <button type="button" data-serv="1" aria-label="Više porcija">+</button></span>`;
+  }
+
+  // knjiga ponekad štampa raspon („6-8"); dok se broj ne promeni, prikazuje se raspon
+  function servingsText() {
+    const r = recById.get(currentId);
+    return r?.servingsMax && servings === r.servings ? `${r.servings}-${r.servingsMax}` : servings;
   }
 
   // količine se preračunavaju iz odštampanog broja porcija
@@ -839,6 +846,7 @@
     const cat = catById.get(r.category);
     const t = timeLabel(r);
     servings = r.servings || null;
+    currentId = id;
 
     const see = (r.seeAlso || [])
       .map(sid => RECIPES.find(x => x.id === sid))

@@ -15,7 +15,7 @@ def I(raw, ref, qty=None, unit=None, group=None, optional=False):
 
 
 def R(rid, title, cat, scan, page, printed, ings, method, *, sub=None, t=None, timeNote=None,
-      servings=None, tags=(), nutri=None, notes=None, tips=None, book="imunomania-2", prefix="i2-"):
+      servings=None, servingsMax=None, tags=(), nutri=None, notes=None, tips=None, book="imunomania-2", prefix="i2-"):
     r = {"id": prefix + rid, "title": title, "type": "recept", "book": book, "category": cat,
          "source": {"scan": scan, "page": page, "printed": printed}, "tags": list(tags),
          "notes": notes or [], "ingredients": ings, "method": method, "tips": tips or []}
@@ -23,6 +23,7 @@ def R(rid, title, cat, scan, page, printed, ings, method, *, sub=None, t=None, t
     if t is not None: r["timeMinutes"] = t
     if timeNote: r["timeNote"] = timeNote
     if servings is not None: r["servings"] = servings
+    if servingsMax is not None: r["servingsMax"] = servingsMax
     if nutri:
         keys = ["kcal", "carbs", "fat", "protein", "fiber"]
         r["nutrition"] = {k: v for k, v in zip(keys, nutri) if v is not None}

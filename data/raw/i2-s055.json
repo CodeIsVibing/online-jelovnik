@@ -1,0 +1,117 @@
+[
+  {
+    "id": "i2-slatki-krem-od-slatkog-krompira",
+    "title": "Slatki krem od slatkog krompira",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 55,
+      "page": "L",
+      "printed": 112
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljušteni batat",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "batat"
+      },
+      {
+        "raw": "1 do 2 supene kašike meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike biljnog nezaslađenog mleka",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 kašičica tahinija",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "tahini"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "optional": true
+      },
+      {
+        "raw": "¼ kašičice cimeta",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti batat, iseći na kolutove i kuvati 10ak minuta. Probosti viljuškom, proveriti da li je kuvano pa dobro procediti i ostaviti da se prohladi. Sve sastojke staviti u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Batat kao glavna zvezda",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 134,
+      "carbs": 21.7,
+      "fat": 4.7,
+      "protein": 1.5,
+      "fiber": 2.1
+    }
+  },
+  {
+    "id": "i2-pasta-od-urmi",
+    "title": "Pasta od urmi",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 55,
+      "page": "R",
+      "printed": 113
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "500gr otkoštenih svežih urmi",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "urme"
+      },
+      {
+        "raw": "150ml vode/nezaslađenog biljnog mleka/voćnog soka",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi, ubaciti ih u veliku činiju i preliti sa tečnošću. Ostaviti 15 min. Prebaciti sve u multipraktik i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Idealni zaslađivač za zdrave dezerte",
+    "timeMinutes": 20,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 141,
+      "carbs": 37.5,
+      "fat": 0.2,
+      "protein": 1.2,
+      "fiber": 4
+    }
+  }
+]

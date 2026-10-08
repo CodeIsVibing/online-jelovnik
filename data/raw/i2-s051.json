@@ -1,0 +1,127 @@
+[
+  {
+    "id": "i2-brza-salsa",
+    "title": "Brza salsa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 51,
+      "page": "L",
+      "printed": 104
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 paradajza",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "2 cm svežeg korena đumbira",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "Biber i himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Narendati paradajz na krupnije rende, i baciti koru. Oljuštiti đumbir i narendati na manje rende. Iscediti limun. U činiji pomešati narendani paradajz, đumbir, sok od limuna, so i biber. Promešati.",
+    "tips": [],
+    "subtitle": "Paradajz, đumbir i limun",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 35,
+      "carbs": 7.9,
+      "fat": 0.3,
+      "protein": 1.2,
+      "fiber": 2.6
+    }
+  },
+  {
+    "id": "i2-kikiriki-umak",
+    "title": "Kikiriki umak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "namazi-umaci",
+    "source": {
+      "scan": 51,
+      "page": "R",
+      "printed": 105
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike kikiriki putera",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "3 supene kašike vode",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "Biber i himalajska so po ukusu",
+        "ref": "so"
+      },
+      {
+        "raw": "100ml biljnog nezaslađenog mleka + još 50ml",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 supena kašika tapioka skroba (ili kukuruzni skrob)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "60 gr usitnjenog kikirikija",
+        "qty": 60,
+        "unit": "gr",
+        "ref": "kikiriki"
+      }
+    ],
+    "method": "Kikiriki puter, vodu i sok od limuna sipati u manju šerpu, zagrejati na srednjoj temperaturi uz mešanje. Dodati 100ml biljnog mleka i promešati. U zasebnu činijicu sipati 50ml biljnog mleka i tapioku, promešati da se tapioka istopi i da se razbiju grudvice, zatim to sipati u šerpu pa promešati. Dodati so i biber po ukusu i mešati dok se umak ne zgusne. U blenderu usitniti kikiriki i dodati u šerpu. Još jednom dobro promešati i skloniti sa ringle.",
+    "tips": [],
+    "subtitle": "Brz i kremasti umak uz slane grickalice",
+    "timeMinutes": 10,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 171,
+      "carbs": 11.7,
+      "fat": 12,
+      "protein": 6.3,
+      "fiber": 3.7
+    }
+  }
+]
