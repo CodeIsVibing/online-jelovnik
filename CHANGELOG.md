@@ -2,6 +2,23 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.19.2] · 2026-10-08
+
+### Promenjeno
+- Odgovori autorke na sva otvorena pitanja iz tri knjige su uneti
+- „Proteinska slana kaša" je vegetarijanska; legenda sada kaže „bez mesa kopnenih životinja", kako autorka definiše oznaku
+- „Lanene pločice" nose oznaku „bez glutena" i upozorenje da sadrže speltu i ječam i da nisu za osobe sa celijakijom
+- „Vegeterijanski sendvič" više nema izmišljen postupak, jer ga knjiga nema
+- „Humus" ima vreme „Odokativno, po ukusu"
+- Đumbir je bio dvaput u rečniku sastojaka, spojen je u jedan
+
+### Dodato
+- Znak upozorenja na kartici i u popupu, za recepte sa napomenom koju treba pročitati pre pripreme, i stavka u legendi
+- `TODO.md` sa četiri recepta kojima nešto fali i spiskom strana za ponovni sken
+
+### Uklonjeno
+- `data/review.md`, odgovori su preneti u `data/pitanja-za-autorku.md`
+
 ## [1.19.1] · 2026-10-08
 
 ### Bezbednost

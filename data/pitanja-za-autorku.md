@@ -1,7 +1,6 @@
 # Za autorku
 
-Spisak za jedno obraćanje, da se ne piše dvaput. Prvi deo su strane koje treba ponovo skenirati
-iz knjige „Imunomania 2 — Korak dalje", drugi deo su nedoumice iz prve knjige koje čekaju potvrdu.
+Prvi deo su strane koje treba ponovo skenirati iz knjige „Imunomania 2, Korak dalje". Drugi deo beleži odgovore autorke.
 
 ## 1. Strane koje treba ponovo skenirati
 
@@ -30,27 +29,17 @@ strana i sadržaj.
 Sken broj 16 je ponovljeni sken strana 34 i 35. Te dve strane svejedno ulaze u spisak gore,
 jer je i ponovljeni sken ispod rezolucije ostatka knjige.
 
-## 2. Nedoumice iz prve knjige „Imunomania"
+## 2. Odgovori autorke
 
-Ovo su mesta gde se štampani podatak razlikuje od onoga što recept sadrži. Ništa nije menjano
-u prepisu, čeka se potvrda.
+Sva pitanja iz prve tri knjige su odgovorena 2026-10-08. Ono što je ostalo otvoreno vodi se u `TODO.md`.
 
-1. Recept sa tunjevinom nosi oznaku „vegetarijansko". Oznaka je zadržana samo u knjizi, na sajtu
-   je izostavljena, jer bi pogrešan filter mogao da zavara nekoga ko izbegava ribu.
-2. Recept sa pirom i ječmom nosi oznaku „bez glutena". Iz istog razloga oznaka nije preneta
-   na sajt. Pir i ječam sadrže gluten.
-3. Dva sirupa imaju isti naziv, a različite sastojke. Treba razlikovati nazive.
-4. „Vegeterijanski sendvič", ispravno je „Vegetarijanski".
-5. Humus nema odštampano vreme pripreme, dok ga ostali recepti u tom delu imaju.
-6. „Voćni kolač" ima grešku u štampi u spisku sastojaka.
-7. Sken 16 prve knjige ima dva recepta bez formalnog spiska sastojaka, sastojci su opisani
-   unutar postupka.
-
-## 3. Nedoumice iz druge knjige „Imunomania 2"
-
-1. „45 grama", strana 41: postupak se završava usred rečenice, „Preklopiti omlet, još malo zapeći i",
-   a nastavak nije odštampan ni na sledećoj strani. Na sajtu stoji tačno do tog mesta.
-2. Strana 47: naslov je odštampan kao „Zeleni wragan", a u sadržaju poglavlja stoji „Zeleni uragan".
-   Na sajtu je uzet naziv iz sadržaja.
-3. „Pečeni pirinač od karfiola", strana 80: traka sa ikonicama nosi i „vegan", „sirovo" i „ljuto",
-   a recept ima jaja, peče se u tiganju i nema ljutog sastojka. Na sajtu te tri oznake nisu prenete.
+- „Proteinska slana kaša" je vegetarijanska. Za autorku vegetarijansko znači bez mesa kopnenih životinja, pa riba i jaja ulaze.
+- „Lanene pločice" zadržavaju oznaku „bez glutena", uz upozorenje da sadrže speltu i ječam i da nisu za osobe sa celijakijom.
+- „Vegeterijanski sendvič" ostaje kako je odštampan, a postupak je uklonjen, jer ga knjiga nema.
+- Sir u „Lazanjama sa sočivom" je opcion.
+- Vreme za „Humus" je „Odokativno, po ukusu".
+- „Voćni kolač": „dok ne porumeni" je tačno.
+- Podnaslovi dva „Sirupa za izbacivanje šlajma" ostaju.
+- Strana 47 druge knjige: tačan naslov je „Zeleni uragan".
+- Oznake koje sajt izvodi za šejkove iz Smoothiemanie ostaju.
+- Strana o autorki i posveta za sada ne idu na sajt.

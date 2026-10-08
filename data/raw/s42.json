@@ -30,7 +30,7 @@
       { "raw": "5 supenih kašika čia semenki", "qty": 5, "unit": "supena kašika", "ref": "cia-semenke" },
       { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med" },
       { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "cimet", "optional": true },
-      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "djumbir", "optional": true },
+      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "dumbir", "optional": true },
       { "raw": "ekstrakt po želji (rum, vanila...) - opciono", "qty": null, "unit": null, "ref": "ekstrakt", "optional": true }
     ],
     "method": "Ispasirajte voće viljuškom, a ukoliko koristite smrznute bobice prethodno ih odmrznite na sobnoj temperaturi. Dodajte med, začine ili ekstrakte po želji i čia semenke, dobro promešajte dok se sve semenke ne natope voćem. Prespite u teglu i stavite u frižider na 30 minuta, pre služenja još jednom promešajte.",

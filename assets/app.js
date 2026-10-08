@@ -180,6 +180,7 @@
         <span class="meta">
           ${t ? `<span class="t"><svg aria-hidden="true"><use href="#ic-clock"/></svg>${esc(t)}</span>` : ""}
           ${r.tags.length ? `<span class="badges">${badges(r)}</span>` : ""}
+          ${r.warning ? `<span class="warn" title="${esc(r.warning)}"><svg aria-hidden="true"><use href="#ic-warn"/></svg></span>` : ""}
         </span>
         ${miss.length ? `<span class="missing">Fali: <b>${miss.map(x => esc(ingById.get(x)?.title || x)).join(", ")}</b></span>` : ""}
       </button>
@@ -555,6 +556,7 @@
         ${r.servings ? `<span class="t"><svg aria-hidden="true"><use href="#ic-fork"/></svg>${esc(r.servings)} ${plural(r.servings, "porcija", "porcije", "porcija")}</span>` : ""}
         ${r.tags.length ? `<span class="r-badges">${badges(r)}</span>` : ""}
       </div>` : ""}
+      ${r.warning ? `<p class="r-warn"><svg aria-hidden="true"><use href="#ic-warn"/></svg>${esc(r.warning)}</p>` : ""}
       ${r.nutrition ? nutritionStrip(r.nutrition) : ""}
       ${(r.notes || []).length ? `<div class="r-notes">${r.notes.map(n => `<p>${esc(n)}</p>`).join("")}</div>` : ""}
       ${(r.equipment || []).length ? `<h3 class="r-h">Potrebno</h3><ul class="r-ing">${r.equipment.map(e => `<li>${esc(e)}</li>`).join("")}</ul>` : ""}

@@ -45,7 +45,7 @@
     "tags": [],
     "notes": [],
     "ingredients": [
-      { "raw": "1 oljušteni svež koren đumbira", "qty": 1, "unit": "koren", "ref": "djumbir" },
+      { "raw": "1 oljušteni svež koren đumbira", "qty": 1, "unit": "koren", "ref": "dumbir" },
       { "raw": "1 oljušteni limun", "qty": 1, "unit": "komad", "ref": "limun" },
       { "raw": "pola tegle meda", "qty": 0.5, "unit": "tegla", "ref": "med" }
     ],

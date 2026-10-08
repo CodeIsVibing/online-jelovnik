@@ -811,7 +811,8 @@
     },
     "timeMinutes": 7,
     "tags": [
-      "bez-glutena"
+      "bez-glutena",
+      "vegetarijansko"
     ],
     "notes": [
       "bez brašna i ulja."
@@ -1211,7 +1212,7 @@
         "optional": true
       }
     ],
-    "method": "Sastojke složiti u hleb po želji.",
+    "method": "",
     "tips": [
       "Ovakva vrsta domaćeg sendviča je odličan odabir za početak dana. Izbacite iz upotrebe mesne prerađevine jer su pune aditiva koji pospešuju upalne procese u organizmu."
     ],
@@ -11306,6 +11307,7 @@
       "Ukoliko vam je smesa previše gusta, postepeno dodajte vodu u kojoj ste kuvali leblebije, do željene gustine.",
       "U humus možete dodati razne dodatke kao što su mlevena paprika (slatka ili ljuta), kikiriki, susam, origano, bosiljak, beli luk u prahu..."
     ],
+    "timeNote": "Odokativno, po ukusu",
     "type": "recept",
     "book": "imunomania"
   },
@@ -11560,7 +11562,7 @@
         "raw": "začini po želji (cimet, đumbir...) - opciono",
         "qty": null,
         "unit": null,
-        "ref": "djumbir",
+        "ref": "dumbir",
         "optional": true
       },
       {
@@ -12188,6 +12190,7 @@
     },
     "timeMinutes": 30,
     "tags": [
+      "bez-glutena",
       "vegetarijansko"
     ],
     "notes": [
@@ -12245,6 +12248,7 @@
     ],
     "method": "Pomešati sve sastojke i umesiti testo. Rastanjiti testo na pek papiru na debljinu oko pola cm. Preneti tako na papiru na pleh za pečenje i premazati testo maslinovim uljem a zatim još jednom posoliti. Pre pečenja iseći na željeni oblik. Peći na 160 stepeni dok pločice ne porumene.",
     "tips": [],
+    "warning": "Sadrži speltu i ječam. Nije za osobe sa celijakijom.",
     "type": "recept",
     "book": "imunomania"
   },
@@ -12469,7 +12473,7 @@
         "raw": "začini po želji (cimet, đumbir...) - opciono",
         "qty": null,
         "unit": null,
-        "ref": "djumbir",
+        "ref": "dumbir",
         "optional": true,
         "group": "Punjenje"
       },
@@ -15175,7 +15179,7 @@
         "raw": "kockica svežeg đumbira",
         "qty": 1,
         "unit": "kockica",
-        "ref": "djumbir"
+        "ref": "dumbir"
       },
       {
         "raw": "4 kockice sveže kelerabe",
@@ -15562,7 +15566,7 @@
         "raw": "1 oljušteni svež koren đumbira",
         "qty": 1,
         "unit": "koren",
-        "ref": "djumbir"
+        "ref": "dumbir"
       },
       {
         "raw": "1 oljušteni limun",

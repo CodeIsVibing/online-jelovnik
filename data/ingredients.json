@@ -497,6 +497,17 @@
     "count": 9
   },
   {
+    "id": "dumbir",
+    "title": "Đumbir",
+    "group": "zacini",
+    "aliases": [
+      "đumbir",
+      "dumbir",
+      "đumbira"
+    ],
+    "count": 9
+  },
+  {
     "id": "ananas",
     "title": "Ananas",
     "group": "voce",
@@ -671,17 +682,6 @@
     "title": "Čeri paradajz",
     "group": "povrce",
     "aliases": [],
-    "count": 7
-  },
-  {
-    "id": "dumbir",
-    "title": "Đumbir",
-    "group": "zacini",
-    "aliases": [
-      "đumbir",
-      "dumbir",
-      "đumbira"
-    ],
     "count": 7
   },
   {
@@ -1379,13 +1379,6 @@
     "id": "tortilja",
     "title": "Tortilja",
     "group": "zitarice",
-    "aliases": [],
-    "count": 2
-  },
-  {
-    "id": "djumbir",
-    "title": "Đumbir",
-    "group": "zacini",
     "aliases": [],
     "count": 2
   },

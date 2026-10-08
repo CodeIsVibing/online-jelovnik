@@ -10,7 +10,7 @@ data/
 ├── recipes.json      — 174 zapisa (145 recepata + 29 saveta), spojeno iz raw/
 ├── ingredients.json  — 170 normalizovanih sastojaka sa sinonimima i brojem pojavljivanja
 ├── categories.json   — 8 kategorija iz sadržaja knjige, sa bojama
-├── review.md         — nedoumice i greške u knjizi koje treba proveriti sa autorkom
+├── pitanja-za-autorku.md — strane za ponovni sken i odgovori autorke
 └── raw/              — po jedan fajl po skenu (sNN.json), izvor istine
 build.py              — spaja raw/ u recipes.json i proverava veze
 scans/                — 166 uspravljenih polustrana (van gita)

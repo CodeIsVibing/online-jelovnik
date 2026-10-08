@@ -12,7 +12,7 @@
       { "raw": "5 supenih kašika čia semenki", "qty": 5, "unit": "supena kašika", "ref": "cia-semenke", "group": "Punjenje" },
       { "raw": "1 supena kašika meda", "qty": 1, "unit": "supena kašika", "ref": "med", "group": "Punjenje" },
       { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "cimet", "optional": true, "group": "Punjenje" },
-      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "djumbir", "optional": true, "group": "Punjenje" },
+      { "raw": "začini po želji (cimet, đumbir...) - opciono", "qty": null, "unit": null, "ref": "dumbir", "optional": true, "group": "Punjenje" },
       { "raw": "ekstrakt po želji (rum, vanila...) - opciono", "qty": null, "unit": null, "ref": "ekstrakt", "optional": true, "group": "Punjenje" },
       { "raw": "200 gr speltinog mekog brašna", "qty": 200, "unit": "gr", "ref": "speltino-brasno", "group": "Testo" },
       { "raw": "100 ml tople vode", "qty": 100, "unit": "ml", "ref": "voda", "group": "Testo" },
