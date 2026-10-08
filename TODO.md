@@ -45,3 +45,12 @@ Strana 120. Nutritivne vrednosti su iste kao kod Čokoladnog namaza na strani 11
 
 ### Tahini umak
 Strana 108. Jedini recept u poglavlju bez trake sa ikonicama. Na sajtu je bez oznaka.
+
+### Avokado dresing i Vegan dresing
+Strane 130 i 131. Podnaslovi su odštampani nedovršeno: „Avokado, peršun i" i „Tahini, nutritivni kvasac i maslinovo". Na sajtu stoje tako.
+
+### Šargarepa dresing
+Strana 128. Proteini su odštampani kao „1,g P", pa na sajtu nisu prikazani. Čeka se tačan broj.
+
+### Puter štanglice sa sirom
+Strana 148. Vlakna su odštampana bez broja („g vlakna"), pa na sajtu nisu prikazana.

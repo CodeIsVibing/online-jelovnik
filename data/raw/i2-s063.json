@@ -1,0 +1,147 @@
+[
+  {
+    "id": "i2-sargarepa-dresing",
+    "title": "Šargarepa dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 63,
+      "page": "L",
+      "printed": 128
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 manje šargarepe",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "Kolut svežeg đumbira",
+        "qty": 1,
+        "unit": "kolut",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "80 ml vode",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "1 supena kašika tahinija",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti šargarepe i đumbir. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Šargarepa, tahini i đumbir",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 119,
+      "carbs": 21.9,
+      "fat": 1.5,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "i2-senf-mirodjija-dresing",
+    "title": "Senf mirođija dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 63,
+      "page": "R",
+      "printed": 129
+    },
+    "tags": [
+      "bez-glutena",
+      "sirovo",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "senf"
+      },
+      {
+        "raw": "2 supene kašike meda",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 supene kašike vode",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "Prstohvat sveže majčine dušice (može i sušena)",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "Prstohvat sveže mirođije (može i sušena)",
+        "ref": "mirodjija"
+      },
+      {
+        "raw": "Himalajske soli i bibera po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iscediti limun. Sve sastojke kašikom dobro sjediniti u činiji.",
+    "tips": [],
+    "subtitle": "Ljuto-slatki preliv",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 116,
+      "carbs": 23.9,
+      "fat": 0,
+      "protein": 0,
+      "fiber": 0.5
+    }
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "i2-slatka-slacica-dresing",
+    "title": "Slatka slačica dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 62,
+      "page": "L",
+      "printed": 126
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 otkoštene sveže urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "1 supena kašika semena slačice",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "seme-slacice"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "Biber po ukusu",
+        "ref": "biber"
+      }
+    ],
+    "method": "Oljuštiti jabuku, izvaditi koštice iz urmi, iscediti limun i ubaciti sve u blender. Dodati ostale sastojke i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Jabuka, urme i seme slačice",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 65,
+      "carbs": 16.5,
+      "fat": 0,
+      "protein": 0.2,
+      "fiber": 2.6
+    }
+  },
+  {
+    "id": "i2-indijski-dresing",
+    "title": "Indijski dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 62,
+      "page": "R",
+      "printed": 127
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 supene kašike soka od limuna",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 cm ljute sveže paprike",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "3 čena belog luka",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "70 gr pečenih indijskih oraha",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "indijski-orah"
+      },
+      {
+        "raw": "Šaka svežeg korijandera",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "korijander"
+      },
+      {
+        "raw": "100 ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iscediti limun, iseći papriku i izvaditi semenke, oljuštiti beli luk. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Preliv sa ukusom Azije",
+    "timeMinutes": 5,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 182,
+      "carbs": 19.3,
+      "fat": 11.9,
+      "protein": 5,
+      "fiber": 3.9
+    }
+  }
+]

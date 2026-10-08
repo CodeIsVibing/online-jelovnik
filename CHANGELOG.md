@@ -2,6 +2,17 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.22.0] · 2026-10-08
+
+### Dodato
+- Imunomania 2: poglavlje Dresinzi za salate, svih 10 recepata (strane 123 do 132)
+- Imunomania 2: poglavlje Hleb, peciva i grickalice, svih 15 recepata (strane 135 do 149)
+- Novi sastojci: kamut brašno, laneno brašno, ruzmarin
+
+### Promenjeno
+- „Pita hleb" (kamut) i „Susam talasi" (spelta) nose ikonicu „bez glutena" kao u knjizi, uz znak upozorenja da nisu za osobe sa celijakijom, po istom pravilu koje je autorka dala za „Lanene pločice"
+- Ikonica sa papričicom u knjizi 2 znači „ljuto" (legenda na strani 7); dresinzi sa senfom je nose kako je odštampano
+
 ## [1.21.0] · 2026-10-08
 
 ### Dodato

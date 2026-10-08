@@ -1,0 +1,164 @@
+[
+  {
+    "id": "i2-slatki-hleb",
+    "title": "Slatki hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 69,
+      "page": "L",
+      "printed": 140
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 manja banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike tahinija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "200gr brašna po želji",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 supena kašika rogača",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "rogac"
+      },
+      {
+        "raw": "2 supene kašike kokosovog brašna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-brasno"
+      },
+      {
+        "raw": "1 manja tikvica (narendana)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      }
+    ],
+    "method": "U jednoj činiji pomešati bananu, umućena jaja, med, tahini i kokosovo ulje. U drugoj činiji prosejati brašno, sodu bikarbonu, so, cimet i rogač, pa dodati kokosovo brašno. Spojiti ove dve smese, promešati. Zagrejati rernu na 180 stepeni.\n\nOljuštiti i izrendati tikvicu, dodati u smesu i još jednom dobro promešati. Izliti u pleh obložen pek papirom. Peći oko 35 do 40 minuta.",
+    "tips": [],
+    "subtitle": "Tikvice, rogač i banane",
+    "timeMinutes": 50,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 155,
+      "carbs": 21,
+      "fat": 6.2,
+      "protein": 5.2,
+      "fiber": 1.4
+    }
+  },
+  {
+    "id": "i2-pita-hleb",
+    "title": "Pita hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 69,
+      "page": "R",
+      "printed": 141
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna",
+      "vegan",
+      "bez-kvasca"
+    ],
+    "notes": [
+      "Od ove količine dobije se 4 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike kokosovog ulja u čvrstom stanju",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "250gr kamut brašna (ili brašna po želji)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kamut-brasno"
+      },
+      {
+        "raw": "150ml hladne vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Staviti kokosovo ulje u zamrzivač na 5 minuta. So i brašno ubaciti u multipraktik, pa dodati zamrznuto kokosovo ulje.\n\nBlendati kratko, u pulsevima dok se ne dobiju krupne mrvice. Dodati vodu i blendati dok se ne dobije testo. Izvaditi smesu, umesiti rukama još 1 minut, pokriti čistom krpom i ostaviti 10 minuta.\n\nPodeliti na 4 dela, razvući oklagijom na veličinu tiganja i peći na srednjoj do visokoj temperaturi sa obe strane po nekoliko minuta.",
+    "tips": [],
+    "subtitle": "Nije ni pita, a ni hleb",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 268,
+      "carbs": 42,
+      "fat": 7.3,
+      "protein": 8.4,
+      "fiber": 2.4
+    },
+    "warning": "Kamut je vrsta pšenice i sadrži gluten. Nije za osobe sa celijakijom."
+  }
+]

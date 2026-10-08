@@ -1,0 +1,134 @@
+[
+  {
+    "id": "i2-avokado-dresing",
+    "title": "Avokado dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 64,
+      "page": "L",
+      "printed": 130
+    },
+    "tags": [
+      "bez-glutena",
+      "sirovo",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 avokado",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "Sok od 2 limuna",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "Šaka svežeg peršuna",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "Šaka svežeg bosiljka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "Himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Izvaditi košticu iz avokada, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Avokado, peršun i",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 128,
+      "carbs": 8.4,
+      "fat": 11,
+      "protein": 1.5,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-vegan-dresing",
+    "title": "Vegan dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 64,
+      "page": "R",
+      "printed": 131
+    },
+    "tags": [
+      "vegan",
+      "sirovo",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "80ml soka od limuna",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "limun"
+      },
+      {
+        "raw": "60ml maslinovog ulja",
+        "qty": 60,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike tahinija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "1 supena kašika dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "senf"
+      },
+      {
+        "raw": "Himalajske soli i bibera po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti beli luk, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Tahini, nutritivni kvasac i maslinovo",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 155,
+      "carbs": 3.3,
+      "fat": 15.4,
+      "protein": 1.3,
+      "fiber": 1.3
+    }
+  }
+]

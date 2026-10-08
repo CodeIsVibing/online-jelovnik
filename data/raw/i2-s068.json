@@ -1,0 +1,138 @@
+[
+  {
+    "id": "i2-limun-med-hleb",
+    "title": "Limun-med hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 68,
+      "page": "L",
+      "printed": 138
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "80ml maslinovog ulja",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      },
+      {
+        "raw": "1 kašičica soka od limuna",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "limun"
+      },
+      {
+        "raw": "250ml nezaslađenog biljnog mleka",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "250gr integralnog brašna po želji",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "integralno-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Ovsene pahuljice za posipanje",
+        "ref": "ovsene-pahuljice",
+        "optional": true
+      }
+    ],
+    "method": "U jednoj činiji pomešati ulje, med, sok od limuna i biljno mleko, u drugoj brašno, sodu bikarbonu i so. Sjediniti sve, i lagano promešati. Na dno šerpe staviti pek papir (ili premazati puterom pa posuti ovsenim pahuljicama) pa prebaciti testo. Poklopiti i peći oko 35 do 45 minuta na 180 stepeni.",
+    "tips": [],
+    "subtitle": "Hleb pečen u šerpi",
+    "timeMinutes": 50,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 23,
+      "fat": 10,
+      "protein": 4,
+      "fiber": 0.1
+    }
+  },
+  {
+    "id": "i2-kikiriki-puter-hleb",
+    "title": "Kikiriki puter hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 68,
+      "page": "R",
+      "printed": 139
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "250gr kikiriki putera",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 supena kašika jabukovog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      }
+    ],
+    "method": "Zagrejati rernu na 180 stepeni. Umutiti jaja, dodati kikiriki puter, sodu bikarbonu i jabukovo sirće. Dobro promešati, izliti u modlu za hleb koji je prethodno obložen pek papirom. Peći oko 25 minuta.",
+    "tips": [],
+    "subtitle": "Bezglutenski dezertni hleb",
+    "timeMinutes": 35,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 156,
+      "carbs": 5.6,
+      "fat": 13.3,
+      "protein": 6.3,
+      "fiber": 1
+    }
+  }
+]

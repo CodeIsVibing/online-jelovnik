@@ -1,0 +1,71 @@
+[
+  {
+    "id": "i2-bezglutenski-hleb",
+    "title": "Bezglutenski hleb - svetli i tamni",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 66,
+      "page": "R",
+      "printed": 135
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "40gr kokosovog proteina (za tamni koristite laneni protein)",
+        "qty": 40,
+        "unit": "gr",
+        "ref": "kokosov-protein"
+      },
+      {
+        "raw": "40gr tapioke",
+        "qty": 40,
+        "unit": "gr",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "4 supene kašike kokosovog ulja",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "¼ kašičice sode bikarbone",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      }
+    ],
+    "method": "U multipraktiku izblendati jaja 30 sekundi, dodati ostale sastojke pa još jednom izblendati. Uliti u modlu za hleb prethodno obloženu pek papirom i peći na 180 stepeni oko 20-30 minuta, dok ne porumeni. Sačekati da se prohladi pa iseći.",
+    "tips": [],
+    "subtitle": "Lagani hleb koji se ne mesi",
+    "timeMinutes": 35,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 268,
+      "carbs": 13,
+      "fat": 20,
+      "protein": 8.6,
+      "fiber": 3
+    }
+  }
+]

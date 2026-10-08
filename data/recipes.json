@@ -13384,6 +13384,719 @@
     }
   },
   {
+    "id": "i2-grcki-dresing",
+    "title": "Grčki dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 60,
+      "page": "R",
+      "printed": 123
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "ljuto",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "80ml maslinovog ulja",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika crvenog vinskog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "vinsko-sirce"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 kašičica dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "½ kašičice origana",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "¼ kašičice belog luka u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "¼ kašičice himalajske soli",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Prstohvat bibera",
+        "ref": "biber"
+      }
+    ],
+    "method": "Maslinovo ulje, sirće, sok od limuna i senf sipati u činiju i dobro promešati dok se ne sjedine sastojci. Dodati i ostale začine i još jednom promešati.",
+    "tips": [],
+    "subtitle": "Ukus mediterana u ustima",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 181,
+      "carbs": 2,
+      "fat": 18.7,
+      "protein": 0,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "i2-kukuruz-mirodjija-dresing",
+    "title": "Kukuruz-mirođija dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 61,
+      "page": "L",
+      "printed": 124
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "400gr kukuruza šećerca",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "kukuruz-secerac"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "150 ml vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika sveže iseckane mirođije (može i sušena)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "mirodjija"
+      },
+      {
+        "raw": "1 supena kašika svežeg iseckanog vlašca (može i sušeni)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "vlasac"
+      },
+      {
+        "raw": "1 kašičica dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Biber po ukusu",
+        "ref": "biber"
+      }
+    ],
+    "method": "Skuvati kukuruz pa procediti. Ubaciti ga u blender i dodati sve ostale sastojke iz recepta i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Slatkasti preliv",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 180,
+      "carbs": 38.4,
+      "fat": 2.8,
+      "protein": 6.6,
+      "fiber": 4.6
+    }
+  },
+  {
+    "id": "i2-vegan-italijanski-dresing",
+    "title": "Vegan italijanski dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 61,
+      "page": "R",
+      "printed": 125
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "ingredients": [
+      {
+        "raw": "100gr skuvane leblebije",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "100ml nezaslađenog biljnog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "1 kašičica dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "1 kašičica italijanske mešavine začina (ili ½ kašičice bosiljka + ½ kašičice origana)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Iscediti limun. Sve sastojke iz recepta ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Leblebija, nutritivni kvasac i italijanska mešavina začina",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 2,
+    "nutrition": {
+      "kcal": 141,
+      "carbs": 19.8,
+      "fat": 5.9,
+      "protein": 6,
+      "fiber": 5.2
+    }
+  },
+  {
+    "id": "i2-slatka-slacica-dresing",
+    "title": "Slatka slačica dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 62,
+      "page": "L",
+      "printed": 126
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 oljuštena slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 otkoštene sveže urme",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "1 supena kašika semena slačice",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "seme-slacice"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "Biber po ukusu",
+        "ref": "biber"
+      }
+    ],
+    "method": "Oljuštiti jabuku, izvaditi koštice iz urmi, iscediti limun i ubaciti sve u blender. Dodati ostale sastojke i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Jabuka, urme i seme slačice",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 65,
+      "carbs": 16.5,
+      "fat": 0,
+      "protein": 0.2,
+      "fiber": 2.6
+    }
+  },
+  {
+    "id": "i2-indijski-dresing",
+    "title": "Indijski dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 62,
+      "page": "R",
+      "printed": 127
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "ljuto",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 supene kašike soka od limuna",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "2 cm ljute sveže paprike",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "3 čena belog luka",
+        "qty": 3,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "70 gr pečenih indijskih oraha",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "indijski-orah"
+      },
+      {
+        "raw": "Šaka svežeg korijandera",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "korijander"
+      },
+      {
+        "raw": "100 ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iscediti limun, iseći papriku i izvaditi semenke, oljuštiti beli luk. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Preliv sa ukusom Azije",
+    "timeMinutes": 5,
+    "servings": 3,
+    "nutrition": {
+      "kcal": 182,
+      "carbs": 19.3,
+      "fat": 11.9,
+      "protein": 5,
+      "fiber": 3.9
+    }
+  },
+  {
+    "id": "i2-sargarepa-dresing",
+    "title": "Šargarepa dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 63,
+      "page": "L",
+      "printed": 128
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 manje šargarepe",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "Kolut svežeg đumbira",
+        "qty": 1,
+        "unit": "kolut",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "80 ml vode",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "1 supena kašika tahinija",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti šargarepe i đumbir. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Šargarepa, tahini i đumbir",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 119,
+      "carbs": 21.9,
+      "fat": 1.5,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "i2-senf-mirodjija-dresing",
+    "title": "Senf mirođija dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 63,
+      "page": "R",
+      "printed": 129
+    },
+    "tags": [
+      "bez-glutena",
+      "sirovo",
+      "ljuto"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "Sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "senf"
+      },
+      {
+        "raw": "2 supene kašike meda",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 supene kašike vode",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "Prstohvat sveže majčine dušice (može i sušena)",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "Prstohvat sveže mirođije (može i sušena)",
+        "ref": "mirodjija"
+      },
+      {
+        "raw": "Himalajske soli i bibera po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iscediti limun. Sve sastojke kašikom dobro sjediniti u činiji.",
+    "tips": [],
+    "subtitle": "Ljuto-slatki preliv",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 116,
+      "carbs": 23.9,
+      "fat": 0,
+      "protein": 0,
+      "fiber": 0.5
+    }
+  },
+  {
+    "id": "i2-avokado-dresing",
+    "title": "Avokado dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 64,
+      "page": "L",
+      "printed": 130
+    },
+    "tags": [
+      "bez-glutena",
+      "sirovo",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 avokado",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "Sok od 2 limuna",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "Šaka svežeg peršuna",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "Šaka svežeg bosiljka",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "Himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Izvaditi košticu iz avokada, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Avokado, peršun i",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 128,
+      "carbs": 8.4,
+      "fat": 11,
+      "protein": 1.5,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-vegan-dresing",
+    "title": "Vegan dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 64,
+      "page": "R",
+      "printed": 131
+    },
+    "tags": [
+      "vegan",
+      "sirovo",
+      "ljuto",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "80ml soka od limuna",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "limun"
+      },
+      {
+        "raw": "60ml maslinovog ulja",
+        "qty": 60,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 supene kašike tahinija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "1 supena kašika dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "senf"
+      },
+      {
+        "raw": "Himalajske soli i bibera po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Oljuštiti beli luk, iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Tahini, nutritivni kvasac i maslinovo",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 155,
+      "carbs": 3.3,
+      "fat": 15.4,
+      "protein": 1.3,
+      "fiber": 1.3
+    }
+  },
+  {
+    "id": "i2-cheesy-vegan-dresing",
+    "title": "Cheesy vegan dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 65,
+      "page": "L",
+      "printed": 132
+    },
+    "tags": [
+      "vegan",
+      "sirovo",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "4 supene kašike soka od limuna",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "1 supena kašika putera od indijskih oraha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "2 do 3 supene kašike vode",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "Himalajska so i biber po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Iscediti limun. Sve sastojke dobro pomešati dok se ne sjedine.",
+    "tips": [],
+    "subtitle": "Limun, nutritivni kvasac i indijski orasi",
+    "timeMinutes": 5,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 177,
+      "carbs": 4.3,
+      "fat": 17,
+      "protein": 2,
+      "fiber": 1.2
+    }
+  },
+  {
     "id": "brzi-beskvasni-hleb-sa-semenkama",
     "title": "Brzi beskvasni hleb sa semenkama",
     "category": "hleb-peciva",
@@ -14149,6 +14862,1051 @@
     "tips": [],
     "type": "recept",
     "book": "imunomania"
+  },
+  {
+    "id": "i2-bezglutenski-hleb",
+    "title": "Bezglutenski hleb - svetli i tamni",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 66,
+      "page": "R",
+      "printed": 135
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "40gr kokosovog proteina (za tamni koristite laneni protein)",
+        "qty": 40,
+        "unit": "gr",
+        "ref": "kokosov-protein"
+      },
+      {
+        "raw": "40gr tapioke",
+        "qty": 40,
+        "unit": "gr",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "4 supene kašike kokosovog ulja",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "¼ kašičice sode bikarbone",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      }
+    ],
+    "method": "U multipraktiku izblendati jaja 30 sekundi, dodati ostale sastojke pa još jednom izblendati. Uliti u modlu za hleb prethodno obloženu pek papirom i peći na 180 stepeni oko 20-30 minuta, dok ne porumeni. Sačekati da se prohladi pa iseći.",
+    "tips": [],
+    "subtitle": "Lagani hleb koji se ne mesi",
+    "timeMinutes": 35,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 268,
+      "carbs": 13,
+      "fat": 20,
+      "protein": 8.6,
+      "fiber": 3
+    }
+  },
+  {
+    "id": "i2-kamut-hleb",
+    "title": "Kamut hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 67,
+      "page": "L",
+      "printed": 136
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr kamut brašna (ili brašna po želji)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kamut-brasno"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "2 kašičice sode bikarbone",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "180ml vode sobne temperature",
+        "qty": 180,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "½ kašičice meda",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "med"
+      }
+    ],
+    "method": "Ugrejati rernu na 220 stepeni. U jednoj većoj činiji pomešati brašno, so i sodu bikarbonu, pa dodati vodu i med. Umesiti, oblikovati i zaseći nožem na nekoliko mesta. Peći 15 minuta na 220 stepeni, pa smanjiti na 180 stepeni i peći još 10 minuta.",
+    "tips": [],
+    "subtitle": "Hleb od drevne žitarice",
+    "timeMinutes": 35,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 176,
+      "carbs": 35,
+      "fat": 0.4,
+      "protein": 7,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "i2-beskvasni-vegan-hleb",
+    "title": "Beskvasni vegan hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 67,
+      "page": "R",
+      "printed": 137
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "vegan",
+      "bez-kvasca",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "450gr brašna po želji",
+        "qty": 450,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 supena kašika sode bikarbone",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "375ml nezaslađenog biljnog mleka",
+        "qty": 375,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "method": "Ugrejati rernu na 200 stepeni. U jednoj činiji pomešati brašno, so i sodu bikarbonu, pa dodati biljno mleko.\n\nUmesiti, formirati oblik na 4 cm debljine, urezati nožem X. Peći poklopljeno oko 30-40 minuta, dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Starinski, a moderan",
+    "timeMinutes": 50,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 165,
+      "carbs": 31,
+      "fat": 1.3,
+      "protein": 6,
+      "fiber": 0.2
+    }
+  },
+  {
+    "id": "i2-limun-med-hleb",
+    "title": "Limun-med hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 68,
+      "page": "L",
+      "printed": 138
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "80ml maslinovog ulja",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      },
+      {
+        "raw": "1 kašičica soka od limuna",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "limun"
+      },
+      {
+        "raw": "250ml nezaslađenog biljnog mleka",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "250gr integralnog brašna po želji",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "integralno-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Ovsene pahuljice za posipanje",
+        "ref": "ovsene-pahuljice",
+        "optional": true
+      }
+    ],
+    "method": "U jednoj činiji pomešati ulje, med, sok od limuna i biljno mleko, u drugoj brašno, sodu bikarbonu i so. Sjediniti sve, i lagano promešati. Na dno šerpe staviti pek papir (ili premazati puterom pa posuti ovsenim pahuljicama) pa prebaciti testo. Poklopiti i peći oko 35 do 45 minuta na 180 stepeni.",
+    "tips": [],
+    "subtitle": "Hleb pečen u šerpi",
+    "timeMinutes": 50,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 204,
+      "carbs": 23,
+      "fat": 10,
+      "protein": 4,
+      "fiber": 0.1
+    }
+  },
+  {
+    "id": "i2-kikiriki-puter-hleb",
+    "title": "Kikiriki puter hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 68,
+      "page": "R",
+      "printed": 139
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "250gr kikiriki putera",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kikiriki-puter"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "1 supena kašika jabukovog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      }
+    ],
+    "method": "Zagrejati rernu na 180 stepeni. Umutiti jaja, dodati kikiriki puter, sodu bikarbonu i jabukovo sirće. Dobro promešati, izliti u modlu za hleb koji je prethodno obložen pek papirom. Peći oko 25 minuta.",
+    "tips": [],
+    "subtitle": "Bezglutenski dezertni hleb",
+    "timeMinutes": 35,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 156,
+      "carbs": 5.6,
+      "fat": 13.3,
+      "protein": 6.3,
+      "fiber": 1
+    }
+  },
+  {
+    "id": "i2-slatki-hleb",
+    "title": "Slatki hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 69,
+      "page": "L",
+      "printed": 140
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 manja banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "3 umućena jajeta",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike tahinija",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tahini"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "200gr brašna po želji",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "1 supena kašika rogača",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "rogac"
+      },
+      {
+        "raw": "2 supene kašike kokosovog brašna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-brasno"
+      },
+      {
+        "raw": "1 manja tikvica (narendana)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      }
+    ],
+    "method": "U jednoj činiji pomešati bananu, umućena jaja, med, tahini i kokosovo ulje. U drugoj činiji prosejati brašno, sodu bikarbonu, so, cimet i rogač, pa dodati kokosovo brašno. Spojiti ove dve smese, promešati. Zagrejati rernu na 180 stepeni.\n\nOljuštiti i izrendati tikvicu, dodati u smesu i još jednom dobro promešati. Izliti u pleh obložen pek papirom. Peći oko 35 do 40 minuta.",
+    "tips": [],
+    "subtitle": "Tikvice, rogač i banane",
+    "timeMinutes": 50,
+    "servings": 10,
+    "nutrition": {
+      "kcal": 155,
+      "carbs": 21,
+      "fat": 6.2,
+      "protein": 5.2,
+      "fiber": 1.4
+    }
+  },
+  {
+    "id": "i2-pita-hleb",
+    "title": "Pita hleb",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 69,
+      "page": "R",
+      "printed": 141
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna",
+      "vegan",
+      "bez-kvasca",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Od ove količine dobije se 4 komada."
+    ],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike kokosovog ulja u čvrstom stanju",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "250gr kamut brašna (ili brašna po želji)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "kamut-brasno"
+      },
+      {
+        "raw": "150ml hladne vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Staviti kokosovo ulje u zamrzivač na 5 minuta. So i brašno ubaciti u multipraktik, pa dodati zamrznuto kokosovo ulje.\n\nBlendati kratko, u pulsevima dok se ne dobiju krupne mrvice. Dodati vodu i blendati dok se ne dobije testo. Izvaditi smesu, umesiti rukama još 1 minut, pokriti čistom krpom i ostaviti 10 minuta.\n\nPodeliti na 4 dela, razvući oklagijom na veličinu tiganja i peći na srednjoj do visokoj temperaturi sa obe strane po nekoliko minuta.",
+    "tips": [],
+    "subtitle": "Nije ni pita, a ni hleb",
+    "timeMinutes": 30,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 268,
+      "carbs": 42,
+      "fat": 7.3,
+      "protein": 8.4,
+      "fiber": 2.4
+    },
+    "warning": "Kamut je vrsta pšenice i sadrži gluten. Nije za osobe sa celijakijom."
+  },
+  {
+    "id": "i2-kinoa-tortilje",
+    "title": "Kinoa tortilje",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 70,
+      "page": "L",
+      "printed": 142
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "priprema-vece-ranije",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Kinou potopite u vodu noć pre pripreme ovog recepta.",
+      "Od ove količine dobije se oko 8 do 9 tortilja."
+    ],
+    "ingredients": [
+      {
+        "raw": "400gr kinoe",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "500ml vode",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Maslinovo ulje za premazivanje tiganja",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Procediti kinou, oprati je i još jednom dobro procediti. U blender ubaciti sve sastojke i blendati do kremaste strukture. Nauljiti tiganj i uliti smesu, peći sa obe strane nekoliko minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Bezglutenske tortilje",
+    "timeMinutes": 15,
+    "servings": 9,
+    "nutrition": {
+      "kcal": 147,
+      "carbs": 25.7,
+      "fat": 2.4,
+      "protein": 5.6,
+      "fiber": 2.8
+    }
+  },
+  {
+    "id": "i2-brze-loptice-iz-tiganja",
+    "title": "Brze loptice iz tiganja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 70,
+      "page": "R",
+      "printed": 143
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-kvasca",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr speltinog mekog brašna (ili brašno po želji)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "150ml vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Maslinovo ulje za premazivanje tiganja",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Umesiti testo od sastojaka, urolati u tanku \"zmiju\", pa seckati na svaka 2cm. Nauljiti tiganj i peći ih dok ne porumene sa svih strana.",
+    "tips": [],
+    "subtitle": "Brašno, voda i so",
+    "timeMinutes": 20,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 143,
+      "carbs": 27.6,
+      "fat": 0.8,
+      "protein": 5.2,
+      "fiber": 0
+    }
+  },
+  {
+    "id": "i2-keto-plocice",
+    "title": "Keto pločice",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 71,
+      "page": "L",
+      "printed": 144
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100gr usitnjenog sirovog suncokreta",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "150gr lanenog brašna",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "laneno-brasno"
+      },
+      {
+        "raw": "50gr sirovog susama",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "susam"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Oko 30ml vruće vode",
+        "qty": 30,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "U multipraktiku usitniti suncokret, presuti u veću činiju i dodati laneno brašno, susam i so pa promešati. Postepeno dodavati vodu uz mešanje, dobićete loptu testa. Skloniti u stranu 15 min da laneno brašno upije vodu. Uključiti rernu na 160 stepeni.\n\nTesto razviti oklagijom na pek papiru (debljine oko pola cm), sa još jednim papirom preko testa da se ne bi lepilo za oklagiju. Skloniti gornji pek papir pažljivo, pa iseći seckom za picu na željenu veličinu. Peći 15 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Grickalica pogodna i za dijabetičare",
+    "timeMinutes": 30,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 330,
+      "carbs": 15,
+      "fat": 28,
+      "protein": 14.9,
+      "fiber": 12.4
+    }
+  },
+  {
+    "id": "i2-proteinski-cips",
+    "title": "Proteinski čips",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 71,
+      "page": "R",
+      "printed": 145
+    },
+    "tags": [
+      "ljuto",
+      "priprema-vece-ranije",
+      "vegan",
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Pre pravljenja ovog recepta potopite sočivo u vodu noć ranije."
+    ],
+    "ingredients": [
+      {
+        "raw": "200gr crvenog sočiva",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "2 čena belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kolut crnog luka",
+        "qty": 1,
+        "unit": "kolut",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 supene kašike paradajz paste",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "paradajz-pasta"
+      },
+      {
+        "raw": "1 kašičica ljute mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "½ kašičice kurkume",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "1 supena kašika bosiljka",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "180 ml vode",
+        "qty": 180,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Procediti sočivo, oprati ga i još jednom procediti. Oljuštiti beli i crni luk i iseći. U multipraktik ubaciti sve sastojke i blendati do kremaste strukture. Izliti smesu u veliki pleh prethodno obložen pek papirom.\n\nPeći 15 min na 190 stepeni. Iseći na željeni oblik, pa vratiti u rernu na još 15 minuta na 100 stepeni kako bi postao hrskaviji.",
+    "tips": [],
+    "subtitle": "Sočivo, bosiljak i kurkuma",
+    "timeMinutes": 30,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 195,
+      "carbs": 32.3,
+      "fat": 0.9,
+      "protein": 13,
+      "fiber": 0.6
+    }
+  },
+  {
+    "id": "i2-vegan-krekeri",
+    "title": "Vegan krekeri",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 72,
+      "page": "L",
+      "printed": 146
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr speltinog mekog brašna (ili brašna po želji)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica ruzmarina sušenog (izmrvljen u šaci)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "ruzmarin"
+      },
+      {
+        "raw": "60ml ulja",
+        "qty": 60,
+        "unit": "ml",
+        "ref": "ulje"
+      },
+      {
+        "raw": "120ml tople vode",
+        "qty": 120,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Sve sastojke pomešati u činiji i umesiti testo. Ugrejati rernu na 200 stepeni. Oklagijom istanjiti testo na debljinu 1 cm, iseći na željeni oblik, probosti viljuškom na više mesta i peći na plehu obloženom pek papirom 15ak minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Hrskavi krekeri sa ruzmarinom",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 214,
+      "carbs": 41,
+      "fat": 1.2,
+      "protein": 7.8,
+      "fiber": 0
+    }
+  },
+  {
+    "id": "i2-susam-talasi",
+    "title": "Susam talasi",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 72,
+      "page": "R",
+      "printed": 147
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300 gr speltinog mekog brašna (ili brašna po želji)",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 i po kašičica himalajske soli",
+        "qty": 1.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "80 ml maslinovog ulja",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "150 ml vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "75gr crnog susama (ili belog, integralnog)",
+        "qty": 75,
+        "unit": "gr",
+        "ref": "susam"
+      }
+    ],
+    "method": "Umesiti testo od svih sastojaka, istanjiti oklagijom pa iseći na trake. Trake uvrnuti i staviti na pleh koji je prethodno obložen pek papirom. Peći na 190 stepeni oko 15 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Uvrnuti štapići sa crnim susamom",
+    "timeMinutes": 30,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 339,
+      "carbs": 36.5,
+      "fat": 17.8,
+      "protein": 8.2,
+      "fiber": 1
+    },
+    "warning": "Sadrži speltu. Nije za osobe sa celijakijom."
+  },
+  {
+    "id": "i2-puter-stanglice-sa-sirom",
+    "title": "Puter štanglice sa sirom",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 73,
+      "page": "L",
+      "printed": 148
+    },
+    "tags": [
+      "bez-kvasca",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr brašna po želji",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "100gr putera sobne temperature",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "puter"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "250gr sitnog sira",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "mladi-sir"
+      },
+      {
+        "raw": "1 umućeno jaje",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "Susam za posipanje",
+        "ref": "susam",
+        "optional": true
+      }
+    ],
+    "method": "U veliku činiju prosejati brašno sa sodom bikarbonom. Dodati puter, so i sir i umesiti. Pleh obložiti pek papirom i posuti sa malo brašna. Oklagijom razviti testo na 2cm debljine i iseći na štangle, pa ređati po plehu.\n\nUmutiti jaje, premazati i posuti susamom. Peći na 200 stepeni oko 15, 20 minuta dok ne porumene.",
+    "tips": [],
+    "subtitle": "Mekane kao duša",
+    "timeMinutes": 35,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 306,
+      "carbs": 29,
+      "fat": 14,
+      "protein": 15
+    }
+  },
+  {
+    "id": "i2-hrskava-leblebija",
+    "title": "Hrskava leblebija",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 73,
+      "page": "R",
+      "printed": 149
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije",
+      "bez-glutena",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "ingredients": [
+      {
+        "raw": "500 gr skuvane leblebije",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "1 supena kašika belog luka u prahu",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika crnog luka u prahu",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "½ kašičice bibera",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 kašičica kurkume",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "Himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. U činiji pomešati sve začine. Zagrejati rernu na 200 stepeni. Leblebije poređati u jednom redu u plehu koji je prethodno obložen pek papirom. Posuti sa polovinom začina, peći oko 25 minuta, promešati ih pa posuti sa drugom polovinom začina i peći još 15ak minuta.",
+    "tips": [],
+    "subtitle": "Zdrava proteinska grickalica",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 236,
+      "carbs": 35.5,
+      "fat": 10.7,
+      "protein": 8.8,
+      "fiber": 7.9
+    }
   },
   {
     "id": "kuglice-sa-pekmezom",

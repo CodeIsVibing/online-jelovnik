@@ -1,0 +1,120 @@
+[
+  {
+    "id": "i2-kinoa-tortilje",
+    "title": "Kinoa tortilje",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 70,
+      "page": "L",
+      "printed": 142
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Kinou potopite u vodu noć pre pripreme ovog recepta.",
+      "Od ove količine dobije se oko 8 do 9 tortilja."
+    ],
+    "ingredients": [
+      {
+        "raw": "400gr kinoe",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "kinoa"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "500ml vode",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Maslinovo ulje za premazivanje tiganja",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Procediti kinou, oprati je i još jednom dobro procediti. U blender ubaciti sve sastojke i blendati do kremaste strukture. Nauljiti tiganj i uliti smesu, peći sa obe strane nekoliko minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Bezglutenske tortilje",
+    "timeMinutes": 15,
+    "servings": 9,
+    "nutrition": {
+      "kcal": 147,
+      "carbs": 25.7,
+      "fat": 2.4,
+      "protein": 5.6,
+      "fiber": 2.8
+    }
+  },
+  {
+    "id": "i2-brze-loptice-iz-tiganja",
+    "title": "Brze loptice iz tiganja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 70,
+      "page": "R",
+      "printed": 143
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr speltinog mekog brašna (ili brašno po želji)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "150ml vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Maslinovo ulje za premazivanje tiganja",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Umesiti testo od sastojaka, urolati u tanku \"zmiju\", pa seckati na svaka 2cm. Nauljiti tiganj i peći ih dok ne porumene sa svih strana.",
+    "tips": [],
+    "subtitle": "Brašno, voda i so",
+    "timeMinutes": 20,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 143,
+      "carbs": 27.6,
+      "fat": 0.8,
+      "protein": 5.2,
+      "fiber": 0
+    }
+  }
+]

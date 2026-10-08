@@ -1,0 +1,154 @@
+[
+  {
+    "id": "i2-kukuruz-mirodjija-dresing",
+    "title": "Kukuruz-mirođija dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 61,
+      "page": "L",
+      "printed": 124
+    },
+    "tags": [
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "400gr kukuruza šećerca",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "kukuruz-secerac"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "150 ml vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "1 supena kašika sveže iseckane mirođije (može i sušena)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "mirodjija"
+      },
+      {
+        "raw": "1 supena kašika svežeg iseckanog vlašca (može i sušeni)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "vlasac"
+      },
+      {
+        "raw": "1 kašičica dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "½ kašičice belog luka u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Biber po ukusu",
+        "ref": "biber"
+      }
+    ],
+    "method": "Skuvati kukuruz pa procediti. Ubaciti ga u blender i dodati sve ostale sastojke iz recepta i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Slatkasti preliv",
+    "timeMinutes": 20,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 180,
+      "carbs": 38.4,
+      "fat": 2.8,
+      "protein": 6.6,
+      "fiber": 4.6
+    }
+  },
+  {
+    "id": "i2-vegan-italijanski-dresing",
+    "title": "Vegan italijanski dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 61,
+      "page": "R",
+      "printed": 125
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "ingredients": [
+      {
+        "raw": "100gr skuvane leblebije",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "100ml nezaslađenog biljnog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 supena kašika nutritivnog kvasca",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "1 kašičica dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "1 kašičica italijanske mešavine začina (ili ½ kašičice bosiljka + ½ kašičice origana)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. Iscediti limun. Sve sastojke iz recepta ubaciti u blender i blendati do kremaste strukture.",
+    "tips": [],
+    "subtitle": "Leblebija, nutritivni kvasac i italijanska mešavina začina",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 2,
+    "nutrition": {
+      "kcal": 141,
+      "carbs": 19.8,
+      "fat": 5.9,
+      "protein": 6,
+      "fiber": 5.2
+    }
+  }
+]

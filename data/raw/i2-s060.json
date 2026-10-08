@@ -1,0 +1,81 @@
+[
+  {
+    "id": "i2-grcki-dresing",
+    "title": "Grčki dresing",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "dresinzi",
+    "source": {
+      "scan": 60,
+      "page": "R",
+      "printed": 123
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "ljuto",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "80ml maslinovog ulja",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika crvenog vinskog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "vinsko-sirce"
+      },
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 kašičica dižon senfa (ili senfa bez dodatog šećera)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "senf"
+      },
+      {
+        "raw": "½ kašičice origana",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "origano"
+      },
+      {
+        "raw": "¼ kašičice belog luka u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "¼ kašičice himalajske soli",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Prstohvat bibera",
+        "ref": "biber"
+      }
+    ],
+    "method": "Maslinovo ulje, sirće, sok od limuna i senf sipati u činiju i dobro promešati dok se ne sjedine sastojci. Dodati i ostale začine i još jednom promešati.",
+    "tips": [],
+    "subtitle": "Ukus mediterana u ustima",
+    "timeMinutes": 5,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 181,
+      "carbs": 2,
+      "fat": 18.7,
+      "protein": 0,
+      "fiber": 1
+    }
+  }
+]

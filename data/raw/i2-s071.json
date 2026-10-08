@@ -1,0 +1,165 @@
+[
+  {
+    "id": "i2-keto-plocice",
+    "title": "Keto pločice",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 71,
+      "page": "L",
+      "printed": 144
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100gr usitnjenog sirovog suncokreta",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "150gr lanenog brašna",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "laneno-brasno"
+      },
+      {
+        "raw": "50gr sirovog susama",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "susam"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Oko 30ml vruće vode",
+        "qty": 30,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "U multipraktiku usitniti suncokret, presuti u veću činiju i dodati laneno brašno, susam i so pa promešati. Postepeno dodavati vodu uz mešanje, dobićete loptu testa. Skloniti u stranu 15 min da laneno brašno upije vodu. Uključiti rernu na 160 stepeni.\n\nTesto razviti oklagijom na pek papiru (debljine oko pola cm), sa još jednim papirom preko testa da se ne bi lepilo za oklagiju. Skloniti gornji pek papir pažljivo, pa iseći seckom za picu na željenu veličinu. Peći 15 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Grickalica pogodna i za dijabetičare",
+    "timeMinutes": 30,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 330,
+      "carbs": 15,
+      "fat": 28,
+      "protein": 14.9,
+      "fiber": 12.4
+    }
+  },
+  {
+    "id": "i2-proteinski-cips",
+    "title": "Proteinski čips",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 71,
+      "page": "R",
+      "printed": 145
+    },
+    "tags": [
+      "ljuto",
+      "priprema-vece-ranije",
+      "vegan",
+      "bez-glutena"
+    ],
+    "notes": [
+      "Pre pravljenja ovog recepta potopite sočivo u vodu noć ranije."
+    ],
+    "ingredients": [
+      {
+        "raw": "200gr crvenog sočiva",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "2 čena belog luka",
+        "qty": 2,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kolut crnog luka",
+        "qty": 1,
+        "unit": "kolut",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "4 supene kašike paradajz paste",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "paradajz-pasta"
+      },
+      {
+        "raw": "1 kašičica ljute mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "½ kašičice kurkume",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "2 supene kašike jabukovog sirćeta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "2 kašičice himalajske soli",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "1 supena kašika bosiljka",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "180 ml vode",
+        "qty": 180,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Procediti sočivo, oprati ga i još jednom procediti. Oljuštiti beli i crni luk i iseći. U multipraktik ubaciti sve sastojke i blendati do kremaste strukture. Izliti smesu u veliki pleh prethodno obložen pek papirom.\n\nPeći 15 min na 190 stepeni. Iseći na željeni oblik, pa vratiti u rernu na još 15 minuta na 100 stepeni kako bi postao hrskaviji.",
+    "tips": [],
+    "subtitle": "Sočivo, bosiljak i kurkuma",
+    "timeMinutes": 30,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 195,
+      "carbs": 32.3,
+      "fat": 0.9,
+      "protein": 13,
+      "fiber": 0.6
+    }
+  }
+]

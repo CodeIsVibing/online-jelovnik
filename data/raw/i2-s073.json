@@ -1,0 +1,147 @@
+[
+  {
+    "id": "i2-puter-stanglice-sa-sirom",
+    "title": "Puter štanglice sa sirom",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 73,
+      "page": "L",
+      "printed": 148
+    },
+    "tags": [
+      "bez-kvasca",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr brašna po želji",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "100gr putera sobne temperature",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "puter"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "250gr sitnog sira",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "mladi-sir"
+      },
+      {
+        "raw": "1 umućeno jaje",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "Susam za posipanje",
+        "ref": "susam",
+        "optional": true
+      }
+    ],
+    "method": "U veliku činiju prosejati brašno sa sodom bikarbonom. Dodati puter, so i sir i umesiti. Pleh obložiti pek papirom i posuti sa malo brašna. Oklagijom razviti testo na 2cm debljine i iseći na štangle, pa ređati po plehu.\n\nUmutiti jaje, premazati i posuti susamom. Peći na 200 stepeni oko 15, 20 minuta dok ne porumene.",
+    "tips": [],
+    "subtitle": "Mekane kao duša",
+    "timeMinutes": 35,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 306,
+      "carbs": 29,
+      "fat": 14,
+      "protein": 15
+    }
+  },
+  {
+    "id": "i2-hrskava-leblebija",
+    "title": "Hrskava leblebija",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 73,
+      "page": "R",
+      "printed": 149
+    },
+    "tags": [
+      "vegan",
+      "priprema-vece-ranije",
+      "bez-glutena"
+    ],
+    "notes": [
+      "Ukoliko kuvate leblebiju za ovo jelo, potrebno je da je potopite u vodu noć ranije. Procedite je, dobro operite, zatim još jednom procedite. Kuvajte leblebiju sa prstohvatom sode bikarbone kako bi se brže skuvala. Kada je skuvana, procedite je i ostavite da se prohladi."
+    ],
+    "ingredients": [
+      {
+        "raw": "500 gr skuvane leblebije",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "leblebije"
+      },
+      {
+        "raw": "1 supena kašika belog luka u prahu",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 supena kašika crnog luka u prahu",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "½ kašičice bibera",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "1 kašičica mlevene paprike",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "mlevena-paprika"
+      },
+      {
+        "raw": "1 kašičica kurkume",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "Himalajska so po ukusu",
+        "ref": "so"
+      }
+    ],
+    "method": "Skuvati leblebiju po uputstvu iznad. U činiji pomešati sve začine. Zagrejati rernu na 200 stepeni. Leblebije poređati u jednom redu u plehu koji je prethodno obložen pek papirom. Posuti sa polovinom začina, peći oko 25 minuta, promešati ih pa posuti sa drugom polovinom začina i peći još 15ak minuta.",
+    "tips": [],
+    "subtitle": "Zdrava proteinska grickalica",
+    "timeNote": "5 minuta + vreme potrebno za kuvanje leblebije (možete koristiti i gotovu skuvanu leblebiju iz tegle)",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 236,
+      "carbs": 35.5,
+      "fat": 10.7,
+      "protein": 8.8,
+      "fiber": 7.9
+    }
+  }
+]

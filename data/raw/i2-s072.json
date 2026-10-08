@@ -1,0 +1,126 @@
+[
+  {
+    "id": "i2-vegan-krekeri",
+    "title": "Vegan krekeri",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 72,
+      "page": "L",
+      "printed": 146
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr speltinog mekog brašna (ili brašna po želji)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica ruzmarina sušenog (izmrvljen u šaci)",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "ruzmarin"
+      },
+      {
+        "raw": "60ml ulja",
+        "qty": 60,
+        "unit": "ml",
+        "ref": "ulje"
+      },
+      {
+        "raw": "120ml tople vode",
+        "qty": 120,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Sve sastojke pomešati u činiji i umesiti testo. Ugrejati rernu na 200 stepeni. Oklagijom istanjiti testo na debljinu 1 cm, iseći na željeni oblik, probosti viljuškom na više mesta i peći na plehu obloženom pek papirom 15ak minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Hrskavi krekeri sa ruzmarinom",
+    "timeMinutes": 25,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 214,
+      "carbs": 41,
+      "fat": 1.2,
+      "protein": 7.8,
+      "fiber": 0
+    }
+  },
+  {
+    "id": "i2-susam-talasi",
+    "title": "Susam talasi",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "hleb-peciva",
+    "source": {
+      "scan": 72,
+      "page": "R",
+      "printed": 147
+    },
+    "tags": [
+      "vegan",
+      "bez-belog-brasna",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "300 gr speltinog mekog brašna (ili brašna po želji)",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 i po kašičica himalajske soli",
+        "qty": 1.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "80 ml maslinovog ulja",
+        "qty": 80,
+        "unit": "ml",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "150 ml vode",
+        "qty": 150,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "75gr crnog susama (ili belog, integralnog)",
+        "qty": 75,
+        "unit": "gr",
+        "ref": "susam"
+      }
+    ],
+    "method": "Umesiti testo od svih sastojaka, istanjiti oklagijom pa iseći na trake. Trake uvrnuti i staviti na pleh koji je prethodno obložen pek papirom. Peći na 190 stepeni oko 15 minuta dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Uvrnuti štapići sa crnim susamom",
+    "timeMinutes": 30,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 339,
+      "carbs": 36.5,
+      "fat": 17.8,
+      "protein": 8.2,
+      "fiber": 1
+    },
+    "warning": "Sadrži speltu. Nije za osobe sa celijakijom."
+  }
+]
