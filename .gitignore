@@ -3,3 +3,5 @@ scans/
 node_modules/
 og/
 tools/__pycache__/
+scans-v2/
+scans-v3/

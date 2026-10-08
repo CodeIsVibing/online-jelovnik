@@ -2,6 +2,11 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.19.1] · 2026-10-08
+
+### Bezbednost
+- Skenovi druge i treće knjige (`scans-v2/`, `scans-v3/`, 294 slike) bili su od verzije 1.10.0 greškom u repou i javno dostupni preko sajta. Uklonjeni su iz repoa i sa sajta i dodati u `.gitignore`; lokalne kopije su netaknute. Ostaju u istoriji gita dok se istorija ne prepiše.
+
 ## [1.19.0] · 2026-10-08
 
 ### Dodato
