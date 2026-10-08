@@ -1,0 +1,227 @@
+[
+  {
+    "id": "i2-sirovi-tart-sa-jabukama",
+    "title": "Sirovi tart sa jabukama",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 75,
+      "page": "L",
+      "printed": 152
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-kvasca",
+      "bez-belog-brasna",
+      "bez-secera",
+      "vegan",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200 gr usitnjenih ovsenih pahuljica",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice",
+        "group": "Kora"
+      },
+      {
+        "raw": "50 gr pečenih lešnika",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "lesnik",
+        "group": "Kora"
+      },
+      {
+        "raw": "1 supena kašika kakao praha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kakao",
+        "group": "Kora"
+      },
+      {
+        "raw": "10 svežih otkoštenih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Kora"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Kora"
+      },
+      {
+        "raw": "100 ml biljnog nezaslađenog mleka",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko",
+        "group": "Kora"
+      },
+      {
+        "raw": "10 supenih kašika usitnjenih ovsenih pahuljica",
+        "qty": 10,
+        "unit": "supena kašika",
+        "ref": "ovsene-pahuljice",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "2 supene kašike čia semenki",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "cia-semenke",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "2 supene kašike sirovog suncokreta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "suncokret",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "4 supene kašike sirovog badema",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "badem",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "1 supena kašika cimeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "cimet",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "4 oljuštene jabuke (što slađe)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jabuka",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "8 otkoštenih svežih urmi",
+        "qty": 8,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "oko 100 ml vode",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Punjenje"
+      },
+      {
+        "raw": "1 rendana oljuštena jabuka na krupnije",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka",
+        "group": "Toping"
+      }
+    ],
+    "method": "Kora: U multipraktiku usitniti ovsene pahuljice, lešnike i kakao. Izvaditi koštice iz urmi, dodati ih u multipraktik, kao i kokosovo ulje i mleko i zatim još jednom izblendati. Smesu sipati u posudu za tart prečnika 20 cm, utisnuti dobro rukama na dno, kao i na stranice posude pa izravnati. Smestiti u zamrzivač.\n\nPunjenje: U multipraktiku usitniti ovsene pahuljice, čia semenke, suncokret, bademe i cimet. Izvaditi koštice iz urmi, dodati ih u multipraktik, zatim jabuke i vodu i blendati do kremaste teksture. Uliti punjenje preko kore i izravnati.\n\nVratiti u zamrzivač na nekih 15 minuta dok se ne stegne. Izrendati jabuku na krupnije rende preko i poslužiti.",
+    "tips": [],
+    "subtitle": "Pun ukus jabuka",
+    "timeMinutes": 40,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 378,
+      "carbs": 59.5,
+      "fat": 14.9,
+      "protein": 8.5,
+      "fiber": 11
+    }
+  },
+  {
+    "id": "i2-tart-sa-kruskama-i-suvim-sljivama",
+    "title": "Tart sa kruškama i suvim šljivama",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 75,
+      "page": "R",
+      "printed": 153
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "vegan",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr oraha",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "12 svežih otkoštenih urmi",
+        "qty": 12,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "3 zrele kruške (tanko isečene)",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "Sok od 1 narandže",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "¼ kašičice cimeta",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "¼ kašičice muskat oraha u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "muskatni-orah"
+      },
+      {
+        "raw": "5 suvih šljiva",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "sljiva"
+      }
+    ],
+    "method": "Orah smestiti u pleh i peći u rerni oko 8 minuta na 180 stepeni. Izvaditi koštice iz urmi. U multipraktik ubaciti orahe, urme, cimet i so i usitniti što više. Smesu utisnuti prstima u posudu za tart prečnika oko 20cm i obložiti ivice. Smestiti u frižider.\n\nKruške iseći na tanko, iscediti narandžu. U manju šerpu ubaciti kruške, sok od narandže, začine i suve šljive. Kuvati oko 10 minuta, pa izvaditi voće i sipati preko kore, izravnati. Tečnost u šerpi ukuvati još malo da postane gusti preliv. Preliti preko voća.",
+    "tips": [],
+    "subtitle": "Jesenji dezert sa voćnim prelivom i začinima",
+    "timeMinutes": 30,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 319,
+      "carbs": 34.8,
+      "fat": 19.8,
+      "protein": 5.5,
+      "fiber": 6
+    }
+  }
+]

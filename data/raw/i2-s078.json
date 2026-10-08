@@ -1,0 +1,190 @@
+[
+  {
+    "id": "i2-keto-kugle",
+    "title": "Keto kugle",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 78,
+      "page": "L",
+      "printed": 158
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 16 kugli, zavisi od veličine kuglica koje pravite."
+    ],
+    "ingredients": [
+      {
+        "raw": "4 šake pečenih lešnika",
+        "qty": 4,
+        "unit": "šaka",
+        "ref": "lesnik"
+      },
+      {
+        "raw": "2 supene kašike lanenog brašna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "laneno-brasno"
+      },
+      {
+        "raw": "1 supena kašika kakao praha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "5 supenih kašika kokosovog brašna",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "kokosovo-brasno"
+      },
+      {
+        "raw": "¼ kašičice čiste stevie u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "stevija"
+      },
+      {
+        "raw": "3 kašičice kokosovog ulja",
+        "qty": 3,
+        "unit": "kašičica",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "150gr krem sira",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "krem-sir"
+      }
+    ],
+    "method": "Lešnike, laneno brašno, kakao, kokosovo brašno i steviu izblendati u multipraktiku do strukture brašna. Dodati kokosovo ulje i krem sir, još jednom izblendati dok se sastojci ne sjedine. Oblikovati u kugle.",
+    "tips": [],
+    "subtitle": "Slatkiš pogodan i za dijabetičare",
+    "timeMinutes": 15,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 335,
+      "carbs": 7.2,
+      "fat": 25,
+      "protein": 10,
+      "fiber": 0
+    }
+  },
+  {
+    "id": "i2-cake-pops-raznjici",
+    "title": "Cake pops ražnjići",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 78,
+      "page": "R",
+      "printed": 159
+    },
+    "tags": [
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [
+      "Od ove količine dobije se oko 35 popsa."
+    ],
+    "ingredients": [
+      {
+        "raw": "100gr pirinčanog brašna",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "pirincano-brasno",
+        "group": "Piškota"
+      },
+      {
+        "raw": "100gr speltinog mekog brašna",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "speltino-brasno",
+        "group": "Piškota"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona",
+        "group": "Piškota"
+      },
+      {
+        "raw": "10 otkoštenih svežih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Piškota"
+      },
+      {
+        "raw": "2 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja",
+        "group": "Piškota"
+      },
+      {
+        "raw": "500ml biljnog nezaslađenog mleka",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "biljno-mleko",
+        "group": "Piškota"
+      },
+      {
+        "raw": "5 supenih kašika kokosovog ulja",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Piškota"
+      },
+      {
+        "raw": "150gr krem sira",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "krem-sir",
+        "group": "Krem"
+      },
+      {
+        "raw": "3 supene kašike meda",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Krem"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta",
+        "ref": "vanila",
+        "group": "Krem"
+      },
+      {
+        "raw": "Čokoladni preliv napraviti po receptu za čokoladni puding sa strane 178",
+        "ref": "kakao",
+        "group": "Čokoladni preliv"
+      }
+    ],
+    "method": "Uključiti rernu na 200 stepeni dok pripremate ostale sastojke. Izvaditi koštice iz urmi. U blender sipati pirinčano i speltino brašno, sodu bikarbonu i urme. Blendati dok se urme ne usitne. Presuti u veliku činiju pa dodati umućena jaja, biljno mleko i kokosovo ulje. Sve dobro promešati. Veliku tepsiju obložiti pek papirom, uliti smesu i peći oko 20 minuta, dok ne porumeni i dok se ivice ne odvoje od tepsije.\n\nDok se piškota peče, u činiju sipati krem sir, med i vanilu i mutiti ručnim mikserom nekoliko minuta dok se ne dobije fini krem. Kada se piškota ispeče, ostavite je da se prohladi, a nakon toga iscepkajte i stavite u multipraktik, da dobijete strukturu mrvica. Mrvice pridružite sa kremom, promešajte i od smese pravite kuglice. Kuglice stavite u frižider dok pripremate čokoladni preliv. Umočiti kuglice ili preliti po želji i staviti ih na štapiće po nekoliko komada kako biste dobili cake pops ražnjiće.",
+    "tips": [],
+    "subtitle": "Ultimativni popsi",
+    "timeMinutes": 90,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 298,
+      "carbs": 34.3,
+      "fat": 16.3,
+      "protein": 5.7,
+      "fiber": 2.3
+    },
+    "seeAlso": [
+      "i2-cokoladni-puding"
+    ],
+    "equipment": [
+      "Štapići za ražnjiće"
+    ]
+  }
+]

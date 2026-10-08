@@ -1,0 +1,120 @@
+[
+  {
+    "id": "i2-smrznuti-bujon-od-povrca",
+    "title": "Smrznuti bujon od povrća",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 96,
+      "page": "L",
+      "printed": 194
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena"
+    ],
+    "notes": [
+      "Do 3 meseca čuvati u zamrzivaču."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 crni luk",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "2 velike oljuštene šargarepe",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "8 čena belog luka",
+        "qty": 8,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Šaka svežeg peršuna",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "persun"
+      },
+      {
+        "raw": "100gr sočiva",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "socivo"
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Povrće iseći na veće komade, ubaciti u veću šerpu, sipati malo vode, dinstati 10ak minuta uz dodavanje vode i mešanje. Dodati 1l vode, smanjiti temperaturu, i kuvati nepoklopljeno 30 minuta. Procediti i bujon koji je ostao uliti u modle za led i zamrznuti. Kada se zamrznu, izvaditi ih i prebaciti u činiju i vratiti u zamrzivač.",
+    "tips": [],
+    "subtitle": "Za obogaćivanje ručkova",
+    "timeMinutes": 45
+  },
+  {
+    "id": "i2-italijanska-mesavina-zacina",
+    "title": "Italijanska mešavina začina",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 96,
+      "page": "R",
+      "printed": 195
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 supene kašike origana",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "origano"
+      },
+      {
+        "raw": "1 supena kašika majorana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "majoran"
+      },
+      {
+        "raw": "1 supena kašika majčine dušice",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "majcina-dusica"
+      },
+      {
+        "raw": "1 kašičica bosiljka",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "1 kašičica ruzmarina",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "ruzmarin"
+      },
+      {
+        "raw": "1 kašičica žalfije",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "zalfija"
+      }
+    ],
+    "method": "Sve sastojke pomešati u činiji. Čuvati u staklenoj tegli sa poklopcem.",
+    "tips": [],
+    "subtitle": "Savršen dodatak jelima",
+    "timeMinutes": 5
+  }
+]

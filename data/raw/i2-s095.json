@@ -1,0 +1,129 @@
+[
+  {
+    "id": "i2-smrznuto-sveze-bilje-u-maslinovom-ulju",
+    "title": "Smrznuto sveže bilje u maslinovom ulju",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 95,
+      "page": "L",
+      "printed": 192
+    },
+    "tags": [
+      "sirovo",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [
+      "Može da stoji do 3 meseca u zamrzivaču."
+    ],
+    "ingredients": [
+      {
+        "raw": "Sveže bilje po želji (ruzmarin, peršun, origano, bosiljak, majčina dušica, korijander, vlašac, žalfija...)",
+        "ref": "sveze-bilje"
+      },
+      {
+        "raw": "Maslinovo ulje",
+        "ref": "maslinovo-ulje"
+      }
+    ],
+    "method": "Oprati i osušiti bilje. Veće listove iseći. U modlu za led staviti bilje, preliti maslinovim uljem, čistom viljuškom pritisnuti bilje kako bi ulje potpuno obložilo bilje.\n\nSmestiti u zamrzivač na nekoliko sati da se stegne. Izvaditi kockice, smestiti u kesicu, obeležiti datum i vratiti u zamrzivač. Po potrebi uzimati i koristiti u jelima.",
+    "tips": [],
+    "subtitle": "Da uvek imate pristup svežem bilju za vaša jela",
+    "timeMinutes": 10
+  },
+  {
+    "id": "i2-supa-u-kocki",
+    "title": "Supa u kocki",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 95,
+      "page": "R",
+      "printed": 193
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena"
+    ],
+    "notes": [
+      "Možete dodavati ili oduzimati povrće po želji i ukusu.",
+      "Od ove količine dobije se oko 1.2kg supe u kocki.",
+      "Držati u zamrzivaču do 5 meseci."
+    ],
+    "ingredients": [
+      {
+        "raw": "3 šargarepe",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "sargarepa"
+      },
+      {
+        "raw": "3 štapa celera",
+        "qty": 3,
+        "unit": "štap",
+        "ref": "celer"
+      },
+      {
+        "raw": "4 čena belog luka",
+        "qty": 4,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "2 crna luka",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "crni-luk"
+      },
+      {
+        "raw": "2 krompira",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "krompir"
+      },
+      {
+        "raw": "2 tikvice",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "100gr himalajske soli",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "so"
+      },
+      {
+        "raw": "1 kašičica bibera",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "biber"
+      },
+      {
+        "raw": "1 kašičica kurkume",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "30gr svežeg peršuna (još svežeg bilja po želji - majčina dušica, mirođija...)",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "persun"
+      }
+    ],
+    "method": "Svo povrće dobro oprati, oljuštiti i iseći na veće komade, ubaciti u multipraktik i izblendati na sitno. Dinstati na srednjoj temperaturi na maslinovom ulju 15ak minuta, zatim dodati začine pa kuvati još 15ak minuta uz povremeno mešanje dok ne ispari tečnost. Izblendati u šerpi još malo štapnim mikserom. Sveže bilje oprati i procediti pa iseckati nožem. Dodati bilje u smesu, dobro promešati. Sačekati da se ohladi, pa prebaciti u veliku posudu obloženu pek papirom i poravnati. Smestiti u zamrzivač da se stegne, zatim iseći na željenu veličinu. Između kockica postaviti pek papir kako se ne bi zalepile.",
+    "tips": [],
+    "subtitle": "Dodatak supama i ostalim jelima",
+    "timeNote": "60 min + vreme hlađenja"
+  }
+]

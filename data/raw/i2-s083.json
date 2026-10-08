@@ -1,0 +1,186 @@
+[
+  {
+    "id": "i2-spicy-bundevara",
+    "title": "Spicy bundevara",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 83,
+      "page": "L",
+      "printed": 168
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "600 gr speltinog integralnog brašna",
+        "qty": 600,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "300 ml vruće vode",
+        "qty": 300,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "3 pune supene kašike domaće svinjske masti",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "svinjska-mast"
+      },
+      {
+        "raw": "700 gr narendane bundeve",
+        "qty": 700,
+        "unit": "gr",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "½ kašičice karanfilića u prahu",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "karanfilic"
+      },
+      {
+        "raw": "Pasta od urmi (str. 113)",
+        "ref": "urme"
+      }
+    ],
+    "method": "Brašno, vodu, so i mast pomešati i umesiti testo koje se ne lepi (po potrebi dodati još brašna) i ostaviti sa strane. Bundevu oljuštiti i narendati. U jednoj činiji pomešati bundevu, začine i pastu od urmi i dobro promešati. Testo podeliti na dva jednaka dela. Jedan deo oklagijom razviti na veličinu tepsije i prebaciti u nju. Prstima gurati testo do ivice tepsije. Fil rasporediti ravnomerno po testu.\n\nRazviti drugi deo testa, prebaciti preko fila i prstima gurati testo do ivica tepsije i spojiti dobro sa donjim testom da ne bi iscurio sok od fila. Viljuškom izbockati gornje testo na više mesta. Peći na 200 stepeni dok se ivice pite ne odvoje od tepsije i dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Kremasta pita sa bundevom i začinima",
+    "timeMinutes": 45,
+    "servings": 12,
+    "nutrition": {
+      "kcal": 273,
+      "carbs": 52.9,
+      "fat": 4.8,
+      "protein": 7.9,
+      "fiber": 5.6
+    },
+    "seeAlso": [
+      "i2-pasta-od-urmi"
+    ]
+  },
+  {
+    "id": "i2-cokoladna-vekna",
+    "title": "Čokoladna vekna",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 83,
+      "page": "R",
+      "printed": 169
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250gr pirea od pečene bundeve (str. 115)",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "bundeva"
+      },
+      {
+        "raw": "1 manja oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "10 otkoštenih svežih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "3 supene kašike putera od orašastih plodova po želji",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "2 pune supene kašike kakao praha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "200gr integralnog brašna po želji",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "integralno-brasno"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "¼ kašičice muskat oraha u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "muskatni-orah"
+      },
+      {
+        "raw": "¼ kašičice đumbira u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "⅛ kašičice karanfilića u prahu",
+        "qty": 0.125,
+        "unit": "kašičica",
+        "ref": "karanfilic"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "Ravna kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      }
+    ],
+    "method": "Napraviti pire od pečene bundeve po receptu. Oljuštiti jabuku i izvaditi koštice iz urmi. U multipraktik ubaciti pire od bundeve, jabuku, urme i puter, blendati do kremaste strukture. U činiju ubaciti kakao, brašno, začine i sodu bikarbonu i promešati.\n\nSmesu iz multipraktika dodati u činiju i dobro promešati. Izliti u okrugao pleh sa poklopcem prethodno obložen pek papirom, poklopiti i peći na 180 stepeni oko 55 do 60 minuta.",
+    "tips": [],
+    "subtitle": "Bundeva, jabuka i kakao",
+    "timeMinutes": 60,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 190,
+      "carbs": 35,
+      "fat": 4.2,
+      "protein": 6.4,
+      "fiber": 5.6
+    },
+    "seeAlso": [
+      "i2-pire-od-pecene-bundeve"
+    ]
+  }
+]

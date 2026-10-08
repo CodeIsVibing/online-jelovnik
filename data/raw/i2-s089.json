@@ -1,0 +1,148 @@
+[
+  {
+    "id": "i2-zimski-praznicni-napitak",
+    "title": "Zimski praznični napitak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 89,
+      "page": "L",
+      "printed": 180
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-kvasca",
+      "bez-belog-brasna",
+      "bez-secera",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "6-7 oljuštenih jabuka (može miks različitih vrsta)",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 oljuštena narandža",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "1 oljušteni limun",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "80 gr suvih brusnica (bez dodatog šećera)",
+        "qty": 80,
+        "unit": "gr",
+        "ref": "brusnica"
+      },
+      {
+        "raw": "2 cimet štapića",
+        "qty": 2,
+        "unit": "štap",
+        "ref": "cimet"
+      },
+      {
+        "raw": "4-5 cela karanfilića",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "karanfilic"
+      },
+      {
+        "raw": "1 anis zvezda",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "anis"
+      },
+      {
+        "raw": "Voda",
+        "ref": "voda"
+      }
+    ],
+    "method": "Jabuke, narandžu i limun oljuštiti pa iseći na četvrtine. Sve sastojke ubaciti u šerpu, preliti vodom da prekrije voće, zagrejati do vrenja pa spustiti na nižu temperaturu da krčka dok jabuke ne omekšaju. Gnječilicom za krompir izgnječiti voće, poklopiti, pa kuvati još 10ak minuta. Izvaditi voće pa poslužiti napitak.",
+    "tips": [],
+    "subtitle": "Napitak koji okuplja porodicu",
+    "timeNote": "30-40 minuta",
+    "servings": 6,
+    "nutrition": {
+      "kcal": 133,
+      "carbs": 31.8,
+      "fat": 0.4,
+      "protein": 0.8,
+      "fiber": 6.3
+    }
+  },
+  {
+    "id": "i2-minicinke",
+    "title": "Miničinke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 89,
+      "page": "R",
+      "printed": 181
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200ml jogurta",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "jogurt"
+      },
+      {
+        "raw": "2 jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "6 supene kašike kokosovog ulja",
+        "qty": 6,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "200gr speltinog mekog brašna",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "Dodaci: sveže voće po izboru, med, kokos, grčki jogurt...",
+        "ref": "voce",
+        "optional": true
+      }
+    ],
+    "method": "U blenderu sipati jogurt, jaja i kokosovo ulje, izblendati. U jednu činiju sipati brašno i sodu bikarbonu, promešati pa to dodati u blender i izblendati dok smesa ne postane glatka. Treba da bude gušća od smese za klasične palačinke.\n\nUgrejati tiganj na srednjoj temperaturi, premazati kokosovim uljem, zatim manjom kašičicom sipati smesu u tiganj. Kada se pojave balončići na palačinkama, protresite tiganj i okrenite ih na drugu stranu, pa pecite još 30ak sekundi. Dodajte voće i dodatke po želji pa poslužite.",
+    "tips": [],
+    "subtitle": "Palačinke veličine zalogaja",
+    "timeMinutes": 30,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 201,
+      "carbs": 27.6,
+      "fat": 7.2,
+      "protein": 8.4,
+      "fiber": 3.2
+    }
+  }
+]

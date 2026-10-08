@@ -1,0 +1,121 @@
+[
+  {
+    "id": "i2-keto-toplo-hladno-dezert",
+    "title": "Keto toplo-hladno dezert",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 87,
+      "page": "L",
+      "printed": 176
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 avokado",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "2 supene kašike kakao praha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "1 supena kašika putera od orašastih plodova po želji",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "Nezaslađeno biljno mleko do željene gustine",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "Prstohvat čiste stevie (opciono)",
+        "ref": "stevija",
+        "optional": true
+      },
+      {
+        "raw": "100gr smrznutog bobičastog voća",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "bobicasto-voce"
+      }
+    ],
+    "method": "Izvaditi košticu iz avokada, ubaciti ga u multipraktik, dodati kakao prah, puter, a biljno mleko postepeno dodavati dok se smesa blenda do željene gustine. Presuti u činiju. U manju šerpu ubaciti bobičasto voće i uz mešanje ga istopiti na srednjoj temperaturi i pomalo izgnječiti da pusti sok. Preko čokoladne smese presuti zagrejano voće i sok koje je pustilo.",
+    "tips": [],
+    "subtitle": "Čokoladni krem sa bobičastim voćem",
+    "timeMinutes": 10,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 404,
+      "carbs": 46.2,
+      "fat": 32.7,
+      "protein": 8.7,
+      "fiber": 22
+    }
+  },
+  {
+    "id": "i2-jaffa-griz",
+    "title": "\"Jaffa\" griz",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 87,
+      "page": "R",
+      "printed": 177
+    },
+    "tags": [
+      "bez-secera"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "500ml ceđenog soka od narandže",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "narandza"
+      },
+      {
+        "raw": "6 supenih kašika speltinog griza (ili griza po želji)",
+        "qty": 6,
+        "unit": "supena kašika",
+        "ref": "speltin-griz"
+      },
+      {
+        "raw": "1 supena kašika kakao praha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "2 supene kašike meda",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "method": "U šerpu sipati sok od narandže, dodati griz uz mešanje, zatim kakao prah pa mešati nekoliko minuta dok se griz ne zgusne. Podeliti u dve činije, sačekati da se prohladi pa dodati po supenu kašiku meda i promešati.",
+    "tips": [],
+    "subtitle": "Zdrava verzija griza",
+    "timeMinutes": 6,
+    "servings": 2,
+    "nutrition": {
+      "kcal": 363,
+      "carbs": 80.7,
+      "fat": 1.8,
+      "protein": 8.5,
+      "fiber": 4
+    }
+  }
+]

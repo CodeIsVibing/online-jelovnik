@@ -1,0 +1,112 @@
+[
+  {
+    "id": "i2-vegan-parmezan",
+    "title": "Vegan parmezan",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 91,
+      "page": "L",
+      "printed": 184
+    },
+    "tags": [
+      "sirovo",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100gr sirovih indijskih oraha",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "indijski-orah"
+      },
+      {
+        "raw": "3 supene kašike nutritivnog kvasca",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "nutritivni-kvasac"
+      },
+      {
+        "raw": "¼ kašičice belog luka u prahu",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica himalajske soli",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "so"
+      }
+    ],
+    "method": "Samleti indijske orahe u blenderu ili multipraktiku na sitno, otprilike do strukture mlečnog parmezana. Presuti u činiju, dodati nutritivni kvasac, beli luk i so pa promešati dobro.",
+    "tips": [],
+    "subtitle": "Veganska zamena za parmezan",
+    "timeMinutes": 5,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 75,
+      "carbs": 4.4,
+      "fat": 5.6,
+      "protein": 2.7,
+      "fiber": 0.7
+    }
+  },
+  {
+    "id": "i2-vegan-pavlaka",
+    "title": "Vegan pavlaka",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 91,
+      "page": "R",
+      "printed": 185
+    },
+    "tags": [
+      "sirovo",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 supena kašika soka od limuna",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "limun"
+      },
+      {
+        "raw": "200gr tofu sira",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "tofu"
+      },
+      {
+        "raw": "1 supena kašika crvenog vinskog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "vinsko-sirce"
+      },
+      {
+        "raw": "Biljnog nezaslađenog mleka do željene gustine",
+        "ref": "biljno-mleko"
+      }
+    ],
+    "method": "Iscediti limun. Sve sastojke ubaciti u blender i blendati do kremaste strukture. Postepeno dodavati biljno mleko kako bi se dostigla željena gustina.",
+    "tips": [],
+    "subtitle": "Veganska zamena za pavlaku",
+    "timeMinutes": 5,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 63,
+      "carbs": 5.8,
+      "fat": 3.4,
+      "protein": 2.9,
+      "fiber": 1.5
+    }
+  }
+]

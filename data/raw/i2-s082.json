@@ -1,0 +1,148 @@
+[
+  {
+    "id": "i2-deciji-keksici",
+    "title": "Dečiji keksići",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 82,
+      "page": "L",
+      "printed": 166
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Od ove smese dobije se oko 6 keksića."
+    ],
+    "ingredients": [
+      {
+        "raw": "150gr speltinog mekog brašna",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "8 otkoštenih svežih urmi",
+        "qty": 8,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "1 supena kašika vode",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "2 supene kašike meda",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 oljuštena izblendana slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "10 suvih šljiva",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "sljiva"
+      }
+    ],
+    "method": "Zagrejati rernu na 180 stepeni. Izvaditi koštice iz urmi. Brašno, urme i so samleti u multipraktiku pa izručiti u veću činiju. U blender ubaciti vodu, med, kokosovo ulje i oljuštenu jabuku pa izblendati do kremaste strukture. Pridružiti smesu u činiju sa ostalim sastojcima i promešati. Suve šljive iseckati nožem, ubaciti u činiju i sve dobro promešati. Od smese odvadite po 2 supene kašike, formirajte loptu, pa sa prethodno pokvašenom viljuškom utisnite kako biste dobili formu okruglog keksa. Pecite u plehu prethodno obloženom pek papirom 10 minuta, zatim smanjiti temperaturu na 150 stepeni pa peći još 5 minuta dok ne porumene.",
+    "tips": [],
+    "subtitle": "Keksići koji će zameniti sve kupovne",
+    "timeMinutes": 30,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 223,
+      "carbs": 46.5,
+      "fat": 2.8,
+      "protein": 4.4,
+      "fiber": 5.4
+    }
+  },
+  {
+    "id": "i2-slatka-lepinjica",
+    "title": "Slatka lepinjica",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 82,
+      "page": "R",
+      "printed": 167
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-kvasca"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "50gr mlevenih sirovih badema",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "100gr mekog speltinog brašna (ili brašna po želji)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "8 otkoštenih svežih urmi",
+        "qty": 8,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "3 izgnječene banane",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      }
+    ],
+    "method": "Uključiti rernu na 160 stepeni da se ugreje dok pripremate lepinju. Bademe usitniti u blenderu do strukture brašna. Izvadite koštice iz urmi. U blender dodati brašno, so i urme pa izblendati dok se urme ne usitne. Presuti u veću činiju.\n\nIzgnječiti banane viljuškom, dodati ih u činiju sa ostalim sastojcima, pa dodati i kokosovo ulje. Sve dobro promešati dok se sastojci ne sjedine. Oblikovati smesu u lepinju i smestiti na pleh obložen pek papirom. Peći oko 50 minuta dok lepinja ne porumeni.",
+    "tips": [],
+    "subtitle": "Više od lepinje",
+    "timeMinutes": 60,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 301,
+      "carbs": 51.9,
+      "fat": 9.6,
+      "protein": 7.6,
+      "fiber": 7.2
+    }
+  }
+]

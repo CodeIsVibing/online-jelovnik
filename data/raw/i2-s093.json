@@ -1,0 +1,110 @@
+[
+  {
+    "id": "i2-ukiseljeni-ljubicasti-luk",
+    "title": "Ukiseljeni ljubičasti luk",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 93,
+      "page": "L",
+      "printed": 188
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "250ml jabukovog sirćeta",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "1 čen belog luka (narendan)",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 veći ljubičasti luk (tanko sečen na kolutove)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ljubicasti-luk"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "method": "Izrendati beli luk, a ljubičasti iseći na tanke kolutove. U manju šerpu sipati sirće i beli luk i pustiti da provriju, dodati ljubičasti, promešati i skloniti sa ringle. Kada se malo prohladi, dodati med pa još jednom promešati. Ostaviti da odstoji 20 min, zatim dobro procediti i poslužiti.",
+    "tips": [],
+    "subtitle": "Turšija na brz način",
+    "timeNote": "10 min + 20 min da odstoji",
+    "servings": 1,
+    "nutrition": {
+      "kcal": 83,
+      "carbs": 19.5,
+      "fat": 0,
+      "protein": 1.4,
+      "fiber": 2.1
+    }
+  },
+  {
+    "id": "i2-domaci-pasterizovani-paradajz",
+    "title": "Domaći pasterizovani paradajz",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 93,
+      "page": "R",
+      "printed": 189
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [
+      "Držati na hladnom i tamnom mestu do 3 meseca. Kada se otvori, može da stoji do 7 dana u frižideru.",
+      "Od ove količine popune se 4 flaše od 1l."
+    ],
+    "ingredients": [
+      {
+        "raw": "2kg paradajza",
+        "qty": 2,
+        "unit": "kg",
+        "ref": "paradajz"
+      },
+      {
+        "raw": "Himalajska so i biber",
+        "ref": "so"
+      },
+      {
+        "raw": "Svež bosiljak",
+        "ref": "bosiljak"
+      },
+      {
+        "raw": "Beli luk",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Maslinovo ulje",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Sveža ljuta paprika (opciono)",
+        "ref": "ljuta-paprika",
+        "optional": true
+      }
+    ],
+    "method": "Iseći paradajz na željenu veličinu i začiniti po želji. Iscepkati listove bosiljka. Oljuštiti beli luk i zgnječiti ceo čen. U teglu ili flašu ubaciti paradajz, zatim nekoliko listova bosiljka i 1,2 čena belog luka pa opet sipati paradajz. Po želji dodati i nekoliko koluta sveže ljute paprike.\n\nDrškom varjače gurati paradajz tako da nigde ne ostane mesta, odnosno vazduha, napuniti do kraja, uliti malo maslinovog ulja i dobro zavrnuti poklopac.\n\nU veliku šerpu sa vodom staviti tegle i kuvati 30 minuta u blago ključaloj vodi. Ostaviti u šerpi da se hladi postepeno celu noć.",
+    "tips": [],
+    "subtitle": "Bez dodatog šećera",
+    "timeNote": "45 min + 1 noć koliko je potrebno da odstoji u šerpi"
+  }
+]

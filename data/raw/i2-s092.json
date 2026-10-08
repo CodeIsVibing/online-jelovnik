@@ -1,0 +1,121 @@
+[
+  {
+    "id": "i2-vegan-pavlaka-za-kuvanje",
+    "title": "Vegan pavlaka za kuvanje",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 92,
+      "page": "L",
+      "printed": 186
+    },
+    "tags": [
+      "sirovo",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [
+      "Od ove količine dobije se oko 750ml pavlake za kuvanje.",
+      "Čuvati do 5 dana u frižideru."
+    ],
+    "ingredients": [
+      {
+        "raw": "150 gr ovsenih pahuljica",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "500ml vode",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "2 supene kašike maslinovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      }
+    ],
+    "method": "Potopiti ovsene pahuljice u 500ml tople vode, ostaviti 15 minuta da odstoji pa procediti. Prebaciti ovsene pahuljice u blender, dodati 500ml vode, maslinovo ulje i so. Blendati do kremaste strukture, zatim procediti dobro kroz cediljku, koristiti kašiku mešajući smesu.",
+    "tips": [],
+    "subtitle": "Veganska zamena za pavlaku za kuvanje",
+    "timeMinutes": 20,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 84,
+      "carbs": 12.5,
+      "fat": 3.3,
+      "protein": 2.1,
+      "fiber": 1.8
+    }
+  },
+  {
+    "id": "i2-nemleko",
+    "title": "Nemleko",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 92,
+      "page": "R",
+      "printed": 187
+    },
+    "tags": [
+      "sirovo",
+      "bez-glutena",
+      "vegan",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Noć pre pripreme ovog recepta potopiti orašaste plodove u vodu.",
+      "Od ove količine dobije se oko 2l nemleka.",
+      "Sačuvajte pulpu i koristite u kašama, smutijima, kolačima i tortama.",
+      "Može stajati do 3 dana u frižideru."
+    ],
+    "ingredients": [
+      {
+        "raw": "500gr orašastih plodova po želji (lešnici, bademi, indijski orasi, orasi...)",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "orasasti-plodovi"
+      },
+      {
+        "raw": "5 svežih otkoštenih urmi",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "Voda do željene gustine",
+        "ref": "voda"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "optional": true
+      },
+      {
+        "raw": "½ kašičice cimeta (opciono)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet",
+        "optional": true
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi. Ne treba procediti vodu. U sokovnik na hladno ceđenje ubaciti orašaste plodove, urme i vodu. Dodavati postepeno vodu, a kada je potrošite, po želji dodati još sveže vode do željene gustine.\n\nZa dodatno kremasto nemleko, može se, pulpa koja je izašla iz sokovnika još jednom ubaciti u sokovnik i dodati još vode.",
+    "tips": [],
+    "subtitle": "Biljno mleko pravljeno u sokovniku",
+    "timeMinutes": 15
+  }
+]

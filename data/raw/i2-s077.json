@@ -1,0 +1,165 @@
+[
+  {
+    "id": "i2-lazna-torta",
+    "title": "Lažna torta",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 77,
+      "page": "L",
+      "printed": 156
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "400gr višanja",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "visnja"
+      },
+      {
+        "raw": "10 svežih otkoštenih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "6 banana",
+        "qty": 6,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "4 supene kašike lešnik putera",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "6 supenih kašika kokosovog ulja",
+        "qty": 6,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "3 kašičice kakao praha",
+        "qty": 3,
+        "unit": "kašičica",
+        "ref": "kakao"
+      },
+      {
+        "raw": "2 šake pečenih lešnika (krupno sečeni)",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "lesnik"
+      }
+    ],
+    "method": "Uključiti ringlu na srednju temperaturu, višnje ubaciti u šerpu, izvaditi koštice iz urmi i ubaciti u šerpu. Kuvati 10ak minuta uz povremeno mešanje dok ne omekšaju. Štapnim mikserom izblendati dok ne postane kremasto. Skloniti sa strane da se prohladi.\n\nU činiji pomešati kokosovo ulje i kakao prah. Iseći banane po dužini, polovinu staviti na dno veće činije, premazati lešnik puterom, poređati drugu polovinu, premazati kremom od višanja, preliti čokoladnim prelivom i posuti lešnicima. Staviti u zamrzivač na 15ak minuta da se stegne i rashladi.",
+    "tips": [],
+    "subtitle": "Torta koja po svim kriterijumima nije torta, sem po tome da je preukusna",
+    "timeMinutes": 30,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 369,
+      "carbs": 51,
+      "fat": 18,
+      "protein": 6.8,
+      "fiber": 6.3
+    }
+  },
+  {
+    "id": "i2-proteinske-kajsija-bombice",
+    "title": "Proteinske kajsija bombice",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 77,
+      "page": "R",
+      "printed": 157
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [
+      "Od ove količine dobije se oko 10ak kuglica, zavisi od veličine kuglica koje pravite."
+    ],
+    "ingredients": [
+      {
+        "raw": "4 supene kašike sirovog suncokreta",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "suncokret"
+      },
+      {
+        "raw": "2 supene kašike sirovog indijskog oraha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "indijski-orah"
+      },
+      {
+        "raw": "2 supene kašike sirovih bundevinih semenki",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "100gr ovsenih pahuljica",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "100gr kokosovog proteina",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "kokosov-protein"
+      },
+      {
+        "raw": "10 svežih otkoštenih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "2 do 3 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "5 supenih kašika izblendanih svežih kajsija",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "kajsija"
+      }
+    ],
+    "method": "U multipraktik ubaciti suncokret, indijske orahe, bundevine semenke, ovsene pahuljice, cimet i kokosov protein i usitniti. Izvaditi koštice iz urmi, dodati u multipraktik, kao i kokosovo ulje. Izblendati nekoliko kajsija u blenderu i odvaditi 5 supenih kašika pa sipati u multipraktik i još jednom izblendati sve. Od smese oblikovati kuglice.",
+    "tips": [],
+    "subtitle": "Sveže kajsije, cimet i kokosov protein",
+    "timeMinutes": 15,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 305,
+      "carbs": 38.8,
+      "fat": 15.8,
+      "protein": 9.6,
+      "fiber": 8.6
+    }
+  }
+]

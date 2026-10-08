@@ -1,0 +1,120 @@
+[
+  {
+    "id": "i2-cokoladni-puding",
+    "title": "Čokoladni puding",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 88,
+      "page": "L",
+      "printed": 178
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "50ml biljnog nezaslađenog mleka + još 50ml",
+        "qty": 100,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "50gr kakao putera",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "kakao-puter"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika kakao praha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "1 supena kašika tapioka skroba (ili kukuruzni skrob)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "1-2 supene kašike meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "method": "Ugrejati u šerpi prvih 50 ml biljnog mleka na srednjoj temperaturi. Dok se greje, u činiji pomešati drugih 50ml biljnog mleka sa kakaom i tapiokom. Promešati dok se grudvice ne istope. Kada se biljno mleko u šerpi ugreje, dodati kakao puter i kokosovo ulje mešajući dok se ne istopi u potpunosti. Smanjiti temperaturu pa u šerpu dodati smesu iz činijice i mešati dok se puding ne zgusne. Skloniti sa ringle i ostaviti da se malo prohladi, zatim dodati med i još jednom promešati.",
+    "tips": [],
+    "subtitle": "Puding punog čokoladnog ukusa",
+    "timeMinutes": 10,
+    "servings": 1,
+    "nutrition": {
+      "kcal": 279,
+      "carbs": 29.2,
+      "fat": 17.2,
+      "protein": 3.2,
+      "fiber": 0.4
+    }
+  },
+  {
+    "id": "i2-sutlijas-sa-sosom-od-voca",
+    "title": "Sutlijaš sa sosom od voća",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 88,
+      "page": "R",
+      "printed": 179
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [
+      "Pirinač potopiti u vodu 15 minuta pre pravljenja ovog recepta."
+    ],
+    "ingredients": [
+      {
+        "raw": "50gr pirinča",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "pirinac"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "100gr bobičastog voća po želji",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "bobicasto-voce"
+      }
+    ],
+    "method": "Procediti pirinač, oprati ga i još jednom procediti. Kuvati u malo vode dok ne omekša, procediti ga i ostaviti da se malo prohladi. U blender ubaciti pirinač, bananu i cimet i blendati do kremaste strukture, zatim prebaciti u činiju.\n\nVoće ubaciti u šerpicu, kuvati nekoliko minuta i gnječiti dok ne pusti sok. Preliti voćni sos preko sutlijaša.",
+    "tips": [],
+    "subtitle": "Starinski recept, na zdrav način",
+    "timeMinutes": 20,
+    "servings": 1
+  }
+]

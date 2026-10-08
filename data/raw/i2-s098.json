@@ -1,0 +1,50 @@
+[
+  {
+    "id": "i2-sportski-napitak",
+    "title": "Sportski napitak",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 98,
+      "page": "L",
+      "printed": 198
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 limun",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "¼ kašičice himalajske soli",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "Oko 500ml do 750ml vode",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "voda"
+      },
+      {
+        "raw": "Med (opciono)",
+        "ref": "med",
+        "optional": true
+      }
+    ],
+    "method": "Iscediti limun. U flašicu sipati sve sastojke, promućkati.",
+    "tips": [],
+    "timeMinutes": 3,
+    "servings": 1
+  }
+]

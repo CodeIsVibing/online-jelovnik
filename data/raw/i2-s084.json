@@ -1,0 +1,205 @@
+[
+  {
+    "id": "i2-jabuka-mafini",
+    "title": "Jabuka mafini",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 84,
+      "page": "L",
+      "printed": 170
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "5 svežih otkoštenih urmi",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "1 manja slatka oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 banane",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "2 jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika putera od orašastih plodova po želji",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "2 supene kašike meda",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "100gr brašna po želji",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "1 veća oljuštena jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi, oljuštiti jabuku. Ubaciti sve u blender, zatim banane, jaja, kokosovo ulje, puter, med i jabukovo sirće pa blendati do kremaste strukture. U činiju ubaciti sodu bikarbonu, brašno, cimet i so, promešati i dodati izblendanu smesu pa još jednom promešati. Oljuštiti jabuku, iseckati na kockice i ubaciti u smesu i dobro promešati. Uliti smesu do pola u modle za mafine i peći na 180 stepeni oko 15 do 18 minuta, dok ne porumene.",
+    "tips": [],
+    "subtitle": "Mafini sa komadićima jabuke",
+    "timeMinutes": 30,
+    "servings": 5,
+    "nutrition": {
+      "kcal": 292,
+      "carbs": 48.2,
+      "fat": 9.9,
+      "protein": 6.7,
+      "fiber": 6
+    }
+  },
+  {
+    "id": "i2-klafuti-sa-visnjama",
+    "title": "Klafuti sa višnjama",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 84,
+      "page": "R",
+      "printed": 171
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "15 otkoštenih svežih urmi",
+        "qty": 15,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Pekmez od višanja"
+      },
+      {
+        "raw": "400gr višanja",
+        "qty": 400,
+        "unit": "gr",
+        "ref": "visnja",
+        "group": "Pekmez od višanja"
+      },
+      {
+        "raw": "3 banane",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "banana",
+        "group": "Testo"
+      },
+      {
+        "raw": "500gr višanja",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "visnja",
+        "group": "Testo"
+      },
+      {
+        "raw": "200gr ovsenih pahuljica",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice",
+        "group": "Testo"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona",
+        "group": "Testo"
+      },
+      {
+        "raw": "250ml biljnog nezaslađenog mleka",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "biljno-mleko",
+        "group": "Testo"
+      },
+      {
+        "raw": "1 oljuštena slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka",
+        "group": "Testo"
+      },
+      {
+        "raw": "10ak višanja za posipanje",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "visnja",
+        "group": "Testo"
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi, ubaciti u šerpu zajedno sa višnjama. Kuvati 10ak minuta dok ne omekša pa izblendati štapnim mikserom. Zagrejati rernu na 160 stepeni. Izgnječiti banane viljuškom, ubaciti u veću činiju, dodati 500gr višanja i 300gr od skuvanog pekmeza, pa promešati. U blenderu usitniti ovsene pahuljice na strukturu brašna, dodati biljno mleko i oljuštenu jabuku, blendati do kremaste strukture. U pleh uliti smesu sa bananama, višnjama i pekmezom, a preko preliti smesom iz blendera. Utisnuti višnje i peći oko 30 do 40 minuta, dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Višnje, banane i pekmez",
+    "timeMinutes": 60,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 261,
+      "carbs": 61,
+      "fat": 2.8,
+      "protein": 4.9,
+      "fiber": 7.8
+    }
+  }
+]

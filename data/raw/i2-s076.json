@@ -1,0 +1,218 @@
+[
+  {
+    "id": "i2-kikicia-torta",
+    "title": "Kikičia torta",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 76,
+      "page": "L",
+      "printed": 154
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "100 gr blanširanog neslanog kikirikija + još malo za posipanje",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "kikiriki",
+        "group": "Kora"
+      },
+      {
+        "raw": "100 gr sirovog suncokreta",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "suncokret",
+        "group": "Kora"
+      },
+      {
+        "raw": "2 supene kašike kakao praha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao",
+        "group": "Kora"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so",
+        "group": "Kora"
+      },
+      {
+        "raw": "5 otkoštenih svežih urmi",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "urme",
+        "group": "Kora"
+      },
+      {
+        "raw": "2 supene kašike istopljenog kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Kora"
+      },
+      {
+        "raw": "4 supene kašike meda",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Kora"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "group": "Kora",
+        "optional": true
+      },
+      {
+        "raw": "2 zrele banane",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "banana",
+        "group": "Fil"
+      },
+      {
+        "raw": "1 zreo avokado",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "avokado",
+        "group": "Fil"
+      },
+      {
+        "raw": "1 supena kašika meda (za vegan verziju 2 sveže otkoštene urme)",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Fil"
+      },
+      {
+        "raw": "2 supene kašike kakao praha",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao",
+        "group": "Fil"
+      },
+      {
+        "raw": "7 supenih kašika čia semenki",
+        "qty": 7,
+        "unit": "supena kašika",
+        "ref": "cia-semenke",
+        "group": "Fil"
+      }
+    ],
+    "method": "U multipraktiku usitniti kikiriki, suncokret, kakao i so. Izvaditi koštice iz urmi, dodati ih u multipraktik pa još jednom izblendati na sitno. Zatim dodati kokosovo ulje i med (i vanilu po želji), pa blendati dok se sastojci ne ujednače, a smesa postane lepljiva. Obložiti pek papirom dno koje se odvaja u kalupu za tortu prečnika oko 10 cm i izručiti smesu. Prstima utiskivati smesu na dno i izravnati je. Skloniti koru u zamrzivač dok pripremate ostale sastojke. Oljuštiti banane, izvaditi košticu iz avokada, ubaciti u multipraktik i dodati med pa izblendati. Dodati kakao i čia semenke, pa zatim opet izblendati dok smesa ne postane glatka. Fil uliti preko kore i izravnati. Usitniti kikiriki u blenderu ili iseckati na krupno nožem pa posuti po torti. Staviti tortu u zamrzivač na 20-30 min dok čia ne nabubri. Pažljivo olabaviti obruč i izvaditi kikičia tortu.",
+    "tips": [],
+    "subtitle": "Neodoljivi spoj kikirikija i čie",
+    "timeMinutes": 35,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 273,
+      "carbs": 25.6,
+      "fat": 16,
+      "protein": 10.4,
+      "fiber": 2
+    }
+  },
+  {
+    "id": "i2-izvrnuta-torta-sa-breskvama",
+    "title": "Izvrnuta torta sa breskvama",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 76,
+      "page": "R",
+      "printed": 155
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "4 breskve (tanko isečene)",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "10 otkoštenih svežih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "180ml nezaslađenog biljnog mleka",
+        "qty": 180,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "1 supena kašika jabukovog sirćeta",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "1 supena kašika mlevenog lana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "50 gr mlevenih sirovih badema",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta (opciono)",
+        "ref": "vanila",
+        "optional": true
+      },
+      {
+        "raw": "100gr ovsenog brašna",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "ovseno-brasno"
+      },
+      {
+        "raw": "100gr speltinog integralnog brašna",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      }
+    ],
+    "method": "Iseći breskve na tanko, obložiti pleh prečnika oko 20cm, poređati ih na dno u krug da se preklapaju. Izvaditi koštice iz urmi, ubaciti u blender i dodati biljno mleko pa izblendati da se usitne urme. Ubaciti u činiju i dodati jabukovo sirće, promešati. Samleti lan i bademe. U drugu činiju ubaciti lan, bademe, vanilu, ovseno i speltino brašno, sodu bikarbonu i so, promešati. Uključiti rernu na 180 stepeni. Pomešati obe smese i dobro promešati. Presuti u pleh preko bresaka i izravnati. Peći oko 45 do 50 minuta, dok ne porumeni. Ostaviti tortu da se prohladi pa je okrenuti naopačke.",
+    "tips": [],
+    "subtitle": "Letnja lagana torta",
+    "timeMinutes": 60,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 164,
+      "carbs": 38.5,
+      "fat": 2,
+      "protein": 4.6,
+      "fiber": 3.3
+    }
+  }
+]

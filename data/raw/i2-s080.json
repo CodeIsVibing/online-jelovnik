@@ -1,0 +1,238 @@
+[
+  {
+    "id": "i2-sirovi-cupcakes",
+    "title": "Sirovi cupcakes",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 80,
+      "page": "L",
+      "printed": 162
+    },
+    "tags": [
+      "bez-glutena",
+      "bez-belog-brasna",
+      "bez-secera",
+      "sirovo",
+      "priprema-vece-ranije"
+    ],
+    "notes": [
+      "Noć (ili nekoliko sati ranije) pre pripreme ovog recepta potopite indijski orah u vodu.",
+      "Od ove smese dobije se oko 23 cupcake-a."
+    ],
+    "ingredients": [
+      {
+        "raw": "120gr sirovih badema",
+        "qty": 120,
+        "unit": "gr",
+        "ref": "badem",
+        "group": "Baza"
+      },
+      {
+        "raw": "120gr sirovih lešnika",
+        "qty": 120,
+        "unit": "gr",
+        "ref": "lesnik",
+        "group": "Baza"
+      },
+      {
+        "raw": "500gr svežih šargarepa",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "sargarepa",
+        "group": "Baza"
+      },
+      {
+        "raw": "120gr svežih otkoštenih urmi",
+        "qty": 120,
+        "unit": "gr",
+        "ref": "urme",
+        "group": "Baza"
+      },
+      {
+        "raw": "60gr suvih kajsija",
+        "qty": 60,
+        "unit": "gr",
+        "ref": "kajsija",
+        "group": "Baza"
+      },
+      {
+        "raw": "40gr suvih smokava",
+        "qty": 40,
+        "unit": "gr",
+        "ref": "smokva",
+        "group": "Baza"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet",
+        "group": "Baza"
+      },
+      {
+        "raw": "30gr kokosa",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "kokos",
+        "group": "Baza"
+      },
+      {
+        "raw": "30gr suvog grožđa",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "suvo-grozdje",
+        "group": "Baza"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Baza"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Krem"
+      },
+      {
+        "raw": "250gr sirovog indijskog oraha",
+        "qty": 250,
+        "unit": "gr",
+        "ref": "indijski-orah",
+        "group": "Krem"
+      },
+      {
+        "raw": "Sok od pola limuna",
+        "qty": 0.5,
+        "unit": "komad",
+        "ref": "limun",
+        "group": "Krem"
+      },
+      {
+        "raw": "2 supene kašike meda",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Krem"
+      }
+    ],
+    "method": "Bademe i lešnike usitniti u multipraktiku na strukturu brašna pa presuti u veliku činiju. Šargarepe, otkoštene urme, suve kajsije i smokve usitniti u multipraktiku pa dodati u činiju. Dodati još i cimet, kokos, grožđe i kokosovo ulje i dobro promešati. Ovu smesu stavljati i utisnuti prstima na dno modli za mafine pa prebaciti u zamrzivač da se stegne dok pripremate krem.\n\nU multipraktik sipati kokosovo ulje, proceđene indijske orahe, sok od limuna i med pa blendajte do kremaste strukture. Ulijte krem preko baze pa smestite u frižider na 3h da se stegne.",
+    "tips": [],
+    "subtitle": "Slatkiš sa najslađim povrćem",
+    "timeNote": "30 minuta + 3h hlađenja u frižideru",
+    "servings": 23,
+    "nutrition": {
+      "kcal": 152,
+      "carbs": 14.2,
+      "fat": 11.4,
+      "protein": 4,
+      "fiber": 1.6
+    }
+  },
+  {
+    "id": "i2-ledeni-sladoled",
+    "title": "Ledeni sladoled",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 80,
+      "page": "R",
+      "printed": 163
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "2 šake jagoda",
+        "qty": 2,
+        "unit": "šaka",
+        "ref": "jagoda",
+        "group": "Crveni"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun",
+        "group": "Crveni"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Crveni"
+      },
+      {
+        "raw": "2 breskve",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "breskva",
+        "group": "Crveni"
+      },
+      {
+        "raw": "2 supene kašike soka od limuna",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "limun",
+        "group": "Žuti"
+      },
+      {
+        "raw": "5 kolutova svežeg ananasa",
+        "qty": 5,
+        "unit": "kolut",
+        "ref": "ananas",
+        "group": "Žuti"
+      },
+      {
+        "raw": "2 ceđene narandže",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "narandza",
+        "group": "Žuti"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Zeleni"
+      },
+      {
+        "raw": "2 sveža oljuštena krastavca",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "krastavac",
+        "group": "Zeleni"
+      },
+      {
+        "raw": "Šaka sveže nane",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "nana",
+        "group": "Zeleni"
+      },
+      {
+        "raw": "Sok 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun",
+        "group": "Zeleni"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu i uliti u kalupe za sladoled. Smestiti u zamrzivač dok se ne stegne.",
+    "tips": [],
+    "subtitle": "Pun vitamina, bez aditiva",
+    "timeMinutes": 5
+  }
+]

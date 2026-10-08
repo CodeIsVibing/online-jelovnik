@@ -1,0 +1,197 @@
+[
+  {
+    "id": "i2-brauni",
+    "title": "Brauni",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 85,
+      "page": "L",
+      "printed": 172
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna",
+      "vegan"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "15 svežih otkoštenih urmi",
+        "qty": 15,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "2 manje oljuštene jabuke",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "2 supene kašike putera od lešnika (ili putera po želji)",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "1 kašičica jabukovog sirćeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "jabukovo-sirce"
+      },
+      {
+        "raw": "3 kašičice mlevenog lana",
+        "qty": 3,
+        "unit": "kašičica",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "50gr mlevenih oraha",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "70gr brašna po želji",
+        "qty": 70,
+        "unit": "gr",
+        "ref": "brasno"
+      },
+      {
+        "raw": "5 supenih kašika kakao praha",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "½ kašičice sode bikarbone",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi, oljuštiti jabuke. Ubaciti u multipraktik urme, jabuke, puter i jabukovo sirće. Samleti lan i orahe, presuti u činiju, dodati brašno, kakao, sodu bikarbonu i so i dobro promešati. U to dodati izblendanu smesu i još jednom dobro promešati. Pleh veličine oko 20x20cm obložiti pek papirom (i ivice pleha), uliti smesu i peći 30 minuta na 170 stepeni.",
+    "tips": [],
+    "subtitle": "Zaslađen urmama i jabukama",
+    "timeMinutes": 40,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 207,
+      "carbs": 28,
+      "fat": 9.9,
+      "protein": 5.2,
+      "fiber": 4.5
+    }
+  },
+  {
+    "id": "i2-vocna-supa",
+    "title": "Voćna supa",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 85,
+      "page": "R",
+      "printed": 173
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1l nezaslađenog biljnog mleka",
+        "qty": 1,
+        "unit": "l",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "2 supene kašike tapioke",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "tapioka"
+      },
+      {
+        "raw": "1 štapić cimeta",
+        "qty": 1,
+        "unit": "štap",
+        "ref": "cimet"
+      },
+      {
+        "raw": "Prstohvat kurkume",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "Prstohvat vanile u prahu/nekoliko kapi esencijalnog ulja vanile/1 kašičica vanila ekstrakta",
+        "ref": "vanila"
+      },
+      {
+        "raw": "1 oljuštena narandža",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "narandza"
+      },
+      {
+        "raw": "1 oljuštena slatka jabuka",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "1 oljuštena kruška",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "kruska"
+      },
+      {
+        "raw": "150gr grožđa",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "grozdje"
+      },
+      {
+        "raw": "150gr borovnica",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "borovnica"
+      },
+      {
+        "raw": "150 gr malina",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "malina"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana"
+      },
+      {
+        "raw": "5 supenih kašika meda",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "med"
+      }
+    ],
+    "method": "U veću šerpu ubaciti mleko, tapioku, cimet, kurkumu i vanilu, zagrejati do ključanja, otklopljeno da se krčka do 10 minuta. Oljuštiti narandžu, jabuku i krušku i iseći na kockice veličine zalogaja. Skloniti sa ringle, ubaciti voće i promešati.\n\nOstaviti da se prohladi, prebaciti u frižider da se ohladi skroz. Dodati seckanu bananu i med i promešati.",
+    "tips": [],
+    "subtitle": "Kremasta i slatka",
+    "timeMinutes": 20,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 310,
+      "carbs": 72.3,
+      "fat": 3.3,
+      "protein": 3,
+      "fiber": 9.1
+    }
+  }
+]

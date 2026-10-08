@@ -1,0 +1,145 @@
+[
+  {
+    "id": "i2-krambl",
+    "title": "Krambl",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 86,
+      "page": "L",
+      "printed": 174
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "3 breskve",
+        "qty": 3,
+        "unit": "komad",
+        "ref": "breskva"
+      },
+      {
+        "raw": "300gr kupina",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "kupina"
+      },
+      {
+        "raw": "Šaka krupno seckanih oraha",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "orah"
+      },
+      {
+        "raw": "2 supene kašike kokosa",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "200gr mlevenih badema",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "10 otkoštenih svežih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "4 supenih kašika kokosovog ulja",
+        "qty": 4,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "150gr ovsenih pahuljica",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      }
+    ],
+    "method": "Iseći breskve. U pleh veličine oko 20x30cm na dno staviti breskve i kupine. Orahe iseckati na krupno, pa posuti preko voća, zatim posuti i kokos. U blenderu samleti bademe, izvaditi koštice iz urmi, iseckati ih nožem.\n\nU činiju ubaciti mlevene bademe, seckane urme, kokosovo ulje, ovsene pahuljice i cimet pa dobro promešati. Smesu presuti preko kokosa u pleh i izravnati. Peći na 180 stepeni oko 35 minuta.",
+    "tips": [],
+    "subtitle": "Breskve, kupine i orasi",
+    "timeMinutes": 45,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 482,
+      "carbs": 49.8,
+      "fat": 30.8,
+      "protein": 12.7,
+      "fiber": 11.2
+    }
+  },
+  {
+    "id": "i2-ledeni-tropski-puding",
+    "title": "Ledeni tropski puding",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 86,
+      "page": "R",
+      "printed": 175
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1 zaleđena tikvica (prethodno isečena na kocke)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "tikvica"
+      },
+      {
+        "raw": "1 zaleđen avokado (prethodno isečen na kocke)",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "avokado"
+      },
+      {
+        "raw": "1 svež mango",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "mango"
+      },
+      {
+        "raw": "1 svež ananas",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "ananas"
+      }
+    ],
+    "method": "Sve sastojke izblendati u multipraktiku do kremaste strukture i poslužiti sa dodacima po želji.",
+    "tips": [],
+    "subtitle": "Ananas, mango, avokado i tikvica",
+    "timeMinutes": 10,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 224,
+      "carbs": 44.8,
+      "fat": 6.3,
+      "protein": 3.6,
+      "fiber": 7.5
+    }
+  }
+]

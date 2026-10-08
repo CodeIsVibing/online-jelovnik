@@ -1,0 +1,128 @@
+[
+  {
+    "id": "i2-sir-bez-aditiva",
+    "title": "Sir bez aditiva",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 94,
+      "page": "L",
+      "printed": 190
+    },
+    "tags": [
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "1l punomasnog mleka",
+        "qty": 1,
+        "unit": "l",
+        "ref": "mleko"
+      },
+      {
+        "raw": "2 umućena jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "200ml jogurta",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "jogurt"
+      },
+      {
+        "raw": "2 ravne supene kašike himalajske soli",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "so"
+      }
+    ],
+    "method": "U šerpu sipati mleko, zagrejati do ključanja. U činiji umutiti jaja, dodati jogurt i so i dobro promešati. Dodati u mleko koje vri uz redovno mešanje dok se surutka ne odvoji i pojave veće grudvice. Nad većom činijom staviti cediljku, raširiti gazu i usuti sve iz šerpe, procediti i istisnuti višak tečnosti iz sira. Zavrnuti gazu dobro i formirati oblik sira. Ostaviti da se skroz procedi i ohladi.",
+    "tips": [],
+    "subtitle": "Starinski domaći recept sira sa jajima",
+    "timeNote": "15 min + vreme hlađenja",
+    "servings": 8,
+    "nutrition": {
+      "kcal": 96,
+      "carbs": 6.9,
+      "fat": 5.1,
+      "protein": 5.5,
+      "fiber": 0.4
+    },
+    "equipment": [
+      "Gaza"
+    ]
+  },
+  {
+    "id": "i2-zapeceni-krutoni",
+    "title": "Zapečeni krutoni",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 94,
+      "page": "R",
+      "printed": 191
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-kvasca",
+      "bez-belog-brasna"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200gr hleba po želji (recepti u delu \"Hleb, peciva i grickalice\")",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "hleb"
+      },
+      {
+        "raw": "5 supenih kašika maslinovog ulja",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "1 kašičica belog luka u prahu",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "1 kašičica italijanske mešavine začina",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "italijanski-zacin"
+      },
+      {
+        "raw": "½ kašičice himalajske soli",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice bibera",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "biber"
+      }
+    ],
+    "method": "Iseckati hleb na kockice veličine oko 2cm i ubaciti u veću činiju. Dodati maslinovo ulje i začine i sve dobro promešati. Ubaciti u pleh obložen pek papirom i rasporediti ih da budu u jednom nivou. Peći na 180 stepeni 10 minuta, zatim isključiti rernu i ostaviti još 5 minuta u rerni. Izvaditi i sačekati da se prohladi.",
+    "tips": [],
+    "subtitle": "Dodatak za salate ili kao samostalna grickalica",
+    "timeMinutes": 20,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 173,
+      "carbs": 11.8,
+      "fat": 13.5,
+      "protein": 7.1,
+      "fiber": 0
+    }
+  }
+]

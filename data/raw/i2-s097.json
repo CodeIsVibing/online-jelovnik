@@ -1,0 +1,114 @@
+[
+  {
+    "id": "i2-univerzalna-kora-za-torte",
+    "title": "Univerzalna kora za torte",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 97,
+      "page": "L",
+      "printed": 196
+    },
+    "tags": [
+      "bez-secera",
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Nutritivne vrednosti su za celu koru."
+    ],
+    "ingredients": [
+      {
+        "raw": "200gr pirinčanog brašna",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "pirincano-brasno"
+      },
+      {
+        "raw": "200gr speltinog mekog brašna",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "speltino-brasno"
+      },
+      {
+        "raw": "1 kašičica sode bikarbone",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "2 jajeta",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "jaja"
+      },
+      {
+        "raw": "500ml nezaslađenog biljnog mleka",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "biljno-mleko"
+      },
+      {
+        "raw": "5 supenih kašika kokosovog ulja",
+        "qty": 5,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "10 svežih otkoštenih urmi",
+        "qty": 10,
+        "unit": "komad",
+        "ref": "urme"
+      }
+    ],
+    "method": "U činiji pomešati brašno i sodu bikarbonu. Izvaditi koštice iz urmi. U multipraktik ubaciti jaja, biljno mleko, kokosovo ulje i urme i blendati dok se urme ne usitne. Uliti u činiju sa suvom smesom i sve dobro promešati. U veliki pleh obložen pek papirom uliti smesu i peći oko 20 minuta na 200 stepeni, dok ne porumeni.",
+    "tips": [],
+    "subtitle": "Bez šećera",
+    "timeMinutes": 30,
+    "nutrition": {
+      "kcal": 2028,
+      "carbs": 360.5,
+      "fat": 45.4,
+      "protein": 57,
+      "fiber": 27
+    }
+  },
+  {
+    "id": "i2-aromatizovana-voda",
+    "title": "Aromatizovana voda",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "napravi-sam",
+    "source": {
+      "scan": 97,
+      "page": "R",
+      "printed": 197
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "Voće po želji (borovnice, maline, ribizle...)",
+        "ref": "bobicasto-voce"
+      },
+      {
+        "raw": "Sveže bilje po želji (nana, matičnjak, bosiljak...)",
+        "ref": "sveze-bilje"
+      },
+      {
+        "raw": "Sok od limuna (opciono)",
+        "ref": "limun",
+        "optional": true
+      }
+    ],
+    "method": "U modlu za led ubaciti voće i seckano bilje, preliti vodom i zamrznuti. Po želji možete dodati i po par kapi limuna u svaku kockicu.",
+    "tips": [],
+    "subtitle": "Letnje osveženje",
+    "timeMinutes": 5
+  }
+]

@@ -54,3 +54,9 @@ Strana 128. Proteini su odštampani kao „1,g P", pa na sajtu nisu prikazani. �
 
 ### Puter štanglice sa sirom
 Strana 148. Vlakna su odštampana bez broja („g vlakna"), pa na sajtu nisu prikazana.
+
+### Klafuti sa višnjama
+Strana 171. Postupak kaže „peći oko 30 do 40 stepeni". Na sajtu stoji „30 do 40 minuta", kao očigledna štamparska greška. Potvrditi.
+
+### Zimski praznični napitak
+Strana 180. Traka nosi i „sirovo", „ljuto" i „priprema veče ranije", a napitak se kuva, nema ljutog sastojka i ništa se ne potapa. Na sajtu te tri oznake nisu prenete.

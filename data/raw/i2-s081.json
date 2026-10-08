@@ -1,0 +1,112 @@
+[
+  {
+    "id": "i2-brzi-dezert",
+    "title": "Brzi dezert",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 81,
+      "page": "L",
+      "printed": 164
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "200gr miks po želji orašastih plodova i semenki (orasi, bademi, lešnici, suncokret...)",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "orasasti-plodovi"
+      },
+      {
+        "raw": "20 otkoštenih svežih urmi",
+        "qty": 20,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "1 supena kašika kakao praha",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "2 supene kašike kokosovog ulja",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "Smrznuto ili sveže voće po želji",
+        "ref": "voce"
+      },
+      {
+        "raw": "Jogurt za prelivanje",
+        "ref": "jogurt"
+      }
+    ],
+    "method": "Orašaste plodove i semenke ubaciti u multipraktik i usitniti. Izvaditi koštice iz urmi, dodati ih u multipraktik, zatim kakao i kokosovo ulje. Sve još jednom izblendati. Presuti u činije, odgore staviti voće i preliti jogurtom.",
+    "tips": [],
+    "subtitle": "Za nenajavljene goste",
+    "timeMinutes": 15,
+    "servings": 8,
+    "nutrition": {
+      "kcal": 236,
+      "carbs": 20.7,
+      "fat": 16.5,
+      "protein": 5.8,
+      "fiber": 3.5
+    }
+  },
+  {
+    "id": "i2-karamel-jabuke",
+    "title": "Karamel jabuke",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 81,
+      "page": "R",
+      "printed": 165
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "4 slatke manje oljuštene jabuke",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "jabuka"
+      },
+      {
+        "raw": "Pasta od urmi (str. 113)",
+        "ref": "urme"
+      },
+      {
+        "raw": "Dodaci po želji (kokos, mleveni lešnici, bademi, orasi, suvo grožđe...)",
+        "ref": "orasasti-plodovi",
+        "optional": true
+      }
+    ],
+    "method": "Oljuštiti jabuke, probosti štapiće kroz jabuke, uvaljati ih u pastu od urmi i posuti dodacima.",
+    "tips": [],
+    "subtitle": "Jabuke u pasti od urmi sa dodacima",
+    "timeMinutes": 5,
+    "servings": 4,
+    "seeAlso": [
+      "i2-pasta-od-urmi"
+    ],
+    "equipment": [
+      "Drveni štapići"
+    ]
+  }
+]

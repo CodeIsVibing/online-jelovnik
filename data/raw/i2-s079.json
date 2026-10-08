@@ -1,0 +1,178 @@
+[
+  {
+    "id": "i2-kokos-lesnik-energetske-loptice",
+    "title": "Kokos lešnik energetske loptice",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 79,
+      "page": "L",
+      "printed": 160
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "sirovo"
+    ],
+    "notes": [
+      "Od ove količine dobije se oko 12 kuglica, u zavisnosti od veličine kuglica koje pravite."
+    ],
+    "ingredients": [
+      {
+        "raw": "150gr putera od lešnika",
+        "qty": 150,
+        "unit": "gr",
+        "ref": "puter-od-orasastih"
+      },
+      {
+        "raw": "1 supena kašika kokosovog ulja",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 supena kašika meda",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "med"
+      },
+      {
+        "raw": "½ kašičice cimeta",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "50gr kokosovog brašna",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "kokosovo-brasno"
+      },
+      {
+        "raw": "30gr usitnjenih ovsenih pahuljica",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "ovsene-pahuljice"
+      }
+    ],
+    "method": "Puter od lešnika i kokosovo ulje na niskoj temperaturi rastopiti u šerpici. Skloniti sa ringle. U blenderu usitniti ovsene pahuljice i dodati ih u šerpu pa promešati. Dodati još i med, cimet i kokosovo brašno i još jednom dobro promešati. Oblikovati smesu u kuglice.",
+    "tips": [],
+    "subtitle": "Brze kuglice za dodatnu energiju",
+    "timeMinutes": 15,
+    "servings": 4,
+    "nutrition": {
+      "kcal": 363,
+      "carbs": 17,
+      "fat": 26.7,
+      "protein": 8.4,
+      "fiber": 0.6
+    }
+  },
+  {
+    "id": "i2-rupa-od-krofne",
+    "title": "Rupa od krofne",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 79,
+      "page": "R",
+      "printed": 161
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Od ove količine dobije se oko 7 do 8 kuglica."
+    ],
+    "ingredients": [
+      {
+        "raw": "1 supena kašika mlevenog lana",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "lanene-semenke"
+      },
+      {
+        "raw": "2,5 supene kašike vruće vode",
+        "qty": 2.5,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "90gr mlevenih badema",
+        "qty": 90,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "4 sveže otkoštene urme",
+        "qty": 4,
+        "unit": "komad",
+        "ref": "urme"
+      },
+      {
+        "raw": "50ml kokosovog ulja",
+        "qty": 50,
+        "unit": "ml",
+        "ref": "kokosovo-ulje"
+      },
+      {
+        "raw": "1 kašičica cimeta",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "cimet"
+      },
+      {
+        "raw": "Prstohvat himalajske soli",
+        "ref": "so"
+      },
+      {
+        "raw": "¼ kašičice sode bikarbone",
+        "qty": 0.25,
+        "unit": "kašičica",
+        "ref": "soda-bikarbona"
+      },
+      {
+        "raw": "2 supene kašike kokosa",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kokos"
+      },
+      {
+        "raw": "1 do 2 supene kašike vode",
+        "qty": 1,
+        "unit": "supena kašika",
+        "ref": "voda"
+      },
+      {
+        "raw": "3 supene kašike meda",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "med",
+        "group": "Preliv"
+      },
+      {
+        "raw": "2 ravne kašičice cimeta",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "cimet",
+        "group": "Preliv"
+      }
+    ],
+    "method": "Samleti lan pa pomešati sa vodom i ostaviti da odstoji 5 minuta. Bademe samleti u multipraktiku na strukturu brašna. Izvaditi koštice iz urmi, dodati ih u multipraktik, zatim kokosovo ulje, cimet, so, sodu bikarbonu, kokos i 1 kašiku vode. Blendati dok se sastojci ne sjedine, ukoliko je potrebno dodati još 1 kašiku vode.\n\nOd smese formirati kuglice, poređati ih na pleh prethodno obložen pek papirom i peći na 180 stepeni 10 minuta. Pomešati med i cimet i preliti preko prohlađenih kuglica.",
+    "tips": [],
+    "subtitle": "Lan, bademi i cimet",
+    "timeMinutes": 25,
+    "servings": 6,
+    "nutrition": {
+      "kcal": 229,
+      "carbs": 18.9,
+      "fat": 16.9,
+      "protein": 4,
+      "fiber": 3.2
+    }
+  }
+]

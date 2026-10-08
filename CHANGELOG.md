@@ -2,6 +2,18 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.23.0] · 2026-10-08
+
+### Dodato
+- Imunomania 2: poglavlje Slatko, svih 30 recepata (strane 152 do 181)
+- Imunomania 2: poglavlje Napravi sam, svih 15 recepata (strane 184 do 198), od vegan parmezana do sportskog napitka
+- Svi recepti iz knjige 2 su uneti: 155 jela u osam poglavlja. Sajt ukupno ima 400 jela i 39 saveta
+- Recepti koji se pozivaju na drugi recept iz knjige (pasta od urmi, pire od bundeve, čokoladni puding) imaju link „Vidi i"
+- Novi sastojci: ovseno i pirinčano brašno, speltin griz, muskatni orašćić, grožđe, brusnica, anis, kravlje mleko, sveže bilje
+
+### Za autorku
+- U `TODO.md`: ikonice „Zimskog prazničnog napitka" koje se ne slažu sa receptom i „30 do 40 stepeni" u „Klafutiju sa višnjama", na sajtu ispravljeno u minute
+
 ## [1.22.0] · 2026-10-08
 
 ### Dodato
