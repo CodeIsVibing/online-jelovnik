@@ -674,7 +674,11 @@
         if (it.optional || basicIds.has(it.ref)) continue;
         if (!need.has(it.ref)) need.set(it.ref, { units: new Map(), loose: 0, dishes: new Set() });
         const n = need.get(it.ref);
-        if (it.qty != null) n.units.set(it.unit || "", (n.units.get(it.unit || "") || 0) + it.qty);
+        if (it.qty != null) {
+          // kg i l se svode na gr i ml, da se ista namirnica sabere u jedan broj
+          const [u, k] = BASE_UNIT[it.unit] || [it.unit || "", 1];
+          n.units.set(u, (n.units.get(u) || 0) + it.qty * k);
+        }
         else n.loose++;
         n.dishes.add(r.title);
       }
@@ -682,8 +686,16 @@
     return need;
   }
 
+  const BASE_UNIT = { kg: ["gr", 1000], g: ["gr", 1], l: ["ml", 1000] };
+  // 1500 gr se čita lakše kao 1,5 kg
+  const bigUnit = (u, q) => q >= 1000 && (u === "gr" || u === "ml")
+    ? [u === "gr" ? "kg" : "l", q / 1000] : [u, q];
+
   const amountText = n => {
-    const parts = [...n.units].map(([u, q]) => `${fmtNum(q)}${u ? " " + unitLabel(u, q) : ""}`);
+    const parts = [...n.units].map(([u0, q0]) => {
+      const [u, q] = bigUnit(u0, q0);
+      return `${fmtNum(q)}${u ? " " + unitLabel(u, q) : ""}`;
+    });
     if (n.loose) parts.push("po receptu");
     return parts.join(" + ");
   };

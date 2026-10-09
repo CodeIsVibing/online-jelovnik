@@ -2,6 +2,13 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.23.1] · 2026-10-09
+
+### Ispravljeno
+- Kontrast u dizajnu „Knjiga": sivi tekst (napomene, nazivi grupa, broj rezultata, podnožje) potamnjen je sa 3,4:1 na 5,4:1, a dugmad sa belim slovom na zelenoj („Otvori", „Dodaj u plan", brojači) sa 3,5:1 na 5,6:1. Sve prolazi WCAG AA
+- Dugmad „Prethodno" i „Sledeće" na dnu popupa čitaču ekrana izgovaraju ono što piše na njima, sa nazivom susednog jela
+- Spisak za kupovinu sabira kilograme sa gramima i litre sa mililitrima, pa paradajz iz tri recepta piše „3,5 kg", ne „1,5 kg + 2 kg"
+
 ## [1.23.0] · 2026-10-08
 
 ### Dodato
