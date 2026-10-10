@@ -2,6 +2,11 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.25.1] · 2026-10-10
+
+### Promenjeno
+- Kartica koja se prikazuje kad se link pošalje preko WhatsApp-a, Vibera i sličnih aplikacija ima novi tekst: 409 recepata iz tri kuvara, pretraga po sastojcima, lični plan ishrane i spisak za kupovinu. Ranije je pisalo 145 recepata. Adresa slike dobila je oznaku verzije, pa aplikacije učitavaju novu sliku
+
 ## [1.25.0] · 2026-10-10
 
 ### Promenjeno
