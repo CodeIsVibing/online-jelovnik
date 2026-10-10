@@ -2,6 +2,11 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.25.2] · 2026-10-10
+
+### Dokumentacija
+- `data/pitanja-za-autorku.md` dobio je odeljak sa 13 otvorenih pitanja za autorku, sa knjigom i stranom uz svako, spreman za slanje
+
 ## [1.25.1] · 2026-10-10
 
 ### Promenjeno
