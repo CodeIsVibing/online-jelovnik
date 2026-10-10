@@ -1,0 +1,139 @@
+[
+  {
+    "id": "i2-imuno-eliksir-iz-blendera",
+    "title": "Imuno eliksir iz blendera",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 106,
+      "page": "L",
+      "printed": 214
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 čen belog luka (narendan)",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "oko 2cm svežeg korena đumbira (narendan)",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "1 kašičica kurkume",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      },
+      {
+        "raw": "prstohvat mlevene ljute paprike",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "prstohvat bibera",
+        "ref": "biber"
+      },
+      {
+        "raw": "½ kašičice maslinovog ulja (ili kokosovog)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "250ml vruće vode",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu oko 30 sekundi.",
+    "tips": [],
+    "subtitle": "Brz napitak za imunitet",
+    "timeMinutes": 5,
+    "servings": 1
+  },
+  {
+    "id": "i2-bol-u-grlu",
+    "title": "Bol u grlu",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 106,
+      "page": "R",
+      "printed": 215
+    },
+    "tags": [],
+    "notes": [
+      "Đumbir: preporučena dnevna količina je 4gr po osobi, za trudnice 1gr. Ne preporučuje se deci ispod 2 godine ni osobama koje koriste lekove za razređivanje krvi (antikoagulansi)."
+    ],
+    "ingredients": [
+      {
+        "raw": "Svež koren đumbira",
+        "ref": "dumbir",
+        "group": "Pastile od đumbira"
+      },
+      {
+        "raw": "2 kašičice čaja od žalfije",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "zalfija",
+        "group": "Čaj od žalfije"
+      },
+      {
+        "raw": "200ml ključale vode",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Čaj od žalfije"
+      },
+      {
+        "raw": "2cm svežeg korena đumbira",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "dumbir",
+        "group": "Čaj od đumbira, limuna i meda"
+      },
+      {
+        "raw": "Sok 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun",
+        "group": "Čaj od đumbira, limuna i meda"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med",
+        "group": "Čaj od đumbira, limuna i meda"
+      },
+      {
+        "raw": "Ključala voda",
+        "ref": "voda",
+        "group": "Čaj od đumbira, limuna i meda"
+      }
+    ],
+    "method": "Pastile od đumbira: oljuštiti svež koren đumbira, iseći na kolutiće veličine pastile i lagano grickati i topiti u ustima. Ono što Vam ostane možete da stavite u kesice i da zamrznete. Kada Vam je ponovo potrebno, izvadite iz kesice i možete da koristite nakon nekoliko minuta.\n\nČaj od žalfije: 2 kašičice čaja od žalfije preliti sa 200ml ključale vode, poklopiti, ostaviti 5 min i procediti. Čaj se grgoće po ustima i grlu, pa se ispljune sadržaj.\n\nČaj od đumbira, limuna i meda: oljuštiti i narendati đumbir i staviti u šolju, preliti ključalom vodom, dodati sok od limuna i med. Piti čaj dok je vruć. Iako se deo benefita limuna i meda izgubi pod uticajem vruće vode, ovaj način je veoma delotvoran protiv bola u grlu.",
+    "tips": [],
+    "subtitle": "Efikasne prirodne metode protiv bola u grlu"
+  }
+]

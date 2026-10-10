@@ -1,33 +1,12 @@
 # Za autorku
 
-Prvi deo su strane koje treba ponovo skenirati iz knjige „Imunomania 2, Korak dalje". Drugi deo beleži odgovore autorke.
+Prvi deo beleži stanje skenova knjige „Imunomania 2, Korak dalje". Drugi deo beleži odgovore autorke.
 
-## 1. Strane koje treba ponovo skenirati
+## 1. Skenovi
 
-### Skenirane u manjoj rezoluciji
-
-Ovih 26 strana skenirano je na 626 px širine, dok je ostatak knjige na 1669 px. Slova u tekstu
-su mutna i prepis sa njih ne bi bio pouzdan. To je baš uvodni deo knjige, onaj sa objašnjenjima
-o metabolizmu, hranljivim materijama i vitaminima.
-
-| Strane | Šta je na njima |
-|---|---|
-| 8, 9 | Oprema, Spisak namirnica za kupovinu |
-| 12 do 19 | Metabolizam, Ugljeni hidrati, Proteini, Masti, Vlakna |
-| 20 do 27 | Vitamini, Minerali |
-| 28 do 35 | Početak dela Doručak / večera |
-
-Strane 6, 7, 10 i 11 su u redu, one su stigle kao PDF u većoj rezoluciji od ostatka knjige.
-
-### Strane koje uopšte nisu skenirane
-
-Strane 1 do 5. Prvi sken počinje od strane 6, pa nedostaje početak knjige, verovatno naslovna
-strana i sadržaj.
-
-### Napomena
-
-Sken broj 16 je ponovljeni sken strana 34 i 35. Te dve strane svejedno ulaze u spisak gore,
-jer je i ponovljeni sken ispod rezolucije ostatka knjige.
+Nov sken više nije potreban. Na sajt idu samo recepti, a fotografije poslate 2026-10-10 pokrivaju
+strane 1 do 35 druge knjige. Recepti sa strana 30 do 35 provereni su na njima i poklapaju se sa unetim.
+Ostale strane iz tog dela su sadržaj, oprema, spisak za kupovinu i članci, bez recepata.
 
 ## 2. Odgovori autorke
 

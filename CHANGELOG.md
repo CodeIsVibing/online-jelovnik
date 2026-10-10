@@ -2,6 +2,21 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.24.0] · 2026-10-10
+
+### Dodato
+- Imunomania 2, poglavlje Imunitet: 13 recepata i saveta sa strana 209 do 218. Tu su štek od 2 kg čokoladica (u poglavlju Slatko), Imuno bomb kids, Mala ljuta, Imuno eliksir, Bol u grlu, Beli luk, dve čajne mešavine, napici protiv kašlja i dva saveta za noćni kašalj (u poglavlju Saveti, sirupi i čajevi)
+- Novi sastojci: koren belog sleza, vranilova trava, list medvetke
+
+### Izostavljeno namerno
+- Propolis u spreju i kupovni sprej za grlo sa strane 215, jer su gotovi proizvodi, a ne recepti
+
+### Provereno
+- Nove fotografije strana 1 do 35 knjige 2: recepti sa strana 30 do 35 poklapaju se sa unetim, ostale strane nemaju recepte. Spisak za ponovno skeniranje je zatvoren
+
+### Bezbednost
+- Repo je ponovo napravljen sa istorijom iz koje su uklonjeni skenovi knjiga 2 i 3. Stari linkovi na skenove i stari commitovi vraćaju 404
+
 ## [1.23.1] · 2026-10-09
 
 ### Ispravljeno

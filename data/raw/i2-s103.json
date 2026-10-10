@@ -1,0 +1,87 @@
+[
+  {
+    "id": "i2-stek-od-2kg-cokoladica",
+    "title": "Recept za štek od 2kg čokoladica",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 103,
+      "page": "R",
+      "printed": 209
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo",
+      "bez-belog-brasna"
+    ],
+    "notes": [
+      "Kako bi vaša tranzicija i odvikavanje od šećera bila lakša, i kako ne biste poklekli i uzeli neki industrijski slatkiš, bitno je da sebi napravite ovaj štek koji možete držati u frižideru do 5 dana, a deo zamrznuti. Ove čokoladice jesu zdrave, ali ih jedite umereno (1-2 dnevno) jer ni u čemu ne treba preterivati, a sadrže i dosta kalorija.",
+      "Dodaci neka budu po vašoj želji i ukusu. Igrajte se sastojcima, ne možete pogrešiti. Bitno je samo da smesa bude lepljiva i da može da se oblikuje, zato postepeno dodajte sastojke.",
+      "Od ove količine dobije se oko 2 do 2.5kg čokoladica, u zavisnosti od količine dodataka bazi."
+    ],
+    "ingredients": [
+      {
+        "raw": "Oko 1 kg svežih otkoštenih urmi",
+        "qty": 1,
+        "unit": "kg",
+        "ref": "urme",
+        "group": "Baza"
+      },
+      {
+        "raw": "3 supene kašike kakao praha (može i rogač)",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kakao",
+        "group": "Baza"
+      },
+      {
+        "raw": "3 supene kašike kokosovog ulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Baza"
+      },
+      {
+        "raw": "300gr mlevenih pečenih lešnika",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "lesnik",
+        "group": "Dodaci, 1. deo"
+      },
+      {
+        "raw": "3 supene kašike kokosovih mrvica",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokos",
+        "group": "Dodaci, 1. deo"
+      },
+      {
+        "raw": "300gr mlevenih pečenih badema",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "badem",
+        "group": "Dodaci, 2. deo"
+      },
+      {
+        "raw": "3 supene kašike kokosovih mrvica",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokos",
+        "group": "Dodaci, 2. deo"
+      },
+      {
+        "raw": "200gr kokosovih mrvica",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "kokos",
+        "group": "Dodaci, 3. deo"
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi i potopiti u vodu 30 min. U multipraktiku samleti lešnike, zatim bademe na što sitnije. Procediti urme, pa u multipraktiku napraviti bazu: izblendati urme, kakao prah i kokosovo ulje do kremaste strukture. Podeliti bazu na 3 (ili 4 dela) i u svaki deo dodati dodatke po želji. Smesa treba da bude kompaktna i lepljiva pomalo. Smese presuti u činije obložene pek papirom, utisnuti prstima i izravnati, pa na kratko u zamrzivač da se stegne. Iseći na željene oblike i veličine i smestiti u frižider.",
+    "tips": [],
+    "timeMinutes": 30
+  }
+]

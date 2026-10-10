@@ -1,0 +1,155 @@
+[
+  {
+    "id": "i2-imuno-bomb-kids",
+    "title": "Imuno bomb kids",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 105,
+      "page": "L",
+      "printed": 212
+    },
+    "tags": [
+      "sirovo",
+      "bez-glutena"
+    ],
+    "notes": [
+      "Deca: 1 supena kašika ujutru ili 1 kašičica ujutru + 1 kašičica uveče. Odrasli: 1 supena kašika ujutru + 1 supena kašika uveče.",
+      "Od ove količine dobije se smesa od oko 1kg."
+    ],
+    "ingredients": [
+      {
+        "raw": "5 brazilskih oraha",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "brazilski-orah"
+      },
+      {
+        "raw": "50 gr oraha",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "50 gr sirovih bundevinih semenki",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "50 gr lešnika",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "lesnik"
+      },
+      {
+        "raw": "50 gr sirovih badema",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "2 supene kašike semena koprive",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kopriva"
+      },
+      {
+        "raw": "2 supene kašike kakaa",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "2 supene kašike rogača",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "rogac"
+      },
+      {
+        "raw": "5 suvih šljiva",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "sljiva"
+      },
+      {
+        "raw": "5 suvih smokvi",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "smokva"
+      },
+      {
+        "raw": "500gr meda",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike putera od suncokreta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "puter-od-suncokreta"
+      }
+    ],
+    "method": "Brazilske orahe, orahe, bundevine semenke, lešnike, bademe, koprive, kakao i rogač usitniti u multipraktiku. Dodati suve šljive i smokve, zatim i njih usitniti. U veliku činiju sipati med i puter od suncokreta, promešati i u tu smesu dodati usitnjenu smesu iz multipraktika. Dobro promešati i presuti u staklene tegle. Držati u frižideru.",
+    "tips": [],
+    "subtitle": "Za jaku krvnu sliku i probavu",
+    "timeMinutes": 10
+  },
+  {
+    "id": "i2-mala-ljuta",
+    "title": "Mala ljuta",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 105,
+      "page": "R",
+      "printed": 213
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "sirovo",
+      "ljuto"
+    ],
+    "notes": [
+      "Od ove količine sastojaka dobije se oko 2l napitka.",
+      "Piti svako jutro na prazan stomak oko 30ml do 50ml.",
+      "Ukoliko imate problema sa čirevima ili gastritisom, pojesti 1 do 2 banane pre napitka.",
+      "Ukoliko pijete terapiju za razređivanje krvi, dobro je znati da je đumbir prirodan antikoagulans, stoga nemojte preterivati u količinama ovog napitka.",
+      "Čuvati u frižideru."
+    ],
+    "ingredients": [
+      {
+        "raw": "700gr svežeg oljuštenog korena đumbira",
+        "qty": 700,
+        "unit": "gr",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "15 oljuštenih limunova",
+        "qty": 15,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 kg celer štapova",
+        "qty": 1,
+        "unit": "kg",
+        "ref": "celer"
+      },
+      {
+        "raw": "2 sveže ljute paprike",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "ljuta-paprika"
+      }
+    ],
+    "method": "Oljuštiti đumbir i limun, a iz paprike izvaditi semenke i peteljku. Sve sastojke iseći na komade prihvatljive veličine za vaš sokovnik. Iscediti i sipati u staklene flaše.",
+    "tips": [],
+    "subtitle": "Napitak za dobru cirkulaciju, probavu i svež ten",
+    "timeMinutes": 30
+  }
+]

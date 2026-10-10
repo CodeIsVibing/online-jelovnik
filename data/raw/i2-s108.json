@@ -1,0 +1,37 @@
+[
+  {
+    "id": "i2-jak-kasalj-pre-spavanja",
+    "title": "Jak kašalj pre spavanja",
+    "type": "savet",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 108,
+      "page": "L",
+      "printed": 218
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Sastojci: 50gr svinjske masti (ili guščije), 2 supene kašike rakije komovice i gaza.\n\nOtopiti mast u šerpi, prohladiti i pomešati sa komovicom. Gazu natopiti smesom, obložiti grudi i leđa, prekriti peškirom i utopliti ćebetom.",
+    "subtitle": "Prva pomoć kod kašlja kasno u noć"
+  },
+  {
+    "id": "i2-teski-napadi-kaslja",
+    "title": "Teški napadi kašlja pred spavanje",
+    "type": "savet",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 108,
+      "page": "L",
+      "printed": 218
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "U ovim slučajevima može pomoći uzimanje 1/2 kašičice otopljene svinjske ili guščije masti."
+  }
+]

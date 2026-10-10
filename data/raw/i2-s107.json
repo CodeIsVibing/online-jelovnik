@@ -1,0 +1,180 @@
+[
+  {
+    "id": "i2-beli-luk",
+    "title": "Beli luk",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "L",
+      "printed": 216
+    },
+    "tags": [],
+    "notes": [
+      "Preporučena dnevna količina je 2gr do 5gr za odrasle osobe, a za decu 1gr.",
+      "Ne preporučuje se osobama koje koriste lekove za razređivanje krvi (antikoagulansi).",
+      "Osobe koje imaju niži pritisak trebaju pripaziti na količinu, i u tom slučaju najbolje je uzeti uveče pred spavanje."
+    ],
+    "ingredients": [
+      {
+        "raw": "Čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Jogurt ili voda",
+        "ref": "jogurt"
+      }
+    ],
+    "method": "Izgnječiti čen belog luka, ostaviti 15 minuta, zatim iseckati na veličinu prihvatljivu za gutanje i popiti uz jogurt kako bi se obložio želudac (da ne \"padne\" teško na želudac). Može da se pije i uz vodu.",
+    "tips": [],
+    "subtitle": "Za očuvanje i podizanje imuniteta"
+  },
+  {
+    "id": "i2-cajna-mesavina-protiv-valunga",
+    "title": "Čajna mešavina protiv valunga",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "L",
+      "printed": 216
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "vegan"
+    ],
+    "notes": [
+      "Ne preporučuje se upotreba žalfije tokom trudnoće i dojenja. Čaj od žalfije ne treba piti duže od dve nedelje zbog mogućeg ispoljavanja toksičnih efekata usled prisustva tujona.",
+      "Čaj od lista matičnjaka treba izbegavati tokom trudnoće i dojenja i kod dece mlađe od 12 godina. Aktivni sastojci matičnjaka mogu uticati na koncentraciju pa se savetuje oprez kod upravljanja mašinama."
+    ],
+    "ingredients": [
+      {
+        "raw": "100gr žalfije",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "zalfija"
+      },
+      {
+        "raw": "50gr lista matičnjaka",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "maticnjak"
+      },
+      {
+        "raw": "50gr usitnjenog ploda anisa",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "anis"
+      }
+    ],
+    "method": "Sve sastojke dobro promešati i čuvati u staklenoj tegli. 1 supenu kašiku čajne mešavine preliti ključalom vodom, poklopiti, ostaviti 45 minuta, procediti i popiti. Piti čaj 2-3 dnevno.",
+    "tips": [],
+    "subtitle": "Za umanjenje simptoma menopauze",
+    "timeMinutes": 5
+  },
+  {
+    "id": "i2-cajna-mesavina-protiv-urinarne-infekcije",
+    "title": "Čajna mešavina protiv urinarne infekcije",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "L",
+      "printed": 216
+    },
+    "tags": [],
+    "notes": [
+      "Ne preporučuje se upotreba čaja od lista medvetke tokom trudnoće i dojenja, kao ni kod dece mlađe od 12 godina."
+    ],
+    "ingredients": [
+      {
+        "raw": "100gr nadzemnog dela od divljeg origana (vranilova trava)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "vranilova-trava"
+      },
+      {
+        "raw": "100gr lista medvetke (medveđe grožđe)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "medvetka"
+      }
+    ],
+    "method": "Sastojke dobro promešati i čuvati u staklenoj tegli. 3 supene kašike čajne mešavine preliti sa 700ml ključale vode, poklopiti, ostaviti 30min, procediti i piti u manjim gutljajima u toku dana.",
+    "tips": []
+  },
+  {
+    "id": "i2-napici-protiv-kaslja",
+    "title": "Napici protiv upornog i jakog kašlja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "R",
+      "printed": 217
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "½ supene kašike korena belog sleza",
+        "qty": 0.5,
+        "unit": "supena kašika",
+        "ref": "beli-slez",
+        "group": "Beli slez i mast"
+      },
+      {
+        "raw": "400ml vode sobne temperature",
+        "qty": 400,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Beli slez i mast"
+      },
+      {
+        "raw": "30gr svinjske ili guščije masti",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "svinjska-mast",
+        "group": "Beli slez i mast"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana",
+        "group": "Banana"
+      },
+      {
+        "raw": "200 ml ključale vode",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Banana"
+      },
+      {
+        "raw": "Šaka malina (smrznute ili sveže)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina",
+        "group": "Malina"
+      },
+      {
+        "raw": "500ml vode",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Malina"
+      }
+    ],
+    "method": "Beli slez i mast: koren belog sleza staviti u manju šerpu, preliti sa vodom i kuvati 10 minuta. Prohladiti i procediti. U mlak čaj dodati svinjsku mast. Koristiti 3x dnevno po ½ supene kašike.\n\nBanana: izgnječiti bananu, preliti ključalom vodom i ostaviti pola sata. Procediti i popiti tečnost. Piti 2-3 puta dnevno do poboljšanja.\n\nMalina: u šerpu ubaciti maline, preliti vodom, kuvati 5 min, procediti. Mogu se pojesti i maline. Piti 2-3 puta dnevno do poboljšanja.",
+    "tips": [],
+    "subtitle": "Dodatna pomoć u tretiranju kašlja"
+  }
+]

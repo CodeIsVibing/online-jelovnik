@@ -20588,6 +20588,92 @@
     }
   },
   {
+    "id": "i2-stek-od-2kg-cokoladica",
+    "title": "Recept za štek od 2kg čokoladica",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "slatko",
+    "source": {
+      "scan": 103,
+      "page": "R",
+      "printed": 209
+    },
+    "tags": [
+      "vegan",
+      "bez-secera",
+      "bez-glutena",
+      "sirovo",
+      "bez-belog-brasna",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Kako bi vaša tranzicija i odvikavanje od šećera bila lakša, i kako ne biste poklekli i uzeli neki industrijski slatkiš, bitno je da sebi napravite ovaj štek koji možete držati u frižideru do 5 dana, a deo zamrznuti. Ove čokoladice jesu zdrave, ali ih jedite umereno (1-2 dnevno) jer ni u čemu ne treba preterivati, a sadrže i dosta kalorija.",
+      "Dodaci neka budu po vašoj želji i ukusu. Igrajte se sastojcima, ne možete pogrešiti. Bitno je samo da smesa bude lepljiva i da može da se oblikuje, zato postepeno dodajte sastojke.",
+      "Od ove količine dobije se oko 2 do 2.5kg čokoladica, u zavisnosti od količine dodataka bazi."
+    ],
+    "ingredients": [
+      {
+        "raw": "Oko 1 kg svežih otkoštenih urmi",
+        "qty": 1,
+        "unit": "kg",
+        "ref": "urme",
+        "group": "Baza"
+      },
+      {
+        "raw": "3 supene kašike kakao praha (može i rogač)",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kakao",
+        "group": "Baza"
+      },
+      {
+        "raw": "3 supene kašike kokosovog ulja",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokosovo-ulje",
+        "group": "Baza"
+      },
+      {
+        "raw": "300gr mlevenih pečenih lešnika",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "lesnik",
+        "group": "Dodaci, 1. deo"
+      },
+      {
+        "raw": "3 supene kašike kokosovih mrvica",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokos",
+        "group": "Dodaci, 1. deo"
+      },
+      {
+        "raw": "300gr mlevenih pečenih badema",
+        "qty": 300,
+        "unit": "gr",
+        "ref": "badem",
+        "group": "Dodaci, 2. deo"
+      },
+      {
+        "raw": "3 supene kašike kokosovih mrvica",
+        "qty": 3,
+        "unit": "supena kašika",
+        "ref": "kokos",
+        "group": "Dodaci, 2. deo"
+      },
+      {
+        "raw": "200gr kokosovih mrvica",
+        "qty": 200,
+        "unit": "gr",
+        "ref": "kokos",
+        "group": "Dodaci, 3. deo"
+      }
+    ],
+    "method": "Izvaditi koštice iz urmi i potopiti u vodu 30 min. U multipraktiku samleti lešnike, zatim bademe na što sitnije. Procediti urme, pa u multipraktiku napraviti bazu: izblendati urme, kakao prah i kokosovo ulje do kremaste strukture. Podeliti bazu na 3 (ili 4 dela) i u svaki deo dodati dodatke po želji. Smesa treba da bude kompaktna i lepljiva pomalo. Smese presuti u činije obložene pek papirom, utisnuti prstima i izravnati, pa na kratko u zamrzivač da se stegne. Iseći na željene oblike i veličine i smestiti u frižider.",
+    "tips": [],
+    "timeMinutes": 30
+  },
+  {
     "id": "i2-vegan-parmezan",
     "title": "Vegan parmezan",
     "type": "recept",
@@ -23212,6 +23298,511 @@
     "method": "1. Kada sam shvatila da neću pasti u nesvest ako ne pojedem nešto, a gladna sam.\n\n2. Kada sam shvatila da ta glad nije glas stomaka, nego moje glave.\n\n3. Kada sam shvatila da ta glad nije glad, već žeđ.\n\n4. Kada sam shvatila da mi je hrana dostupna 24/7.\n\n5. Kada sam shvatila da jedem i više nego što je dovoljno mom organizmu, a i prečesto.\n\n6. Kada sam shvatila da se hrana zove hrana jer hrani naše telo.\n\n7. Kada sam shvatila da nije poenta napuniti stomak, već nahraniti ćelije.\n\n8. Kada sam shvatila da manje hrane znači VIŠE energije.\n\n9. Kada sam shvatila da je GLAD LEK.\n\nI na kraju sam shvatila da ja kontrolišem hranu, a ne ona mene.",
     "tips": [],
     "book": "imunomania"
+  },
+  {
+    "id": "i2-imuno-bomb-kids",
+    "title": "Imuno bomb kids",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 105,
+      "page": "L",
+      "printed": 212
+    },
+    "tags": [
+      "sirovo",
+      "bez-glutena"
+    ],
+    "notes": [
+      "Deca: 1 supena kašika ujutru ili 1 kašičica ujutru + 1 kašičica uveče. Odrasli: 1 supena kašika ujutru + 1 supena kašika uveče.",
+      "Od ove količine dobije se smesa od oko 1kg."
+    ],
+    "ingredients": [
+      {
+        "raw": "5 brazilskih oraha",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "brazilski-orah"
+      },
+      {
+        "raw": "50 gr oraha",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "orah"
+      },
+      {
+        "raw": "50 gr sirovih bundevinih semenki",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "bundevine-semenke"
+      },
+      {
+        "raw": "50 gr lešnika",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "lesnik"
+      },
+      {
+        "raw": "50 gr sirovih badema",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "badem"
+      },
+      {
+        "raw": "2 supene kašike semena koprive",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kopriva"
+      },
+      {
+        "raw": "2 supene kašike kakaa",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "kakao"
+      },
+      {
+        "raw": "2 supene kašike rogača",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "rogac"
+      },
+      {
+        "raw": "5 suvih šljiva",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "sljiva"
+      },
+      {
+        "raw": "5 suvih smokvi",
+        "qty": 5,
+        "unit": "komad",
+        "ref": "smokva"
+      },
+      {
+        "raw": "500gr meda",
+        "qty": 500,
+        "unit": "gr",
+        "ref": "med"
+      },
+      {
+        "raw": "2 supene kašike putera od suncokreta",
+        "qty": 2,
+        "unit": "supena kašika",
+        "ref": "puter-od-suncokreta"
+      }
+    ],
+    "method": "Brazilske orahe, orahe, bundevine semenke, lešnike, bademe, koprive, kakao i rogač usitniti u multipraktiku. Dodati suve šljive i smokve, zatim i njih usitniti. U veliku činiju sipati med i puter od suncokreta, promešati i u tu smesu dodati usitnjenu smesu iz multipraktika. Dobro promešati i presuti u staklene tegle. Držati u frižideru.",
+    "tips": [],
+    "subtitle": "Za jaku krvnu sliku i probavu",
+    "timeMinutes": 10
+  },
+  {
+    "id": "i2-mala-ljuta",
+    "title": "Mala ljuta",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 105,
+      "page": "R",
+      "printed": 213
+    },
+    "tags": [
+      "vegan",
+      "bez-glutena",
+      "sirovo",
+      "ljuto",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Od ove količine sastojaka dobije se oko 2l napitka.",
+      "Piti svako jutro na prazan stomak oko 30ml do 50ml.",
+      "Ukoliko imate problema sa čirevima ili gastritisom, pojesti 1 do 2 banane pre napitka.",
+      "Ukoliko pijete terapiju za razređivanje krvi, dobro je znati da je đumbir prirodan antikoagulans, stoga nemojte preterivati u količinama ovog napitka.",
+      "Čuvati u frižideru."
+    ],
+    "ingredients": [
+      {
+        "raw": "700gr svežeg oljuštenog korena đumbira",
+        "qty": 700,
+        "unit": "gr",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "15 oljuštenih limunova",
+        "qty": 15,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 kg celer štapova",
+        "qty": 1,
+        "unit": "kg",
+        "ref": "celer"
+      },
+      {
+        "raw": "2 sveže ljute paprike",
+        "qty": 2,
+        "unit": "komad",
+        "ref": "ljuta-paprika"
+      }
+    ],
+    "method": "Oljuštiti đumbir i limun, a iz paprike izvaditi semenke i peteljku. Sve sastojke iseći na komade prihvatljive veličine za vaš sokovnik. Iscediti i sipati u staklene flaše.",
+    "tips": [],
+    "subtitle": "Napitak za dobru cirkulaciju, probavu i svež ten",
+    "timeMinutes": 30
+  },
+  {
+    "id": "i2-imuno-eliksir-iz-blendera",
+    "title": "Imuno eliksir iz blendera",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 106,
+      "page": "L",
+      "printed": 214
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "sok od 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun"
+      },
+      {
+        "raw": "1 čen belog luka (narendan)",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "oko 2cm svežeg korena đumbira (narendan)",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "dumbir"
+      },
+      {
+        "raw": "1 kašičica kurkume",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "kurkuma"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med"
+      },
+      {
+        "raw": "prstohvat mlevene ljute paprike",
+        "ref": "ljuta-paprika"
+      },
+      {
+        "raw": "prstohvat bibera",
+        "ref": "biber"
+      },
+      {
+        "raw": "½ kašičice maslinovog ulja (ili kokosovog)",
+        "qty": 0.5,
+        "unit": "kašičica",
+        "ref": "maslinovo-ulje"
+      },
+      {
+        "raw": "250ml vruće vode",
+        "qty": 250,
+        "unit": "ml",
+        "ref": "voda"
+      }
+    ],
+    "method": "Sve sastojke izblendati u blenderu oko 30 sekundi.",
+    "tips": [],
+    "subtitle": "Brz napitak za imunitet",
+    "timeMinutes": 5,
+    "servings": 1
+  },
+  {
+    "id": "i2-bol-u-grlu",
+    "title": "Bol u grlu",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 106,
+      "page": "R",
+      "printed": 215
+    },
+    "tags": [],
+    "notes": [
+      "Đumbir: preporučena dnevna količina je 4gr po osobi, za trudnice 1gr. Ne preporučuje se deci ispod 2 godine ni osobama koje koriste lekove za razređivanje krvi (antikoagulansi)."
+    ],
+    "ingredients": [
+      {
+        "raw": "Svež koren đumbira",
+        "ref": "dumbir",
+        "group": "Pastile od đumbira"
+      },
+      {
+        "raw": "2 kašičice čaja od žalfije",
+        "qty": 2,
+        "unit": "kašičica",
+        "ref": "zalfija",
+        "group": "Čaj od žalfije"
+      },
+      {
+        "raw": "200ml ključale vode",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Čaj od žalfije"
+      },
+      {
+        "raw": "2cm svežeg korena đumbira",
+        "qty": 2,
+        "unit": "cm",
+        "ref": "dumbir",
+        "group": "Čaj od đumbira, limuna i meda"
+      },
+      {
+        "raw": "Sok 1 limuna",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "limun",
+        "group": "Čaj od đumbira, limuna i meda"
+      },
+      {
+        "raw": "1 kašičica meda",
+        "qty": 1,
+        "unit": "kašičica",
+        "ref": "med",
+        "group": "Čaj od đumbira, limuna i meda"
+      },
+      {
+        "raw": "Ključala voda",
+        "ref": "voda",
+        "group": "Čaj od đumbira, limuna i meda"
+      }
+    ],
+    "method": "Pastile od đumbira: oljuštiti svež koren đumbira, iseći na kolutiće veličine pastile i lagano grickati i topiti u ustima. Ono što Vam ostane možete da stavite u kesice i da zamrznete. Kada Vam je ponovo potrebno, izvadite iz kesice i možete da koristite nakon nekoliko minuta.\n\nČaj od žalfije: 2 kašičice čaja od žalfije preliti sa 200ml ključale vode, poklopiti, ostaviti 5 min i procediti. Čaj se grgoće po ustima i grlu, pa se ispljune sadržaj.\n\nČaj od đumbira, limuna i meda: oljuštiti i narendati đumbir i staviti u šolju, preliti ključalom vodom, dodati sok od limuna i med. Piti čaj dok je vruć. Iako se deo benefita limuna i meda izgubi pod uticajem vruće vode, ovaj način je veoma delotvoran protiv bola u grlu.",
+    "tips": [],
+    "subtitle": "Efikasne prirodne metode protiv bola u grlu"
+  },
+  {
+    "id": "i2-beli-luk",
+    "title": "Beli luk",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "L",
+      "printed": 216
+    },
+    "tags": [],
+    "notes": [
+      "Preporučena dnevna količina je 2gr do 5gr za odrasle osobe, a za decu 1gr.",
+      "Ne preporučuje se osobama koje koriste lekove za razređivanje krvi (antikoagulansi).",
+      "Osobe koje imaju niži pritisak trebaju pripaziti na količinu, i u tom slučaju najbolje je uzeti uveče pred spavanje."
+    ],
+    "ingredients": [
+      {
+        "raw": "Čen belog luka",
+        "qty": 1,
+        "unit": "čen",
+        "ref": "beli-luk"
+      },
+      {
+        "raw": "Jogurt ili voda",
+        "ref": "jogurt"
+      }
+    ],
+    "method": "Izgnječiti čen belog luka, ostaviti 15 minuta, zatim iseckati na veličinu prihvatljivu za gutanje i popiti uz jogurt kako bi se obložio želudac (da ne \"padne\" teško na želudac). Može da se pije i uz vodu.",
+    "tips": [],
+    "subtitle": "Za očuvanje i podizanje imuniteta"
+  },
+  {
+    "id": "i2-cajna-mesavina-protiv-valunga",
+    "title": "Čajna mešavina protiv valunga",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "L",
+      "printed": 216
+    },
+    "tags": [
+      "bez-secera",
+      "bez-glutena",
+      "vegan",
+      "vegetarijansko"
+    ],
+    "notes": [
+      "Ne preporučuje se upotreba žalfije tokom trudnoće i dojenja. Čaj od žalfije ne treba piti duže od dve nedelje zbog mogućeg ispoljavanja toksičnih efekata usled prisustva tujona.",
+      "Čaj od lista matičnjaka treba izbegavati tokom trudnoće i dojenja i kod dece mlađe od 12 godina. Aktivni sastojci matičnjaka mogu uticati na koncentraciju pa se savetuje oprez kod upravljanja mašinama."
+    ],
+    "ingredients": [
+      {
+        "raw": "100gr žalfije",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "zalfija"
+      },
+      {
+        "raw": "50gr lista matičnjaka",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "maticnjak"
+      },
+      {
+        "raw": "50gr usitnjenog ploda anisa",
+        "qty": 50,
+        "unit": "gr",
+        "ref": "anis"
+      }
+    ],
+    "method": "Sve sastojke dobro promešati i čuvati u staklenoj tegli. 1 supenu kašiku čajne mešavine preliti ključalom vodom, poklopiti, ostaviti 45 minuta, procediti i popiti. Piti čaj 2-3 dnevno.",
+    "tips": [],
+    "subtitle": "Za umanjenje simptoma menopauze",
+    "timeMinutes": 5
+  },
+  {
+    "id": "i2-cajna-mesavina-protiv-urinarne-infekcije",
+    "title": "Čajna mešavina protiv urinarne infekcije",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "L",
+      "printed": 216
+    },
+    "tags": [],
+    "notes": [
+      "Ne preporučuje se upotreba čaja od lista medvetke tokom trudnoće i dojenja, kao ni kod dece mlađe od 12 godina."
+    ],
+    "ingredients": [
+      {
+        "raw": "100gr nadzemnog dela od divljeg origana (vranilova trava)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "vranilova-trava"
+      },
+      {
+        "raw": "100gr lista medvetke (medveđe grožđe)",
+        "qty": 100,
+        "unit": "gr",
+        "ref": "medvetka"
+      }
+    ],
+    "method": "Sastojke dobro promešati i čuvati u staklenoj tegli. 3 supene kašike čajne mešavine preliti sa 700ml ključale vode, poklopiti, ostaviti 30min, procediti i piti u manjim gutljajima u toku dana.",
+    "tips": []
+  },
+  {
+    "id": "i2-napici-protiv-kaslja",
+    "title": "Napici protiv upornog i jakog kašlja",
+    "type": "recept",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 107,
+      "page": "R",
+      "printed": 217
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [
+      {
+        "raw": "½ supene kašike korena belog sleza",
+        "qty": 0.5,
+        "unit": "supena kašika",
+        "ref": "beli-slez",
+        "group": "Beli slez i mast"
+      },
+      {
+        "raw": "400ml vode sobne temperature",
+        "qty": 400,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Beli slez i mast"
+      },
+      {
+        "raw": "30gr svinjske ili guščije masti",
+        "qty": 30,
+        "unit": "gr",
+        "ref": "svinjska-mast",
+        "group": "Beli slez i mast"
+      },
+      {
+        "raw": "1 banana",
+        "qty": 1,
+        "unit": "komad",
+        "ref": "banana",
+        "group": "Banana"
+      },
+      {
+        "raw": "200 ml ključale vode",
+        "qty": 200,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Banana"
+      },
+      {
+        "raw": "Šaka malina (smrznute ili sveže)",
+        "qty": 1,
+        "unit": "šaka",
+        "ref": "malina",
+        "group": "Malina"
+      },
+      {
+        "raw": "500ml vode",
+        "qty": 500,
+        "unit": "ml",
+        "ref": "voda",
+        "group": "Malina"
+      }
+    ],
+    "method": "Beli slez i mast: koren belog sleza staviti u manju šerpu, preliti sa vodom i kuvati 10 minuta. Prohladiti i procediti. U mlak čaj dodati svinjsku mast. Koristiti 3x dnevno po ½ supene kašike.\n\nBanana: izgnječiti bananu, preliti ključalom vodom i ostaviti pola sata. Procediti i popiti tečnost. Piti 2-3 puta dnevno do poboljšanja.\n\nMalina: u šerpu ubaciti maline, preliti vodom, kuvati 5 min, procediti. Mogu se pojesti i maline. Piti 2-3 puta dnevno do poboljšanja.",
+    "tips": [],
+    "subtitle": "Dodatna pomoć u tretiranju kašlja"
+  },
+  {
+    "id": "i2-jak-kasalj-pre-spavanja",
+    "title": "Jak kašalj pre spavanja",
+    "type": "savet",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 108,
+      "page": "L",
+      "printed": 218
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "Sastojci: 50gr svinjske masti (ili guščije), 2 supene kašike rakije komovice i gaza.\n\nOtopiti mast u šerpi, prohladiti i pomešati sa komovicom. Gazu natopiti smesom, obložiti grudi i leđa, prekriti peškirom i utopliti ćebetom.",
+    "subtitle": "Prva pomoć kod kašlja kasno u noć"
+  },
+  {
+    "id": "i2-teski-napadi-kaslja",
+    "title": "Teški napadi kašlja pred spavanje",
+    "type": "savet",
+    "book": "imunomania-2",
+    "category": "saveti-sirupi",
+    "source": {
+      "scan": 108,
+      "page": "L",
+      "printed": 218
+    },
+    "tags": [],
+    "notes": [],
+    "ingredients": [],
+    "tips": [],
+    "method": "U ovim slučajevima može pomoći uzimanje 1/2 kašičice otopljene svinjske ili guščije masti."
   },
   {
     "id": "sm-uvod-detox",
