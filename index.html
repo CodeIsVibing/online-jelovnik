@@ -167,93 +167,84 @@
 
 <section id="view-jela">
 
-  <div class="searchbar">
-    <svg class="searchbar-icon" aria-hidden="true"><use href="#ic-search"/></svg>
-    <input id="q" type="search" placeholder="Pretraži jela, sastojke, postupak…" autocomplete="off" aria-label="Pretraga">
-    <button id="q-clear" class="icon-btn" type="button" hidden aria-label="Obriši pretragu">
-      <svg aria-hidden="true"><use href="#ic-close"/></svg>
-    </button>
-    <button id="q-title" class="q-scope" type="button" aria-pressed="false"
-            title="Traži samo u nazivima jela">Samo naziv</button>
-  </div>
-
   <div class="chips chips-books" id="books" role="group" aria-label="Knjige"></div>
 
   <div class="chips" id="cats" role="group" aria-label="Kategorije"></div>
 
   <div class="legend">
     <h2>Šta znače ikonice</h2>
-    <ul>
-      <li data-ic="gluten">
+    <p class="legend-hint">Klik na karticu prikazuje samo ta jela. Drugi klik poništava izbor.</p>
+    <div class="legend-grid">
+      <button class="lg" type="button" data-ic="gluten" data-tag="bez-glutena" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-gluten"/></svg>
         <b>Bez glutena</b>
         <span>Recept ne sadrži pšenicu, ječam ni raž.</span>
-      </li>
-      <li data-ic="veg">
+      </button>
+      <button class="lg" type="button" data-ic="veg" data-tag="vegetarijansko" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-veg"/></svg>
         <b>Vegetarijansko</b>
         <span>Jelo je bez mesa kopnenih životinja.</span>
-      </li>
-      <li data-ic="vegan">
+      </button>
+      <button class="lg" type="button" data-ic="vegan" data-tag="vegan" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-vegan"/></svg>
         <b>Vegan</b>
         <span>Bez ijednog sastojka životinjskog porekla.</span>
-      </li>
-      <li data-ic="moon">
+      </button>
+      <button class="lg" type="button" data-ic="moon" data-tag="priprema-vece-ranije" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-moon"/></svg>
         <b>Priprema veče ranije</b>
         <span>Sastojci se potapaju preko noći.</span>
-      </li>
-      <li data-ic="chili">
+      </button>
+      <button class="lg" type="button" data-ic="chili" data-tag="ljuto" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-chili"/></svg>
         <b>Ljuto</b>
         <span>Jelo je pikantno.</span>
-      </li>
-      <li data-ic="nosugar">
+      </button>
+      <button class="lg" type="button" data-ic="nosugar" data-tag="bez-secera" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-nosugar"/></svg>
         <b>Bez šećera</b>
         <span>Bez šećera i veštačkih zaslađivača.</span>
-      </li>
-      <li data-ic="noflour">
+      </button>
+      <button class="lg" type="button" data-ic="noflour" data-tag="bez-belog-brasna" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-noflour"/></svg>
         <b>Bez belog brašna</b>
         <span>Bez rafinisanog pšeničnog brašna.</span>
-      </li>
-      <li data-ic="noyeast">
+      </button>
+      <button class="lg" type="button" data-ic="noyeast" data-tag="bez-kvasca" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-noyeast"/></svg>
         <b>Bez kvasca</b>
         <span>Testo ne sadrži kvasac.</span>
-      </li>
-      <li data-ic="raw">
+      </button>
+      <button class="lg" type="button" data-ic="raw" data-tag="sirovo" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-raw"/></svg>
         <b>Sirovo</b>
         <span>Ništa se ne kuva ni ne peče.</span>
-      </li>
-      <li data-ic="warn">
+      </button>
+      <div class="lg" data-ic="warn">
         <svg aria-hidden="true"><use href="#ic-warn"/></svg>
         <b>Upozorenje</b>
         <span>Pročitaj napomenu u receptu pre pripreme.</span>
-      </li>
-      <li data-ic="clock">
+      </div>
+      <div class="lg" data-ic="clock">
         <svg aria-hidden="true"><use href="#ic-clock"/></svg>
         <b>Vreme</b>
         <span>Koliko traje priprema.</span>
-      </li>
-      <li data-ic="heart">
+      </div>
+      <button class="lg" type="button" data-ic="heart" data-mine="fav" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-heart"/></svg>
         <b>Omiljeno</b>
         <span>Klik na srce čuva jelo među omiljenima.</span>
-      </li>
-      <li data-ic="pot">
+      </button>
+      <button class="lg" type="button" data-ic="pot" data-mine="made" aria-pressed="false">
         <svg aria-hidden="true"><use href="#ic-pot"/></svg>
         <b>Pravio sam</b>
         <span>Klik na lonac beleži da si jelo već pravio.</span>
-      </li>
-    </ul>
+      </button>
+    </div>
   </div>
 
-  <div class="chips chips-tags" id="tags" role="group" aria-label="Oznake"></div>
-  <div class="chips chips-tags" id="moji" role="group" aria-label="Moja jela"></div>
+  <div class="chips chips-tags" id="tags" role="group" aria-label="Oznake" hidden></div>
+  <div class="chips chips-tags" id="moji" role="group" aria-label="Moja jela" hidden></div>
 
   <details class="pantry" id="pantry">
     <summary>
@@ -302,6 +293,16 @@
       <div class="chips" id="avoid-list"></div>
     </div>
   </details>
+
+  <div class="searchbar">
+    <svg class="searchbar-icon" aria-hidden="true"><use href="#ic-search"/></svg>
+    <input id="q" type="search" placeholder="Pretraži jela, sastojke, postupak…" autocomplete="off" aria-label="Pretraga">
+    <button id="q-clear" class="icon-btn" type="button" hidden aria-label="Obriši pretragu">
+      <svg aria-hidden="true"><use href="#ic-close"/></svg>
+    </button>
+    <button id="q-title" class="q-scope" type="button" aria-pressed="false"
+            title="Traži samo u nazivima jela">Samo naziv</button>
+  </div>
 
   <p class="result-count" id="count" role="status"></p>
   <div id="results"></div>
@@ -364,7 +365,7 @@
     <p><a href="https://www.instagram.com/cancer.influencer/" target="_blank" rel="noopener noreferrer">Nastasja Nedimović</a></p>
     <p class="foot-sm">Iz kuvara „Imunomania". Sadržaj pripada autorki.</p>
   </div>
-  <p class="foot-note">Pregled servisa, verzija 1.24.0.</p>
+  <p class="foot-note">Pregled servisa, verzija 1.25.0.</p>
 </footer>
 
 <script src="assets/app.js"></script>

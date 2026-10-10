@@ -409,37 +409,48 @@
 
     renderMyChips();
 
-    $("#tags").innerHTML = [
-      ...TAGS.filter(t => tagCounts.get(t.id)).map(t => `
-        <button class="chip ${state.tags.has(t.id) ? "is-on" : ""}" data-tag="${esc(t.id)}"
-                style="--c:#4c9a2a" type="button">
-          <svg aria-hidden="true"><use href="#${t.icon}"/></svg>${esc(t.label)}
-        </button>`),
-      state.ing ? `<button class="chip is-on" data-clear-ing="1" style="--c:#1d1b17" type="button">
+    renderLegend(tagCounts);
+
+    const tagBox = $("#tags");
+    tagBox.hidden = !state.ing;
+    tagBox.innerHTML = state.ing ? `<button class="chip is-on" data-clear-ing="1" style="--c:#1d1b17" type="button">
           Sadrži: ${esc(ingById.get(state.ing)?.title || state.ing)}
-          <svg aria-hidden="true"><use href="#ic-close"/></svg></button>` : "",
-    ].join("");
+          <svg aria-hidden="true"><use href="#ic-close"/></svg></button>` : "";
   }
 
-  // dva čipa za lična jela: omiljena i ona koja je korisnik već pravio
-  function renderMyChips() {
-    const box = $("#moji");
-    if (!box) return;
+  // kartice legende su ujedno filteri po oznakama i po ličnim jelima
+  function renderLegend(tagCounts) {
+    for (const b of document.querySelectorAll(".legend [data-tag]")) {
+      const on = state.tags.has(b.dataset.tag);
+      b.classList.toggle("is-on", on);
+      b.setAttribute("aria-pressed", on);
+      b.disabled = !on && !tagCounts.get(b.dataset.tag);
+    }
 
     const madeLabel = state.madeMode === "samo" ? "Samo ono što sam pravio"
                     : state.madeMode === "sakrij" ? "Sakriveno ono što sam pravio"
                     : "Pravio sam";
+    const mine = {
+      fav:  [state.favOnly, "Omiljeno", state.favs.size, state.favOnly ? "ic-heart-full" : "ic-heart"],
+      made: [!!state.madeMode, madeLabel, state.made.size, state.madeMode === "sakrij" ? "ic-close" : "ic-pot"],
+    };
+    for (const b of document.querySelectorAll(".legend [data-mine]")) {
+      const [on, label, n, icon] = mine[b.dataset.mine];
+      b.classList.toggle("is-on", on);
+      b.setAttribute("aria-pressed", on);
+      b.querySelector("b").innerHTML = `${esc(label)} <span class="n">${n}</span>`;
+      b.querySelector("use").setAttribute("href", "#" + icon);
+    }
+  }
 
-    box.innerHTML = `
-      <button class="chip chip-mine${state.favOnly ? " is-on" : ""}" data-mine="fav"
-              style="--c:#c2185b" type="button" aria-pressed="${state.favOnly}">
-        <svg aria-hidden="true"><use href="#${state.favOnly ? "ic-heart-full" : "ic-heart"}"/></svg>Omiljena<span class="n">${state.favs.size}</span>
-      </button>
-      <button class="chip chip-mine${state.madeMode ? " is-on" : ""}" data-mine="made"
-              style="--c:#4c9a2a" type="button" aria-pressed="${!!state.madeMode}">
-        <svg aria-hidden="true"><use href="#${state.madeMode === "sakrij" ? "ic-close" : "ic-pot"}"/></svg>${esc(madeLabel)}<span class="n">${state.made.size}</span>
-      </button>
-      ${(state.favs.size || state.made.size) ? `<button class="chip chip-clear" data-mine="ocisti" type="button">Očisti moje oznake</button>` : ""}`;
+  // dugme za brisanje ličnih oznaka, filteri su u legendi
+  function renderMyChips() {
+    const box = $("#moji");
+    if (!box) return;
+
+    const any = state.favs.size || state.made.size;
+    box.hidden = !any;
+    box.innerHTML = any ? `<button class="chip chip-clear" data-mine="ocisti" type="button">Očisti moje oznake</button>` : "";
   }
 
   function renderPantry() {
@@ -985,7 +996,7 @@
       renderChips(); refresh();
     });
 
-    $("#moji").addEventListener("click", e => {
+    const onMine = e => {
       const b = e.target.closest("[data-mine]");
       if (!b) return;
       if (b.dataset.mine === "fav") state.favOnly = !state.favOnly;
@@ -999,9 +1010,10 @@
         state.favOnly = false; state.madeMode = null;
       }
       renderChips(); refresh();
-    });
+    };
+    $("#moji").addEventListener("click", onMine);
 
-    $("#tags").addEventListener("click", e => {
+    const onTag = e => {
       const clear = e.target.closest("[data-clear-ing]");
       if (clear) { state.ing = null; renderChips(); refresh(); return; }
       const b = e.target.closest("[data-tag]");
@@ -1009,7 +1021,9 @@
       const id = b.dataset.tag;
       state.tags.has(id) ? state.tags.delete(id) : state.tags.add(id);
       renderChips(); refresh();
-    });
+    };
+    $("#tags").addEventListener("click", onTag);
+    $(".legend").addEventListener("click", e => { onTag(e); onMine(e); });
 
     $("#pantry-list").addEventListener("change", e => {
       const cb = e.target.closest('input[type="checkbox"]');

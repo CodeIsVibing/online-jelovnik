@@ -2,6 +2,13 @@
 
 Format prati [Keep a Changelog](https://keepachangelog.com/), verzije prate [SemVer](https://semver.org/).
 
+## [1.25.0] · 2026-10-10
+
+### Promenjeno
+- Kartice u odeljku „Šta znače ikonice" su sada filteri. Klik na karticu prikazuje samo jela sa tom oznakom, drugi klik poništava izbor. Kartice „Omiljeno" i „Pravio sam" rade kao ranije čipovi i pokazuju broj označenih jela
+- Uklonjen red čipova sa oznakama ispod legende, jer je ponavljao iste kartice. Dugme „Očisti moje oznake" i čip „Sadrži" ostaju i pojavljuju se samo kad imaju svrhu
+- Pretraga je premeštena iznad liste jela, ispod ostave i filtera „Ne jedem"
+
 ## [1.24.0] · 2026-10-10
 
 ### Dodato
